@@ -1,0 +1,31 @@
+site_name: DOCUMENTAÇÃO - GRUPO 5
+repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo05
+
+extra_css:
+  - stylesheets/style.css
+nav: 
+  - Home: index.md
+  - Atas:
+    - Ata 1: Atas/ata01.md
+theme: 
+  name: material
+  font:
+    text: IBM Plex Serif
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.copy
+  palette: 
+    - scheme: light
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Trocar para modo escuro
+
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para modo claro
+  icon:
+    repo: fontawesome/brands/github
