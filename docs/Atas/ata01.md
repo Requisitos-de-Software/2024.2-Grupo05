@@ -18,11 +18,11 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr>
     <th>Nome</th><th>Matrícula</th><th>Presente</th>
   </tr>
-  <tr><td>Julia Takaki</td><td>211041099</td><td>✅</td></tr>
-  <tr><td>Maria Helena</td><td>211030774</td><td>✅</td></tr>
-  <tr><td>Thales Henrique</td><td>211039466</td><td>✅</td></tr>
-  <tr><td>Victor Guimaraes</td><td>221007653</td><td>✅</td></tr>
-  <tr><td>Víctor Schmidt</td><td>211063256</td><td>✅</td></tr>
+  <tr><td>Julia Takaki</td><td>221029249</td><td>✅</td></tr>
+  <tr><td>Maria Helena</td><td>222006982</td><td>✅</td></tr>
+  <tr><td>Thales Henrique</td><td>222006178</td><td>✅</td></tr>
+  <tr><td>Victor Guimaraes</td><td>211063256</td><td>✅</td></tr>
+  <tr><td>Víctor Schmidt</td><td>222021924</td><td>✅</td></tr>
 </table>
 
 <font size="2"><p style="text-align: center">Fonte: [Ana Catarina](https://github.com/an4catarina)</p></font>
