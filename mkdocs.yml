@@ -6,7 +6,7 @@ extra_css:
 nav: 
   - Home: index.md
   - Atas:
-    - Ata1: Atas/ata01.md
+    - Ata 1: Atas/ata01.md
 theme: 
   name: material
   font:
@@ -15,5 +15,17 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - content.code.copy
-icon:
-  repo: fontawesome/brands/git-alt
+  palette: 
+    - scheme: light
+      primary: custom
+      toggle:
+        icon: material/weather-night
+        name: Trocar para modo escuro
+
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Trocar para modo claro
+  icon:
+    repo: fontawesome/brands/github
