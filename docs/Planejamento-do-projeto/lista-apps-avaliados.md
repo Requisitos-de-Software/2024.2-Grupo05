@@ -17,7 +17,7 @@ Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativ
   <tbody>
     <tr>
       <td>Tesouro Direto</td>
-      <td><a href="https://github.com/juliatakaki">Julia Takaki</a></td>
+      <td><a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
     </tr>
     <tr>
       <td>Quinto Andar</td>
@@ -42,6 +42,15 @@ Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativ
 </div>
 
 ### Tesouro Direto
+O [Tesouro Direto](https://www.tesourodireto.com.br/) é uma iniciativa desenvolvida pelo Governo Federal do Brasil que visa tornar mais acessível o investimento em títulos públicos para os cidadãos. Por meio da plataforma, é possível fazer o investimento diretamente em títulos do Tesouro Nacional, facilitando o planejamento financeiro para prazos variados. O aplicativo permite que os usuários acompanhem suas carteiras de investimentos, verifiquem os rendimentos, consultem os preços atualizados dos títulos e acessem o histórico de operações. A escolha deste aplicativo se baseou nos seguintes critérios:
+
+- Requisito: Por ser um aplicativo governamental se encaixa nos requisitos da disciplina.
+
+- Novidade: O aplicativo não foi analisado nos semestres anteriores.
+
+- Complexidade: O aplicativo conta com diversas funcionalidades e, em decorrência disso, requer uma análise mais complexa.
+
+- Público alvo amplo: O aplicativo é amplamente utilizado por diversos usuários, o que torna-o um aplicativo acessível para análise e coleta de feedback.
 
 ### Quinto Andar
 
@@ -77,9 +86,12 @@ O [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) é um navegador des
 
 > Meu SUS Digital. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR Acesso em: 25 de outubro de 2024</br>
 
-> Google Chrome. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=com.android.chrome&hl=pt_BR. Acesso em: 28 de outubro de 2024.
+> Google Chrome. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=com.android.chrome&hl=pt_BR. Acesso em: 28 de outubro de 2024.> 
+
+> Tesouro Direto. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.gov.fazenda.tesouro.td&hl=pt_BR. Acesso em: 28 de outubro de 2024.
 
 | Versão | Data       | Descrição                                        | Autor                                                                    |                                 Revisor                                  |
 | :----: | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------ | :----------------------------------------------------------------------: |
 | `1.0`  | 28/10/2024 | Criação do documento e informações do Meu SUS Digital   | [Thales Euflauzino](https://github.com/thaleseuflauzino)          |            [Victor Hugo](https://github.com/ViictorHugoo)                |
 | `1.1`  | 28/10/2024 | Informações Google Chrome   |[Victor Hugo](https://github.com/ViictorHugoo)|[Víctor Schmidt](https://github.com/moonshinerd)|
+| `1.2`  | 28/10/2024 | Informações Tesouro Direto   |[Júlia Takaki](https://github.com/juliatakaki)|
