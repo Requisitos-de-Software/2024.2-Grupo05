@@ -82,4 +82,4 @@ O [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) é um navegador des
 | Versão | Data       | Descrição                                        | Autor                                                                    |                                 Revisor                                  |
 | :----: | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------ | :----------------------------------------------------------------------: |
 | `1.0`  | 28/10/2024 | Criação do documento e informações do Meu SUS Digital   | [Thales Euflauzino](https://github.com/thaleseuflauzino)          |            [Victor Hugo](https://github.com/ViictorHugoo)                |
-| `1.1`  | 28/10/2024 | Informações Google Chrome   | [Victor Hugo](https://github.com/ViictorHugoo)          |                            |
+| `1.1`  | 28/10/2024 | Informações Google Chrome   |[Victor Hugo](https://github.com/ViictorHugoo)|[Víctor Schmidt](https://github.com/moonshinerd)|

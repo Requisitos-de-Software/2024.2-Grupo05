@@ -13,5 +13,5 @@ o início do processo da disciplina, o grupo examinou uma série de aplicativos 
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0` | 28/10/2024  | Estruturação Inicial | [Victor Hugo](https://github.com/ViictorHugoo) | --------------------- |
+| `1.0` | 28/10/2024  | Estruturação Inicial | [Victor Hugo](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
 
