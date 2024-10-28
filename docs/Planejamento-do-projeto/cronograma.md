@@ -199,8 +199,8 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     <tr>
       <td>App Escolhido</td>
       <td>Victor Rodrigues</td>
-      <td>Júlia Takaki</td>
-      <td>25/10</td>
+      <td>Víctor Schmidt</td>
+      <td>28/10</td>
       <td>-</td>
     </tr>
     <tr>
