@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativos do governo ou de comunidade. Essa escolha tinha como propósito apresentar sugestões para o  aplicativo analisado em conjunto pelo grupo durante a disciplina. A Tabela 1 fornece detalhes sobre os websites/aplicativos avaliados por cada membro da equipe.
+Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativos do governo ou de comunidades. Essa escolha tinha como propósito apresentar sugestões para o aplicativo a ser analisado em conjunto durante a disciplina. A Tabela 1 fornece detalhes sobre os websites/aplicativos avaliados por cada membro da equipe.
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de aplicativos avaliados</p></font>
