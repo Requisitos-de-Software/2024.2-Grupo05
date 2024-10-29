@@ -50,7 +50,7 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas de Oliveira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/juliatakaki">[Júlia Takaki]</a>, 2024</p></font>
 </div>
 
 ## Referências Bibliográficas
