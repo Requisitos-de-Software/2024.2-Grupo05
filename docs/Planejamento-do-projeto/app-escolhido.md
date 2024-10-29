@@ -19,6 +19,21 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 
 ![Figura 1](../assets/termodeuso.png)
 
+### Rich Picture
+[Figura 2: Rich Picture](../assets/RichPictureTesouroDireto.png)
+Autor: Júlia Takaki
+
+### Termos de uso
+
+Para realizar o projeto em conformidade com as normas legais, verificamos os [termos de uso](https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso) do [Tesouro Direto](https://www.tesourodireto.com.br). Conforme mostra a Figura 2, é vedado o uso para fins comerciais sem autorização prévia. No entanto, como o projeto tem como único e exclusivo objetivo aplicar na prática os conhecimentos adquiridos em aula, não estaremos infringindo qualquer termo.
+##### Figura 2:
+
+![Figura 2](../assets/termodeuso.png)
+<div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso">Tesouro Direto</a></font></p>
+</div>
+>>>>>>> 92568e884a03f86860b5a4aed9dd77bc25603f75
+
 #### Bibliografia
 
 > Tesouro Direto. Disponível em: <https://www.tesourodireto.com.br>. Acesso em 28 de outubro de 2024
@@ -29,4 +44,6 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 28/10/2024  | Estruturação Inicial | [Victor Hugo](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 28/10/2024  | Adição de Informações | [Victor Hugo](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.2` | 29/10/2024  | Adicionando Rich Picture | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3` | 29/10/2024  | Adicionando Fontes e Autores | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 
