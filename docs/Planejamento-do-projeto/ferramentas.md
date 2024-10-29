@@ -28,24 +28,20 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
       <td><b>GoogleDocs:</b> Criação e edição de tabelas e listas [3].</td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/google_planilhas_Logo.jpg?raw=true" width="100" height="100"></td>
-      <td><b>Google Planilhas:</b> Criação de planilhas relacionadas a cronograma e horários [5].</td>
-    </tr>
-    <tr>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Microsoft_Teams-logo.png?raw=true" width="100" height="100"></td>
-      <td><b>Microsoft Teams:</b> Utilizado para as reuniões da equipe [8].</td>
+      <td><b>Microsoft Teams:</b> Utilizado para as reuniões da equipe [4].</td>
     </tr>
     <tr>
       <td><img src="https://raw.githubusercontent.com/Requisitos-de-Software/2023.2-ConecteSUS/main/docs/imagens/Whatsapp-logo.webp?raw=true" width="100" height="100"></td>
-      <td><b>Whatsapp:</b> Ferramenta principal de comunicação da equipe [9].</td>
+      <td><b>Whatsapp:</b> Ferramenta principal de comunicação da equipe [5].</td>
     </tr>
     <tr>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/Vscode-logo.png?raw=true" width="100" height="100"></td>
-      <td><b>Visual Studio Code:</b> Ferramenta de programação e edição dos arquivos de documentação [11].</td>
+      <td><b>Visual Studio Code:</b> Ferramenta de programação e edição dos arquivos de documentação [6].</td>
     </tr>
     <tr>
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/mkdocs-log03.png?raw=true" width="100" height="100"></td>
-      <td><b>MkDocs:</b> Criação e edição do GitPages do projeto [12].</td>
+      <td><b>MkDocs:</b> Criação e edição do GitPages do projeto [7].</td>
     </tr>
   </tbody>
 </table>
@@ -61,13 +57,13 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 >
 > [3] GoogleDocs. Disponível em: [https://www.google.com/intl/pt-BR/docs/about/](https://www.google.com/intl/pt-BR/docs/about/). Acesso em: 29 de Out. de 2024.
 >
-> [8] Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 29 de Out. de 2024.
+> [4] Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 29 de Out. de 2024.
 >
-> [9] Whatsapp. Disponível em:  [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br). Acesso em: 29 de Out. de 2024.
+> [5] Whatsapp. Disponível em:  [https://www.whatsapp.com/?lang=pt_br](https://www.whatsapp.com/?lang=pt_br). Acesso em: 29 de Out. de 2024.
 >
-> [11] VisualStudioCode. Disponível em:  [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 29 de Out. de 2024.
+> [6] VisualStudioCode. Disponível em:  [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 29 de Out. de 2024.
 >
-> [12] MkDocs. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 29 de Out. de 2024.
+> [7] MkDocs. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 29 de Out. de 2024.
 >
 
 ## Histórico de Versões
