@@ -108,5 +108,5 @@ O [eOuve](https://eouve.com.br/#/) é um aplicativo desenvolvido pela Prefeitura
 | :----: | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------ | :----------------------------------------------------------------------: |
 | `1.0`  | 28/10/2024 | Criação do documento e informações do Meu SUS Digital   | [Thales Euflauzino](https://github.com/thaleseuflauzino)          |            [Victor Hugo](https://github.com/ViictorHugoo)                |
 | `1.1`  | 28/10/2024 | Informações Google Chrome   |[Victor Hugo](https://github.com/ViictorHugoo)|[Víctor Schmidt](https://github.com/moonshinerd)|
-| `1.2`  | 28/10/2024 | Informações Tesouro Direto   |[Júlia Takaki](https://github.com/juliatakaki)|
+| `1.2`  | 28/10/2024 | Informações Tesouro Direto   |[Júlia Takaki](https://github.com/juliatakaki)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 29/10/2024 | Informações eOuve Juiz de Fora | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
