@@ -16,6 +16,7 @@ Com base nos critérios anteriores, o grupo se reuniu e decidiu que seria usado 
 ### Rich Picture
 ##### Figura 1: Rich Picture:
 [Figura 1: Rich Picture](../assets/RichPictureTesouroDireto.png)
+
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/juliatakaki">Julia Takaki</a></font></p>
 </div>
@@ -26,9 +27,6 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 ##### Figura 2:
 
 ![Figura 2](../assets/termodeuso.png)
-<div>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso">Tesouro Direto</a></font></p>
-</div>
 
 #### Bibliografia
 
