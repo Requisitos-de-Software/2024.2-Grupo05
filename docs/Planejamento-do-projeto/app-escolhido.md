@@ -23,7 +23,7 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 
 ![Figura 2](../assets/termodeuso.png)
 
-#### Bibliográfia
+#### Bibliografia
 
 > Tesouro Direto. Disponível em: <https://www.tesourodireto.com.br>. Acesso em 28 de outubro de 2024
 
