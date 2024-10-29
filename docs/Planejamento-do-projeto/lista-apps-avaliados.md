@@ -79,7 +79,18 @@ O [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) é um navegador des
 
 - Público-alvo amplo: É utilizado por uma vasta gama de usuários, de diferentes faixas etárias e perfis, tornando-se uma escolha acessível para a coleta de feedback e análise de usabilidade.
 
-### Aprender3
+### [eOuve Juiz de Fora](https://eouve.com.br/#/)
+
+O [eOuve](https://eouve.com.br/#/) é um aplicativo desenvolvido pela Prefeitura de Juiz de Fora para promover a comunicação direta entre a administração municipal e os cidadãos. Por meio desta plataforma, os moradores podem registrar suas solicitações, como denúncias de problemas públicos, sugestões e elogios, proporcionando uma forma prática e eficaz de participação cidadã. O aplicativo permite o envio de fotos, descrição detalhada dos problemas, além de possibilitar o acompanhamento do status das solicitações, o que reforça a transparência e a eficiência na gestão pública. A escolha do **eOuve** para análise se baseou nos seguintes critérios:
+
+- **Requisito**: O aplicativo atende aos requisitos da disciplina por ser uma ferramenta governamental de comunicação com os cidadãos.
+
+- **Novidade**: Por ser atualizado regularmente, o **eOuve** incorpora novas funcionalidades e melhorias, o que permite uma análise sempre atualizada e enriquecida.
+
+- **Complexidade**: O aplicativo oferece diversas funcionalidades, como o registro de solicitações, envio de imagens, e acompanhamento em tempo real das demandas, exigindo uma análise detalhada de seus recursos e usabilidade.
+
+- **Público-alvo amplo**: O **eOuve** é utilizado por uma ampla faixa de moradores de Juiz de Fora, facilitando a coleta de feedback e análise de usabilidade, já que é acessível e relevante para diversos perfis de cidadãos.
+
 
 
 ## Bibliografia
@@ -90,8 +101,12 @@ O [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) é um navegador des
 
 > Tesouro Direto. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.gov.fazenda.tesouro.td&hl=pt_BR. Acesso em: 28 de outubro de 2024.
 
+> eOuve. Prefeitura de Juiz de Fora, 2024. Disponível em: https://eouve.com.br/#/. Acesso em: 29 de outubro de 2024.
+
+# Histórico de Versão
 | Versão | Data       | Descrição                                        | Autor                                                                    |                                 Revisor                                  |
 | :----: | ---------- | ------------------------------------------------ | ------------------------------------------------------------------------ | :----------------------------------------------------------------------: |
 | `1.0`  | 28/10/2024 | Criação do documento e informações do Meu SUS Digital   | [Thales Euflauzino](https://github.com/thaleseuflauzino)          |            [Victor Hugo](https://github.com/ViictorHugoo)                |
 | `1.1`  | 28/10/2024 | Informações Google Chrome   |[Victor Hugo](https://github.com/ViictorHugoo)|[Víctor Schmidt](https://github.com/moonshinerd)|
 | `1.2`  | 28/10/2024 | Informações Tesouro Direto   |[Júlia Takaki](https://github.com/juliatakaki)|
+| `1.3` | 29/10/2024 | Informações eOuve Juiz de Fora | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
