@@ -13,14 +13,8 @@ No início do processo da disciplina, o grupo examinou uma série de aplicativos
 
 Com base nos critérios anteriores, o grupo se reuniu e decidiu que seria usado o [Tesouro Direto](https://www.tesourodireto.com.br). A escolha se deu por ser um aplicativo de complexidade média, porém com muitas funcionalidades para explorarmos ao longo do projeto. O público-alvo é grande e facilmente acessível, além de não ter sido utilizado para estudos na disciplina.
 
-### Termos de uso
-
-Para realizar o projeto em conformidade com as normas legais, verificamos os [termos de uso](https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso) do [Tesouro Direto](https://www.tesourodireto.com.br). Conforme mostra a Figura 1, é vedado o uso para fins comerciais sem autorização prévia. No entanto, como o projeto tem como único e exclusivo objetivo aplicar na prática os conhecimentos adquiridos em aula, não estaremos infringindo qualquer termo.
-
-![Figura 1](../assets/termodeuso.png)
-
 ### Rich Picture
-[Figura 2: Rich Picture](../assets/RichPictureTesouroDireto.png)
+[Figura 1: Rich Picture](../assets/RichPictureTesouroDireto.png)
 Autor: Júlia Takaki
 
 ### Termos de uso
@@ -29,10 +23,6 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 ##### Figura 2:
 
 ![Figura 2](../assets/termodeuso.png)
-<div>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso">Tesouro Direto</a></font></p>
-</div>
->>>>>>> 92568e884a03f86860b5a4aed9dd77bc25603f75
 
 #### Bibliografia
 
