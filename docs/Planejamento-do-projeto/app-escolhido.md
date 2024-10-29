@@ -25,7 +25,7 @@ Com base nos critérios anteriores, o grupo se reuniu e decidiu que seria usado 
 
 Para realizar o projeto em conformidade com as normas legais, verificamos os [termos de uso](https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso) do [Tesouro Direto](https://www.tesourodireto.com.br). Conforme mostra a Figura 2, é vedado o uso para fins comerciais sem autorização prévia. No entanto, como o projeto tem como único e exclusivo objetivo aplicar na prática os conhecimentos adquiridos em aula, não estaremos infringindo qualquer termo.
 
-##### Figura 2:
+##### Figura 2: Termo de Uso
 
 ![Figura 2](../assets/termodeuso.png)
 <div>
