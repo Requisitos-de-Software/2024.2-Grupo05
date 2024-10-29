@@ -9,6 +9,8 @@ nav:
     - Ata 1: Atas/ata01.md
   - Planejamento do projeto:
     - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
+    - App Escolhido: Planejamento-do-projeto/app-escolhido.md
+    - Cronograma: Planejamento-do-projeto/cronograma.md
 theme: 
   name: material
   font:

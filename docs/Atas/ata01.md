@@ -78,6 +78,7 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
 
 ## Gravação da reunião
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIFL5Q38Sq4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -85,4 +86,5 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-|1.0|23/10/2024|Primeira ata| Víctor Schmidt | Julia Takaki |
+|1.0|23/10/2024|Primeira ata| Víctor Schmidt | Julia Takaki
+|1.1|24/10/2024|Adicionando video|Víctor Schmidt| Julia Takaki
