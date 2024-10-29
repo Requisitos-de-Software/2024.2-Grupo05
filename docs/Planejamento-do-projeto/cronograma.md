@@ -201,7 +201,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Júlia Takaki e Victor Rodrigues</td>
       <td>Todos</td>
       <td>28/10</td>
-      <td>-</td>
+      <td>28/10</td>
     </tr>
     <tr>
       <td>Termo de Uso do aplicativo selecionado</td>
@@ -215,7 +215,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Júlia Takaki</td>
       <td>Victor Rodrigues</td>
       <td>23/10</td>
-      <td>-</td>
+      <td>28/10</td>
     </tr>
     <tr>
       <td>Rich Picture do Projeto</td>
