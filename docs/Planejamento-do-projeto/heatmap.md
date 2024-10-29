@@ -9,7 +9,7 @@ Como representado pela Figura 1, as células com o número 0 representam 0 membr
 ![heatmap](../assets/heatmap.png)
 
 <div>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://www.github.com/juliatakaki">Victor Guimarães, 2024</a></font></p>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://www.github.com/juliatakaki">Victor Rodrigues, 2024</a></font></p>
 </div>
 
 
@@ -19,4 +19,4 @@ A partir da análise do heatmap preenchido pelos membros do grupo, ficaram reser
 
 | Versão | Data | Descrição | Autor | Revisor |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| 1.0 | 28/10/2024 | Estruturação Inicial | [Victor Hugo](https://github.com/ViictorHugoo)| [](https://github.com/) |
+| 1.0 | 28/10/2024 | Estruturação Inicial | [Victor Rodrigues](https://github.com/ViictorHugoo)| [](https://github.com/) |

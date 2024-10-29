@@ -15,6 +15,7 @@ Com base nos critérios anteriores, o grupo se reuniu e decidiu que seria usado 
 
 ### Rich Picture
 ##### Figura 1: Rich Picture
+
 ![Figura 1: Rich Picture](../assets/RichPictureTesouroDireto.png)
 
 <div>
@@ -40,8 +41,8 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0` | 28/10/2024  | Estruturação Inicial | [Victor Hugo](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.1` | 28/10/2024  | Adição de Informações | [Victor Hugo](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.0` | 28/10/2024  | Estruturação Inicial | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.1` | 28/10/2024  | Adição de Informações | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2` | 29/10/2024  | Adicionando Rich Picture | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 29/10/2024  | Adicionando Fontes e Autores | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 
