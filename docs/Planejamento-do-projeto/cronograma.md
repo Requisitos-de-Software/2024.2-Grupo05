@@ -71,21 +71,21 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     </tr>
     <tr>
       <td>Integrantes da Equipe</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>25/10</td>
     </tr>
     <tr>
       <td>Documentação MKDocs</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Júlia Takaki</td>
       <td>23/10</td>
       <td>25/10</td>
     </tr>
     <tr>
       <td>Estruturação da GitHub Pages</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>24/10</td>
@@ -163,21 +163,21 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     </tr>
     <tr>
       <td>Integrantes da Equipe</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>24/10</td>
     </tr>
     <tr>
       <td>Documentação MKDocs</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Júlia Takaki</td>
       <td>23/10</td>
       <td>24/10</td>
     </tr>
     <tr>
       <td>Estruturação da GitHub Pages</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>24/10</td>
@@ -251,7 +251,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     <tr>
       <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>01/11</td>
       <td>03/11</td>
     </tr>
@@ -265,7 +265,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     <tr>
       <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
       <td>Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>03/11</td>
       <td>07/11</td>
     </tr>
@@ -286,13 +286,13 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     <tr>
       <td>Criação dos questionários</td>
       <td>Júlia Takaki</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>11/11</td>
       <td>13/11</td>
     </tr>
     <tr>
       <td>Entrevista para elicitação de requisitos</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Maria Helena</td>
       <td>13/11</td>
       <td>14/11</td>
@@ -336,7 +336,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     <tr>
       <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>01/11</td>
       <td>-</td>
     </tr>
@@ -350,7 +350,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     <tr>
       <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
       <td>Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>03/11</td>
       <td>-</td>
     </tr>
@@ -371,13 +371,13 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     <tr>
       <td>Criação dos questionários</td>
       <td>Júlia Takaki</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>11/11</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Entrevista para elicitação de requisitos</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>Maria Helena</td>
       <td>13/11</td>
       <td>-</td>
@@ -423,13 +423,13 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
     <tr>
       <td>Modelagem de Requisitos: Cenários</td>
       <td>Victor Rodrigues e Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>27/11</td>
       <td>30/11</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Léxicos</td>
-      <td>Júlia Takaki e Thales Henrique</td>
+      <td>Júlia Takaki e Thales Euflauzino</td>
       <td>Maria Helena</td>
       <td>27/11</td>
       <td>30/11</td>
@@ -443,7 +443,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Especificação Suplementar</td>
-      <td>Thales Henrique e Maria Helena</td>
+      <td>Thales Euflauzino e Maria Helena</td>
       <td>Victor Schmidt</td>
       <td>01/12</td>
       <td>05/12</td>
@@ -473,13 +473,13 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
     <tr>
       <td>Modelagem de Requisitos: Cenários</td>
       <td>Victor Rodrigues e Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>27/11</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Léxicos</td>
-      <td>Júlia Takaki e Thales Henrique</td>
+      <td>Júlia Takaki e Thales Euflauzino</td>
       <td>Maria Helena</td>
       <td>27/11</td>
       <td>-</td>
@@ -493,7 +493,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Especificação Suplementar</td>
-      <td>Thales Henrique e Maria Helena</td>
+      <td>Thales Euflauzino e Maria Helena</td>
       <td>Victor Schmidt</td>
       <td>01/12</td>
       <td>-</td>
@@ -525,13 +525,13 @@ A quarta entrega adota uma abordagem ágil para modelagem de requisitos, usando 
     <tr>
       <td>Modelagem de Requisitos - Ágil: Histórias de Usuário</td>
       <td>Victor Rodrigues e Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>10/12</td>
       <td>11/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: Backlogs</td>
-      <td>Júlia Takaki e Thales Henrique</td>
+      <td>Júlia Takaki e Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>11/12</td>
       <td>12/12</td>
@@ -568,13 +568,13 @@ A quarta entrega adota uma abordagem ágil para modelagem de requisitos, usando 
     <tr>
       <td>Modelagem de Requisitos - Ágil: Histórias de Usuário</td>
       <td>Victor Rodrigues e Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>10/12</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: Backlogs</td>
-      <td>Júlia Takaki e Thales Henrique</td>
+      <td>Júlia Takaki e Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>11/12</td>
       <td>-</td>
@@ -619,7 +619,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
     </tr>
     <tr>
       <td>Validação dos Requisitos</td>
-      <td>Thales Henrique e Victor Schmidt</td>
+      <td>Thales Euflauzino e Victor Schmidt</td>
       <td>Maria Helena</td>
       <td>23/01</td>
       <td>24/01</td>
@@ -627,7 +627,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
     <tr>
       <td>Verificação por inspeção de todos os artefatos</td>
       <td>Victor Rodrigues</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>25/01</td>
       <td>27/01</td>
     </tr>
@@ -662,7 +662,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
     </tr>
     <tr>
       <td>Validação dos Requisitos</td>
-      <td>Thales Henrique e Victor Schmidt</td>
+      <td>Thales Euflauzino e Victor Schmidt</td>
       <td>Maria Helena</td>
       <td>23/01</td>
       <td>-</td>
@@ -670,7 +670,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
     <tr>
       <td>Verificação por inspeção de todos os artefatos</td>
       <td>Victor Rodrigues</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>25/01</td>
       <td>-</td>
     </tr>
@@ -701,13 +701,13 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
     <tr>
       <td>Criação do documento inicial de pós-rastreabilidade</td>
       <td>Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>17/12</td>
       <td>18/12</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Backward Form</td>
-      <td>Thales Henrique e Victor Schmidt</td>
+      <td>Thales Euflauzino e Victor Schmidt</td>
       <td>Maria Helena</td>
       <td>19/12</td>
       <td>05/01</td>
@@ -744,13 +744,13 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
     <tr>
       <td>Criação do documento inicial de pós-rastreabilidade</td>
       <td>Maria Helena</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>17/12</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Backward Form</td>
-      <td>Thales Henrique e Victor Schmidt</td>
+      <td>Thales Euflauzino e Victor Schmidt</td>
       <td>Maria Helena</td>
       <td>19/12</td>
       <td>-</td>
@@ -796,7 +796,7 @@ A última etapa do cronograma é a entrega do projeto final, que culmina com a a
     <tr>
       <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
       <td>Todos os membros</td>
-      <td>Victor Schmidt e Thales Henrique</td>
+      <td>Victor Schmidt e Thales Euflauzino</td>
       <td>01/01</td>
       <td>07/02</td>
     </tr>
@@ -832,7 +832,7 @@ A última etapa do cronograma é a entrega do projeto final, que culmina com a a
     <tr>
       <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
       <td>Todos os membros</td>
-      <td>Victor Schmidt e Thales Henrique</td>
+      <td>Victor Schmidt e Thales Euflauzino</td>
       <td>01/01</td>
       <td>-</td>
     </tr>
