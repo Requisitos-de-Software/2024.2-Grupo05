@@ -14,11 +14,11 @@ No início do processo da disciplina, o grupo examinou uma série de aplicativos
 Com base nos critérios anteriores, o grupo se reuniu e decidiu que seria usado o [Tesouro Direto](https://www.tesourodireto.com.br). A escolha se deu por ser um aplicativo de complexidade média, porém com muitas funcionalidades para explorarmos ao longo do projeto. O público-alvo é grande e facilmente acessível, além de não ter sido utilizado para estudos na disciplina.
 
 ### Rich Picture
+##### Figura 1: Rich Picture:
 [Figura 1: Rich Picture](../assets/RichPictureTesouroDireto.png)
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/juliatakaki">Julia Takaki</a></font></p>
 </div>
-
 
 ### Termos de uso
 
