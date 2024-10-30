@@ -207,13 +207,13 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Termo de Uso do aplicativo selecionado</td>
       <td>Victor Rodrigues</td>
       <td>Júlia Takaki</td>
-      <td>23/10</td>
-      <td>29/10</td>
+      <td>28/10</td>
+      <td>28/10</td>
     </tr>
     <tr>
       <td>Ferramentas Utilizadas para o Projeto</td>
       <td>Júlia Takaki</td>
-      <td>Victor Rodrigues</td>
+      <td>Victor Rodrigues e Thales Euflauzino</td>
       <td>23/10</td>
       <td>28/10</td>
     </tr>
