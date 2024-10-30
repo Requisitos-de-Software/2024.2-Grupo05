@@ -43,6 +43,13 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/mkdocs-log03.png?raw=true" width="100" height="100"></td>
       <td><b>MkDocs:</b> Criação e edição do GitPages do projeto [7].</td>
     </tr>
+    <tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/google_planilhas_Logo.jpg?raw=true" width="100" height="100"></td>
+      <td><b>Google Planilhas:</b> Criação de planilhas relacionadas ao cronograma e horários [8].</td>
+    </tr>
+      <td><img src="https://i.pinimg.com/originals/99/7b/0a/997b0a243df40b681d8c8177724f1b45.png" width="100" height="100"></td>
+      <td><b>Notion:</b> Organização de atas e cronograma[9].</td>
+    </tr>
   </tbody>
 </table>
 
@@ -64,6 +71,10 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 > [6] VisualStudioCode. Disponível em:  [https://code.visualstudio.com/](https://code.visualstudio.com/). Acesso em: 29 de Out. de 2024.
 >
 > [7] MkDocs. Disponível em: [https://www.mkdocs.org/](https://www.mkdocs.org/). Acesso em: 29 de Out. de 2024.
+>
+> [8] GooglePlanilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](https://www.google.com/intl/pt-BR/sheets/about/). Acesso em: 29 de Out. de 2024.
+>
+> [9] Notion. Disponível em: [https://www.notion.so/pt](https://www.notion.so/pt). Acesso em: 29 de Out. de 2024.
 >
 
 ## Histórico de Versões
