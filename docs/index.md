@@ -30,7 +30,7 @@ Esta página é um espaço dedicado à documentação de todos os artefatos dese
         <div style="text-align: center;">
             <a href="https://github.com/juliatakaki">
                 <img src="https://github.com/juliatakaki.png" alt="Foto Julia Takaki" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
-                <h5 class="text-center">Julia<br>Takaki</h5>
+                <h5 class="text-center">Júlia<br>Takaki</h5>
         </div>
         <div style="text-align: center;">
             <a href="https://github.com/ViictorHugoo">
