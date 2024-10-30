@@ -81,6 +81,6 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 
 | Versão |    Data    |                    Descrição                     |                                Autor(es)                                 |                    Revisor(es)                     |
 | :----: | :--------: | :----------------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
-| `1.0`  | 29/10/2024 |        Criação da página de ferramentas.         | [Júlia Takaki](https://github.com/juliatakaki) |
+| `1.0`  | 29/10/2024 |        Criação da página de ferramentas.         | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino)
 
 </center>
