@@ -53,6 +53,15 @@ O [Tesouro Direto](https://www.tesourodireto.com.br/) é uma iniciativa desenvol
 - Público alvo amplo: O aplicativo é amplamente utilizado por diversos usuários, o que torna-o um aplicativo acessível para análise e coleta de feedback.
 
 ### Quinto Andar
+O [Quinto Andar](https://www.quintoandar.com.br/) é uma plataforma que facilita o encontro de imóveis para alugar ou comprar em várias regiões do Brasil. Por meio dela, usuários podem buscar imóveis com filtros por características e localidade, além de anunciar seus próprios imóveis para venda ou aluguel. A plataforma conecta pessoas interessadas em comprar ou alugar com proprietários e vendedores, tornando o processo mais rápido e acessível. A escolha da plataforma foi feita levando em conta os seguintes pontos:
+
+- **Requisito:** Alinha-se ao escopo de análise de software proposto pela disciplina.
+  
+- **Novidade:** O aplicativo ainda não foi analisado por grupos anteriores da disciplina.
+  
+- **Complexidade:** Sendo um e-commerce voltado para o mercado imobiliário, o aplicativo apresenta funcionalidades específicas e complexas, representando um objeto de estudo promissor.
+  
+- **Público-alvo amplo:** A plataforma Quinto Andar atende adultos no Brasil interessados em anunciar ou buscar imóveis. É um dos aplicativos mais populares do setor, com mais de 1 milhão de downloads no Google Play.
 
 ### Meu SUS Digital
 
@@ -110,3 +119,4 @@ O [eOuve](https://eouve.com.br/#/) é um aplicativo desenvolvido pela Prefeitura
 | `1.1`  | 28/10/2024 | Informações Google Chrome   |[Victor Hugo](https://github.com/ViictorHugoo)|[Víctor Schmidt](https://github.com/moonshinerd)|
 | `1.2`  | 28/10/2024 | Informações Tesouro Direto   |[Júlia Takaki](https://github.com/juliatakaki)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 29/10/2024 | Informações eOuve Juiz de Fora | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.4` | 29/10/2024 | Informações Quinto Andar | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
