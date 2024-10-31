@@ -50,7 +50,7 @@ O [Tesouro Direto](https://www.tesourodireto.com.br/) é uma iniciativa desenvol
 
 - Complexidade: O aplicativo conta com diversas funcionalidades e, em decorrência disso, requer uma análise mais complexa.
 
-- Público alvo amplo: O aplicativo é amplamente utilizado por diversos usuários, o que torna-o um aplicativo acessível para análise e coleta de feedback.
+- Público-alvo amplo: O aplicativo é amplamente utilizado por diversos usuários, tornando-o mais acessível para análise e coleta de feedback.
 
 ### Quinto Andar
 O [Quinto Andar](https://www.quintoandar.com.br/) é uma plataforma que facilita o encontro de imóveis para alugar ou comprar em várias regiões do Brasil. Por meio dela, usuários podem buscar imóveis com filtros por características e localidade, além de anunciar seus próprios imóveis para venda ou aluguel. A plataforma conecta pessoas interessadas em comprar ou alugar com proprietários e vendedores, tornando o processo mais rápido e acessível. A escolha da plataforma foi feita levando em conta os seguintes pontos:
@@ -73,7 +73,7 @@ O [Meu SUS Digital](https://meususdigital.saude.gov.br/) é uma plataforma criad
 
 - Complexidade: O aplicativo conta com diversas operações/funcionalidades com diferentes complexidades.
 
-- Público alvo amplo: O aplicativo é amplamente utilizado por diversos tipos de pessoas, sendo assim, de fácil acesso para possíveis pesquisas com usuários.
+- Público-alvo amplo: O aplicativo é amplamente utilizado por diversos tipos de pessoas, sendo assim, de fácil acesso para possíveis pesquisas com usuários.
 
 
 ### Google Chrome
@@ -88,7 +88,7 @@ O [Google Chrome](https://www.google.com/intl/pt-BR/chrome/) é um navegador des
 
 - Público-alvo amplo: É utilizado por uma vasta gama de usuários, de diferentes faixas etárias e perfis, tornando-se uma escolha acessível para a coleta de feedback e análise de usabilidade.
 
-### [eOuve Juiz de Fora](https://eouve.com.br/#/)
+### eOuve Juiz de Fora
 
 O [eOuve](https://eouve.com.br/#/) é um aplicativo desenvolvido pela Prefeitura de Juiz de Fora para promover a comunicação direta entre a administração municipal e os cidadãos. Por meio desta plataforma, os moradores podem registrar suas solicitações, como denúncias de problemas públicos, sugestões e elogios, proporcionando uma forma prática e eficaz de participação cidadã. O aplicativo permite o envio de fotos, descrição detalhada dos problemas, além de possibilitar o acompanhamento do status das solicitações, o que reforça a transparência e a eficiência na gestão pública. A escolha do **eOuve** para análise se baseou nos seguintes critérios:
 
