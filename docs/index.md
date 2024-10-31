@@ -52,4 +52,4 @@ Esta página é um espaço dedicado à documentação de todos os artefatos dese
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 24/10/2024 | Criação da git page | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
-1.1 | 30/10/2024 | Adição das informações do app escolhido | [Thales Euflauzino](https://github.com/thaleseuflauzino) | 
+1.1 | 30/10/2024 | Adição das informações do app escolhido | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
