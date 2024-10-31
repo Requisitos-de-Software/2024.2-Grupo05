@@ -220,7 +220,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     <tr>
       <td>Rich Picture do Projeto</td>
       <td>Júlia Takaki</td>
-      <td>Thales Henrique</td>
+      <td>Thales Euflauzino</td>
       <td>23/10</td>
       <td>28/10</td>
     </tr>
