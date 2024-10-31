@@ -12,6 +12,7 @@ nav:
     - App Escolhido: Planejamento-do-projeto/app-escolhido.md
     - Heatmap: Planejamento-do-projeto/heatmap.md
     - Cronograma: Planejamento-do-projeto/cronograma.md
+    - Ferramentas: Planejamento-do-projeto/ferramentas.md
 theme:
   logo: assets/header-logo-tesourodireto.png
   name: material
