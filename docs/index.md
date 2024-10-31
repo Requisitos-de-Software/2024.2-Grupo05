@@ -4,11 +4,10 @@ hide:
   - toc
 ---
 
-# Tesouro Direto
-
+# Grupo 05
 
 <p align="center" > <font>Figura 1: Logo do Tesouro Direto</font> <br><br><img style="border-radius: 0%" src="assets/logo-tesourodireto.png" width = 50%></p>
-<p align="center" > <font>Fonte: <a href="https://www.tesourodireto.com.br">Tesouto Direto</a></font> <br></p>
+<p align="center" > <font>Fonte: <a href="https://www.tesourodireto.com.br">Tesouro Direto</a></font> <br></p>
 
 Esta página é um espaço dedicado à documentação de todos os artefatos desenvolvidos pelo Grupo 05 na disciplina de Requisitos de Software da Universidade de Brasília, Campus Gama (FGA-UnB) ao longo do segundo semestre de 2024. O objetivo do projeto é fazer a avaliação sobre requisitos do aplicativo [Tesouro Direto](https://www.tesourodireto.com.br). O aplicativo, cuja logo está explicitada na Figura 1, desenvolvido pela Secretaria do Tesouro Nacional do Brasil em parceria com a B3, tem o objetivo de democratizar a compra e venda de títulos públicos federais para pessoas físicas de forma 100% online.
 
