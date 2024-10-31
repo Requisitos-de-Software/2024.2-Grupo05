@@ -5,7 +5,7 @@ No início do processo da disciplina, o grupo examinou uma série de aplicativos
 ### Critérios para escolha
 
 - App não foi trabalhado anteriormente na disciplina;
-- Fácil acesso ao público alvo;
+- Fácil acesso ao público-alvo;
 - Disponibilidade de informações;
 - Complexidade do aplicativo.
 
