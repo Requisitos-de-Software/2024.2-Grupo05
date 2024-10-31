@@ -6,7 +6,7 @@ Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativ
 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Tabela de aplicativos avaliados</p></font>
-  
+
 <table>
   <thead>
     <tr>
@@ -56,11 +56,11 @@ O [Tesouro Direto](https://www.tesourodireto.com.br/) é uma iniciativa desenvol
 O [Quinto Andar](https://www.quintoandar.com.br/) é uma plataforma que facilita o encontro de imóveis para alugar ou comprar em várias regiões do Brasil. Por meio dela, usuários podem buscar imóveis com filtros por características e localidade, além de anunciar seus próprios imóveis para venda ou aluguel. A plataforma conecta pessoas interessadas em comprar ou alugar com proprietários e vendedores, tornando o processo mais rápido e acessível. A escolha da plataforma foi feita levando em conta os seguintes pontos:
 
 - **Requisito:** Alinha-se ao escopo de análise de software proposto pela disciplina.
-  
+
 - **Novidade:** O aplicativo ainda não foi analisado por grupos anteriores da disciplina.
-  
+
 - **Complexidade:** Sendo um e-commerce voltado para o mercado imobiliário, o aplicativo apresenta funcionalidades específicas e complexas, representando um objeto de estudo promissor.
-  
+
 - **Público-alvo amplo:** A plataforma Quinto Andar atende adultos no Brasil interessados em anunciar ou buscar imóveis. É um dos aplicativos mais populares do setor, com mais de 1 milhão de downloads no Google Play.
 
 ### Meu SUS Digital
@@ -106,11 +106,13 @@ O [eOuve](https://eouve.com.br/#/) é um aplicativo desenvolvido pela Prefeitura
 
 > Meu SUS Digital. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR Acesso em: 25 de outubro de 2024</br>
 
-> Google Chrome. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=com.android.chrome&hl=pt_BR. Acesso em: 28 de outubro de 2024.> 
+> Google Chrome. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=com.android.chrome&hl=pt_BR. Acesso em: 28 de outubro de 2024.>
 
 > Tesouro Direto. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.gov.fazenda.tesouro.td&hl=pt_BR. Acesso em: 28 de outubro de 2024.
 
 > eOuve. Prefeitura de Juiz de Fora, 2024. Disponível em: https://eouve.com.br/#/. Acesso em: 29 de outubro de 2024.
+
+> Quinto Andar. Google Play, 2024. Disponível em: https://play.google.com/store/apps/details?id=br.com.quintoandar.inquilinos&hl=pt&gl=BR. Acesso em: 31 de outubro de 2024.
 
 # Histórico de Versão
 | Versão | Data       | Descrição                                        | Autor                                                                    |                                 Revisor                                  |
