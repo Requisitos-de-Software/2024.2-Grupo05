@@ -1,5 +1,5 @@
 # Cronograma
-O cronograma estabelece a organização temporal de todas as atividades previstas para o projeto, dividindo-as em entregas e fases específicas. Cada entrega é detalhada com uma descrição das tarefas a serem concluídas e as datas limites, de modo a garantir que o progresso do projeto seja constante e que todos os membros da equipe estejam alinhados com as expectativas e os prazos estabelecidos.
+O cronograma estabelece a organização temporal de todas as atividades previstas para o projeto, dividindo-as em entregas e fases específicas. Cada entrega é detalhada com uma descrição das tarefas a serem concluídas e as datas limites, de modo a garantir que o progresso do projeto se mantenha constante e que todos os membros da equipe estejam alinhados às expectativas e prazos estabelecidos.
 ## Cronograma das Entregas do Projeto
 <table>
   <thead>
@@ -17,7 +17,7 @@ O cronograma estabelece a organização temporal de todas as atividades prevista
     </tr>
     <tr>
       <td><strong>Entrega 2</strong></td>
-      <td>Elicitação – Técnicas e Priorização Perfil dos usuários, técnicas de elicitação usadas e que serão usadas, técnicas priorização usadas e que serão usadas no projeto.</td>
+      <td>Elicitação – Técnicas e Priorização. Perfil dos usuários, técnicas de elicitação utilizadas e que serão utilizadas, técnicas de priorização aplicadas e que serão aplicadas no projeto.</td>
       <td>24/11</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>25/10</td>
     </tr>
     <tr>
-      <td>Estruturação da GitHub Pages</td>
+      <td>Estruturação do GitHub Pages</td>
       <td>Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>23/10</td>
@@ -119,7 +119,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>26/10</td>
     </tr>
     <tr>
-      <td>Ferramentas Utilizadas para o Projeto</td>
+      <td>Ferramentas utilizadas para o Projeto</td>
       <td>Júlia Takaki</td>
       <td>Victor Rodrigues</td>
       <td>23/10</td>
@@ -509,7 +509,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
 </table>
 
 ## Cronograma Entrega 4 - Modelagem de Requisitos 1.2
-A quarta entrega adota uma abordagem ágil para modelagem de requisitos, usando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
+A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utilizando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -597,7 +597,7 @@ A quarta entrega adota uma abordagem ágil para modelagem de requisitos, usando 
 </table>
 
 ## Cronograma Entrega 5 - Análise de Requisitos
-Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o momento de garantir que os requisitos estão completos, consistentes e que o sistema está alinhado com as expectativas dos usuários.
+Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este é o momento de garantir que os requisitos estejam completos, consistentes e que o sistema esteja alinhado com as expectativas dos usuários.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -625,7 +625,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
       <td>24/01</td>
     </tr>
     <tr>
-      <td>Verificação por inspeção de todos os artefatos</td>
+      <td>Inspeção de todos os artefatos</td>
       <td>Victor Rodrigues</td>
       <td>Thales Euflauzino</td>
       <td>25/01</td>
@@ -685,7 +685,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
 </table>
 
 ## Cronograma Entrega 6 - Pós-Rastreabilidade
-Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordadas, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
+Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordados, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -773,7 +773,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
 </table>
 
 ## Cronograma Entrega Final
-A última etapa do cronograma é a entrega do projeto final, que culmina com a apresentação do trabalho desenvolvido.
+A última etapa do cronograma é a entrega do projeto final, culminando na apresentação do trabalho desenvolvido.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -850,4 +850,4 @@ A última etapa do cronograma é a entrega do projeto final, que culmina com a a
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 28/10/2024  | Estruturação Inicial | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.1` | 28/10/2024  | Estruturação no mkdocs e pequenas alterações | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.1` | 28/10/2024  | Estruturação no MkDocs e pequenas alterações | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |

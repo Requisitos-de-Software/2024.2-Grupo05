@@ -15,7 +15,7 @@ Como representado pela Figura 1, as células com o número 0 representam 0 membr
 
 ## Resultados
 
-A partir da análise do heatmap preenchido pelos membros do grupo, ficaram reservados para reunião os dias quarta-feira às 20:30 e/ou sábado às 14:00
+A partir da análise do heatmap preenchido pelos membros do grupo, ficaram reservados para reunião os dias de quarta-feira às 20:30 e/ou sábado às 14:00
 
 | Versão | Data | Descrição | Autor | Revisor |
 | ------ | ---------- | --------- | --------- | --------------------- |
