@@ -198,31 +198,31 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     </tr>
     <tr>
       <td>App Escolhido</td>
-      <td>Victor Rodrigues</td>
-      <td>Víctor Schmidt</td>
+      <td>Júlia Takaki e Victor Rodrigues</td>
+      <td>Todos</td>
       <td>28/10</td>
-      <td>-</td>
+      <td>28/10</td>
     </tr>
     <tr>
       <td>Termo de Uso do aplicativo selecionado</td>
       <td>Victor Rodrigues</td>
       <td>Júlia Takaki</td>
-      <td>23/10</td>
-      <td>-</td>
+      <td>28/10</td>
+      <td>28/10</td>
     </tr>
     <tr>
       <td>Ferramentas Utilizadas para o Projeto</td>
       <td>Júlia Takaki</td>
-      <td>Victor Rodrigues</td>
+      <td>Victor Rodrigues e Thales Euflauzino</td>
       <td>23/10</td>
-      <td>-</td>
+      <td>28/10</td>
     </tr>
     <tr>
       <td>Rich Picture do Projeto</td>
-      <td>Victor Schmidt</td>
-      <td>Maria Helena</td>
+      <td>Júlia Takaki</td>
+      <td>Thales Euflauzino</td>
       <td>23/10</td>
-      <td>-</td>
+      <td>28/10</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
