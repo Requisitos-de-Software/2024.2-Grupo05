@@ -1,4 +1,4 @@
-site_name: DOCUMENTAÇÃO - GRUPO 5
+site_name: Tesouro Direto
 repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo05
 
 extra_css:
@@ -10,8 +10,10 @@ nav:
   - Planejamento do projeto:
     - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
     - App Escolhido: Planejamento-do-projeto/app-escolhido.md
+    - Heatmap: Planejamento-do-projeto/heatmap.md
     - Cronograma: Planejamento-do-projeto/cronograma.md
 theme: 
+  logo: assets/logo-tesourodireto.png
   name: material
   font:
     text: IBM Plex Serif

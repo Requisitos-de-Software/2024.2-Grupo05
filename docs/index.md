@@ -4,8 +4,14 @@ hide:
   - toc
 ---
 
-# GRUPO 05
-Esta página é um espaço dedicado à documentação de todos os artefatos desenvolvidos pelo Grupo 05 na disciplina de Requisitos de Software da Universidade de Brasília, Campus Gama (FGA-UnB), ao longo do segundo semestre de 2024.
+# Tesouro Direto
+
+
+<p align="center" > <font>Figura 1: Logo do Tesouro Direto</font> <br><br><img style="border-radius: 0%" src="assets/logo-tesourodireto.png" width = 50%></p>
+<p align="center" > <font>Fonte: <a href="https://www.tesourodireto.com.br">Tesouto Direto</a></font> <br></p>
+
+Esta página é um espaço dedicado à documentação de todos os artefatos desenvolvidos pelo Grupo 05 na disciplina de Requisitos de Software da Universidade de Brasília, Campus Gama (FGA-UnB) ao longo do segundo semestre de 2024. O objetivo do projeto é fazer a avaliação sobre requisitos do aplicativo [Tesouro Direto](https://www.tesourodireto.com.br). O aplicativo, cuja logo está explicitada na Figura 1, desenvolvido pela Secretaria do Tesouro Nacional do Brasil em parceria com a B3, tem o objetivo de democratizar a compra e venda de títulos públicos federais para pessoas físicas de forma 100% online.
+
 ## 👨‍💻 Desenvolvedores
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
@@ -29,8 +35,8 @@ Esta página é um espaço dedicado à documentação de todos os artefatos dese
     <div style="display: flex; align-items: end; justify-content: center; gap: 30px;">
         <div style="text-align: center;">
             <a href="https://github.com/juliatakaki">
-                <img src="https://github.com/juliatakaki.png" alt="Foto Julia Takaki" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
-                <h5 class="text-center">Julia<br>Takaki</h5>
+                <img src="https://github.com/juliatakaki.png" alt="Foto Júlia Takaki" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
+                <h5 class="text-center">Júlia<br>Takaki</h5>
         </div>
         <div style="text-align: center;">
             <a href="https://github.com/ViictorHugoo">
@@ -46,3 +52,4 @@ Esta página é um espaço dedicado à documentação de todos os artefatos dese
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 24/10/2024 | Criação da git page | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
+1.1 | 30/10/2024 | Adição das informações do app escolhido | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
