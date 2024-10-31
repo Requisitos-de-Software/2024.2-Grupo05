@@ -1,17 +1,19 @@
-site_name: DOCUMENTAÇÃO - GRUPO 5
+site_name: ""
 repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo05
 
 extra_css:
   - stylesheets/style.css
-nav: 
+nav:
   - Home: index.md
   - Atas:
     - Ata 1: Atas/ata01.md
   - Planejamento do projeto:
     - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
     - App Escolhido: Planejamento-do-projeto/app-escolhido.md
+    - Heatmap: Planejamento-do-projeto/heatmap.md
     - Cronograma: Planejamento-do-projeto/cronograma.md
-theme: 
+theme:
+  logo: assets/header-logo-tesourodireto.png
   name: material
   font:
     text: IBM Plex Serif
@@ -19,7 +21,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - content.code.copy
-  palette: 
+  palette:
     - scheme: light
       primary: custom
       toggle:
