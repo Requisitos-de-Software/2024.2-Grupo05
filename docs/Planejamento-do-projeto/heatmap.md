@@ -15,8 +15,9 @@ Como representado pela Figura 1, as células com o número 0 representam 0 membr
 
 ## Resultados
 
-A partir da análise do heatmap preenchido pelos membros do grupo, ficaram reservados para reunião os dias x-feira às xx:xx e y-feira às xx:xx
+A partir da análise do heatmap preenchido pelos membros do grupo, ficaram reservados para reunião os dias quarta-feira às 20:30 e/ou sábado às 14:00
 
 | Versão | Data | Descrição | Autor | Revisor |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| 1.0 | 28/10/2024 | Estruturação Inicial | [Victor Rodrigues](https://github.com/ViictorHugoo)| [](https://github.com/) |
+| 1.0 | 28/10/2024 | Estruturação Inicial | [Victor Rodrigues](https://github.com/ViictorHugoo)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 1.1 | 31/10/2024 | Adicionando horário das reuniões | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  [Víctor Schmidt](https://github.com/moonshinerd)  |
