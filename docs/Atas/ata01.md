@@ -45,7 +45,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 <!-- decisões feitas pela equipe -->
 
 - Foram decididos/comunicados os apps que cada um escolheu para expor o porque do app ser escolhido
-- Foram definidas os prazos das entregas
+- Foram definidos os prazos das entregas
 
 
 
@@ -53,7 +53,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 
 <!-- compromissos que foram definidos para os integrantes, a data de entrega e os revisores, para facilitar o trabalho, pode pedir
 para o chat GPT formar a tabela em HTML -->
-Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos,a pessoa responsável, a data da entrega e o revisor estão especificados na Tabela 2.
+Na reunião, foram definidos compromissos para os participantes executarem com o objetivo de dar continuidade ao projeto. Os compromissos, a pessoa responsável, a data da entrega e o revisor estão especificados na Tabela 2.
 
 <center>
 
@@ -65,7 +65,7 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
     </tr>
     </tr><tr><td>Planejamento do Cronograma</td><td>Maria Helena e Víctor Schmidt</td><td>25/10/2024</td><td>Todos</td>
     </tr><tr><td>App Escolhido</td><td>Victor Guimaraes</td><td>26/10/2024</td><td>Julia Takaki</td>
-    <tr><td>Criação do gitpages</td><td>Thales Euflauzino</td><td>24/10/2024</td><td>Víctor Schmidt</td>
+    <tr><td>Criação do GitHub Pages</td><td>Thales Euflauzino</td><td>24/10/2024</td><td>Víctor Schmidt</td>
     </tr><tr><td>Termo de Uso do Aplicativo Selecionado</td><td>Victor Guimaraes</td><td>26/10/2024</td><td>Julia Takaki</td>
     </tr><tr><td>Ferramentas Utilizadas para o Projeto</td><td>Julia Takaki</td><td>27/10/2024</td><td>Víctor Schmidt</td>
 </table>
