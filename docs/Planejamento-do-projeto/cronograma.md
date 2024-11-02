@@ -218,7 +218,7 @@ Fonte: [Autores](../index.md)
     <tr>
       <td>Lista de Apps Avaliados</td>
       <td>Todos</td>
-      <td>Thales Euflauzino, Victor Hugo, Victor Shmidt</td>
+      <td>Thales Euflauzino, Victor Rodrigues, Victor Shmidt</td>
       <td>23/10</td>
       <td>29/10</td>
       <td>de 29/10 a 30/10</td>
