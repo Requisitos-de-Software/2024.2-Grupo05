@@ -194,7 +194,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Todos</td>
       <td>Maria Helena</td>
       <td>23/10</td>
-      <td>-</td>
+      <td>29/10</td>
     </tr>
     <tr>
       <td>App Escolhido</td>
@@ -229,7 +229,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Todos</td>
       <td>Maria Helena</td>
       <td>28/10</td>
-      <td>-</td>
+      <td>02/11</td>
     </tr>
   </tbody>
 </table>
