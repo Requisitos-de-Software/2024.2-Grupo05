@@ -261,7 +261,7 @@ Fonte: [Autores](../index.md)
       <td>Maria Helena</td>
       <td>28/10</td>
       <td>02/11</td>
-      <td>02/10</td>
+      <td>02/11</td>
     </tr>
   </tbody>
 </table>
@@ -346,7 +346,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Schmidt</td>
       <td>22/11</td>
       <td>23/11</td>
-      <td>23/10</td>
+      <td>23/11</td>
     </tr>
   </tbody>
 </table>
@@ -429,7 +429,7 @@ Fonte: [Autores](../index.md)
       <td>Victor Schmidt</td>
       <td>22/11</td>
       <td>-</td>
-      <td>23/10</td>
+      <td>23/11</td>
     </tr>
   </tbody>
 </table>
