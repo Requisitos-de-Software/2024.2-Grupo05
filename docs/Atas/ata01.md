@@ -88,4 +88,4 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
 | ------ | ---- | --------- | --------- | ----------- |
 |1.0|23/10/2024|Primeira ata| [Víctor Schmidt](https://github.com/moonshinerd) | Julia Takaki
 |1.1|24/10/2024|Adicionando video| [Víctor Schmidt](https://github.com/moonshinerd) | Julia Takaki
-|1.1|24/10/2024|Corrigindo fontes| [Victor Rodrigues](https://github.com/ViictorHugoo) | 
+|1.2|24/10/2024|Corrigindo fontes| [Victor Rodrigues](https://github.com/ViictorHugoo) | 
