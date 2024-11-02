@@ -2,10 +2,10 @@
 
 ## Introdução
 
-Este documento apresenta as ferramentas que estamos utilizando para facilitar tanto a criação quanto a apresentação das atividades do grupo 05. A Tabela abaixo lista essas ferramentas, abrangendo softwares e plataformas que otimizam o desenvolvimento e a comunicação do projeto. Nossa organização e planejamento foram inspirados no trabalho realizado pela [Economia DF](https://github.com/Requisitos-de-Software/2023.2-Economia-DF) durante o semestre de 2023/2. Também oferecemos uma breve explicação sobre a função de cada ferramenta e como irão atuar para alcançar os objetivos e resultados esperados do projeto.
+Este documento apresenta as ferramentas que estamos utilizando para facilitar tanto a criação quanto a apresentação das atividades do grupo 05. A Tabela 1 lista essas ferramentas, abrangendo softwares e plataformas que otimizam o desenvolvimento e a comunicação do projeto. Nossa organização e planejamento foram inspirados no trabalho realizado pela [Economia DF](https://github.com/Requisitos-de-Software/2023.2-Economia-DF) durante o semestre de 2023/2. Também oferecemos uma breve explicação sobre a função de cada ferramenta e como irão atuar para alcançar os objetivos e resultados esperados do projeto.
 
 <div align="center">
-<font size="3"><p style="text-align: center"><b></b> Ferramentas utilizadas</p></font>
+<font size="3"><p style="text-align: center"><b></b>Tabela 1: Ferramentas utilizadas</p></font>
 
 <table>
   <thead>

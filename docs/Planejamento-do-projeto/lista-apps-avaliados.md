@@ -38,7 +38,7 @@ Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativ
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/izabellaalves">Izabella Alves</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2023</p></font>
 </div>
 
 ### Tesouro Direto
