@@ -51,7 +51,7 @@ _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2
 
 </center>
 
-## Referências Bibliográficas
+## Bibliografia
 
 > Plano de Ensino. Professor André Barros de Sales. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
 >
