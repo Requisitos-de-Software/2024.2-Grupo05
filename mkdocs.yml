@@ -7,11 +7,27 @@ nav:
   - Home: index.md
   - Atas:
     - Ata 1: Atas/ata01.md
+
   - Planejamento do projeto:
-    - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
-    - App Escolhido: Planejamento-do-projeto/app-escolhido.md
     - Heatmap: Planejamento-do-projeto/heatmap.md
+    - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
+    - App Escolhido: 
+      - App Escolhido: Planejamento-do-projeto/app-escolhido.md
+      - Rich Picture: Planejamento-do-projeto/rich-picture.md
     - Cronograma: Planejamento-do-projeto/cronograma.md
+    - Ferramentas: Planejamento-do-projeto/ferramentas.md
+
+  - Verificação:
+    - Panorama geral: verificacao/lv-geral.md
+    - Grupo 5:
+      - Entrega 1:
+        - Planejamento da verificação: verificacao/grupo5/entrega1/planej-verificacao-e1-gp5.md
+        - Relatório de verificação: verificacao/grupo5/entrega1/relatorio-verificacao-e1-gp5.md
+    - Grupo +1 (6):
+      - Entrega 1:
+        - Planejamento da verificação: verificacao/grupo6/entrega1/planej-verificacao-e1-gp6.md
+        - Relatório de verificação: verificacao/grupo6/entrega1/relatorio-verificacao-e1-gp6.md
+
 theme:
   logo: assets/header-logo-tesourodireto.png
   name: material

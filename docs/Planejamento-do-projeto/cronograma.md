@@ -1,5 +1,5 @@
 # Cronograma
-O cronograma estabelece a organização temporal de todas as atividades previstas para o projeto, dividindo-as em entregas e fases específicas. Cada entrega é detalhada com uma descrição das tarefas a serem concluídas e as datas limites, de modo a garantir que o progresso do projeto seja constante e que todos os membros da equipe estejam alinhados com as expectativas e os prazos estabelecidos.
+O cronograma estabelece a organização temporal de todas as atividades previstas para o projeto, dividindo-as em entregas e fases específicas. Cada entrega é detalhada com uma descrição das tarefas a serem concluídas e as datas limites, de modo a garantir que o progresso do projeto se mantenha constante e que todos os membros da equipe estejam alinhados às expectativas e prazos estabelecidos.
 ## Cronograma das Entregas do Projeto
 <table>
   <thead>
@@ -13,11 +13,11 @@ O cronograma estabelece a organização temporal de todas as atividades prevista
     <tr>
       <td><strong>Entrega 1</strong></td>
       <td>Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, lista de App avaliados, App selecionado para o projeto da disciplina, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina, Ferramentas do projeto, cronograma detalhado das atividades do projeto (com data de início e fim de cada atividade, responsáveis e período de gravação da apresentação), Rich Picture</td>
-      <td>29/10</td>
+      <td>06/11</td>
     </tr>
     <tr>
       <td><strong>Entrega 2</strong></td>
-      <td>Elicitação – Técnicas e Priorização Perfil dos usuários, técnicas de elicitação usadas e que serão usadas, técnicas priorização usadas e que serão usadas no projeto.</td>
+      <td>Elicitação – Técnicas e Priorização. Perfil dos usuários, técnicas de elicitação utilizadas e que serão utilizadas, técnicas de priorização aplicadas e que serão aplicadas no projeto.</td>
       <td>24/11</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>25/10</td>
     </tr>
     <tr>
-      <td>Estruturação da GitHub Pages</td>
+      <td>Estruturação do GitHub Pages</td>
       <td>Thales Euflauzino</td>
       <td>Victor Schmidt</td>
       <td>23/10</td>
@@ -119,7 +119,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>26/10</td>
     </tr>
     <tr>
-      <td>Ferramentas Utilizadas para o Projeto</td>
+      <td>Ferramentas utilizadas para o Projeto</td>
       <td>Júlia Takaki</td>
       <td>Victor Rodrigues</td>
       <td>23/10</td>
@@ -150,7 +150,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Entrega Oficial</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -194,7 +194,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Todos</td>
       <td>Maria Helena</td>
       <td>23/10</td>
-      <td>-</td>
+      <td>29/10</td>
     </tr>
     <tr>
       <td>App Escolhido</td>
@@ -229,7 +229,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Todos</td>
       <td>Maria Helena</td>
       <td>28/10</td>
-      <td>-</td>
+      <td>02/11</td>
     </tr>
   </tbody>
 </table>
@@ -249,31 +249,17 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
   </thead>
   <tbody>
     <tr>
-      <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
-      <td>Victor Rodrigues</td>
-      <td>Thales Euflauzino</td>
-      <td>01/11</td>
-      <td>03/11</td>
-    </tr>
-    <tr>
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>03/11</td>
-      <td>04/11</td>
-    </tr>
-    <tr>
-      <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
-      <td>Maria Helena</td>
-      <td>Thales Euflauzino</td>
-      <td>03/11</td>
-      <td>07/11</td>
+      <td>02/11</td>
+      <td>05/11</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>07/11</td>
+      <td>05/11</td>
       <td>08/11</td>
     </tr>
     <tr>
@@ -329,36 +315,22 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
-      <td>Victor Rodrigues</td>
-      <td>Thales Euflauzino</td>
-      <td>01/11</td>
-      <td>-</td>
-    </tr>
-    <tr>
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>03/11</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
-      <td>Maria Helena</td>
-      <td>Thales Euflauzino</td>
-      <td>03/11</td>
+      <td>02/11</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>07/11</td>
+      <td>05/11</td>
       <td>-</td>
     </tr>
     <tr>
@@ -466,7 +438,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -509,7 +481,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
 </table>
 
 ## Cronograma Entrega 4 - Modelagem de Requisitos 1.2
-A quarta entrega adota uma abordagem ágil para modelagem de requisitos, usando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
+A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utilizando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -561,7 +533,7 @@ A quarta entrega adota uma abordagem ágil para modelagem de requisitos, usando 
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -597,7 +569,7 @@ A quarta entrega adota uma abordagem ágil para modelagem de requisitos, usando 
 </table>
 
 ## Cronograma Entrega 5 - Análise de Requisitos
-Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o momento de garantir que os requisitos estão completos, consistentes e que o sistema está alinhado com as expectativas dos usuários.
+Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este é o momento de garantir que os requisitos estejam completos, consistentes e que o sistema esteja alinhado com as expectativas dos usuários.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -625,7 +597,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
       <td>24/01</td>
     </tr>
     <tr>
-      <td>Verificação por inspeção de todos os artefatos</td>
+      <td>Inspeção de todos os artefatos</td>
       <td>Victor Rodrigues</td>
       <td>Thales Euflauzino</td>
       <td>25/01</td>
@@ -649,7 +621,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -685,7 +657,7 @@ Aqui, a ênfase é na verificação e validação dos requisitos coletados. É o
 </table>
 
 ## Cronograma Entrega 6 - Pós-Rastreabilidade
-Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordadas, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
+Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordados, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -737,7 +709,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -773,7 +745,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
 </table>
 
 ## Cronograma Entrega Final
-A última etapa do cronograma é a entrega do projeto final, que culmina com a apresentação do trabalho desenvolvido.
+A última etapa do cronograma é a entrega do projeto final, culminando na apresentação do trabalho desenvolvido.
 ### Cronograma Planejado
 <table>
   <thead>
@@ -818,7 +790,7 @@ A última etapa do cronograma é a entrega do projeto final, que culmina com a a
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -850,4 +822,5 @@ A última etapa do cronograma é a entrega do projeto final, que culmina com a a
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 28/10/2024  | Estruturação Inicial | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.1` | 28/10/2024  | Estruturação no mkdocs e pequenas alterações | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.1` | 28/10/2024  | Estruturação no MkDocs e pequenas alterações | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.2` | 02/11/2024  | Correção das datas de entrega e etapas do cronograma, correção dos título das tabelas | [Maria Helena](https://github.com/MariaCHelena) |  |
