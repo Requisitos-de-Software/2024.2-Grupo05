@@ -21,4 +21,4 @@ Para cada entrega, serão elaboradas checklists para verficar os padrões espera
 
 | Versão | Data       | Descrição             | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | --------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 02/11/2024 | Criação do documento. | [Thales Euflauzino](https://github.com/thaleseuflauzino)      | 
+| `1.0`  | 02/11/2024 | Criação do documento. | [Thales Euflauzino](https://github.com/thaleseuflauzino)      | [Víctor Schmidt](https://github.com/moonshinerd) |
