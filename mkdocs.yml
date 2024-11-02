@@ -8,6 +8,9 @@ nav:
   - Atas:
     - Ata 1: Atas/ata01.md
 
+  - Apresentações:
+    - Apresentação 1: Apresentacoes/apresentacao01.md
+
   - Planejamento do projeto:
     - Heatmap: Planejamento-do-projeto/heatmap.md
     - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
