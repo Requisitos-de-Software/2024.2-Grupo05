@@ -1,6 +1,8 @@
 # Cronograma
 O cronograma estabelece a organização temporal de todas as atividades previstas para o projeto, dividindo-as em entregas e fases específicas. Cada entrega é detalhada com uma descrição das tarefas a serem concluídas e as datas limites, de modo a garantir que o progresso do projeto se mantenha constante e que todos os membros da equipe estejam alinhados às expectativas e prazos estabelecidos.
 ## Cronograma das Entregas do Projeto
+<br>
+**Tabela 1:** Cronograma geral das entregas.
 <table>
   <thead>
     <tr>
@@ -13,7 +15,7 @@ O cronograma estabelece a organização temporal de todas as atividades prevista
     <tr>
       <td><strong>Entrega 1</strong></td>
       <td>Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, lista de App avaliados, App selecionado para o projeto da disciplina, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina, Ferramentas do projeto, cronograma detalhado das atividades do projeto (com data de início e fim de cada atividade, responsáveis e período de gravação da apresentação), Rich Picture</td>
-      <td>29/10</td>
+      <td>06/11</td>
     </tr>
     <tr>
       <td><strong>Entrega 2</strong></td>
@@ -47,10 +49,13 @@ O cronograma estabelece a organização temporal de todas as atividades prevista
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
-## Cronograma das Entregas do Projeto
+## Cronograma Entrega 1 - Planejamento
 A primeira entrega foca no planejamento do projeto. Isso inclui a definição da equipe, levantamento das ferramentas, escolha do aplicativo a ser analisado e elaboração do cronograma. Também envolve o desenvolvimento de uma representação visual do projeto, como o Rich Picture, para facilitar o entendimento das principais partes interessadas.
 ### Cronograma Planejado
+<br>
+**Tabela 2:** Cronograma com o planejamento da primeira entrega.
 <table>
   <thead>
     <tr>
@@ -141,8 +146,11 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ### Cronograma Executado
+<br>
+**Tabela 3:** Cronograma com as datas oficiais da primeira entrega.
 <table>
   <thead>
     <tr>
@@ -150,7 +158,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Entrega Oficial</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -233,10 +241,13 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ## Cronograma Entrega 2 - Elicitação
 Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas de elicitação e priorização são selecionadas e aplicadas para definir claramente os perfis de usuários e as necessidades do projeto. Essa etapa é crucial para garantir que todos os requisitos essenciais sejam capturados de forma clara e organizada.
 ### Cronograma Planejado
+<br>
+**Tabela 4:** Planejamento da segunda entrega.
 <table>
   <thead>
     <tr>
@@ -249,31 +260,17 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
   </thead>
   <tbody>
     <tr>
-      <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
-      <td>Victor Rodrigues</td>
-      <td>Thales Euflauzino</td>
-      <td>01/11</td>
-      <td>03/11</td>
-    </tr>
-    <tr>
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>03/11</td>
-      <td>04/11</td>
-    </tr>
-    <tr>
-      <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
-      <td>Maria Helena</td>
-      <td>Thales Euflauzino</td>
-      <td>03/11</td>
-      <td>07/11</td>
+      <td>02/11</td>
+      <td>05/11</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>07/11</td>
+      <td>05/11</td>
       <td>08/11</td>
     </tr>
     <tr>
@@ -320,8 +317,11 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ### Cronograma Executado
+<br>
+**Tabela 5:** Cronograma das datas oficiais da segunda entrega.
 <table>
   <thead>
     <tr>
@@ -329,36 +329,22 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
-      <td>Victor Rodrigues</td>
-      <td>Thales Euflauzino</td>
-      <td>01/11</td>
-      <td>-</td>
-    </tr>
-    <tr>
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>03/11</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
-      <td>Maria Helena</td>
-      <td>Thales Euflauzino</td>
-      <td>03/11</td>
+      <td>02/11</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>07/11</td>
+      <td>05/11</td>
       <td>-</td>
     </tr>
     <tr>
@@ -405,10 +391,13 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ## Cronograma Entrega 3 - Modelagem de Requisitos 1.1
 A terceira entrega concentra-se na modelagem dos requisitos por meio de cenários, léxicos, casos de uso e especificações suplementares. Esta etapa visa documentar o comportamento esperado do sistema e detalhar os requisitos de maneira formal.
 ### Cronograma Planejado
+<br>
+**Tabela 6:** Planejamento da terceira entrega.
 <table>
   <thead>
     <tr>
@@ -457,8 +446,11 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ### Cronograma Executado
+<br>
+**Tabela 7:** Cronograma com as datas oficiais da terceira entrega.
 <table>
   <thead>
     <tr>
@@ -466,7 +458,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -507,10 +499,13 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ## Cronograma Entrega 4 - Modelagem de Requisitos 1.2
 A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utilizando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
 ### Cronograma Planejado
+<br>
+**Tabela 8:** Planejamento da quarta entrega.
 <table>
   <thead>
     <tr>
@@ -552,8 +547,11 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ### Cronograma Executado
+<br>
+**Tabela 9:** Cronograma com as datas oficiais da quarta entrega.
 <table>
   <thead>
     <tr>
@@ -561,7 +559,7 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -595,10 +593,13 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ## Cronograma Entrega 5 - Análise de Requisitos
 Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este é o momento de garantir que os requisitos estejam completos, consistentes e que o sistema esteja alinhado com as expectativas dos usuários.
 ### Cronograma Planejado
+<br>
+**Tabela 10:** Planejamento da quinta entrega.
 <table>
   <thead>
     <tr>
@@ -640,8 +641,11 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ### Cronograma Executado
+<br>
+**Tabela 11:** Cronograma com as datas oficiais da quinta entrega.
 <table>
   <thead>
     <tr>
@@ -649,7 +653,7 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -683,10 +687,13 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ## Cronograma Entrega 6 - Pós-Rastreabilidade
 Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordados, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
 ### Cronograma Planejado
+<br>
+**Tabela 12:** Planejamento da sexta entrega.
 <table>
   <thead>
     <tr>
@@ -728,8 +735,11 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ### Cronograma Executado
+<br>
+**Tabela 13:** Cronograma com as datas oficiais da sexta entrega.
 <table>
   <thead>
     <tr>
@@ -737,7 +747,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -771,10 +781,13 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ## Cronograma Entrega Final
 A última etapa do cronograma é a entrega do projeto final, culminando na apresentação do trabalho desenvolvido.
 ### Cronograma Planejado
+<br>
+**Tabela 14:** Planejamento da entrega final.
 <table>
   <thead>
     <tr>
@@ -809,8 +822,11 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ### Cronograma Executado
+<br>
+**Tabela 15:** Cronograma com as datas oficiais da entrega final.
 <table>
   <thead>
     <tr>
@@ -818,7 +834,7 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -845,9 +861,12 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
     </tr>
   </tbody>
 </table>
+Fonte: Autores
 
 ## Histórico de versões
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 28/10/2024  | Estruturação Inicial | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 28/10/2024  | Estruturação no MkDocs e pequenas alterações | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.2` | 02/11/2024  | Correção das datas de entrega e etapas do cronograma, correção dos título das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3` | 02/11/2024  | Adição de fontes e títulos das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
