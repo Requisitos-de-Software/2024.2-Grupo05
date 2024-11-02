@@ -49,7 +49,7 @@ O cronograma estabelece a organização temporal de todas as atividades prevista
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Cronograma Entrega 1 - Planejamento
 A primeira entrega foca no planejamento do projeto. Isso inclui a definição da equipe, levantamento das ferramentas, escolha do aplicativo a ser analisado e elaboração do cronograma. Também envolve o desenvolvimento de uma representação visual do projeto, como o Rich Picture, para facilitar o entendimento das principais partes interessadas.
@@ -64,6 +64,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <th>Revisor</th>
       <th>Início</th>
       <th>Prazo</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -73,6 +74,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Todos</td>
       <td>22/10</td>
       <td>22/10</td>
+      <td>de 22/10 a 23/10</td>
     </tr>
     <tr>
       <td>Integrantes da Equipe</td>
@@ -80,6 +82,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>25/10</td>
+      <td>de 25/10 a 26/10</td>
     </tr>
     <tr>
       <td>Documentação MKDocs</td>
@@ -87,6 +90,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Júlia Takaki</td>
       <td>23/10</td>
       <td>25/10</td>
+      <td>de 25/10 a 26/10</td>
     </tr>
     <tr>
       <td>Estruturação do GitHub Pages</td>
@@ -94,6 +98,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>24/10</td>
+      <td>de 24/10 a 25/10</td>
     </tr>
     <tr>
       <td>Cronograma Planejado</td>
@@ -101,6 +106,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>25/10</td>
+      <td>de 25/10 a 26/10</td>
     </tr>
     <tr>
       <td>Lista de Apps Avaliados</td>
@@ -108,6 +114,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Maria Helena</td>
       <td>23/10</td>
       <td>25/10</td>
+      <td>de 25/10 a 26/10</td>
     </tr>
     <tr>
       <td>App Escolhido</td>
@@ -115,6 +122,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Júlia Takaki</td>
       <td>25/10</td>
       <td>26/10</td>
+      <td>de 26/10 a 27/10</td>
     </tr>
     <tr>
       <td>Termo de Uso do aplicativo selecionado</td>
@@ -122,6 +130,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Júlia Takaki</td>
       <td>23/10</td>
       <td>26/10</td>
+      <td>de 26/10 a 27/10</td>
     </tr>
     <tr>
       <td>Ferramentas utilizadas para o Projeto</td>
@@ -129,6 +138,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Victor Rodrigues</td>
       <td>23/10</td>
       <td>27/10</td>
+      <td>de 27/10 a 28/10</td>
     </tr>
     <tr>
       <td>Rich Picture do Projeto</td>
@@ -136,17 +146,19 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>Maria Helena</td>
       <td>23/10</td>
       <td>27/10</td>
+      <td>de 27/10 a 28/10</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
       <td>Todos</td>
       <td>Maria Helena</td>
+      <td>27/10</td>
       <td>28/10</td>
       <td>28/10</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ### Cronograma Executado
 <br>
@@ -159,6 +171,7 @@ Fonte: Autores
       <th>Revisor</th>
       <th>Início</th>
       <th>Entrega</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -168,6 +181,7 @@ Fonte: Autores
       <td>Todos</td>
       <td>22/10</td>
       <td>22/10</td>
+      <td>de 22/10 a 23/10</td>
     </tr>
     <tr>
       <td>Integrantes da Equipe</td>
@@ -175,6 +189,7 @@ Fonte: Autores
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>24/10</td>
+      <td>de 24/10 a 25/10</td>
     </tr>
     <tr>
       <td>Documentação MKDocs</td>
@@ -182,6 +197,7 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>23/10</td>
       <td>24/10</td>
+      <td>de 24/10 a 25/10</td>
     </tr>
     <tr>
       <td>Estruturação da GitHub Pages</td>
@@ -189,6 +205,7 @@ Fonte: Autores
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>24/10</td>
+      <td>de 24/10 a 25/10</td>
     </tr>
     <tr>
       <td>Cronograma Planejado</td>
@@ -196,13 +213,15 @@ Fonte: Autores
       <td>Victor Schmidt</td>
       <td>23/10</td>
       <td>24/10</td>
+      <td>de 24/10 a 02/11</td>
     </tr>
     <tr>
       <td>Lista de Apps Avaliados</td>
       <td>Todos</td>
-      <td>Maria Helena</td>
+      <td>Thales Euflauzino, Victor Rodrigues, Victor Shmidt</td>
       <td>23/10</td>
       <td>29/10</td>
+      <td>de 29/10 a 30/10</td>
     </tr>
     <tr>
       <td>App Escolhido</td>
@@ -210,6 +229,7 @@ Fonte: Autores
       <td>Todos</td>
       <td>28/10</td>
       <td>28/10</td>
+      <td>de 28/10 a 29/10</td>
     </tr>
     <tr>
       <td>Termo de Uso do aplicativo selecionado</td>
@@ -217,6 +237,7 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>28/10</td>
       <td>28/10</td>
+      <td>de 28/10 a 29/10</td>
     </tr>
     <tr>
       <td>Ferramentas Utilizadas para o Projeto</td>
@@ -224,6 +245,7 @@ Fonte: Autores
       <td>Victor Rodrigues e Thales Euflauzino</td>
       <td>23/10</td>
       <td>28/10</td>
+      <td>de 28/10 a 29/10</td>
     </tr>
     <tr>
       <td>Rich Picture do Projeto</td>
@@ -231,6 +253,7 @@ Fonte: Autores
       <td>Thales Euflauzino</td>
       <td>23/10</td>
       <td>28/10</td>
+      <td>de 28/10 a 29/10</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -238,10 +261,11 @@ Fonte: Autores
       <td>Maria Helena</td>
       <td>28/10</td>
       <td>02/11</td>
+      <td>02/11</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Cronograma Entrega 2 - Elicitação
 Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas de elicitação e priorização são selecionadas e aplicadas para definir claramente os perfis de usuários e as necessidades do projeto. Essa etapa é crucial para garantir que todos os requisitos essenciais sejam capturados de forma clara e organizada.
@@ -256,6 +280,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <th>Revisor</th>
       <th>Início</th>
       <th>Prazo</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -265,6 +290,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Maria Helena</td>
       <td>02/11</td>
       <td>05/11</td>
+      <td>de 22/10 a 23/10</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
@@ -272,6 +298,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Júlia Takaki</td>
       <td>05/11</td>
       <td>08/11</td>
+      <td>de 08/10 a 01/10</td>
     </tr>
     <tr>
       <td>Introspecção para a elicitação dos requisitos</td>
@@ -279,6 +306,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Rodrigues</td>
       <td>09/11</td>
       <td>11/11</td>
+      <td>de 11/10 a 12/10</td>
     </tr>
     <tr>
       <td>Criação dos questionários</td>
@@ -286,6 +314,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Thales Euflauzino</td>
       <td>11/11</td>
       <td>13/11</td>
+      <td>de 13/10 a 14/10</td>
     </tr>
     <tr>
       <td>Entrevista para elicitação de requisitos</td>
@@ -293,6 +322,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Maria Helena</td>
       <td>13/11</td>
       <td>14/11</td>
+      <td>de 14/10 a 15/10</td>
     </tr>
     <tr>
       <td>Brainstorming</td>
@@ -300,6 +330,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Rodrigues</td>
       <td>15/11</td>
       <td>18/11</td>
+      <td>de 18/10 a 19/10</td>
     </tr>
     <tr>
       <td>Priorização dos requisitos</td>
@@ -307,6 +338,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Rodrigues</td>
       <td>19/11</td>
       <td>21/11</td>
+      <td>de 21/10 a 22/10</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -314,10 +346,11 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Schmidt</td>
       <td>22/11</td>
       <td>23/11</td>
+      <td>23/11</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ### Cronograma Executado
 <br>
@@ -330,6 +363,7 @@ Fonte: Autores
       <th>Revisor</th>
       <th>Início</th>
       <th>Entrega</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -339,6 +373,7 @@ Fonte: Autores
       <td>Maria Helena</td>
       <td>02/11</td>
       <td>-</td>
+      <td>de 22/10 a 23/10</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
@@ -346,6 +381,7 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>05/11</td>
       <td>-</td>
+      <td>de 08/10 a 01/10</td>
     </tr>
     <tr>
       <td>Introspecção para a elicitação dos requisitos</td>
@@ -353,6 +389,7 @@ Fonte: Autores
       <td>Victor Rodrigues</td>
       <td>09/11</td>
       <td>-</td>
+      <td>de 11/10 a 12/10</td>
     </tr>
     <tr>
       <td>Criação dos questionários</td>
@@ -360,6 +397,7 @@ Fonte: Autores
       <td>Thales Euflauzino</td>
       <td>11/11</td>
       <td>-</td>
+      <td>de 13/10 a 14/10</td>
     </tr>
     <tr>
       <td>Entrevista para elicitação de requisitos</td>
@@ -367,6 +405,7 @@ Fonte: Autores
       <td>Maria Helena</td>
       <td>13/11</td>
       <td>-</td>
+      <td>de 14/10 a 15/10</td>
     </tr>
     <tr>
       <td>Brainstorming</td>
@@ -374,6 +413,7 @@ Fonte: Autores
       <td>Victor Rodrigues</td>
       <td>15/11</td>
       <td>-</td>
+      <td>de 18/10 a 19/10</td>
     </tr>
     <tr>
       <td>Priorização dos requisitos</td>
@@ -381,6 +421,7 @@ Fonte: Autores
       <td>Victor Rodrigues</td>
       <td>19/11</td>
       <td>-</td>
+      <td>de 21/10 a 22/10</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -388,10 +429,11 @@ Fonte: Autores
       <td>Victor Schmidt</td>
       <td>22/11</td>
       <td>-</td>
+      <td>23/11</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Cronograma Entrega 3 - Modelagem de Requisitos 1.1
 A terceira entrega concentra-se na modelagem dos requisitos por meio de cenários, léxicos, casos de uso e especificações suplementares. Esta etapa visa documentar o comportamento esperado do sistema e detalhar os requisitos de maneira formal.
@@ -406,6 +448,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <th>Revisor</th>
       <th>Início</th>
       <th>Prazo</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -415,6 +458,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <td>Thales Euflauzino</td>
       <td>27/11</td>
       <td>30/11</td>
+      <td>de 30/11 a 01/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Léxicos</td>
@@ -422,6 +466,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <td>Maria Helena</td>
       <td>27/11</td>
       <td>30/11</td>
+      <td>de 30/11 a 01/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Use Cases</td>
@@ -429,6 +474,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <td>Júlia Takaki</td>
       <td>01/12</td>
       <td>05/12</td>
+      <td>de 05/12 a 06/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Especificação Suplementar</td>
@@ -436,6 +482,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <td>Victor Schmidt</td>
       <td>01/12</td>
       <td>05/12</td>
+      <td>de 06/12 a 07/12</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -443,10 +490,11 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <td>Victor Rodrigues</td>
       <td>06/12</td>
       <td>07/12</td>
+      <td>07/12</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ### Cronograma Executado
 <br>
@@ -459,6 +507,7 @@ Fonte: Autores
       <th>Revisor</th>
       <th>Início</th>
       <th>Entrega</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -468,6 +517,7 @@ Fonte: Autores
       <td>Thales Euflauzino</td>
       <td>27/11</td>
       <td>-</td>
+      <td>de 30/11 a 01/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Léxicos</td>
@@ -475,6 +525,7 @@ Fonte: Autores
       <td>Maria Helena</td>
       <td>27/11</td>
       <td>-</td>
+      <td>de 30/11 a 01/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Use Cases</td>
@@ -482,6 +533,7 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>01/12</td>
       <td>-</td>
+      <td>de 05/12 a 06/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Especificação Suplementar</td>
@@ -489,6 +541,7 @@ Fonte: Autores
       <td>Victor Schmidt</td>
       <td>01/12</td>
       <td>-</td>
+      <td>de 06/12 a 07/12</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -496,10 +549,11 @@ Fonte: Autores
       <td>Victor Rodrigues</td>
       <td>06/12</td>
       <td>-</td>
+      <td>07/12</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Cronograma Entrega 4 - Modelagem de Requisitos 1.2
 A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utilizando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
@@ -514,6 +568,7 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <th>Revisor</th>
       <th>Início</th>
       <th>Prazo</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -523,6 +578,7 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <td>Thales Euflauzino</td>
       <td>10/12</td>
       <td>11/12</td>
+      <td>de 11/12 a 12/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: Backlogs</td>
@@ -530,6 +586,7 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <td>Victor Schmidt</td>
       <td>11/12</td>
       <td>12/12</td>
+      <td>de 12/12 a 13/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: NFR Framework</td>
@@ -537,6 +594,7 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <td>Júlia Takaki</td>
       <td>12/12</td>
       <td>13/12</td>
+      <td>de 13/12 a 14/12</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -544,10 +602,11 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <td>Victor Rodrigues</td>
       <td>14/12</td>
       <td>15/12</td>
+      <td>15/12</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ### Cronograma Executado
 <br>
@@ -560,6 +619,7 @@ Fonte: Autores
       <th>Revisor</th>
       <th>Início</th>
       <th>Entrega</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -569,6 +629,7 @@ Fonte: Autores
       <td>Thales Euflauzino</td>
       <td>10/12</td>
       <td>-</td>
+      <td>de 11/12 a 12/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: Backlogs</td>
@@ -576,6 +637,7 @@ Fonte: Autores
       <td>Victor Schmidt</td>
       <td>11/12</td>
       <td>-</td>
+      <td>de 12/12 a 13/12</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: NFR Framework</td>
@@ -583,6 +645,7 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>12/12</td>
       <td>-</td>
+      <td>de 13/12 a 14/12</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -590,10 +653,11 @@ Fonte: Autores
       <td>Victor Rodrigues</td>
       <td>14/12</td>
       <td>-</td>
+      <td>15/12</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Cronograma Entrega 5 - Análise de Requisitos
 Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este é o momento de garantir que os requisitos estejam completos, consistentes e que o sistema esteja alinhado com as expectativas dos usuários.
@@ -608,6 +672,7 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <th>Revisor</th>
       <th>Início</th>
       <th>Prazo</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -617,6 +682,7 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <td>Victor Rodrigues</td>
       <td>21/01</td>
       <td>22/01</td>
+      <td>de 22/01 a 23/01</td>
     </tr>
     <tr>
       <td>Validação dos Requisitos</td>
@@ -624,6 +690,7 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <td>Maria Helena</td>
       <td>23/01</td>
       <td>24/01</td>
+      <td>de 24/01 a 25/01</td>
     </tr>
     <tr>
       <td>Inspeção de todos os artefatos</td>
@@ -631,6 +698,7 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <td>Thales Euflauzino</td>
       <td>25/01</td>
       <td>27/01</td>
+      <td>de 27/01 a 28/01</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -638,10 +706,11 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <td>Júlia Takaki</td>
       <td>28/01</td>
       <td>29/01</td>
+      <td>29/01</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ### Cronograma Executado
 <br>
@@ -654,6 +723,7 @@ Fonte: Autores
       <th>Revisor</th>
       <th>Início</th>
       <th>Entrega</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -663,6 +733,7 @@ Fonte: Autores
       <td>Victor Rodrigues</td>
       <td>21/01</td>
       <td>-</td>
+      <td>de 22/01 a 23/01</td>
     </tr>
     <tr>
       <td>Validação dos Requisitos</td>
@@ -670,13 +741,15 @@ Fonte: Autores
       <td>Maria Helena</td>
       <td>23/01</td>
       <td>-</td>
+      <td>de 24/01 a 25/01</td>
     </tr>
     <tr>
-      <td>Verificação por inspeção de todos os artefatos</td>
+      <td>Inspeção de todos os artefatos</td>
       <td>Victor Rodrigues</td>
       <td>Thales Euflauzino</td>
       <td>25/01</td>
       <td>-</td>
+      <td>de 27/01 a 28/01</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -684,10 +757,11 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>28/01</td>
       <td>-</td>
+      <td>29/01</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Cronograma Entrega 6 - Pós-Rastreabilidade
 Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordados, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
@@ -702,6 +776,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <th>Revisor</th>
       <th>Início</th>
       <th>Prazo</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -711,6 +786,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <td>Thales Euflauzino</td>
       <td>17/12</td>
       <td>18/12</td>
+      <td>de 18/12 a 19/12</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Backward Form</td>
@@ -718,6 +794,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <td>Maria Helena</td>
       <td>19/12</td>
       <td>05/01</td>
+      <td>de 05/01 ate 06/01</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Forward Form</td>
@@ -725,6 +802,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <td>Victor Schmidt</td>
       <td>06/01</td>
       <td>17/01</td>
+      <td>de 17/01 ate 18/01</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -732,10 +810,11 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <td>Júlia Takaki</td>
       <td>18/01</td>
       <td>19/01</td>
+      <td>19/01</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ### Cronograma Executado
 <br>
@@ -748,6 +827,7 @@ Fonte: Autores
       <th>Revisor</th>
       <th>Início</th>
       <th>Entrega</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -757,6 +837,7 @@ Fonte: Autores
       <td>Thales Euflauzino</td>
       <td>17/12</td>
       <td>-</td>
+      <td>de 18/12 a 19/12</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Backward Form</td>
@@ -764,6 +845,7 @@ Fonte: Autores
       <td>Maria Helena</td>
       <td>19/12</td>
       <td>-</td>
+      <td>de 05/01 ate 06/01</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Forward Form</td>
@@ -771,6 +853,7 @@ Fonte: Autores
       <td>Victor Schmidt</td>
       <td>06/01</td>
       <td>-</td>
+      <td>de 17/01 ate 18/01</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -778,10 +861,11 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>18/01</td>
       <td>-</td>
+      <td>19/01</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Cronograma Entrega Final
 A última etapa do cronograma é a entrega do projeto final, culminando na apresentação do trabalho desenvolvido.
@@ -796,6 +880,7 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
       <th>Revisor</th>
       <th>Início</th>
       <th>Prazo</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -805,6 +890,7 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
       <td>Victor Rodrigues, Maria Helena e Júlia Takaki</td>
       <td>21/01</td>
       <td>05/02</td>
+      <td>de 05/02 a 06/02</td>
     </tr>
     <tr>
       <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
@@ -812,6 +898,7 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
       <td>Victor Schmidt e Thales Euflauzino</td>
       <td>01/01</td>
       <td>07/02</td>
+      <td>de 07/02 a 08/02</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -819,10 +906,11 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
       <td>Júlia Takaki</td>
       <td>08/02</td>
       <td>09/02</td>
+      <td>09/02</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ### Cronograma Executado
 <br>
@@ -835,6 +923,7 @@ Fonte: Autores
       <th>Revisor</th>
       <th>Início</th>
       <th>Entrega</th>
+      <th>Período de revisão</th>
     </tr>
   </thead>
   <tbody>
@@ -844,6 +933,7 @@ Fonte: Autores
       <td>Victor Rodrigues, Maria Helena e Júlia Takaki</td>
       <td>21/01</td>
       <td>-</td>
+      <td>de 05/02 a 06/02</td>
     </tr>
     <tr>
       <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
@@ -851,6 +941,7 @@ Fonte: Autores
       <td>Victor Schmidt e Thales Euflauzino</td>
       <td>01/01</td>
       <td>-</td>
+      <td>de 07/02 a 08/02</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -858,10 +949,11 @@ Fonte: Autores
       <td>Júlia Takaki</td>
       <td>08/02</td>
       <td>-</td>
+      <td>09/02</td>
     </tr>
   </tbody>
 </table>
-Fonte: Autores
+Fonte: [Autores](../index.md)
 
 ## Histórico de versões
 | Versão | Data       | Descrição | Autor     |       Revisor         |
@@ -870,3 +962,4 @@ Fonte: Autores
 | `1.1` | 28/10/2024  | Estruturação no MkDocs e pequenas alterações | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
 | `1.2` | 02/11/2024  | Correção das datas de entrega e etapas do cronograma, correção dos título das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 02/11/2024  | Adição de fontes e títulos das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3` | 02/11/2024  | Adição das etapas de verificação | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
