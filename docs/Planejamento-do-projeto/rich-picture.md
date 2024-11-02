@@ -25,4 +25,4 @@ Rich Picture é uma ferramenta visual para expressar ideias e analisar problemas
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
 `1.0` | 29/10/2024 | Adição da primeira versão do richpicture  | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino)
-`1.1` | 29/10/2024 | Adicionando introdução e motodologia  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | 
+`1.1` | 02/11/2024 | Adicionando introdução e motodologia  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
