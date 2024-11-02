@@ -24,28 +24,28 @@ Os participantes da verificação são integrantes do grupo [Thales Euflauzino](
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Itens do Planejamento Geral do projeto** |                                                                                                                     |            |
 |        1         | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                       |    Sim     |
-|        2         | o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                       |    Sim     |
-|        3         | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa              |    Sim     |
+|        2         | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                       |    Sim     |
+|        3         | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa              |    Sim     |
 |        4         | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                        |    Sim     |
 |        5         | A motivação e os critérios para a escolha do App?                                                                              |    Sim     |
 |        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    Sim     |
 |        7         | Possui opção de contraste de cores?                                                                              |    Sim     |
 | **Itens do Desenvolvimento do projeto** |                                                                                                                     |            |
 |        1         | O histórico de versão padronizado?                       |    Sim     |
-|        2         | O(s) autor(es) e o(s) revisor(es) para cada artefato? |
+|        2         | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim |
 |        3         | Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                                                            |    Sim     |
 |        4         | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                              |    Sim     |
 |        5        | Um texto fazendo uma introdução dos artefatos?                                                                                             |    Sim     |
-|        6        | o cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.    |    Sim     |
+|        6        | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.    |    Sim     |
 |        7        | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                                                      |    Sim     |
 |        8        | A gravação da reunião do grupo.                                                                                   |    Sim     |
 |        9        | Vídeo de apresentação na categoria “não listado” no youtube?                                                                               |    Sim     |
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |
-|        <a id="REF1" href="#anchor_1">1</a>        | O Rich Picture conta uma história clara e compreensível? <br> **Autor: Thales Euflauzino**                                                                              |    RESPOSTA     |
-|        <a id="REF2" href="#anchor_2">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Guimarães**                                                                               |    RESPOSTA     |
-|        <a id="REF3" href="#anchor_3">3</a>        | O Rich Picture tem todas as palavras chaves necessárias do projeto?      <br> **Autor: Víctor Schmidt**                                                                         |    RESPOSTA     |
-|        <a id="REF4" href="#anchor_4">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    RESPOSTA     |
-|        <a id="REF5" href="#anchor_5">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    RESPOSTA     |
+|        <a id="REF1" href="#anchor_1">1</a>        | O Rich Picture conta uma história clara e compreensível? <br> **Autor: Thales Euflauzino**                                                                              |    Sim     |
+|        <a id="REF2" href="#anchor_2">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Guimarães**                                                                               |    Sim     |
+|        <a id="REF3" href="#anchor_3">3</a>        | O Rich Picture tem todas as palavras chaves necessárias do projeto?      <br> **Autor: Víctor Schmidt**                                                                         |    Sim     |
+|        <a id="REF4" href="#anchor_4">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    Sim     |
+|        <a id="REF5" href="#anchor_5">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    Sim     |
 
 _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
@@ -74,3 +74,4 @@ _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 02/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.1` | 02/11/2024 | Adicionando revisão da Rich Picture | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
