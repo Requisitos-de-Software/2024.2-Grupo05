@@ -21,7 +21,7 @@ Os participantes da verificação são integrantes do grupo [Thales Euflauzino](
 **Tabela 1** - Checklist de Verificação.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
-| :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
+| :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: |
 | **Itens do Planejamento Geral do projeto** |                                                                                                                     |            |
 |        1         | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                       |    Sim     |
 |        2         | o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                       |    Sim     |
@@ -32,7 +32,7 @@ Os participantes da verificação são integrantes do grupo [Thales Euflauzino](
 |        7         | Possui opção de contraste de cores?                                                                              |    Sim     |
 | **Itens do Desenvolvimento do projeto** |                                                                                                                     |            |
 |        1         | O histórico de versão padronizado?                       |    Sim     |
-|        2         | O(s) autor(es) e o(s) revisor(es) para cada artefato? | 
+|        2         | O(s) autor(es) e o(s) revisor(es) para cada artefato? |
 |        3         | Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                                                            |    Sim     |
 |        4         | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                              |    Sim     |
 |        5        | Um texto fazendo uma introdução dos artefatos?                                                                                             |    Sim     |
@@ -45,7 +45,7 @@ Os participantes da verificação são integrantes do grupo [Thales Euflauzino](
 |        <a id="REF2" href="#anchor_2">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Guimarães**                                                                               |    RESPOSTA     |
 |        <a id="REF3" href="#anchor_3">3</a>        | O Rich Picture tem todas as palavras chaves necessárias do projeto?      <br> **Autor: Víctor Schmidt**                                                                         |    RESPOSTA     |
 |        <a id="REF4" href="#anchor_4">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    RESPOSTA     |
-|        <a id="REF5" href="#anchor_5">5</a>        | **MARIAHELENA** <br> **Autor: Maria Helena**                                                                                                       |    RESPOSTA     |
+|        <a id="REF5" href="#anchor_5">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    RESPOSTA     |
 
 _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
