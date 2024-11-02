@@ -13,7 +13,7 @@ O cronograma estabelece a organização temporal de todas as atividades prevista
     <tr>
       <td><strong>Entrega 1</strong></td>
       <td>Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, lista de App avaliados, App selecionado para o projeto da disciplina, cópia do Termo de Uso do aplicativo permitindo o estudo na disciplina, Ferramentas do projeto, cronograma detalhado das atividades do projeto (com data de início e fim de cada atividade, responsáveis e período de gravação da apresentação), Rich Picture</td>
-      <td>29/10</td>
+      <td>06/11</td>
     </tr>
     <tr>
       <td><strong>Entrega 2</strong></td>
@@ -150,7 +150,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Entrega Oficial</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -249,31 +249,17 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
   </thead>
   <tbody>
     <tr>
-      <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
-      <td>Victor Rodrigues</td>
-      <td>Thales Euflauzino</td>
-      <td>01/11</td>
-      <td>03/11</td>
-    </tr>
-    <tr>
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>03/11</td>
-      <td>04/11</td>
-    </tr>
-    <tr>
-      <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
-      <td>Maria Helena</td>
-      <td>Thales Euflauzino</td>
-      <td>03/11</td>
-      <td>07/11</td>
+      <td>02/11</td>
+      <td>05/11</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>07/11</td>
+      <td>05/11</td>
       <td>08/11</td>
     </tr>
     <tr>
@@ -329,36 +315,22 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Pesquisa e planejamento para a definição de personas e perfis de usuário</td>
-      <td>Victor Rodrigues</td>
-      <td>Thales Euflauzino</td>
-      <td>01/11</td>
-      <td>-</td>
-    </tr>
-    <tr>
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>03/11</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Estudo e entendimento das técnicas de elicitação de requisitos</td>
-      <td>Maria Helena</td>
-      <td>Thales Euflauzino</td>
-      <td>03/11</td>
+      <td>02/11</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>07/11</td>
+      <td>05/11</td>
       <td>-</td>
     </tr>
     <tr>
@@ -466,7 +438,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -561,7 +533,7 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -649,7 +621,7 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -737,7 +709,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -818,7 +790,7 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
       <th>Autor(es)</th>
       <th>Revisor</th>
       <th>Início</th>
-      <th>Prazo</th>
+      <th>Entrega</th>
     </tr>
   </thead>
   <tbody>
@@ -851,3 +823,4 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 28/10/2024  | Estruturação Inicial | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 28/10/2024  | Estruturação no MkDocs e pequenas alterações | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.2` | 02/11/2024  | Correção das datas de entrega e etapas do cronograma, correção dos título das tabelas | [Maria Helena](https://github.com/MariaCHelena) |  |
