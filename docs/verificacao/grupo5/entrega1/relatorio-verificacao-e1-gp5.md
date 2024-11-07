@@ -69,9 +69,17 @@ _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2
 >****
 > <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 5](./rp5.png)
 
+## Vídeo da Verificação
+<center>
+[**Vídeo 1:** Requisitos - Verificação Entrega 1](https://www.youtube.com/watch?v=fnsxUFg5hi4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JUBg_qbl4IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Fonte: [Víctor Schmidt](https://github.com/moonshinerd)_
+</center>
+
 ## Histórico de Versões
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 02/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 02/11/2024 | Adicionando revisão da Rich Picture | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.2` | 06/11/2024 | Adicionando vídeo de verificação ao relatorio | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
