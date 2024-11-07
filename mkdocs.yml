@@ -7,7 +7,8 @@ nav:
   - Home: index.md
   - Atas:
     - Ata 1: Atas/ata01.md
-
+    - Ata 2: Atas/ata02.md
+    
   - Apresentações:
     - Apresentação 1: Apresentacoes/apresentacao01.md
 

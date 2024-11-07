@@ -26,7 +26,7 @@ Os participantes da verificação são integrantes do grupo [Thales Euflauzino](
 |        1         | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                       |    Sim     |
 |        2         | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                       |    Sim     |
 |        3         | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa              |    Sim     |
-|        4         | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                        |    Sim     |
+|        4         | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                        |    Incompleto     |
 |        5         | A motivação e os critérios para a escolha do App?                                                                              |    Sim     |
 |        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    Sim     |
 |        7         | Possui opção de contraste de cores?                                                                              |    Sim     |
@@ -82,4 +82,6 @@ _Fonte: [Víctor Schmidt](https://github.com/moonshinerd)_
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 02/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 02/11/2024 | Adicionando revisão da Rich Picture | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.2` | 06/11/2024 | Adicionando vídeo de verificação ao relatorio | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.2` | 06/11/2024 | Mudando avaliação do cronograma | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.3` | 06/11/2024 | Adicionando vídeo de verificação ao relatorio | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
+
