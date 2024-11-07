@@ -26,7 +26,7 @@ Os participantes da verificação são integrantes do grupo [Thales Euflauzino](
 |        1         | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                       |    Sim     |
 |        2         | O cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                       |    Sim     |
 |        3         | O cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa              |    Sim     |
-|        4         | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                        |    Sim     |
+|        4         | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                        |    Não     |
 |        5         | A motivação e os critérios para a escolha do App?                                                                              |    Sim     |
 |        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    Sim     |
 |        7         | Possui opção de contraste de cores?                                                                              |    Sim     |
