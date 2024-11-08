@@ -67,18 +67,19 @@ _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2
 >
 > Meu INSS. Disponível em: <https://requisitos-de-software.github.io/2024.2-MeuINSS/>. Acesso em 07 de novembro de 2024.
 >
-><a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 1](../../grupo5/entrega1/rp1.png)
+><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](../../grupo5/entrega1/rp1.png)
 >****
-><a id="anchor_6" href="#REF6"><sup>6</sup></a><br>![Referência 2](../../grupo5/entrega1/rp2.png)
+><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>![Referência 2](../../grupo5/entrega1/rp2.png)
 >****
-><a id="anchor_7" href="#REF7"><sup>7</sup></a><br>![Referência 3](../../grupo5/entrega1/rp3.png)
+><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 3](../../grupo5/entrega1/rp3.png)
 >****
-> <a id="anchor_8" href="#REF8"><sup>8</sup></a><br>![Referência 4](../../grupo5/entrega1/rp4.png)
+> <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>![Referência 4](../../grupo5/entrega1/rp4.png)
 >****
-> <a id="anchor_9" href="#REF9"><sup>9</sup></a><br>![Referência 5](../../grupo5/entrega1/rp5.png)
+> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 5](../../grupo5/entrega1/rp5.png)
 
 ## Histórico de Versões
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 07/11/2024 | Criação do documento  | [Todos os integrantes do grupo](../../../index.md) | [Todos os integrantes do grupo](../../../index.md) |
+| `1.1` | 07/11/2024 | Arrumando bibliografia  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena) |
