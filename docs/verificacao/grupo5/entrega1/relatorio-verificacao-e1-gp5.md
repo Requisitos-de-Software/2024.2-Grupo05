@@ -14,7 +14,7 @@ Os resultados da verificação do artefato foram obtidos a partir das checklists
 
 ### Cronograma e Participantes
 
-Os participantes da verificação são integrantes do grupo [Thales Euflauzino](https://github.com/thaleseuflauzino), que irá verificar e corrigir possíveis problemas. E o integrante do grupo [Víctor Schmidt](https://github.com/moonshinerd) realizará a revisão da avaliação realizada. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega1/planej-verificacao-e1-gp5.md).
+Os participantes da verificação são integrantes do grupo. [Thales Euflauzino](https://github.com/thaleseuflauzino), que irá verificar e corrigir possíveis problemas. E o integrante do grupo [Víctor Schmidt](https://github.com/moonshinerd) realizará a revisão da avaliação realizada. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega1/planej-verificacao-e1-gp5.md).
 
 <center>
 
@@ -49,11 +49,13 @@ Os participantes da verificação são integrantes do grupo [Thales Euflauzino](
 
 _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
+
 </center>
 
 ## Referências Bibliográficas
 
-> Plano de Ensino. Professor André Barros de Sales. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
+
+> SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
 >
 > CTEC2402 - Software Development Project **Introducing Rich Pictures - Rich Picture Drawing Guidelines.**. Acesso em: 28 out. 2024
 >
