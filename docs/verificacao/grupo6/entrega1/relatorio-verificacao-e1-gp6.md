@@ -82,3 +82,4 @@ _Fonte: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 07/11/2024 | Criação do documento  | [Todos os integrantes do grupo](../../../index.md) | [Todos os integrantes do grupo](../../../index.md) |
+| `1.1` | 07/11/2024 | Arrumando bibliografia  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena) |
