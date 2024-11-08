@@ -34,11 +34,11 @@ _Fonte: SOMMERVILLE (2007)._<a id="anchor_4" href="#REF4"><sup>4</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Heatmap](../../../Planejamento-do-projeto/heatmap.md) na versão 1.1 de data 31/10/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflazino](https://github.com/thaleseuflauzino) com revisão de [Thales Euflazino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd).
+- [Heatmap](../../../Planejamento-do-projeto/heatmap.md) na versão 1.1 de data 31/10/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd).
 - [Lista de apps avaliados](../../../Planejamento-do-projeto/lista-apps-avaliados.md) na versão 1.5 de data 31/10/2024, produzido por e revisado por todos os membros do grupo.
-- [App Escolhido](../../../Planejamento-do-projeto/app-escolhido.md) na versão 1.3 de data 29/10/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Júlia Takaki](https://github.com/juliatakaki) com revisão de [Thales Euflazino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd)
-- [Rich Picture](../../../Planejamento-do-projeto/rich-picture.md) na versão 1.1 de data 02/11/2024, produzido por [Thales Euflazino](https://github.com/thaleseuflauzino) e [Júlia Takaki](https://github.com/juliatakaki) com a revisão de [Víctor Schmidt](https://github.com/moonshinerd).
-- [Cronograma](../../../Planejamento-do-projeto/cronograma.md) na versão 1.3 de data 02/11/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflazino](https://github.com/thaleseuflauzino).
+- [App Escolhido](../../../Planejamento-do-projeto/app-escolhido.md) na versão 1.3 de data 29/10/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Júlia Takaki](https://github.com/juliatakaki) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd)
+- [Rich Picture](../../../Planejamento-do-projeto/rich-picture.md) na versão 1.1 de data 02/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Júlia Takaki](https://github.com/juliatakaki) com a revisão de [Víctor Schmidt](https://github.com/moonshinerd).
+- [Cronograma](../../../Planejamento-do-projeto/cronograma.md) na versão 1.3 de data 02/11/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
 
 ### Resultados das Verificações
 
@@ -48,7 +48,7 @@ Os resultados das verificações podem ser acessados através do seguinte link:
 
 ### Cronograma
 
-A verificação será realizada no período de 20 de junho de 2023 até 21 de junho de 2023, com os resultados sendo relatados através da página de documentação do Grupo 1 no dia 21 de junho de 2023. A tabela 2 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A verificação será realizada no período de 06 de novembro de 2024, com os resultados sendo relatados através da página de documentação do Grupo 5 no dia 06 de novembro de 2024. A tabela 2 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
@@ -56,7 +56,7 @@ A verificação será realizada no período de 20 de junho de 2023 até 21 de ju
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-| 30/10/2024 | Verificação do Rich Picture. | [Thales Euflazino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) |
+| 30/10/2024 | Verificação do Rich Picture. | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) |
 | 02/11/2024 | Adição dos resultados.       | [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo)     |
 
 _Fonte: Elaborado por [Víctor Schmidt](https://github.com/moonshinerd), 2024_
@@ -77,13 +77,13 @@ Com o intuito de melhor organizar a verificação, a checklist de verificação 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-|        1         | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                       |    Sim     |
-|        2         | o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                       |    Sim     |
-|        3         | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa              |    Sim     |
-|        4         | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                        |    Sim     |
-|        5         | A motivação e os critérios para a escolha do App?                                                                              |    Sim     |
-|        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    Sim     |
-|        7         | Possui opção de contraste de cores?                                                                              |    Sim     |
+|        1         | Uma página apresentando os integrantes da equipe (com foto) com nome e sem matrícula?                                                                                       |    ---     |
+|        2         | o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles?                                                       |    ---     |
+|        3         | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa              |    ---     |
+|        4         | O cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor?                                        |    ---     |
+|        5         | A motivação e os critérios para a escolha do App?                                                                              |    ---     |
+|        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    ---     |
+|        7         | Possui opção de contraste de cores?                                                                              |    ---     |
 
 _Fonte: Elaborada pela Equipe do Projeto, 2024._
 
@@ -99,13 +99,13 @@ O *Rich Picture* para o Tesouro Direto foi criado pela [Julia Takaki](https://gi
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-|<a id="REF5" href="#anchor_5">1</a>| O Rich Picture conta uma história clara e compreensível? <br> **Autor: Thales Euflauzino**                                                                              |    Sim     |
-|        <a id="REF6" href="#anchor_6">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Guimarães**                                                                               |    Sim     |
-|        <a id="REF7" href="#anchor_7">3</a>        | O Rich Picture tem todas as palavras chaves necessárias do projeto?      <br> **Autor: Víctor Schmidt**                                                                         |    Sim     |
-|        <a id="REF8" href="#anchor_8">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    Sim     |
-|        <a id="REF9" href="#anchor_9">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    Sim     |
+|<a id="REF5" href="#anchor_5">1</a>| O Rich Picture conta uma história clara e compreensível? <br> **Autor: Thales Euflauzino**                                                                              |    ---     |
+|        <a id="REF6" href="#anchor_6">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Guimarães**                                                                               |    ---     |
+|        <a id="REF7" href="#anchor_7">3</a>        | O Rich Picture tem todas as palavras chaves necessárias do projeto?      <br> **Autor: Víctor Schmidt**                                                                         |    ---     |
+|        <a id="REF8" href="#anchor_8">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    ---     |
+|        <a id="REF9" href="#anchor_9">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    ---     |
 
-_Fonte: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflazino](https://github.com/thaleseuflauzino), 2024._
+_Fonte: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
 </center>
 
