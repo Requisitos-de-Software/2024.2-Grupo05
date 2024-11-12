@@ -12,9 +12,9 @@ O objetivo deste documento é verificar se os artefatos produzidos em cada etapa
 
 O grupo determinou que todos utilizariam a metodologia de verificação por inspeção, desenvolvida por Michael E. Fagan, na IBM em 1976 <a id="anchor_1" href="#REF1"><sup>1</sup></a>. As entregas e os artefatos foram distribuídos entre os integrantes do grupo para que todos pudessem participar da verificação. Para cada entrega foi produzido um documento de planejamneto de verififcação com as listas de verificação que foram inspecionadas e para cada artefato foi criado um documento com os resultados da verificação daquele artefato específico.
 
-## Checklists
+## Lista de Verificação
 
-Para cada entrega, serão elaboradas checklists para verficar os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos
+Para cada entrega, serão elaboradas listas de verificação para verficar os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos
 
 ## Referências bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> SOMMERVILLE, Ian. **Engenharia de software.** 08. ed. São Paulo: Pearson Addison Wesley, 2007
@@ -22,3 +22,5 @@ Para cada entrega, serão elaboradas checklists para verficar os padrões espera
 | Versão | Data       | Descrição             | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | --------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 02/11/2024 | Criação do documento. | [Thales Euflauzino](https://github.com/thaleseuflauzino)      | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+
