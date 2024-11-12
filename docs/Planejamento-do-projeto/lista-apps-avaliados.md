@@ -32,7 +32,7 @@ Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativ
       <td><a href="https://github.com/ViictorHugoo">Victor Hugo</a></td>
     </tr>
     <tr>
-      <td>Aprender3</td>
+      <td>eOuve - Juiz de Fora</td>
       <td><a href="https://github.com/moonshinerd">Víctor Schmidt</a></td>
     </tr>
   </tbody>
