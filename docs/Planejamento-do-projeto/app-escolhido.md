@@ -15,7 +15,7 @@ Com base nos critérios anteriores, o grupo se reuniu e decidiu que seria usado 
 
 ### Termos de uso
 
-Para realizar o projeto em conformidade com as normas legais, verificamos os [termos de uso](https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso) do [Tesouro Direto](https://www.tesourodireto.com.br). Conforme mostra a Figura 2, é vedado o uso para fins comerciais sem autorização prévia. No entanto, como o projeto tem como único e exclusivo objetivo aplicar na prática os conhecimentos adquiridos em aula, não estaremos infringindo qualquer termo.
+Para realizar o projeto em conformidade com as normas legais, verificamos os [termos de uso](https://www.tesourodireto.com.br/conheca/termos-de-uso-e-protecao-de-dados.htm#termos-de-uso) do [Tesouro Direto](https://www.tesourodireto.com.br) no dia 28 de outubro de 2024. Conforme mostra a Figura 2, é vedado o uso para fins comerciais sem autorização prévia. No entanto, como o projeto tem como único e exclusivo objetivo aplicar na prática os conhecimentos adquiridos em aula, não estaremos infringindo qualquer termo.
 
 ##### Figura 2: Termo de Uso
 
@@ -36,4 +36,4 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 | `1.1` | 28/10/2024  | Adição de Informações | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2` | 29/10/2024  | Adicionando Rich Picture | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 29/10/2024  | Adicionando Fontes e Autores | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-
+| `1.4` | 12/11/2024  | Colocando data do termo de uso | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
