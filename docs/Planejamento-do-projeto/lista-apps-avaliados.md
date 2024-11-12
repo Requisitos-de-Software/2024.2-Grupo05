@@ -38,7 +38,7 @@ Na fase inicial do projeto, os estudantes selecionaram individualmente aplicativ
   </tbody>
 </table>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p></font>
 </div>
 
 ### Tesouro Direto
@@ -123,3 +123,4 @@ O [eOuve](https://eouve.com.br/#/) é um aplicativo desenvolvido pela Prefeitura
 | `1.3` | 29/10/2024 | Informações eOuve Juiz de Fora | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4` | 29/10/2024 | Informações Quinto Andar | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.5` | 31/10/2024 | Adicionando Referência Bibliográfica Quinto Andar | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.6` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
