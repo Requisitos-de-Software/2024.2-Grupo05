@@ -2,11 +2,11 @@
 
 ## Introdução
 
-O artefato a seguir visa apresentar o planejamento para a verificação de cada artefato da etapa 1 do projeto do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
+O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 1 do projeto do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos para entrega 1 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos para tais. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis por esse artefato ou seu trabalho, apenas aplicar os conceitos de verificação.
+O objetivo deste documento é verificar se os artefatos produzidos para entrega 1 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
 
 ## Metodologia
 
@@ -59,7 +59,7 @@ A verificação será realizada no período de 06 de novembro de 2024, com os re
 | 30/10/2024 | Verificação do Rich Picture. | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) |
 | 02/11/2024 | Adição dos resultados.       | [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo)     |
 
-_Autor: Elaborado por [Víctor Schmidt](https://github.com/moonshinerd), 2024_
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 </center>
 
@@ -85,7 +85,7 @@ Com o intuito de melhor organizar a verificação, a lista de verificação ser�
 |        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    ---     |
 |        7         | Possui opção de contraste de cores?                                                                              |    ---     |
 
-_Autor: Elaborada pela Equipe do Projeto, 2024._
+_Autores: Equipe do Projeto, 2024._
 
 </center>
 
@@ -105,7 +105,7 @@ O **Rich Picture** para o Tesouro Direto foi criado pela [Julia Takaki](https://
 |        <a id="REF8" href="#anchor_8">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    ---     |
 |        <a id="REF9" href="#anchor_9">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    ---     |
 
-_Autor: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
+_Autores: [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
 </center>
 
@@ -134,5 +134,5 @@ _Autor: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 02/11/2024 | Criação do documento  | [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
-| `1.2` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.2` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
