@@ -2,11 +2,11 @@
 
 ## Introdução
 
-O artefato a seguir visa apresentar o planejamento para a verificação de cada artefato da etapa 1 do projeto do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
+O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 1 do projeto do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos para entrega 1 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos para tais. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis por esse artefato ou seu trabalho, apenas aplicar os conceitos de verificação.
+O objetivo deste documento é verificar se os artefatos produzidos para entrega 1 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
 
 ## Metodologia
 
@@ -59,21 +59,21 @@ A verificação será realizada no período de 06 de novembro de 2024, com os re
 | 30/10/2024 | Verificação do Rich Picture. | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) |
 | 02/11/2024 | Adição dos resultados.       | [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo)     |
 
-_Fonte: Elaborado por [Víctor Schmidt](https://github.com/moonshinerd), 2024_
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 </center>
 
-## Checklists
+## Lista de Verificação
 
-As checklists foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com os slides da _Aula 04 da professora Milene e Maurício Serrano_<a id=anchor_3 href="#REF3"><sup>3</sup></a> e a literatura _Introducing Rich Picture - Rich Picture Drawing Guidelines_<a id=anchor_2 href="#REF2"><sup>2</sup></a>.
+As listas de verificação foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com os slides da _Aula 04 da professora Milene e Maurício Serrano_<a id=anchor_3 href="#REF3"><sup>3</sup></a> e a literatura _Introducing Rich Picture - Rich Picture Drawing Guidelines_<a id=anchor_2 href="#REF2"><sup>2</sup></a>.
 
-Com o intuito de melhor organizar a verificação, a checklist de verificação será dividida em 2 checklists sendo que uma deverá estar presente em todas as etapas de verificação, no caso a checklist Geral. Sendo assim, as checklists são as seguintes: Geral e Rich Picture. As tabelas de 3 a 4 apresenta as checklists utilizadas na verificação.
+Com o intuito de melhor organizar a verificação, a lista de verificação será dividida em 2 listas sendo que uma deverá estar presente em todas as etapas de verificação, no caso a Lista de Verificação Geral. Sendo assim, as listas de verificação serão as seguintes: Geral e Rich Picture. As tabelas de 3 a 4 apresenta as listas de verificação utilizadas na verificação.
 
 ### Geral
 
 <center>
 
-**Tabela 3** - Checklist Itens do Planejamento Geral do projeto .
+**Tabela 3** - Lista de Verificação dos Itens do Planejamento Geral do projeto .
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -85,17 +85,17 @@ Com o intuito de melhor organizar a verificação, a checklist de verificação 
 |        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    ---     |
 |        7         | Possui opção de contraste de cores?                                                                              |    ---     |
 
-_Fonte: Elaborada pela Equipe do Projeto, 2024._
+_Autores: Equipe do Projeto, 2024._
 
 </center>
 
 ### Rich Picture
 
-O *Rich Picture* para o Tesouro Direto foi criado pela [Julia Takaki](https://github.com/juliatakaki) e ajudou a equipe a visualizar os processos e os principais pontos do projeto de maneira clara e direta. Já a checklist foi desenvolvida por todos os membros, reunindo as contribuições e perspectivas de cada um. Esse trabalho colaborativo garantiu que todas as etapas fossem cuidadosamente planejadas e acompanhadas, facilitando a organização e permitindo que o grupo mantivesse o foco nos objetivos do projeto.
+O **Rich Picture** para o Tesouro Direto foi criado pela [Julia Takaki](https://github.com/juliatakaki) e ajudou a equipe a visualizar os processos e os principais pontos do projeto de maneira clara e direta. Já a lista de verificação foi desenvolvida por todos os membros, reunindo as contribuições e perspectivas de cada um. Esse trabalho colaborativo garantiu que todas as etapas fossem cuidadosamente planejadas e acompanhadas, facilitando a organização e permitindo que o grupo mantivesse o foco nos objetivos do projeto.
 
 <center>
 
-**Tabela 4** - Checklist para a Verificação do Rich Picture.
+**Tabela 4** - Lista para a Verificação do Rich Picture.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -105,7 +105,7 @@ O *Rich Picture* para o Tesouro Direto foi criado pela [Julia Takaki](https://gi
 |        <a id="REF8" href="#anchor_8">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    ---     |
 |        <a id="REF9" href="#anchor_9">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    ---     |
 
-_Fonte: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
+_Autores: [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
 </center>
 
@@ -134,4 +134,5 @@ _Fonte: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 02/11/2024 | Criação do documento  | [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-
+| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.2` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |

@@ -9,7 +9,7 @@ Como representado pela Figura 1, as células com o número 0 representam 0 membr
 ![heatmap](../assets/heatmap.png)
 
 <div>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://www.github.com/juliatakaki">Victor Rodrigues, 2024</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
 </div>
 
 
@@ -21,3 +21,4 @@ A partir da análise do heatmap preenchido pelos membros do grupo, ficaram reser
 | ------ | ---------- | --------- | --------- | --------------------- |
 | 1.0 | 28/10/2024 | Estruturação Inicial | [Victor Rodrigues](https://github.com/ViictorHugoo)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | 1.1 | 31/10/2024 | Adicionando horário das reuniões | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  [Víctor Schmidt](https://github.com/moonshinerd)  |
+| `1.2` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |

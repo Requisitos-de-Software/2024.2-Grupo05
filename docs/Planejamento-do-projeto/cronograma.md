@@ -49,7 +49,7 @@ O cronograma estabelece a organização temporal de todas as atividades prevista
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 1 - Planejamento
 A primeira entrega foca no planejamento do projeto. Isso inclui a definição da equipe, levantamento das ferramentas, escolha do aplicativo a ser analisado e elaboração do cronograma. Também envolve o desenvolvimento de uma representação visual do projeto, como o Rich Picture, para facilitar o entendimento das principais partes interessadas.
@@ -158,7 +158,7 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
 <br>
@@ -265,7 +265,7 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 2 - Elicitação
 Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas de elicitação e priorização são selecionadas e aplicadas para definir claramente os perfis de usuários e as necessidades do projeto. Essa etapa é crucial para garantir que todos os requisitos essenciais sejam capturados de forma clara e organizada.
@@ -350,7 +350,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
 <br>
@@ -433,7 +433,7 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 3 - Modelagem de Requisitos 1.1
 A terceira entrega concentra-se na modelagem dos requisitos por meio de cenários, léxicos, casos de uso e especificações suplementares. Esta etapa visa documentar o comportamento esperado do sistema e detalhar os requisitos de maneira formal.
@@ -494,7 +494,7 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
 <br>
@@ -553,7 +553,7 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 4 - Modelagem de Requisitos 1.2
 A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utilizando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
@@ -606,7 +606,7 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
 <br>
@@ -657,7 +657,7 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 5 - Análise de Requisitos
 Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este é o momento de garantir que os requisitos estejam completos, consistentes e que o sistema esteja alinhado com as expectativas dos usuários.
@@ -710,7 +710,7 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
 <br>
@@ -761,7 +761,7 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 6 - Pós-Rastreabilidade
 Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordados, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
@@ -814,7 +814,7 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
 <br>
@@ -865,7 +865,7 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega Final
 A última etapa do cronograma é a entrega do projeto final, culminando na apresentação do trabalho desenvolvido.
@@ -910,7 +910,7 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
 <br>
@@ -953,7 +953,7 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
     </tr>
   </tbody>
 </table>
-Fonte: [Maria Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Histórico de versões
 | Versão | Data       | Descrição | Autor     |       Revisor         |
@@ -963,3 +963,4 @@ Fonte: [Maria Helena](https://github.com/MariaCHelena)
 | `1.2` | 02/11/2024  | Correção das datas de entrega e etapas do cronograma, correção dos título das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 02/11/2024  | Adição de fontes e títulos das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 02/11/2024  | Adição das etapas de verificação | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
