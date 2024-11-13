@@ -1,8 +1,8 @@
-# Verificação dos artefatos
+![image](https://github.com/user-attachments/assets/112cdfa9-5eb7-408f-9756-883ff1fadda2)# Verificação dos artefatos
 
 ## Introdução
 
-Após realizado o planejamento, agora iremos inspecionar os artefatos. Esse documento apresenta os objetivos da verificação, a metodologia utilizada e a lista de verificação da avaliação. Além disso, os possíveis problemas encontrados poderão ter observações, além de que serão sumarizados e analisados obtendo informações valiosas que serão utilizadas para ajudar na correção dos mesmos.
+Após o planejamento, realiza-se a inspeção dos artefatos. Este documento apresenta os objetivos da verificação, a metodologia utilizada e a lista de verificação para a avaliação. Além disso, os problemas encontrados poderão conter observações e serão sumarizados e analisados, fornecendo informações valiosas para auxiliar na sua correção.
 
 ## Objetivo
 
@@ -10,7 +10,7 @@ O objetivo deste documento é relatar os resultados das verificações realizada
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega1/planej-verificacao-e1-gp5.md) Para responder às perguntas apresentadas na lista de verificação o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador poderá também escrever observações em cada pergunta detalhando pontos que achar necessários.
+Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega1/planej-verificacao-e1-gp5.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador poderá, também, escrever observações em cada pergunta, detalhando pontos que achar necessários.
 
 ### Cronograma e Participantes
 
@@ -47,7 +47,7 @@ Os participantes da verificação são integrantes do grupo. [Thales Euflauzino]
 |        <a id="REF4" href="#anchor_4">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?                                                                     |    Sim     | Julia Takaki |      06/11/2024 21:20          |
 |        <a id="REF5" href="#anchor_5">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"?                                                                                                   |    Sim     | Maria Helena |       06/11/2024 21:20         |
 
-Autor: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
+Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
 
 </center>
@@ -86,6 +86,6 @@ Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 | `1.1` | 02/11/2024 | Adicionando revisão da Rich Picture | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2` | 06/11/2024 | Mudando avaliação do cronograma | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
 | `1.3` | 06/11/2024 | Adicionando vídeo de verificação ao relatorio | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
-| `1.4` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
-| `1.5` | 12/11/2024  | Adicionando autor e data na tabela de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
-| `1.6` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+| `1.4` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.5` | 12/11/2024  | Adicionando autor e data na tabela de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.6` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
