@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Após realizado o planejamento, agora iremos inspecionar os artefatos do Grupo 06. Esse documento apresenta os objetivos da verificação, a metodologia utilizada e a lista de verificação da avaliação. Além disso, os possíveis problemas encontrados poderão ter observações, além de que serão sumarizados e analisados obtendo informações valiosas que serão utilizadas para ajudar na correção dos mesmos.
+Após o planejamento, realiza-se a inspeção dos artefatos do Grupo 06. Este documento apresenta os objetivos da verificação, a metodologia utilizada e a lista de verificação para a avaliação. Além disso, os problemas encontrados poderão conter observações e serão sumarizados e analisados, fornecendo informações valiosas para auxiliar na sua correção.
 
 ## Objetivo
 
@@ -83,6 +83,6 @@ _Autor: Elaborada por [Thales Euflauzino](https://github.com/thaleseuflauzino) 2
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 07/11/2024 | Criação do documento  | [Todos os integrantes do grupo](../../../index.md) | [Todos os integrantes do grupo](../../../index.md) |
 | `1.1` | 07/11/2024 | Arrumando bibliografia  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena) |
-| `1.2` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
-| `1.3` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
-| `1.4` | 12/11/2024  | Adicionando autor e data na tabela de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+| `1.2` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.3` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.4` | 12/11/2024  | Adicionando autor e data na tabela de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
