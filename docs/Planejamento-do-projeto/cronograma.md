@@ -963,4 +963,4 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 | `1.2` | 02/11/2024  | Correção das datas de entrega e etapas do cronograma, correção dos título das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 02/11/2024  | Adição de fontes e títulos das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 02/11/2024  | Adição das etapas de verificação | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+| `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
