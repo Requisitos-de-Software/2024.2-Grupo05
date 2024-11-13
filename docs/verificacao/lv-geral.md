@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados.
+A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que cumpram com os seus requisitos especificados.
 
 ## Objetivos
 
@@ -22,5 +22,5 @@ Para cada entrega, serão elaboradas listas de verificação para verficar os pa
 | Versão | Data       | Descrição             | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | --------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 02/11/2024 | Criação do documento. | [Thales Euflauzino](https://github.com/thaleseuflauzino)      | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
