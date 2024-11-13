@@ -36,4 +36,4 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os [te
 | `1.1` | 28/10/2024  | Adição de Informações | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2` | 29/10/2024  | Adicionando Rich Picture | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 29/10/2024  | Adicionando Fontes e Autores | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.4` | 12/11/2024  | Colocando data do termo de uso | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+| `1.4` | 12/11/2024  | Colocando data do termo de uso | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
