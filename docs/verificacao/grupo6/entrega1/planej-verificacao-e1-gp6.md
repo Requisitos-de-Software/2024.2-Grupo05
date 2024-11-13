@@ -6,11 +6,11 @@ O artefato a seguir visa apresentar o planejamento para a verificação de cada 
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos para entrega 1 do [grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) possuem os itens e o padrão exigidos para tais. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis por esse artefato ou seu trabalho, apenas aplicar os conceitos de verificação.
+O objetivo deste documento é verificar se os artefatos produzidos para entrega 1 do [grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis por esse artefato ou seu trabalho, apenas aplicar os conceitos de verificação.
 
 ## Metodologia
 
-A metodologia escolhida para esta verificação é uma adaptação da inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de se encontrar defeitos, a figura 1 exemplifica as etapas que Fagan propôs para esse processo.
+A metodologia escolhida para esta verificação é uma adaptação da inspeção. Desenvolvida originalmente para códigos de software por Fagan na IBM em 1976, essa técnica consiste em uma revisão formal dos artefatos produzidos a fim de encontrar defeitos, a figura 1 exemplifica as etapas que Fagan propôs para esse processo.
 
 <center>
 
@@ -58,7 +58,7 @@ A verificação será realizada em 07 de novembro de 2024, com os resultados sen
 | ---------- | ---------------------------- | ------------------------------------------- |
 | 07/11/2024 | Verificação do [projeto do grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS/)| Todos do grupo |
 
-_Fonte: Elaborado por [Víctor Schmidt](https://github.com/moonshinerd), 2024_
+_Autor: Elaborado por [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 </center>
 
@@ -85,7 +85,7 @@ Com o intuito de melhor organizar a verificação, a lista de verificação ser�
 |        6         | Cópia do Termo de Uso, Direito de Uso ou Propriedade Intelectual do aplicativo permitindo o estudo na disciplina.                                                                              |    -    |
 |        7         | Possui opção de contraste de cores?                                                                              |    -    |
 
-_Fonte: Elaborada pela Equipe do Projeto, 2024._
+_Autor: Equipe do Projeto, 2024._
 
 </center>
 
@@ -103,7 +103,7 @@ _Fonte: Elaborada pela Equipe do Projeto, 2024._
 |        4        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    -    |
 |        5        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    -    |
 
-_Fonte: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
+_Autores: [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
 </center>
 
@@ -125,4 +125,4 @@ _Fonte: Elaborada por [Victor Schmidt](https://github.com/moonshinerd) e [Thales
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 07/11/2024 | Criação do documento  | [Todos os integrantes do grupo](../../../index.md) | [Todos os integrantes do grupo](../../../index.md) |
-| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | Colocar revisor |
+| `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
