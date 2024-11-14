@@ -156,6 +156,14 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
       <td>28/10</td>
       <td>28/10</td>
     </tr>
+    <tr>
+      <td>Revisão pós apresentação</td>
+      <td>Thales Euflauzino</td>
+      <td>Victor Rodrigues</td>
+      <td>07/11</td>
+      <td>09/11</td>
+      <td>09/11</td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -263,6 +271,13 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>02/11</td>
       <td>02/11</td>
     </tr>
+    <td>Revisão pós apresentação</td>
+      <td>Thales Euflauzino</td>
+      <td>Victor Rodrigues</td>
+      <td>12/11</td>
+      <td>13/11</td>
+      <td>13/11</td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -348,6 +363,14 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>23/11</td>
       <td>23/11</td>
     </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Maria Helena</td>
+      <td>Victor Schmidt</td>
+      <td>25/11</td>
+      <td>25/11</td>
+      <td>25/11</td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -431,6 +454,14 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>-</td>
       <td>23/11</td>
     </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Maria Helena</td>
+      <td>Victor Schmidt</td>
+      <td> - </td>
+      <td> - </td>
+      <td> - </td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -492,6 +523,14 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
       <td>07/12</td>
       <td>07/12</td>
     </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Julia Takaki</td>
+      <td>Thales Euflauzino</td>
+      <td> 09/12 </td>
+      <td> 09/12 </td>
+      <td> 09/12 </td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -551,6 +590,14 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>-</td>
       <td>07/12</td>
     </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Julia Takaki</td>
+      <td>Thales Euflauzino</td>
+      <td> - </td>
+      <td> - </td>
+      <td> - </td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -604,6 +651,14 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
       <td>15/12</td>
       <td>15/12</td>
     </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Victor Rodrigues</td>
+      <td>Maria Helena</td>
+      <td> 15/12 </td>
+      <td> 15/12 </td>
+      <td> 15/12 </td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -654,6 +709,14 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>14/12</td>
       <td>-</td>
       <td>15/12</td>
+    </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Victor Rodrigues</td>
+      <td>Maria Helena</td>
+      <td> - </td>
+      <td> - </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -708,6 +771,14 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
       <td>29/01</td>
       <td>29/01</td>
     </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Victor Schmidt</td>
+      <td>Julia Takaki</td>
+      <td> 29/01 </td>
+      <td> 29/01 </td>
+      <td> 29/01 </td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -758,6 +829,14 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>28/01</td>
       <td>-</td>
       <td>29/01</td>
+    </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Victor Schmidt</td>
+      <td>Julia Takaki</td>
+      <td> - </td>
+      <td> - </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -812,6 +891,14 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
       <td>19/01</td>
       <td>19/01</td>
     </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Thales Euflauzino</td>
+      <td>Victor Rodrigues</td>
+      <td> 19/01 </td>
+      <td> 19/01 </td>
+      <td> 19/01 </td>
+    </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
@@ -862,6 +949,14 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>18/01</td>
       <td>-</td>
       <td>19/01</td>
+    </tr>
+    <tr>
+    <td>Revisão pós apresentação</td>
+      <td>Thales Euflauzino</td>
+      <td>Victor Rodrigues</td>
+      <td> - </td>
+      <td> - </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -964,3 +1059,4 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 | `1.3` | 02/11/2024  | Adição de fontes e títulos das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 02/11/2024  | Adição das etapas de verificação | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.5` | 14/11/2024  | Adicionando periodo de revisão pós apresentações | [Victor Rodrigues](https://github.com/ViictorHugoo) | A definir |
