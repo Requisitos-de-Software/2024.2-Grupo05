@@ -271,6 +271,7 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>02/11</td>
       <td>02/11</td>
     </tr>
+    <tr>
     <td>Revisão pós apresentação</td>
       <td>Thales Euflauzino</td>
       <td>Victor Rodrigues</td>
@@ -1059,4 +1060,4 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 | `1.3` | 02/11/2024  | Adição de fontes e títulos das tabelas | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3` | 02/11/2024  | Adição das etapas de verificação | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.5` | 14/11/2024  | Adicionando periodo de revisão pós apresentações | [Victor Rodrigues](https://github.com/ViictorHugoo) | A definir |
+| `1.5` | 14/11/2024  | Adicionando periodo de revisão pós apresentações | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) |
