@@ -82,4 +82,4 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0` | 15/11/2024  | Estruturação Inicial | [Víctor Schmidt](https://github.com/moonshinerd) |  |
+| `1.0` | 15/11/2024  | Estruturação Inicial | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
