@@ -11,7 +11,7 @@ A técnica de introspecção foi aplicada individualmente por [Víctor Schmidt](
 ### Introspecção do Autor
 Para aplicar essa metodologia, imaginei-me em uma situação onde eu, como usuário, desejasse investir no Tesouro Direto e acessasse o aplicativo para realizar essa tarefa. Sem visualizar o aplicativo, procurei listar todas as funções essenciais que ele deveria oferecer para tornar o processo de investimento mais simples e eficiente. Além disso, considerei as dificuldades comuns que um investidor iniciante poderia enfrentar e como o aplicativo deveria abordar esses desafios, proporcionando soluções intuitivas e funcionais.
 
-Esse processo de introspecção para elicitação de requisitos consiste justamente em colocar-se no lugar do usuário sem a referência visual direta do produto, buscando compreender quais funcionalidades (tanto funcionais quanto não funcionais) são fundamentais. No contexto do aplicativo do Tesouro Direto, essa abordagem me permitiu estruturar uma visão clara dos recursos necessários, levando em conta a experiência do usuário e o conhecimento prévio de funcionalidades encontradas em aplicativos semelhantes.
+Esse processo de introspecção para elicitação de requisitos consiste justamente em colocar-se no lugar do usuário sem a referência visual direta do produto, buscando compreender quais funcionalidades (tanto funcionais quanto não funcionais) são fundamentais. No contexto do aplicativo do [Tesouro Direto](https://www.tesourodireto.com.br/), essa abordagem me permitiu estruturar uma visão clara dos recursos necessários, levando em conta a experiência do usuário e o conhecimento prévio de funcionalidades encontradas em aplicativos semelhantes.
 
 ## Requisitos Elicitados
 
@@ -20,7 +20,7 @@ Esse processo de introspecção para elicitação de requisitos consiste justame
 - **RNFx**: Requisito Não Funcional número x;
 - **ITx**: Requisito número x;
 
-Aqui está a elaboração dos requisitos do Tesouro Direto com base nas suas anotações:
+Aqui está a elaboração dos requisitos do [Tesouro Direto](https://www.tesourodireto.com.br/) com base nas suas anotações:
 
 ---
 
@@ -63,11 +63,11 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 | Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) | Priorização (MoSCoW) |
 |--------|---------------------------------------------------------------------------|------|---------------------|---------------------|
 | RNF1   | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | IT13 | Não        | Must Have           |
-| RNF2   | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD.      | IT14 | Sim                 | Must Have           |
-| RNF3   | O aplicativo deve ser responsivo para dispositivos móveis e tablets.      | IT15 | Sim                 | Must Have           |
-| RNF4   | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade.  | IT16 | Não                 | Should Have         |
-| RNF5   | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | IT5 | Sim          | Must Have           |
-| RNF6   | Disponibilizar suporte para múltiplos idiomas (português como padrão).    | IT17 | Não                 | Could Have          |
+| RNF2   | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD.      | IT21 | Sim                 | Must Have           |
+| RNF3   | O aplicativo deve ser responsivo para dispositivos móveis e tablets.      | IT22 | Sim                 | Must Have           |
+| RNF4   | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade.  | IT23 | Não                 | Should Have         |
+| RNF5   | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | IT24 | Sim          | Must Have           |
+| RNF6   | Disponibilizar suporte para múltiplos idiomas (português como padrão).    | IT25 | Não                 | Could Have          |
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 </center>
