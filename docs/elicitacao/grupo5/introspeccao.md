@@ -20,8 +20,6 @@ Esse processo de introspecção para elicitação de requisitos consiste justame
 - **RNFx**: Requisito Não Funcional número x;
 - **ITx**: Requisito número x;
 
-Aqui está a elaboração dos requisitos do [Tesouro Direto](https://www.tesourodireto.com.br/) com base nas suas anotações:
-
 ---
 
 ### **Requisitos Funcionais**
