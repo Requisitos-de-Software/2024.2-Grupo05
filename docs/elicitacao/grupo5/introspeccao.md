@@ -20,15 +20,59 @@ Esse processo de introspecção para elicitação de requisitos consiste justame
 - **RNFx**: Requisito Não Funcional número x;
 - **ITx**: Requisito número x;
 
-### Funcionais
+Aqui está a elaboração dos requisitos do Tesouro Direto com base nas suas anotações:
 
-| Tipo | Descrição | ID | Elaborado (Sim/Não) | Priorização (MoSCoW) |
-| ------ | ---------- | --------- | --------- | --------------------- |
+---
 
-### Não Funcionais
+### **Requisitos Funcionais**
 
-| Tipo | Descrição | ID | Elaborado (Sim/Não) | Priorização (MoSCoW) |
-| ------ | ---------- | --------- | --------- | --------------------- |
+<center>
+**Tabela 1** - Requisitos Funcionais.
+
+| Tipo | Descrição | ID   | Elaborado (Sim/Não) | Priorização (MoSCoW) |
+|------|-----|------|---------------------|---------------------|
+| RF1  | Permitir a consulta de investimentos por instituição financeira.                                  | IT1  | Sim                 | Must Have           |
+| RF2  | Permitir a simulação, realização e visualização de detalhes de investimentos nos títulos SELIC, Prefixado e Inflação. | IT2  | Sim                 | Must Have           |
+| RF3  | Permitir o resgate de investimentos, considerando a instituição financeira associada.             | IT3  | Sim                 | Must Have           |
+| RF4  | Oferecer funcionalidade para salvar metas de investimentos (Sonhos).                             | IT4  | Sim                 | Should Have         |
+| RF5  | Permitir simulação e planejamento de aposentadoria indicando o ano esperado de aposentadoria.     | IT5  | Sim                 | Should Have         |
+| RF6  | Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira. | IT6  | Sim                 | Must Have           |
+| RF7  | Incluir um simulador para ajudar o usuário a encontrar títulos adequados ao perfil dele.          | IT7  | Sim                 | Could Have          |
+| RF8  | Permitir a consulta de operações realizadas e agendadas.                                          | IT8  | Sim                 | Must Have           |
+| RF9  | Oferecer a funcionalidade de “Fale Conosco”.                                                      | IT9  | Sim                 | Must Have           |
+| RF10 | Permitir a visualização de notificações recebidas.| IT10 | Sim                 | Should Have|
+| RF11 | Incluir funcionalidades sobre o aplicativo (avaliar, indicar para um amigo ou limpar cache).      | IT11 | Sim| Could Have|
+|RF12| Permitir a visualização de dados do usuário. | IT12 | Sim                 | Must Have|
+|RF13| Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.      | IT13 | Não| Should Have|
+|RF14| Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.    | IT14 | Não | Could Have  |
+|RF15| Incluir relatórios personalizados para análise detalhada de rentabilidade e evolução de investimentos. | IT16 | Não | Should Have |
+| RF16| Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto.      | IT17 | Não | Should Have |
+| RF17| Oferecer integração com carteiras digitais para pagamento direto de investimentos.                     | IT18 | Não | Could Have|
+| RF18| Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação.                         | IT19 | Não | Must Have |
+| RF19| Adicionar gamificação, como conquistas ou recompensas simbólicas ao atingir metas financeiras.         | IT20 | Não | Could Have|
+
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
+</center>
+---
+
+### **Requisitos Não Funcionais**
+
+<center>
+**Tabela 2** - Requisitos Não Funcionais.
+
+| Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) | Priorização (MoSCoW) |
+|--------|---------------------------------------------------------------------------|------|---------------------|---------------------|
+| RNF1   | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | IT13 | Não        | Must Have           |
+| RNF2   | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD.      | IT14 | Sim                 | Must Have           |
+| RNF3   | O aplicativo deve ser responsivo para dispositivos móveis e tablets.      | IT15 | Sim                 | Must Have           |
+| RNF4   | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade.  | IT16 | Não                 | Should Have         |
+| RNF5   | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | IT5 | Sim          | Must Have           |
+| RNF6   | Disponibilizar suporte para múltiplos idiomas (português como padrão).    | IT17 | Não                 | Could Have          |
+
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
+</center>
+
+---
 
 #### Bibliografia
 
