@@ -1,3 +1,31 @@
+# Instalação e Comandos Básicos do MkDocs
+
+### 1. Instalando o MkDocs e o tema do projeto
+
+Primeiro, é necessário ter o Python e o pip instalados. Com eles prontos, instale o MkDocs utilizando o seguinte comando:
+
+```bash
+pip install mkdocs mkdocs-material
+```
+
+### 2. Iniciando um Projeto MkDocs
+Para criar um novo projeto com MkDocs, use:
+
+```bash
+mkdocs new nome_do_projeto
+cd nome_do_projeto
+```
+### 3. Visualizando o Site Localmente
+Dentro do diretório do projeto, execute o comando abaixo para iniciar o servidor de desenvolvimento e visualizar seu site localmente:
+
+```bash
+mkdocs serve
+```
+Após isso, acesse `http://127.0.0.1:8000` no navegador para ver o site.
+
+### 4. Criando a Documentação
+Com o site configurado, adicione e organize suas páginas no arquivo mkdocs.yml, conforme o exemplo abaixo.
+
 # Configuração Simplificada do `mkdocs.yml`
 
 Este é um guia básico e simplificado para configurar o arquivo `mkdocs.yml` no MkDocs.
