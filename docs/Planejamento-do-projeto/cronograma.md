@@ -226,7 +226,7 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
     <tr>
       <td>Lista de Apps Avaliados</td>
       <td>Todos</td>
-      <td>Thales Euflauzino, Victor Rodrigues, Victor Shmidt</td>
+      <td>Thales Euflauzino, Victor Rodrigues, Victor Schmidt</td>
       <td>23/10</td>
       <td>29/10</td>
       <td>de 29/10 a 30/10</td>
@@ -405,7 +405,7 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Júlia Takaki</td>
       <td>05/11</td>
       <td>-</td>
-      <td>de 08/10 a 01/10</td>
+      <td>de 08/10 a 09/10</td>
     </tr>
     <tr>
       <td>Introspecção para a elicitação dos requisitos</td>
@@ -420,8 +420,8 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Júlia Takaki</td>
       <td>Thales Euflauzino</td>
       <td>11/11</td>
-      <td>-</td>
-      <td>de 13/10 a 14/10</td>
+      <td>16/11</td>
+      <td>de 16/10 a 17/10</td>
     </tr>
     <tr>
       <td>Entrevista para elicitação de requisitos</td>
