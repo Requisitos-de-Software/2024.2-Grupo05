@@ -1,6 +1,12 @@
 # Cronograma
+
+## Introdução
 O cronograma estabelece a organização temporal de todas as atividades previstas para o projeto, dividindo-as em entregas e fases específicas. Cada entrega é detalhada com uma descrição das tarefas a serem concluídas e as datas limites, de modo a garantir que o progresso do projeto se mantenha constante e que todos os membros da equipe estejam alinhados às expectativas e prazos estabelecidos.
+
 ## Cronograma das Entregas do Projeto
+
+Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de todas as etapas do trabalho.
+
 <br>
 **Tabela 1:** Cronograma geral das entregas.
 <table>
@@ -53,7 +59,10 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 1 - Planejamento
 A primeira entrega foca no planejamento do projeto. Isso inclui a definição da equipe, levantamento das ferramentas, escolha do aplicativo a ser analisado e elaboração do cronograma. Também envolve o desenvolvimento de uma representação visual do projeto, como o Rich Picture, para facilitar o entendimento das principais partes interessadas.
+
 ### Cronograma Planejado
+Na tabela 2 está o planejamento da primeira entrega.
+
 <br>
 **Tabela 2:** Cronograma com o planejamento da primeira entrega.
 <table>
@@ -169,6 +178,8 @@ A primeira entrega foca no planejamento do projeto. Isso inclui a definição da
 Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
+Na tabela 3 está o cronograma executado da primeira entrega.
+
 <br>
 **Tabela 3:** Cronograma com as datas oficiais da primeira entrega.
 <table>
@@ -285,7 +296,10 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 2 - Elicitação
 Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas de elicitação e priorização são selecionadas e aplicadas para definir claramente os perfis de usuários e as necessidades do projeto. Essa etapa é crucial para garantir que todos os requisitos essenciais sejam capturados de forma clara e organizada.
+
 ### Cronograma Planejado
+Na tabela 4 está o planejamento da segunda entrega.
+
 <br>
 **Tabela 4:** Planejamento da segunda entrega.
 <table>
@@ -304,17 +318,17 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>02/11</td>
-      <td>05/11</td>
-      <td>de 22/10 a 23/10</td>
+      <td>06/11</td>
+      <td>08/11</td>
+      <td>de 08/11 a 09/11</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>05/11</td>
+      <td>06/11</td>
       <td>08/11</td>
-      <td>de 08/10 a 01/10</td>
+      <td>de 08/11 a 09/11</td>
     </tr>
     <tr>
       <td>Introspecção para a elicitação dos requisitos</td>
@@ -322,7 +336,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Rodrigues</td>
       <td>09/11</td>
       <td>11/11</td>
-      <td>de 11/10 a 12/10</td>
+      <td>de 12/11 a 13/11</td>
     </tr>
     <tr>
       <td>Criação dos questionários</td>
@@ -330,7 +344,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Thales Euflauzino</td>
       <td>11/11</td>
       <td>13/11</td>
-      <td>de 13/10 a 14/10</td>
+      <td>de 13/11 a 14/11</td>
     </tr>
     <tr>
       <td>Entrevista para elicitação de requisitos</td>
@@ -338,7 +352,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Maria Helena</td>
       <td>13/11</td>
       <td>14/11</td>
-      <td>de 14/10 a 15/10</td>
+      <td>de 14/11 a 15/11</td>
     </tr>
     <tr>
       <td>Brainstorming</td>
@@ -346,7 +360,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Rodrigues</td>
       <td>15/11</td>
       <td>18/11</td>
-      <td>de 18/10 a 19/10</td>
+      <td>de 18/11 a 19/11</td>
     </tr>
     <tr>
       <td>Priorização dos requisitos</td>
@@ -354,7 +368,7 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
       <td>Victor Rodrigues</td>
       <td>19/11</td>
       <td>21/11</td>
-      <td>de 21/10 a 22/10</td>
+      <td>de 21/11 a 22/11</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
@@ -377,6 +391,8 @@ Nesta fase, ocorre a elicitação e priorização dos requisitos. As técnicas d
 Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
+Na tabela 5 está o cronograma que foi executado para a confecção dos artefatos da segunda entrega.
+
 <br>
 **Tabela 5:** Cronograma das datas oficiais da segunda entrega.
 <table>
@@ -395,25 +411,25 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Definições de personas e perfis de usuário</td>
       <td>Victor Rodrigues</td>
       <td>Maria Helena</td>
-      <td>02/11</td>
       <td>-</td>
-      <td>de 22/10 a 23/10</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Definição das técnicas que serão usadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
-      <td>05/11</td>
       <td>-</td>
-      <td>de 08/10 a 09/10</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Introspecção para a elicitação dos requisitos</td>
       <td>Victor Schmidt</td>
       <td>Victor Rodrigues</td>
-      <td>09/11</td>
       <td>-</td>
-      <td>de 11/10 a 12/10</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Criação dos questionários</td>
@@ -427,33 +443,33 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Entrevista para elicitação de requisitos</td>
       <td>Thales Euflauzino</td>
       <td>Maria Helena</td>
-      <td>13/11</td>
       <td>-</td>
-      <td>de 14/10 a 15/10</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Brainstorming</td>
       <td>Victor Schmidt</td>
       <td>Victor Rodrigues</td>
-      <td>15/11</td>
       <td>-</td>
-      <td>de 18/10 a 19/10</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Priorização dos requisitos</td>
       <td>Júlia Takaki</td>
       <td>Victor Rodrigues</td>
-      <td>19/11</td>
       <td>-</td>
-      <td>de 21/10 a 22/10</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
       <td>Todos</td>
       <td>Victor Schmidt</td>
-      <td>22/11</td>
       <td>-</td>
-      <td>23/11</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
     <td>Revisão pós apresentação</td>
@@ -469,7 +485,10 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 3 - Modelagem de Requisitos 1.1
 A terceira entrega concentra-se na modelagem dos requisitos por meio de cenários, léxicos, casos de uso e especificações suplementares. Esta etapa visa documentar o comportamento esperado do sistema e detalhar os requisitos de maneira formal.
+
 ### Cronograma Planejado
+Na tabela 6 está o planejamento da execução da terceira entrega.
+
 <br>
 **Tabela 6:** Planejamento da terceira entrega.
 <table>
@@ -537,6 +556,8 @@ A terceira entrega concentra-se na modelagem dos requisitos por meio de cenário
 Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
+Na tabela 7 está o cronograma executado da terceira entrega.
+
 <br>
 **Tabela 7:** Cronograma com as datas oficiais da terceira entrega.
 <table>
@@ -555,41 +576,41 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Modelagem de Requisitos: Cenários</td>
       <td>Victor Rodrigues e Maria Helena</td>
       <td>Thales Euflauzino</td>
-      <td>27/11</td>
       <td>-</td>
-      <td>de 30/11 a 01/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Léxicos</td>
       <td>Júlia Takaki e Thales Euflauzino</td>
       <td>Maria Helena</td>
-      <td>27/11</td>
       <td>-</td>
-      <td>de 30/11 a 01/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Use Cases</td>
       <td>Victor Schmidt e Victor Rodrigues</td>
       <td>Júlia Takaki</td>
-      <td>01/12</td>
       <td>-</td>
-      <td>de 05/12 a 06/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos: Especificação Suplementar</td>
       <td>Thales Euflauzino e Maria Helena</td>
       <td>Victor Schmidt</td>
-      <td>01/12</td>
       <td>-</td>
-      <td>de 06/12 a 07/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
       <td>Todos</td>
       <td>Victor Rodrigues</td>
-      <td>06/12</td>
       <td>-</td>
-      <td>07/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
     <td>Revisão pós apresentação</td>
@@ -605,7 +626,10 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 4 - Modelagem de Requisitos 1.2
 A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utilizando histórias de usuário e backlog. Isso permite uma adaptação mais flexível aos requisitos, proporcionando uma visão iterativa e incremental do desenvolvimento do projeto.
+
 ### Cronograma Planejado
+A tabela 8 possui o planejamento da quarta entrega.
+
 <br>
 **Tabela 8:** Planejamento da quarta entrega.
 <table>
@@ -665,6 +689,8 @@ A quarta entrega adota uma abordagem ágil para a modelagem de requisitos, utili
 Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
+A tabela 9 possui o cronograma executado da quarta entrega.
+
 <br>
 **Tabela 9:** Cronograma com as datas oficiais da quarta entrega.
 <table>
@@ -683,33 +709,33 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Modelagem de Requisitos - Ágil: Histórias de Usuário</td>
       <td>Victor Rodrigues e Maria Helena</td>
       <td>Thales Euflauzino</td>
-      <td>10/12</td>
       <td>-</td>
-      <td>de 11/12 a 12/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: Backlogs</td>
       <td>Júlia Takaki e Thales Euflauzino</td>
       <td>Victor Schmidt</td>
-      <td>11/12</td>
       <td>-</td>
-      <td>de 12/12 a 13/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Modelagem de Requisitos - Ágil: NFR Framework</td>
       <td>Victor Schmidt e Victor Rodrigues</td>
       <td>Júlia Takaki</td>
-      <td>12/12</td>
       <td>-</td>
-      <td>de 13/12 a 14/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
       <td>Todos</td>
       <td>Victor Rodrigues</td>
-      <td>14/12</td>
       <td>-</td>
-      <td>15/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
     <td>Revisão pós apresentação</td>
@@ -725,7 +751,10 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 5 - Análise de Requisitos
 Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este é o momento de garantir que os requisitos estejam completos, consistentes e que o sistema esteja alinhado com as expectativas dos usuários.
+
 ### Cronograma Planejado
+A tabela 10 possui o planejamento da quinta entrega.
+
 <br>
 **Tabela 10:** Planejamento da quinta entrega.
 <table>
@@ -785,6 +814,8 @@ Aqui, a ênfase é na Verificação e Validação dos requisitos coletados. Este
 Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
+A tabela 11 possui as datas executadas do cronograma da quinta entrega.
+
 <br>
 **Tabela 11:** Cronograma com as datas oficiais da quinta entrega.
 <table>
@@ -803,33 +834,33 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Verificação dos Requisitos</td>
       <td>Maria Helena e Júlia Takaki</td>
       <td>Victor Rodrigues</td>
-      <td>21/01</td>
       <td>-</td>
-      <td>de 22/01 a 23/01</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Validação dos Requisitos</td>
       <td>Thales Euflauzino e Victor Schmidt</td>
       <td>Maria Helena</td>
-      <td>23/01</td>
       <td>-</td>
-      <td>de 24/01 a 25/01</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Inspeção de todos os artefatos</td>
       <td>Victor Rodrigues</td>
       <td>Thales Euflauzino</td>
-      <td>25/01</td>
       <td>-</td>
-      <td>de 27/01 a 28/01</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
       <td>Todos</td>
       <td>Júlia Takaki</td>
-      <td>28/01</td>
       <td>-</td>
-      <td>29/01</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
     <td>Revisão pós apresentação</td>
@@ -845,7 +876,10 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega 6 - Pós-Rastreabilidade
 Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abordados, permitindo que o projeto mantenha uma trilha clara de cada requisito ao longo do desenvolvimento e possibilite um acompanhamento eficiente das mudanças.
+
 ### Cronograma Planejado
+A tabela 12 possui o planejamento da sexta entrega.
+
 <br>
 **Tabela 12:** Planejamento da sexta entrega.
 <table>
@@ -905,6 +939,8 @@ Nesta fase, a pós-rastreabilidade e a gestão avançada dos requisitos são abo
 Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
+A tabela 13 possui o cronograma executado da sexta entrega.
+
 <br>
 **Tabela 13:** Cronograma com as datas oficiais da sexta entrega.
 <table>
@@ -923,33 +959,33 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Criação do documento inicial de pós-rastreabilidade</td>
       <td>Maria Helena</td>
       <td>Thales Euflauzino</td>
-      <td>17/12</td>
       <td>-</td>
-      <td>de 18/12 a 19/12</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Backward Form</td>
       <td>Thales Euflauzino e Victor Schmidt</td>
       <td>Maria Helena</td>
-      <td>19/12</td>
       <td>-</td>
-      <td>de 05/01 ate 06/01</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Pós-Rastreabilidade: Forward Form</td>
       <td>Victor Rodrigues e Júlia Takaki</td>
       <td>Victor Schmidt</td>
-      <td>06/01</td>
       <td>-</td>
-      <td>de 17/01 ate 18/01</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
       <td>Todos</td>
       <td>Júlia Takaki</td>
-      <td>18/01</td>
       <td>-</td>
-      <td>19/01</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
     <td>Revisão pós apresentação</td>
@@ -965,7 +1001,10 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ## Cronograma Entrega Final
 A última etapa do cronograma é a entrega do projeto final, culminando na apresentação do trabalho desenvolvido.
+
 ### Cronograma Planejado
+A tabela 14 possui o planejamento da entrega final do projeto.
+
 <br>
 **Tabela 14:** Planejamento da entrega final.
 <table>
@@ -1009,6 +1048,8 @@ A última etapa do cronograma é a entrega do projeto final, culminando na apres
 Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### Cronograma Executado
+A tabela 15 possui o cronograma executado da entrega final do projeto.
+
 <br>
 **Tabela 15:** Cronograma com as datas oficiais da entrega final.
 <table>
@@ -1027,29 +1068,36 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
       <td>Complementos e Revisões do Projeto Final</td>
       <td>Todos os membros</td>
       <td>Victor Rodrigues, Maria Helena e Júlia Takaki</td>
-      <td>21/01</td>
       <td>-</td>
-      <td>de 05/02 a 06/02</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
       <td>Todos os membros</td>
       <td>Victor Schmidt e Thales Euflauzino</td>
-      <td>01/01</td>
       <td>-</td>
-      <td>de 07/02 a 08/02</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
     <tr>
       <td>Gravação da Apresentação</td>
       <td>Todos os membros</td>
       <td>Júlia Takaki</td>
-      <td>08/02</td>
       <td>-</td>
-      <td>09/02</td>
+      <td>-</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
 Autor: [Maria Helena](https://github.com/MariaCHelena)
+
+## Bibliografia
+
+> Planejamento - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/aplicativo/>. Acesso em 17 de novembro de 2024.
+>
+> SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
+
 
 ## Histórico de versões
 | Versão | Data       | Descrição | Autor     |       Revisor         |
@@ -1061,3 +1109,4 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 | `1.3` | 02/11/2024  | Adição das etapas de verificação | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.5` | 14/11/2024  | Adicionando periodo de revisão pós apresentações | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.5` | 17/11/2024  | Adição da bibliografia e correção das chamadas das tabelas | [Maria Helena](https://github.com/MariaCHelena) |  |
