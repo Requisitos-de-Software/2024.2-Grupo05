@@ -34,6 +34,59 @@ A sessão foi conduzida seguindo os princípios descritos por ambos os autores:
 
 Após a geração de ideias, os participantes realizaram uma etapa de priorização, selecionando os cinco itens mais importantes de acordo com critérios previamente definidos, como impacto no usuário e viabilidade técnica. Para facilitar a análise, as ideias foram agrupadas utilizando diagramas de afinidade, permitindo identificar padrões e temas recorrentes ([Barbosa et al., 2012](#REF1)).
 
+## Roteiro do Brainstorm
+
+
+## Roteiro do Brainstorm
+
+O roteiro abaixo descreve as etapas da sessão de brainstorming que será realizada no dia **19 de novembro de 2024, às 12h**, com duração de 1 hora. A técnica será utilizada como método de elicitação de requisitos, com o objetivo de identificar funcionalidades e melhorias para o aplicativo **Tesouro Direto**, priorizando as necessidades do usuário.
+
+
+### Pergunta Norteadora
+
+*"Se você pudesse projetar o sistema ideal do Tesouro Direto, quais funcionalidades, características ou melhorias ele deveria ter para atender às suas necessidades de forma eficiente e intuitiva?"*
+
+Essa pergunta busca incentivar os participantes a explorar tanto os requisitos funcionais quanto os não funcionais, com foco na experiência do usuário e na eficiência do sistema.
+
+### Cronograma
+
+| Etapa                     | Descrição                                                                                             | Tempo Estimado |
+|------------------------------------------|---------------------------------------------------------------------------|----------------|
+| **12:00 até 12:05**         | **Abertura e Apresentação**                                                                         | 5 minutos      |
+| **12:05 até 12:10**         | **Contextualização**: breve explicação sobre o objetivo da sessão e as regras do brainstorming.      | 5 minutos      |
+| **12:10 até 12:25**         | **Geração de Ideias**: participantes respondem à pergunta norteadora com ideias livres.             | 15 minutos     |
+| **12:25 até 12:40**         | **Discussão e Refinamento**: agrupamento das ideias em categorias e identificação de requisitos.     | 15 minutos     |
+| **12:40 até 12:50**         | **Priorização de Requisitos**: participantes votam nas ideias mais relevantes.                       | 10 minutos     |
+| **12:50 até 13:00**         | **Encerramento**: resumo dos requisitos priorizados e próximos passos.                              | 10 minutos     |
+
+### Descrição das Etapas
+
+1. **Abertura e Apresentação**:
+    - Apresentação do moderador e dos participantes.
+    - Contextualização breve sobre o objetivo e a importância da sessão.
+
+2. **Contextualização**:
+    - Explicação do objetivo principal: elicitar requisitos para o aplicativo **Tesouro Direto**.
+    - Regras principais:
+        - Todas as ideias são válidas.
+        - Não há julgamentos durante a geração de ideias.
+        - Incentivar combinações e refinamentos.
+
+3. **Geração de Ideias**:
+    - Resposta à pergunta norteadora.
+    - Participantes contribuem espontaneamente, enquanto o moderador registra as ideias.
+
+4. **Discussão e Refinamento**:
+    - Agrupamento das ideias em categorias, como requisitos funcionais e não funcionais.
+    - Identificação de padrões ou temas relevantes.
+
+5. **Priorização de Requisitos**:
+    - Cada participante vota nos requisitos mais importantes (ex.: critérios de "Must Have").
+    - Registro das ideias mais votadas para análise posterior.
+
+6. **Encerramento**:
+    - Apresentação do resumo final das ideias priorizadas.
+    - Explicação sobre os próximos passos para incorporar os requisitos ao projeto.
 
 ## Resultados do Brainstorm
 
@@ -41,10 +94,12 @@ Após a geração de ideias, os participantes realizaram uma etapa de priorizaç
 - [Ideia 1]
 - [Ideia 2]
 - [Ideia 3]
+- [Ideia x]
 
 ### Categorias de Ideias
 - **Categoria 1**: [Ideias relacionadas a X.]
 - **Categoria 2**: [Ideias relacionadas a Y.]
+- **Categoria Z**: [Ideias relacionadas a N]
 
 ### Priorização
 - [Quais ideias foram priorizadas, se aplicável.]
@@ -52,8 +107,11 @@ Após a geração de ideias, os participantes realizaram uma etapa de priorizaç
 ### Próximos Passos
 1. [Ação 1 baseada nos resultados.]
 2. [Ação 2 com responsáveis e prazos, se possível.]
+3. [Ação x]
 
 ## Vídeo da Verificação
+
+
 
 ---
 ## Bibliografia
