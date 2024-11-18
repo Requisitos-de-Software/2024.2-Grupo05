@@ -52,8 +52,15 @@ Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
 </center>
 
-## Bibliografia
+## Vídeo da Verificação
+<center>
+[**Vídeo 1:** Requisitos - Verificação Entrega 1](https://www.youtube.com/watch?v=fnsxUFg5hi4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JUBg_qbl4IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
+</center>
 
+---
+## Bibliografia
 
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
 >
@@ -70,13 +77,6 @@ Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 > <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>![Referência 4](./rp4.png)
 >****
 > <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 5](./rp5.png)
-
-## Vídeo da Verificação
-<center>
-[**Vídeo 1:** Requisitos - Verificação Entrega 1](https://www.youtube.com/watch?v=fnsxUFg5hi4)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JUBg_qbl4IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
-</center>
 
 ## Histórico de Versões
 
