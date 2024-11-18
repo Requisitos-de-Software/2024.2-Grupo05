@@ -111,6 +111,16 @@ Essa pergunta busca incentivar os participantes a explorar tanto os requisitos f
 
 ## Vídeo da Verificação
 
+O termo de consentimento assinado pelos participantes assegura a autorização para uso de suas imagens, vozes e opiniões expressas durante a atividade de brainstorming. Ele detalha que:
+
+- **Objetivo**: O termo é exclusivo para fins acadêmicos, como registro, consulta e divulgação dos resultados do projeto da disciplina de Requisitos de Software.
+- **Permissões**: Autoriza a publicação em repositórios públicos (GitHub e MkDocs) e vídeos não listados no YouTube, sem qualquer uso comercial.
+- **Garantias**: O material será usado apenas para propósitos educacionais, respeitando as restrições de confidencialidade e consentimento.
+- **Limitações**: Devido à natureza pública, o conteúdo não poderá ser removido após a publicação.
+
+Para mais detalhes, o termo completo está disponível [aqui](../../../assets/Termo_de_Consentimento.pdf).
+
+
 
 
 ---
