@@ -108,4 +108,4 @@ A construção das personas seguiu uma metodologia estruturada em três etapas p
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0` | 19/11/2024  | Estruturação Inicial | [Víctor Rodrigues](https://github.com/ViictorHugoo) | |
+| `1.0` | 19/11/2024  | Estruturação Inicial | [Víctor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino)|
