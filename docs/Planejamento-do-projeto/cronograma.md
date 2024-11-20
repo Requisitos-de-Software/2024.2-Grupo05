@@ -323,7 +323,7 @@ Na tabela 4 está o planejamento da segunda entrega.
       <td>de 08/11 a 09/11</td>
     </tr>
     <tr>
-      <td>Definição das técnicas que serão usadas no projeto</td>
+      <td>Definição das técnicas de elicitação de priorização que serão utilizadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
       <td>06/11</td>
@@ -356,6 +356,22 @@ Na tabela 4 está o planejamento da segunda entrega.
     </tr>
     <tr>
       <td>Brainstorming</td>
+      <td>Victor Schmidt</td>
+      <td>Victor Rodrigues</td>
+      <td>15/11</td>
+      <td>18/11</td>
+      <td>de 18/11 a 19/11</td>
+    </tr>
+    <tr>
+      <td>Desenvolvimento do glossário para coleta de requistos</td>
+      <td>Victor Schmidt</td>
+      <td>Victor Rodrigues</td>
+      <td>15/11</td>
+      <td>18/11</td>
+      <td>de 18/11 a 19/11</td>
+    </tr>
+    <tr>
+      <td>Desenvolvimento da análise de documentos para coleta de requistos</td>
       <td>Victor Schmidt</td>
       <td>Victor Rodrigues</td>
       <td>15/11</td>
@@ -416,7 +432,7 @@ Na tabela 5 está o cronograma que foi executado para a confecção dos artefato
       <td>-</td>
     </tr>
     <tr>
-      <td>Definição das técnicas que serão usadas no projeto</td>
+      <td>Definição das técnicas de elicitação de priorização que serão utilizadas no projeto</td>
       <td>Maria Helena</td>
       <td>Júlia Takaki</td>
       <td>-</td>
@@ -449,6 +465,22 @@ Na tabela 5 está o cronograma que foi executado para a confecção dos artefato
     </tr>
     <tr>
       <td>Brainstorming</td>
+      <td>Victor Schmidt</td>
+      <td>Victor Rodrigues</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Desenvolvimento do glossário para coleta de requistos</td>
+      <td>Victor Schmidt</td>
+      <td>Victor Rodrigues</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>Desenvolvimento da análise de documentos para coleta de requistos</td>
       <td>Victor Schmidt</td>
       <td>Victor Rodrigues</td>
       <td>-</td>
