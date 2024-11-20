@@ -54,7 +54,7 @@ Essa pergunta busca incentivar os participantes a explorar tanto os requisitos f
 | **12:05 até 12:10**         | **Contextualização**: breve explicação sobre o objetivo da sessão e as regras do brainstorming.      | 5 minutos      |
 | **12:10 até 12:25**         | **Geração de Ideias**: participantes respondem à pergunta norteadora com ideias livres.             | 15 minutos     |
 | **12:25 até 12:40**         | **Discussão e Refinamento**: agrupamento das ideias em categorias e identificação de requisitos.     | 15 minutos     |
-| **12:40 até 12:50**         | **Priorização de Requisitos**: participantes priorizão utilizando a técnica dos 100 dolares os requisitos.                       | 10 minutos     |
+| **12:40 até 12:50**         | **Priorização de Requisitos**: participantes priorizam utilizando a técnica dos 100 dolares os requisitos.                       | 10 minutos     |
 | **12:50 até 13:00**         | **Encerramento**: resumo dos requisitos priorizados e próximos passos.                              | 10 minutos     |
 
 ### Descrição das Etapas
