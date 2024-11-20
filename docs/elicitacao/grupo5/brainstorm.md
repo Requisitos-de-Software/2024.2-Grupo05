@@ -110,7 +110,7 @@ Os valores atribuídos por cada participante na priorização das ideias, utiliz
 6. **Controle ampliado na simulação de aposentadoria**: Reformular a simulação para que o usuário possa personalizar mais variáveis, como idade de início, contribuições mensais, e metas de renda, garantindo maior flexibilidade no planejamento. – *Autor: Matheus Melo*  
     - Média de valor gasto: R$ 4,37
 
-7. **Integração da simulação na aba "Meus Sonhos"**: Vincular as simulações de invesimento diretamente aos objetivos definidos na aba "Meus Sonhos", oferecendo uma visão integrada entre planejamento e execução. – *Autor: Matheus Campos*  
+7. **Integração da simulação na aba "Meus Sonhos"**: Vincular as simulações de investimento diretamente aos objetivos definidos na aba "Meus Sonhos", oferecendo uma visão integrada entre planejamento e execução. – *Autor: Matheus Campos*  
     - Média de valor gasto: R$ 3,82
 
 8. **Criação de um dashboard inicial**: Implementar uma tela inicial com um resumo visual das principais informações financeiras do usuário, como saldo, metas em andamento, e desempenho dos investimentos. – *Autor: Marcos*  
