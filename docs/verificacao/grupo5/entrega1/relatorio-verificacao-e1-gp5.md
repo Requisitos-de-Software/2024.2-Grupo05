@@ -56,7 +56,7 @@ Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
 <center>
   
-[**Vídeo 1:** Requisitos - Verificação Entrega 1](https://www.youtube.com/watch?v=fnsxUFg5hi4)
+[**Vídeo 1:** Requisitos - Verificação Entrega 1](https://youtu.be/JUBg_qbl4IQ)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JUBg_qbl4IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
