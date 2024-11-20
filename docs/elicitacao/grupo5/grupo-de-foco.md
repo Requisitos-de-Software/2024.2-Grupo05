@@ -115,4 +115,4 @@ Para abrir o documento completo do termo de consentimento, <button id="open-pdf-
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0` | 19/11/2024  | Estruturação Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0` | 19/11/2024  | Estruturação Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)   |
