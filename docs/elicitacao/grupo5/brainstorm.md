@@ -187,7 +187,15 @@ O termo de consentimento assinado pelos participantes assegura a autorização p
 
 Para mais detalhes, o termo completo está disponível [aqui](../../../assets/Termo_de_Consentimento_Brainstorm.pdf).
 
+<center>
+  
+[**Vídeo 1:** Brainstorm - Elicitação de Requisitos](https://youtu.be/V-SFDbbOe6o)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V-SFDbbOe6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
+
+</center>
 
 
 ---
@@ -208,3 +216,4 @@ Para mais detalhes, o termo completo está disponível [aqui](../../../assets/Te
 | `1.1` | 18/11/2024 | Adicionando Roteiro  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena) |
 | `1.2` | 19/11/2024 | Adicionando Resultados  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
 | `1.3` | 20/11/2024 | Adicionando Vídeo  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
+| `1.4` | 20/11/2024 | Mais alguns ajustes  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
