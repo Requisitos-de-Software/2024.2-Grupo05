@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/112cdfa9-5eb7-408f-9756-883ff1fadda2)# Verificação dos artefatos
+# Verificação dos artefatos
 
 ## Introdução
 
@@ -53,10 +53,14 @@ Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 </center>
 
 ## Vídeo da Verificação
+
 <center>
+  
 [**Vídeo 1:** Requisitos - Verificação Entrega 1](https://www.youtube.com/watch?v=fnsxUFg5hi4)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JUBg_qbl4IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
+
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
+
 </center>
 
 ---
