@@ -2,7 +2,7 @@
 
 Bem-vindo à documentação do Grupo 05 da disciplina de Requisitos de Software da Universidade de Brasília, Campus Gama (FGA-UnB), referente ao segundo semestre de 2024. Este espaço é dedicado a compilar e organizar todos os artefatos desenvolvidos ao longo do semestre, proporcionando uma visão clara e acessível dos nossos trabalhos e aprendizados.
 
-## O que iremos fazer
+## O que iremos fazer 
 
 Durante o semestre, o grupo se dedicará a:
 
@@ -55,5 +55,5 @@ Foi elaborado um tutorial de como utilizar e manipular a biblioteca MkDocs, est�
 
 | Versão | Data          | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 24/10/2024    | Criação e inclusão dos membros     | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
-| `1.1`  | 24/10/2024    | Arrumando erro nos membros     | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
+| `1.0`  | 24/10/2024    | Criação e inclusão dos membros     | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.1`  | 24/10/2024    | Arrumando erro nos membros     | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
