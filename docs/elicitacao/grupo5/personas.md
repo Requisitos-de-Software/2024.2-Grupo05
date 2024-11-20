@@ -8,7 +8,7 @@ Personas são representações fictícias de usuários criadas para ajudar equip
 
 A construção das personas seguiu uma metodologia estruturada em três etapas principais:
 
-1. Coleta e Análise de Dados: Utilizamos informações obtidas a partir de questionários aplicados aos usuários, combinadas com dados de ferramentas de análise de tráfego, como Similarweb. Esses dados permitiram identificar padrões de comportamento e características demográficas, como idade, sexo e preferências de uso do aplicativo.
+1. Coleta e Análise de Dados: Utilizamos informações obtidas a partir de questionários aplicados aos usuários, combinadas com dados de ferramentas de análise de tráfego, como Similarweb. Os dados obtivos permitiram identificar padrões de comportamento e características demográficas, como idade, sexo e preferências de uso do aplicativo.
 
 2. Definição das Personas: Com base nas análises realizadas, criamos cinco personas principais: quatro que representam diferentes tipos de usuários (primários e secundários) e uma antipersona, que simboliza o público que não é o foco do sistema. Cada persona recebeu um nome fictício, características detalhadas, uma breve história e objetivos, tornando-as representações completas e fáceis de compreender.
 
