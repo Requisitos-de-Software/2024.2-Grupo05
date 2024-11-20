@@ -35,6 +35,7 @@ nav:
   - Elicitação de Requisitos:
     - Grupo 5:
       - Introspecção: elicitacao/grupo5/introspeccao.md
+      - Brainstorm: elicitacao/grupo5/brainstorm.md
       - Grupo de foco: elicitacao/grupo5/grupo-de-foco.md
 
 theme:
