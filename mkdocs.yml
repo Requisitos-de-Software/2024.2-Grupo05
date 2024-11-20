@@ -8,17 +8,19 @@ nav:
   - Atas:
     - Ata 1: Atas/ata01.md
     - Ata 2: Atas/ata02.md
-    
+
   - Apresentações:
     - Apresentação 1: Apresentacoes/apresentacao01.md
 
   - Planejamento do projeto:
     - Heatmap: Planejamento-do-projeto/heatmap.md
     - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
-    - App Escolhido: 
+    - App Escolhido:
       - App Escolhido: Planejamento-do-projeto/app-escolhido.md
       - Rich Picture: Planejamento-do-projeto/rich-picture.md
-    - Cronograma: Planejamento-do-projeto/cronograma.md
+    - Cronograma:
+      - Cronograma Planejado: Planejamento-do-projeto/cronograma-planejado.md
+      - Cronograma Executado: Planejamento-do-projeto/cronograma-executado.md
     - Ferramentas: Planejamento-do-projeto/ferramentas.md
 
   - Verificação:
