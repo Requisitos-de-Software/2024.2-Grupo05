@@ -47,7 +47,7 @@ Os participantes da verificação são integrantes do grupo. [Thales Euflauzino]
 |        <a id="REF4" href="#anchor_4">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?                                                                     |    Sim     | Julia Takaki |      06/11/2024 21:20          |
 |        <a id="REF5" href="#anchor_5">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"?                                                                                                   |    Sim     | Maria Helena |       06/11/2024 21:20         |
 
-Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
 
 </center>
