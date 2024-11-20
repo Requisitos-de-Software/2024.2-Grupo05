@@ -92,7 +92,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       <tr>
         <td>Heatmap</td>
         <td>Victor Rodrigues</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>22/10</td>
         <td>22/10</td>
         <td>de 22/10 a 23/10</td>
@@ -131,7 +131,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Lista de Apps Avaliados</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Maria Helena</td>
         <td>23/10</td>
         <td>25/10</td>
@@ -171,7 +171,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Maria Helena</td>
         <td>27/10</td>
         <td>28/10</td>
@@ -294,7 +294,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Schmidt</td>
         <td>22/11</td>
         <td>23/11</td>
@@ -378,7 +378,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Rodrigues</td>
         <td>06/12</td>
         <td>07/12</td>
@@ -453,7 +453,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Rodrigues</td>
         <td>14/12</td>
         <td>15/12</td>
@@ -527,7 +527,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Júlia Takaki</td>
         <td>28/01</td>
         <td>29/01</td>
@@ -601,7 +601,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Júlia Takaki</td>
         <td>18/01</td>
         <td>19/01</td>
@@ -651,7 +651,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
     <tbody>
       <tr>
         <td>Complementos e Revisões do Projeto Final</td>
-        <td>Todos os membros</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Rodrigues, Maria Helena e Júlia Takaki</td>
         <td>21/01</td>
         <td>05/02</td>
@@ -659,7 +659,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
-        <td>Todos os membros</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Schmidt e Thales Euflauzino</td>
         <td>01/01</td>
         <td>07/02</td>
@@ -667,7 +667,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos os membros</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Júlia Takaki</td>
         <td>08/02</td>
         <td>09/02</td>

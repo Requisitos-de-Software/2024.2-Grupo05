@@ -90,7 +90,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       <tr>
         <td>Heatmap</td>
         <td>Victor Rodrigues</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>22/10</td>
         <td>22/10</td>
         <td>de 22/10 a 23/10</td>
@@ -129,7 +129,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Lista de Apps Avaliados</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Thales Euflauzino, Victor Rodrigues, Victor Schmidt</td>
         <td>23/10</td>
         <td>29/10</td>
@@ -138,7 +138,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       <tr>
         <td>App Escolhido</td>
         <td>Júlia Takaki e Victor Rodrigues</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>28/10</td>
         <td>28/10</td>
         <td>de 28/10 a 29/10</td>
@@ -169,7 +169,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Maria Helena</td>
         <td>28/10</td>
         <td>02/11</td>
@@ -291,7 +291,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Schmidt</td>
         <td>-</td>
         <td>-</td>
@@ -373,7 +373,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Rodrigues</td>
         <td>-</td>
         <td>-</td>
@@ -447,7 +447,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Rodrigues</td>
         <td>-</td>
         <td>-</td>
@@ -521,7 +521,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Júlia Takaki</td>
         <td>-</td>
         <td>-</td>
@@ -595,7 +595,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Júlia Takaki</td>
         <td>-</td>
         <td>-</td>
@@ -645,7 +645,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
     <tbody>
       <tr>
         <td>Complementos e Revisões do Projeto Final</td>
-        <td>Todos os membros</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Rodrigues, Maria Helena e Júlia Takaki</td>
         <td>-</td>
         <td>-</td>
@@ -653,7 +653,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
-        <td>Todos os membros</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Schmidt e Thales Euflauzino</td>
         <td>-</td>
         <td>-</td>
@@ -661,7 +661,7 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Todos os membros</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Júlia Takaki</td>
         <td>-</td>
         <td>-</td>
