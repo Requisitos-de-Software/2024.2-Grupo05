@@ -32,9 +32,8 @@ A condução da sessão seguiu os princípios de brainstorming descritos por [Ba
     - Os participantes foram incentivados a combinar e aprimorar ideias, promovendo uma discussão colaborativa ([Barbosa et al., 2012](#REF1)).
 
 ### Análise e Priorização
-Após a geração de ideias, a priorização foi realizada utilizando uma técnica de alocação de recursos. Cada participante recebeu 100 dólares fictícios para distribuir entre as funcionalidades ou características sugeridas, conforme sua percepção de importância. A quantidade de "dinheiro" alocada refletiu a prioridade atribuída a cada item, de acordo com o raciocínio descrito no livro Software Requirements ([Wigers & Beatty, 2012](#REF3)). Esse método permitiu à equipe avaliar de maneira tangível quais requisitos eram mais valiosos para o projeto, considerando os recursos limitados.
 
-Para facilitar a análise, as ideias foram agrupadas utilizando diagramas de afinidade, o que ajudou a identificar padrões e temas recorrentes, promovendo uma análise mais profunda das prioridades. Assim, a técnica de alocação de recursos foi enriquecida, permitindo que os participantes "comprassem" os requisitos com dólares fictícios, visualizando a importância relativa de cada item e favorecendo uma tomada de decisão mais fundamentada. Embora simples, essa técnica se mostrou eficaz para alinhar as prioridades do projeto de forma colaborativa, levando em conta tanto o valor percebido quanto a viabilidade técnica e os recursos disponíveis ([Wigers & Beatty, 2012](#REF3)).
+Após a geração de ideias, utilizamos a técnica de alocação de recursos para priorizar as funcionalidades ou características sugeridas. Cada participante recebeu 100 dólares fictícios para distribuir conforme a sua percepção de importância. Optamos por essa abordagem por ser uma maneira intuitiva e prática de envolver os participantes na priorização, já que o ato de "gastar" o dinheiro torna o processo mais acessível e compreensível. Além disso, essa técnica oferece uma visão clara de quais requisitos são considerados mais valiosos, facilitando o entendimento e a tomada de decisão, especialmente em projetos com recursos limitados. A metodologia é baseada no raciocínio descrito no livro *Software Requirements* ([Wigers & Beatty, 2012](#REF3)).
 
 ## Roteiro do Brainstorm
 
@@ -91,238 +90,90 @@ Essa pergunta busca incentivar os participantes a explorar tanto os requisitos f
 
 ### Ideias Geradas e Priorização
 
-1. **Uma autodeclaração de expertise no aplicativo (novo, médio, experiente)**: Permitir que o usuário selecione seu nível de familiaridade com investimentos no momento do cadastro ou na configuração do perfil, para personalizar as recomendações e a experiência de uso. – *Autor: Gustavo*
+Os valores atribuídos por cada participante na priorização das ideias, utilizando a técnica dos 100 dólares, estão disponíveis no seguinte documento: [Distribuição dos 100 Reais dos Usuários](../../../assets/Distribuicao_100_reais_pergunta.pdf).
 
-    - **Gustavo**: R$10
-    - **Flores**: R$10
-    - **Vilmar**: R$10
-    - **Bianca**: R$10
-    - **Yzabella**: R$15
-    - **Alexandre**: R$5
-    - **Marcos**: R$10
-    - **Ana**: R$5
-    - **Matheus Melo**: R$15
-    - **Matheus Campos**: R$5
-    - **Samara**: R$15
+1. **Uma autodeclaração de expertise no aplicativo (novo, médio, experiente)**: Permitir que o usuário selecione seu nível de familiaridade com investimentos no momento do cadastro ou na configuração do perfil, para personalizar as recomendações e a experiência de uso. – *Autor: Gustavo*
+    - Média de valor gasto: R$ 10
 
 2. **Tutorial de uso do aplicativo**: Implementar uma seção ou guia interativo que explique, de forma didática, como navegar e utilizar todas as funcionalidades do app, desde o cadastro até a realização de investimentos. – *Autor: Flores*  
-    - **Flores**: R$10
-    - **Yzabella**: R$20
-    - **Marcos**: R$15
-    - **Bianca**: R$6
-    - **Ana**: R$15
-    - **Alexandre**: R$8
-    - **Matheus Melo**: R$10
-    - **Gustavo**: R$5
-    - **Vilmar**: R$10
-    - **Matheus Campos**: R$7
-    - **Samara**: R$7
+    - Média de valor gasto: R$ 3,54
 
 3. **Aumento do leque de opções na simulação**: Ampliar as variáveis disponíveis nas ferramentas de simulação, como ajustes de taxas, prazos e aportes, para que os usuários possam criar cenários mais personalizados. – *Autor: Alexandre*  
-    - **Alexandre**: R$7
-    - **Bianca**: R$2
-    - **Vilmar**: R$0
-    - **Yzabella**: R$0
-    - **Flores**: R$0
-    - **Ana**: R$10
-    - **Matheus Melo**: R$2
-    - **Gustavo**: R$10
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$3
-    - **Samara**: R$0
+    - Média de valor gasto: R$ 3,54
 
 4. **Exibição da liquidez no título do Tesouro**: Adicionar informações sobre a liquidez diretamente no título de cada opção de investimento, para que o usuário possa avaliar a disponibilidade dos valores com mais facilidade. – *Autor: Flores*  
-    - **Flores**: R$10
-    - **Vilmar**: R$10
-    - **Yzabella**: R$0
-    - **Bianca**: R$3
-    - **Ana**: R$2
-    - **Alexandre**: R$6
-    - **Matheus Melo**: R$8
-    - **Gustavo**: R$5
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$2
-    - **Samara**: R$0
+    - Média de valor gasto: R$ 4,64
 
 5. **Comparação de títulos de diferentes origens na simulação**: Adicionar uma funcionalidade que permita colocar lado a lado investimentos de origens diferentes, como Tesouro Direto e outras opções de renda fixa, para facilitar a análise comparativa. – *Autor: Ana*  
-    - **Flores**: R$10
-    - **Yzabella**: R$0
-    - **Bianca**: R$15
-    - **Ana**: R$20
-    - **Vilmar**: R$10
-    - **Alexandre**: R$7
-    - **Matheus Melo**: R$5
-    - **Gustavo**: R$10
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$7
-    - **Samara**: R$0
+    - Média de valor gasto: R$ 8,10
 
 6. **Controle ampliado na simulação de aposentadoria**: Reformular a simulação para que o usuário possa personalizar mais variáveis, como idade de início, contribuições mensais, e metas de renda, garantindo maior flexibilidade no planejamento. – *Autor: Matheus Melo*  
-    - **Flores**: R$5
-    - **Vilmar**: R$5
-    - **Yzabella**: R$0
-    - **Bianca**: R$5
-    - **Ana**: R$3
-    - **Alexandre**: R$8
-    - **Matheus Melo**: R$5
-    - **Gustavo**: R$5
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$7
-    - **Samara**: R$0
+    - Média de valor gasto: R$ 4,37
 
-7. **Integração da simulação na aba "Meus Sonhos"**: Vincular as simulações de investimento diretamente aos objetivos definidos na aba "Meus Sonhos", oferecendo uma visão integrada entre planejamento e execução. – *Autor: Matheus Campos*  
-    - **Flores**: R$0
-    - **Yzabella**: R$0
-    - **Vilmar**: R$10
-    - **Bianca**: R$3
-    - **Ana**: R$1
-    - **Alexandre**: R$6
-    - **Matheus Melo**: R$7
-    - **Gustavo**: R$5
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$5
-    - **Samara**: R$0
+7. **Integração da simulação na aba "Meus Sonhos"**: Vincular as simulações de invesimento diretamente aos objetivos definidos na aba "Meus Sonhos", oferecendo uma visão integrada entre planejamento e execução. – *Autor: Matheus Campos*  
+    - Média de valor gasto: R$ 3,82
 
 8. **Criação de um dashboard inicial**: Implementar uma tela inicial com um resumo visual das principais informações financeiras do usuário, como saldo, metas em andamento, e desempenho dos investimentos. – *Autor: Marcos*  
-    - **Flores**: R$10
-    - **Yzabella**: R$20
-    - **Marcos**: R$15
-    - **Bianca**: R$7
-    - **Ana**: R$5
-    - **Alexandre**: R$10
-    - **Matheus Melo**: R$10
-    - **Gustavo**: R$10
-    - **Vilmar**: R$0
-    - **Matheus Campos**: R$7
-    - **Samara**: R$10
+    - Média de valor gasto: R$ 9,46
 
 9. **Perfil de recomendação de investimento mais visível**: Tornar o perfil de indicação mais claro e acessível, apresentando uma explicação detalhada sobre o que ele significa e como ele é calculado. – *Autor: Vilmar* 
-    - **Flores**: R$0
-    - **Vilmar**: R$5
-    - **Yzabella**: R$0
-    - **Bianca**: R$2
-    - **Ana**: R$15
-    - **Alexandre**: R$7
-    - **Matheus Melo**: R$3
-    - **Gustavo**: R$5
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$3
-    - **Samara**: R$0
+    - Média de valor gasto: R$ 4,10
 
 10. **Mais recursos educativos sobre investimentos**: Adicionar ferramentas interativas e conteúdos explicativos para ensinar os usuários sobre conceitos financeiros e de investimento de maneira prática e acessível. – *Autoras: Bianca e Yza* 
-    - **Flores**: R$0
-    - **Yzabella**: R$20
-    - **Bianca**: R$15
-    - **Vilmar**: R$0
-    - **Ana**: R$2
-    - **Alexandre**: R$6
-    - **Matheus Melo**: R$10
-    - **Gustavo**: R$10
-    - **Marcos**: R$10
-    - **Matheus Campos**: R$8
-    - **Samara**: R$7
+    - Média de valor gasto: R$ 8
 
 11. **Aprimorar a acessibilidade do layout**: Melhorar a disposição visual e os elementos de design do aplicativo para torná-lo mais intuitivo e inclusivo para diferentes perfis de usuários. – *Autor: Victor G*
-    - **Flores**: R$20
-    - **Yzabella**: R$20
-    - **Bianca**: R$10
-    - **Vilmar**: R$10
-    - **Ana**: R$2
-    - **Alexandre**: R$8
-    - **Matheus Melo**: R$10
-    - **Gustavo**: R$5
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$8
-    - **Samara**: R$7
+    - Média de valor gasto: R$ 9,55
 
 12. **Barra de progresso na aba "Meus Sonhos"**: Implementar uma barra visual para acompanhar o progresso de cada objetivo na aba "Meus Sonhos", ajudando o usuário a monitorar quanto falta para atingir suas metas. – *Autor: Thales* 
-    - **Flores**: R$0
-    - **Yzabella**: R$0
-    - **Marcos**: R$5
-    - **Bianca**: R$5
-    - **Ana**: R$10
-    - **Alexandre**: R$5
-    - **Matheus Melo**: R$2,25
-    - **Gustavo**: R$10
-    - **Vilmar**: R$0
-    - **Matheus Campos**: R$4
-    - **Samara**: R$4
+    - Média de valor gasto: R$ 4,11
 
 13. **Tema escuro no aplicativo**: Disponibilizar uma opção de tema escuro para maior conforto visual durante o uso do aplicativo, especialmente em ambientes de pouca luz. – *Autor: Marcos*  
-    - **Flores**: R$5
-    - **Yzabella**: R$10
-    - **Marcos**: R$2
-    - **Bianca**: R$2
-    - **Ana**: R$0
-    - **Alexandre**: R$6
-    - **Matheus Melo**: R$2,75
-    - **Gustavo**: R$5
-    - **Vilmar**: R$15
-    - **Matheus Campos**: R$5
-    - **Samara**: R$5
+    - Média de valor gasto: R$ 5,25
 
 14. **Comparação com o padrão do INSS na aposentadoria**: Incluir uma opção na simulação de aposentadoria que permita ao usuário comparar seus resultados esperados com o benefício médio do INSS, oferecendo mais contexto na decisão. – *Autor: Gustavo* 
-    - **Flores**: R$0
-    - **Yzabella**: R$0
-    - **Marcos**: R$3
-    - **Bianca**: R$10
-    - **Ana**: R$0
-    - **Alexandre**: R$7
-    - **Matheus Melo**: R$5
-    - **Gustavo**: R$10
-    - **Vilmar**: R$0
-    - **Matheus Campos**: R$4
-    - **Samara**: R$0
+    - Média de valor gasto: R$ 3,55
 
-15. **Sugestões personalizadas na página inicial do "Meu Investimento"**: Quando o usuário não tiver investimentos cadastrados, sugerir opções alinhadas ao perfil dele, como investimentos em Tesouro Direto que possam ser interessantes. – *Autor não especificado* 
-    - **Flores**: R$20
-    - **Yzabella**: R$15
-    - **Bianca**: R$5
-    - **Ana**: R$10
-    - **Vilmar**: R$15
-    - **Alexandre**: R$4
-    - **Matheus Melo**: R$5
-    - **Gustavo**: R$5
-    - **Marcos**: R$5
-    - **Matheus Campos**: R$3
-    - **Samara**: R$15
+15. **Sugestões personalizadas na página inicial do "Meu Investimento"**: Quando o usuário não tiver investimentos cadastrados, sugerir opções alinhadas ao perfil dele, como investimentos em Tesouro Direto que possam ser interessantes. – *Autor Gustavo* 
+    - Média de valor gasto: R$ 9,28
 
 ## Requisitos Funcionais
-
 <center>
-**Tabela 1** - Requisitos Funcionais.
+**Tabela 1** - Requisitos Funcionais
 
-| Tipo                     | Descrição                                                                                                        | ID  | Elaborado (Sim/Não) | Priorização (Média) |
-|--------------------------|----------------------------------------------------------------------------------------------------------------|------|--------------------|---------------------|
-| RF1      | Uma autodeclaração de expertise no aplicativo (novo, médio, experiente)    | BF1    | Não                | R$9,54             |
-| RF2     | Tutorial de uso do aplicativo                                   | BF2    | Não                | R$9,82             |
-| RF3      | Aumento do leque de opções na simulação                      | BF3    | Não                | R$3,27             |
-| RF4      | Exibição da liquidez no título do Tesouro                   | BF4    | Não                | R$5,55             |
-| RF5      | Comparação de títulos de diferentes origens na simulação          | BF5    | Não                | R$7,73             |
-| RF6      | Integração da simulação na aba "Meus Sonhos"                           | BF7    | Não                | R$3,64             |
-| RF7     | Criação de um dashboard inicial                            | BF8    | Não                | R$9,09             |
-| RF8      | Mais recursos educativos sobre investimentos                    | BF10   | Não                | R$8,45             |
-| RF9      | Barra de progresso na aba "Meus Sonhos"                           | BF12   | Não                | R$5,21             |
-| RF10      | Comparação com o padrão do INSS na aposentadoria            | BF14   | Não                | R$4,79             |
-| RF11      | Sugestões personalizadas na página inicial do "Meu Investimento"        | BF15   | Não                | R$8,55             |
+| **Tipo** | **Descrição**                                                                                     | **ID** | **Elaborado (Sim/Não)** | **Priorização (Média)** |
+|----------|---------------------------------------------------------------------------------------------------|--------|--------------------------|-------------------------|
+| RF1      | O aplicativo deve permitir que o usuário faça uma autodeclaração de expertise (novo, médio, experiente). | BF1    | Não                      | R$10                 |
+| RF2      | O aplicativo deve oferecer um tutorial para guiar o usuário no uso das funcionalidades.           | BF2    | Não                      | R$3,54                 |
+| RF3      | O sistema deve disponibilizar um maior leque de opções para simulações financeiras.                | BF3    | Não                      | R$3,54                 |
+| RF4      | O aplicativo deve exibir a liquidez dos títulos do Tesouro Nacional na simulação.                 | BF4    | Não                      | R$4,64                 |
+| RF5      | O sistema deve permitir a comparação de títulos de diferentes origens na simulação.               | BF5    | Não                      | R$8,10                 |
+| RF6      | O sistema deve integrar a funcionalidade de simulação com a aba "Meus Sonhos".                    | BF7    | Não                      | R$3,82                 |
+| RF7      | O aplicativo deve apresentar um dashboard inicial com informações relevantes para o usuário.      | BF8    | Não                      | R$9,46                 |
+| RF8      | O aplicativo deve disponibilizar mais recursos educativos sobre investimentos.                    | BF10   | Não                      | R$8                 |
+| RF9      | O sistema deve incluir uma barra de progresso na aba "Meus Sonhos".                               | BF12   | Não                      | R$4,11                 |
+| RF10     | O aplicativo deve permitir a comparação da simulação com os padrões do INSS na aposentadoria.     | BF14   | Não                      | R$3,55                 |
+| RF11     | O sistema deve exibir sugestões personalizadas na página inicial do "Meu Investimento".           | BF15   | Não                      | R$9,28                 |
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
-</center>
 
+</center>
+---
 
 ## Requisitos Não Funcionais
 
-<center> 
-**Tabela 2** - Requisitos Não Funcionais.
+<center>
+**Tabela 2** - Requisitos Não Funcionais
 
-| Tipo                     | Descrição                                                                                                       | ID  | Elaborado (Sim/Não) | Priorização (Média) |
-|--------------------------|----------------------------------------------------------------------------------------------------------------|------|--------------------|---------------------|
-| RFN1 | Controle ampliado na simulação de aposentadoria| BFN6    | Não                | R$3,93             |
-| RFN2  | Perfil de recomendação de investimento mais visível | BFN9    | Não               | R$4,55             |
-| RFN3  | Aprimorar a acessibilidade do layout | BFN11   | Não                | R$10,27            |
-| RFN4  | Tema escuro no aplicativo | BFN13   | Não                | R$5,20             |
+| **Tipo** | **Descrição**                                                                                      | **ID**  | **Elaborado (Sim/Não)** | **Priorização (Média)** |
+|----------|----------------------------------------------------------------------------------------------------|---------|--------------------------|-------------------------|
+| RFN1     | O sistema deve oferecer controle ampliado para simulações de aposentadoria.                       | BFN6    | Não                      | R$4,37                 |
+| RFN2     | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo.        | BFN9    | Não                      | R$4,10                 |
+| RFN3     | O layout do aplicativo deve ser aprimorado para aumentar a acessibilidade.                        | BFN11   | Não                      | R$9,55                |
+| RFN4     | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.         | BFN13   | Não                      | R$5,25                 |
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
+
 </center>
 
 ## Vídeo da Verificação
@@ -353,6 +204,7 @@ Para mais detalhes, o termo completo está disponível [aqui](../../../assets/Te
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 18/11/2024 | Criação do documento  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.1` | 18/11/2024 | Adicionando Roteiro  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.2` | 18/11/2024 | Adicionando Resultados  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.0` | 18/11/2024 | Criação do documento  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena) |
+| `1.1` | 18/11/2024 | Adicionando Roteiro  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena) |
+| `1.2` | 19/11/2024 | Adicionando Resultados  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
+| `1.3` | 20/11/2024 | Adicionando Vídeo  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
