@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O perfil de usuário é uma descrição detalhada das características, comportamentos e objetivos de quem utiliza um produto, serviço ou sistema. Ele pode incluir aspectos como interesses, habilidades, faixa etária, experiência tecnológica, preferências e desafios enfrentados. Essa análise permite às equipes de design, desenvolvimento e marketing criar soluções mais personalizadas e eficientes, alinhadas às expectativas do público-alvo.
+O perfil de usuário é uma descrição detalhada das características, comportamentos e objetivos de quem utiliza um produto, serviço ou sistema. Ele pode incluir aspectos como interesses, habilidades, faixa etária, experiência tecnológica, preferências e desafios enfrentados. Essa análise permite às equipes de design, desenvolvimento e marketing criem soluções mais personalizadas e eficientes, alinhadas às expectativas do público-alvo.
 
 ## Metodologia
 
