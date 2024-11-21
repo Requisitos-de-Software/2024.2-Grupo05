@@ -57,4 +57,4 @@ A partir dessa análise, o monitor forneceu observações que contribuirão para
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 21/11/2024 | Criação e estruturação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0` | 21/11/2024 | Criação e estruturação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
