@@ -45,16 +45,16 @@ Para facilitar o entendimento do aplicativo, foram reunidos e definidos termos e
 | **Tesouro IPCA+**      | Título público indexado ao IPCA, que garante proteção contra a inflação e retorno adicional.     |
 | **Tesouro Prefixado**  | Título com taxa de retorno definida no momento da compra, ideal para quem busca previsibilidade. |
 
-<div style="text-align: center">
-<p> Autor: [Júlia Takaki](https://github.com/juliatakaki), 2024.</p>
+<div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a></font></p>
 </div>
 
 ## Requisitos Elicitados
 
 Após uma análise dos conceitos relacionados ao domínio dos investimentos e títulos públicos, foi possível identificar os requisitos descritos na Tabela 2. Cada requisito foi identificado com a sigla GLO seguida de um número, representando sua origem no glossário. Além disso, cada um foi classificado como requisito funcional (RF) ou requisito não funcional (RNF), conforme sua natureza.
 
-<div style="text-align: center">
-  <p>Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024.</p>
+<div>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a></font></p>
 </div>
 
 | **Identificador** | **Descrição do Requisito**                                                                                                                                   | **Tipo** |
