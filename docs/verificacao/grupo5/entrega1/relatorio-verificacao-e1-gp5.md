@@ -71,7 +71,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 >
 > CTEC2402 - Software Development Project **Introducing Rich Pictures - Rich Picture Drawing Guidelines.**. Acesso em: 28 out. 2024
 >
-> Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/verificacao-rich-picture//>. Acesso em 02 de novembro de 2024.
+> Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/verificacao-rich-picture/>. Acesso em 02 de novembro de 2024.
 >
 ><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./rp1.png)
 >****

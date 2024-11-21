@@ -10,11 +10,11 @@ O objetivo deste documento é relatar os resultados das verificações realizada
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega1/planej-verificacao-e2-gp5.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador poderá, também, escrever observações em cada pergunta, detalhando pontos que achar necessários.
+Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega2/planej-verificacao-e2-gp5.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usará as opções **Sim**, **Não** ou **Incompleto**. O avaliador poderá, também, escrever observações em cada pergunta, detalhando pontos que achar necessários.
 
 ### Cronograma e Participantes
 
-Os participantes da verificação são integrantes do grupo. [NOME XXXX], que irá verificar e corrigir possíveis problemas. E o integrante do grupo [NOME XXXX] realizará a revisão da avaliação realizada. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega1/planej-verificacao-e2-gp5.md).
+Os participantes da verificação são integrantes do grupo. [NOME XXXX], que irá verificar e corrigir possíveis problemas. E o integrante do grupo [NOME XXXX] realizará a revisão da avaliação realizada. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega2/planej-verificacao-e2-gp5.md).
 
 <center>
 
@@ -63,7 +63,7 @@ _Autor: [NOME XXX]_
 >
 > COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. 3. ed. Indianapolis: Wiley Publishing, 2007. ISBN  978-0-470-08411-3
 >
-> Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/verificacao-rich-picture//>. Acesso em 02 de novembro de 2024.
+> Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega2/planejamento-verificacao-e2-grupo/>. Acesso em 02 de novembro de 2024.
 >
 ><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./p1.png)
 >****
