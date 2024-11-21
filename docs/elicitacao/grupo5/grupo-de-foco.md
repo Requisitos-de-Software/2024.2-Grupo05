@@ -85,27 +85,7 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
 
 O termo de consentimento utilizado neste grupo de foco permite o uso de imagem, áudio e dados fornecidos pelos participantes exclusivamente para fins educativos e de pesquisa.
 
-Para abrir o documento completo do termo de consentimento, <button id="open-pdf-btn" class="btn btn-primary">clique aqui.</button>
-
-<div id="pdf-container" style="display: none; margin-top: 20px;">
-    <iframe
-        src="/termo_de_consentimento_grupofocal.pdf"
-        width="100%"
-        height="600px"
-        style="border: none;">
-    </iframe>
-</div>
-
-<script>
-    document.getElementById("open-pdf-btn").addEventListener("click", function() {
-        var pdfContainer = document.getElementById("pdf-container");
-        if (pdfContainer.style.display === "none") {
-            pdfContainer.style.display = "block";
-        } else {
-            pdfContainer.style.display = "none";
-        }
-    });
-</script>
+Para abrir o documento completo do termo de consentimento, [clique aqui](../../../assets/termo_de_consentimento_grupofocal.pdf)
 
 ## Requisitos coletados
 
