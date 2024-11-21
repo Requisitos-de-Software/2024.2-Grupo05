@@ -141,4 +141,4 @@ Para abrir o documento completo do termo de consentimento, <button id="open-pdf-
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)   |
-| `1.2` | 21/11/2024  | Elicitação de Requisitos | [Maria Helena](https://github.com/MariaCHelena) |  |
+| `1.2` | 21/11/2024  | Elicitação de Requisitos | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
