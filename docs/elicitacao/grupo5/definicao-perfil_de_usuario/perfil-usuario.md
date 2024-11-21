@@ -33,11 +33,11 @@ Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/) [
 
 Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
 
-- Gênero: 
-- Idade: 
-- Experiência: 
-- Atitudes: 
-- Tarefas primárias: 
+- Gênero: Masculino;
+- Idade: 18 a 34 anos;
+- Experiência: Experiente;
+- Atitudes: Tecnófilos;
+- Tarefas primárias: Investir e Simular investimentos.
 
 ## Bibliografia
 
@@ -52,3 +52,4 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1` | 20/11/2024  | Inclusão de perfil do usuário | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
