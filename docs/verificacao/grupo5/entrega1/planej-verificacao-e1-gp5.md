@@ -137,4 +137,4 @@ _Autores: [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino]
 | `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.2` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.3` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
-| `1.4` | 21/11/2024  | Corringindo link do cronograma | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.4` | 21/11/2024  | Corringindo link do cronograma | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
