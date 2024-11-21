@@ -685,4 +685,4 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
 ## Histórico de versões
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0` | 20/11/2024  | Criação do documento de cronograma executado | [Maria Helena](https://github.com/MariaCHelena) |  |
+| `1.0` | 20/11/2024  | Criação do documento de cronograma executado | [Maria Helena](https://github.com/MariaCHelena) |[Júlia Takaki](https://github.com/juliatakaki)|
