@@ -108,7 +108,11 @@ Para abrir o documento completo do termo de consentimento, <button id="open-pdf-
 </script>
 
 ## Requisitos coletados
-### LEGENDA DA TABELA
+
+##### Legenda das Tabelas:
+- **RFx**: Requisito Funcional número x;
+- **RNFx**: Requisito Não Funcional número x;
+- **GFx**: Requisito do grupo de foco número x;
 
 ### Requisitos Funcionais
 
