@@ -126,4 +126,4 @@ _Autores: [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino]
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 07/11/2024 | Criação do documento  | [Todos os integrantes do grupo](../../../index.md) | [Todos os integrantes do grupo](../../../index.md) |
 | `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.2` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
+| `1.2` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  [Víctor Schmidt](https://github.com/moonshinerd) |
