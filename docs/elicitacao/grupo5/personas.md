@@ -131,4 +131,4 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Víctor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino)|
-| `1.1` | 20/11/2024  | Inclusão de Personas | [Víctor Rodrigues](https://github.com/ViictorHugoo) | |
+| `1.1` | 20/11/2024  | Inclusão de Personas | [Víctor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
