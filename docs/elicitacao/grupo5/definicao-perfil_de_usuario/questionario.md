@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Os questionários são ferramentas eficazes para a coleta de informações, formados por perguntas estruturadas e direcionados a um público-alvo, seja por meios impressos ou digitais. Eles têm como objetivo reunir dados que possam subsidiar pesquisas, análises ou avaliações. No caso do Tesouro Direto, serão usados para mapear o perfil dos usuários e entender melhor suas características.
+Os questionários são ferramentas eficazes para a coleta de informações, formados por perguntas estruturadas e direcionados a um público-alvo, sejam por meios impressos ou digitais. Eles têm como objetivo reunir dados que possam subsidiar pesquisas, análises ou avaliações. No caso do Tesouro Direto, serão usados para mapear o perfil dos usuários e entender melhor suas características.
 
 ## Metodologia
 
-Entre os dias 18 e 20 de novembro de 2024, a equipe aplicou um questionário na plataforma Google Forms, com o objetivo de levantar o perfil dos usuários do Economia DF. O questionário, composto por 15 perguntas (Figuras 1 a 14), incluindo um [termo de consentimento](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/main/docs/termo_de_consentimento_grupofocal.pdf), buscava obter informações sobre as características sociodemográficas dos usuários e suas interações com o sistema. A pesquisa contou com a participação de 19 pessoas e todas o termo de consentimento.
+Entre os dias 18 e 20 de novembro de 2024, a equipe aplicou um questionário na plataforma Google Forms, com o objetivo de levantar o perfil dos usuários do Economia DF. O questionário, composto por 15 perguntas (Figuras 1 a 14), incluindo um [termo de consentimento](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/main/docs/termo_de_consentimento_grupofocal.pdf), buscava coletar informações sobre as características sociodemográficas dos usuários e suas interações com o sistema. A pesquisa contou com a participação de 19 pessoas e todas o termo de consentimento.
 
 ### Questão 1 - Qual sua faixa etária?
 
@@ -152,9 +152,9 @@ Entre os dias 18 e 20 de novembro de 2024, a equipe aplicou um questionário na 
 
 A partir das respostas coletadas, podemos concluir que o perfil de usuário do Tesouro Direto é composto majoritariamente por homens com idade entre 18 e 24 anos. Em sua maioria possuem ensino superior incompleto e renda próxima a 1 (um) salário mínimo (R$ 1.412).
 
-Sobre afinidade com tecnologia, podemos concluir que os usuários possuem características tecnófilas, pois em que sua maioria têm afinidade de média para alta. A respeito do uso do aplicativo, os usuários costumam usá-lo raramente e o principal objetivo é realizar a verificação dos seus investimentos. As funcionalidades "Meus Investimentos" e "Investir" foram as mais votadas como importantes dentro do aplicativo.
+Sobre afinidade com tecnologia, podemos concluir que os usuários possuem características tecnófilas, pois em que sua maioria tem afinidade de média a alta. A respeito do uso do aplicativo, os usuários costumam usá-lo raramente e o principal objetivo é realizar a verificação dos seus investimentos. As funcionalidades "Meus Investimentos" e "Investir" foram as mais votadas como importantes dentro do aplicativo.
 
-Acerca da avaliação geral do aplicativo, dificuldade para encontrar a funcionalidade desejada e tempo para realizar ações dentro do sistema, as respostas majoritariamente foram medianas. Sobre a interface, a resposta mais escolhida foi 2 (em uma escala de 1 a 5).
+Acerca da avaliação geral do aplicativo, da dificuldade para encontrar funcionalidades e do tempo necessário para realizar ações no sistema, as respostas foram majoritariamente medianas. Quanto à interface, a resposta mais escolhida foi 2 (em uma escala de 1 a 5).
 
 ## Bibliografia
 
@@ -165,4 +165,4 @@ Acerca da avaliação geral do aplicativo, dificuldade para encontrar a funciona
 
 | Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
 | ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 20/11/2024 | Criação do documento                 | [Júlia Takaki](https://github.com/juliatakaki)  ||
+| `1.0`  | 20/11/2024 | Criação do documento                 | [Júlia Takaki](https://github.com/juliatakaki)  |[Thales Euflauzino](https://github.com/thaleseuflauzino)|
