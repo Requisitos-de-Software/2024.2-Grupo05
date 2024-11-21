@@ -4,7 +4,7 @@
 
 O glossário desempenha o papel de processo e produto simultaneamente. Ele serve para identificar e definir os termos característicos do domínio do problema, e sua construção contribui para a elicitação de requisitos. Optar por essa metodologia é especialmente relevante devido ao vocabulário técnico e específico de investimentos e títulos públicos que permeia o aplicativo Tesouro Direto.
 
-De acordo com Vazquez [1], para identificar os termos candidatos ao glossário, deve prestar-se atenção a termos:
+De acordo com Vazquez<a id="REF1" href="#anchor_1"><sup>1</sup></a>, para identificar os termos candidatos ao glossário, deve prestar-se atenção a termos:
 
 - Únicos para o domínio;
 - Com mais de uma definição;
@@ -46,7 +46,7 @@ Para facilitar o entendimento do aplicativo, foram reunidos e definidos termos e
 | **Tesouro Prefixado**  | Título com taxa de retorno definida no momento da compra, ideal para quem busca previsibilidade. |
 
 <div>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a></font></p>
 </div>
 
 ## Requisitos Elicitados
@@ -69,17 +69,18 @@ Após uma análise dos conceitos relacionados ao domínio dos investimentos e t�
 | **GLO08**          | A aplicação deve ser compatível com dispositivos móveis e navegadores modernos, garantindo desempenho e responsividade adequados.                           | RNF      |
 
 <div>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a></font></p>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a></font></p>
 </div>
 
 ## Bibliografia
 
-[1] VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
-
-[2] Termos do [Tesouro Direto](https://www.tesourodireto.com.br/), acesso em novembro de 2024.
+><a id="anchor_1" href="#REF1">1</a> VAZQUEZ C., SIMÕES G. Engenharia de Requisitos, 1ª edição.
+>
+>Termos do [Tesouro Direto](https://www.tesourodireto.com.br/), acesso em 21 de novembro de 2024.
 
 ## Histórico de Versão
 
 | Versão | Data       | Descrição                          | Autor(es)     |  Revisor(es)  |
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
-| `1.0`  | 21/11/2024 | Criação do documento.              | [Júlia Takaki](https://github.com/juliatakaki) ||
+| `1.0`  | 21/11/2024 | Criação do documento.              | [Júlia Takaki](https://github.com/juliatakaki) |[Thales Euflauzino](https://github.com/thaleseuflauzino)|
+| `1.1`  | 21/11/2024 | Ajustes fonte para autor e na bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) ||
