@@ -23,25 +23,21 @@ Os participantes da verificação são integrantes do grupo. [NOME XXXX], que ir
 |        ID        | Descrição                                                                                                           | Avaliação  | Autor        | Data e hora |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | ------------ | ------------- |
 | **Itens do Desenvolvimento do projeto** |                                                                                                                     |            |              |               |
-|        1         | 1 - A Especificação do Perfil do usuário possui informação de:
-• idade (criança, jovem, adulto, terceira idade etc.);
-• experiência (leigo/ novato, especialista);
-• atitudes (tecnófilos, tecnófobos); e
-• tarefas primárias (compra, venda)                       |    Sim     | André Barros |         06/11/2024 21:20       |
-|        2         | O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim | André Barros |     06/11/2024 21:20           |
-|        3         | Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                                                            |    Sim     | André Barros |    06/11/2024 21:20            |
-|        4         | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                              |    Sim     | André Barros |        06/11/2024 21:20        |
-|        5         | Um texto fazendo uma introdução dos artefatos?                                                                                             |    Sim     | André Barros |    06/11/2024 21:20            |
-|        6         | O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.    |    Sim     | André Barros |      06/11/2024 21:20          |
-|        7         | Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc).                                                      |    Sim     | André Barros |        06/11/2024 21:20        |
-|        8         | A gravação da reunião do grupo.                                                                                   |    Sim     | André Barros |       06/11/2024 21:20         |
-|        9         | Vídeo de apresentação na categoria “não listado” no youtube?                                                                               |    Sim     | André Barros |      06/11/2024 21:20          |
+|        1         | 1 - A Especificação do Perfil do usuário possui informação de: <br> • Idade (criança, jovem, adulto, terceira idade etc.); <br> • Experiência (leigo/ novato, especialista); <br> • Atitudes (tecnófilos, tecnófobos); <br> • tarefas primárias (compra, venda)                       |    RESPOSTA     | André Barros |         DATA/HORA       |
+|        2         | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | RESPOSTA | André Barros |     DATA/HORA           |
+|        3         | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)?                                                                                           |    RESPOSTA     | André Barros |    DATA/HORA            |
+|        4         | A participação do cliente e/ou persona na elicitação de requisitos?                                             |    RESPOSTA     | André Barros |        DATA/HORA        |
+|        5         | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                                                                             |    RESPOSTA     | André Barros |    DATA/HORA            |
+|        6         | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?    |    RESPOSTA     | André Barros |      DATA/HORA          |
+|        7         | No mínimo duas técnicas de priorização (quanto mais melhor)? <BR> * A técnica de MoSCoW* / 100 $* só devem ser  utilizados no projeto após a utilização de outras duas técnicas de priorização no  projeto.                                                      |    RESPOSTA     | André Barros |        DATA/HORA        |
+|        8         | A participação do cliente e/ou persona no processo de priorização?                                                                                   |    RESPOSTA     | André Barros |       DATA/HORA         |
+|        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    RESPOSTA     | André Barros |      DATA/HORA          |
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
-|        <a id="REF1" href="#anchor_1">1</a>        | O Rich Picture conta uma história clara e compreensível?                                                                             |    Sim     | Thales Euflauzino |  06/11/2024 21:20       |
-|        <a id="REF2" href="#anchor_2">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo                                                                               |    Sim     | Victor Guimarães |      06/11/2024 21:20          |
-|        <a id="REF3" href="#anchor_3">3</a>        | O Rich Picture tem todas as palavras chaves necessárias do projeto?                                                                            |    Sim     | Víctor Schmidt |      06/11/2024 21:20          |
-|        <a id="REF4" href="#anchor_4">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?                                                                     |    Sim     | Julia Takaki |      06/11/2024 21:20          |
-|        <a id="REF5" href="#anchor_5">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"?                                                                                                   |    Sim     | Maria Helena |       06/11/2024 21:20         |
+|        <a id="REF1" href="#anchor_1">1</a>        | COLOCAR O DO AUTOR                                                                             |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
+|        <a id="REF2" href="#anchor_2">2</a>        | COLOCAR O DO AUTOR                                                                               |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
+|        <a id="REF3" href="#anchor_3">3</a>        | COLOCAR O DO AUTOR                                                                            |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
+|        <a id="REF4" href="#anchor_4">4</a>        | COLOCAR O DO AUTOR                                                                     |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
+|        <a id="REF5" href="#anchor_5">5</a>        | COLOCAR O DO AUTOR                                                                                                   |    RESPOSTA     | Maria Helena |       DATA/HORA         |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
@@ -52,11 +48,11 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
 <center>
   
-[**Vídeo 1:** Requisitos - Verificação Entrega 1](https://youtu.be/JUBg_qbl4IQ)
+[**Vídeo 1:** Requisitos - Verificação Entrega 2](Adicionar link)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JUBg_qbl4IQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="ADICIONAR LINK AQUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-_Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
+_Autor: [NOME XXX]_
 
 </center>
 
@@ -65,29 +61,21 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
 >
-> CTEC2402 - Software Development Project **Introducing Rich Pictures - Rich Picture Drawing Guidelines.**. Acesso em: 28 out. 2024
->
 > Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/verificacao-rich-picture//>. Acesso em 02 de novembro de 2024.
 >
-><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./rp1.png)
+><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>COLOCAR IMAGEM REFERENCIA (THALES EUFLAUZINO)
 >****
-><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>![Referência 2](./rp2.png)
+><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>COLOCAR IMAGEM REFERENCIA (VICTOR RODRIGUES)
 >****
-><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 3](./rp3.png)
+><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>COLOCAR IMAGEM REFERENCIA (VICTOR SCHMIDT)
 >****
-> <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>![Referência 4](./rp4.png)
+> <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>COLOCAR IMAGEM REFERENCIA (JULIA TAKAKI)
 >****
-> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 5](./rp5.png)
+> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>COLOCAR IMAGEM REFERENCIA (MARIA HELENA)
 
 
 ## Histórico de Versões
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 02/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.1` | 02/11/2024 | Adicionando revisão da Rich Picture | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.2` | 06/11/2024 | Mudando avaliação do cronograma | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
-| `1.3` | 06/11/2024 | Adicionando vídeo de verificação ao relatorio | [Víctor Schmidt](https://github.com/moonshinerd) | [Maria Helena](https://github.com/MariaCHelena) |
-| `1.4` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.5` | 12/11/2024  | Adicionando autor e data na tabela de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.6` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.0` | 21/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) ||
