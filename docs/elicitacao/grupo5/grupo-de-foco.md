@@ -88,10 +88,10 @@ O termo de consentimento utilizado neste grupo de foco permite o uso de imagem, 
 Para abrir o documento completo do termo de consentimento, <button id="open-pdf-btn" class="btn btn-primary">clique aqui.</button>
 
 <div id="pdf-container" style="display: none; margin-top: 20px;">
-    <iframe 
+    <iframe
         src="/termo_de_consentimento_grupofocal.pdf"
-        width="100%" 
-        height="600px" 
+        width="100%"
+        height="600px"
         style="border: none;">
     </iframe>
 </div>
@@ -107,12 +107,38 @@ Para abrir o documento completo do termo de consentimento, <button id="open-pdf-
     });
 </script>
 
+## Requisitos coletados
+
+##### Legenda das Tabelas:
+- **RFx**: Requisito Funcional número x;
+- **RNFx**: Requisito Não Funcional número x;
+- **GFx**: Requisito do grupo de foco número x;
+
+### Requisitos Funcionais
+
+| Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) |
+|--------|---------------------------------------------------------------------------|------|---------------------|
+| RF1   | O aplicativo deverá possuir uma tela de login integrado com o [gov.br](https://www.gov.br/pt-br) | GF01 | Sim  |
+| RF2   | O aplicativo deverá permitir que o usuário faça login criando uma conta própria no sistema      | GF02 | Sim   |
+| RF3   | O aplicativo deverá possuir uma ferramenta de simulação de evolução dos investimentos.      | GF03 | Sim   |
+| RF4   | O aplicativo deverá possuir uma ferramenta para comparar o investimento escolhido com outros tipos de investimento.  | GF04 | Não   |
+| RF5   | O aplicativo deverá possuir a funcionalidade de alternar entre modo claro e escuro. | GF05 | Não   |
+
+### Requisitos não funcionais
+
+| Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) |
+|--------|---------------------------------------------------------------------------|------|---------------------|
+| RNF1   | O aplicativo deverá garantir a segurança dos dados cadastrais dos usuários de acordo com a LGPD. | GF06 | Sim  |
+| RNF2   | O aplicativo deverá ser responsivo para todos os dispositivos mobile. | GF07 | Não   |
+| RNF3   | A navegação no aplicativo deverá ser focada em integrar as funcionalidades do aplicativo de modo intuitivo e compreensivo. | GF08 | Não   |
+
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) **Interação Humano-Computador e Experiência do usuário.** Cap 7. Autopublicação. ISBN: 978-65-00-19677-1.
-> 
+>
 > Economia DF - Grupo de Foco. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/grupo_de_foco/. Acesso em 19 de novembro de 2024
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)   |
+| `1.2` | 21/11/2024  | Elicitação de Requisitos | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
