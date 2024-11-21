@@ -6,7 +6,7 @@ O perfil de usuário é uma descrição detalhada das características, comporta
 
 ## Metodologia
 
-A definição do perfil de usuário foi realizada por meio de uma abordagem combinada que incluiu a aplicação de um questionário online, pode ser verificado em [Questionario](inserir caminho). Paralelamente, foi utilizado um site especializado em análise de tráfego para validar e complementar os dados obtidos, permitindo identificar padrões de navegação e comportamento dos usuários.
+A definição do perfil de usuário foi realizada por meio de uma abordagem combinada que incluiu a aplicação de um questionário online, pode ser verificado em [Questionario](../questionario/). Paralelamente, foi utilizado um site especializado em análise de tráfego para validar e complementar os dados obtidos, permitindo identificar padrões de navegação e comportamento dos usuários.
 
 ## Ferramenta de Tráfego
 
