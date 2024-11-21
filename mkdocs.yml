@@ -50,6 +50,11 @@ nav:
       - Brainstorm: elicitacao/grupo5/brainstorm.md
       - Grupo de foco: elicitacao/grupo5/grupo-de-foco.md
       - Glossário: elicitacao/grupo5/glossario.md
+    - Priorização:
+      - 100$: elicitacao/grupo5/priorizacao/100$.md
+      - MOSCOW: elicitacao/grupo5/priorizacao/moscow.md
+      - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
+      - First Things First: elicitacao/grupo5/priorizacao/firstthingsfirst.md
 
 theme:
   logo: assets/header-logo-tesourodireto.png
