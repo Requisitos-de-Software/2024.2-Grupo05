@@ -10,7 +10,7 @@ A definição do perfil de usuário foi realizada por meio de uma abordagem comb
 
 ## Ferramenta de Tráfego
 
-Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/) [adicionar nas ferramentas], foi possível concluir, conforme as Figura 1 e a Figura 2, que o aplicativo é predominantemente usado por pessoas do sexo masculino e na faixa etária de 25 a 34 anos.
+Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/), foi possível concluir, conforme as Figura 1 e Figura 2, que o aplicativo é predominantemente usado por pessoas do sexo masculino e na faixa etária de 25 a 34 anos.
 
 ##### Figura 1
 
@@ -33,11 +33,11 @@ Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/) [
 
 Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
 
-- Gênero: 
-- Idade: 
-- Experiência: 
-- Atitudes: 
-- Tarefas primárias: 
+- Gênero: Masculino;
+- Idade: 18 a 34 anos;
+- Experiência: Experiente;
+- Atitudes: Tecnófilos;
+- Tarefas primárias: Investir e Simular investimentos.
 
 ## Bibliografia
 
@@ -52,3 +52,4 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1` | 20/11/2024  | Inclusão de perfil do usuário | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
