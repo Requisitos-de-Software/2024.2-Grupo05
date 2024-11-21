@@ -35,12 +35,14 @@ nav:
         - Relatório de verificação: verificacao/grupo6/entrega1/relatorio-verificacao-e1-gp6.md
 
   - Elicitação de Requisitos:
-    - Perfil de Usuário: elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md
+    - Definição do Perfil de Usuário: 
+      - Perfil de Usuário: elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md
+      - Questionário: elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md
     - Técnicas:
       - Introspecção: elicitacao/grupo5/introspeccao.md
       - Brainstorm: elicitacao/grupo5/brainstorm.md
       - Grupo de foco: elicitacao/grupo5/grupo-de-foco.md
-      - Questionário: elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md
+      - Glossário: elicitacao/grupo5/questionario.md
 
 theme:
   logo: assets/header-logo-tesourodireto.png
