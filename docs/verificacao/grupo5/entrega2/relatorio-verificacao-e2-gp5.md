@@ -33,7 +33,7 @@ Os participantes da verificação são integrantes do grupo. [NOME XXXX], que ir
 |        8         | A participação do cliente e/ou persona no processo de priorização?                                                                                   |    RESPOSTA     | André Barros |       DATA/HORA         |
 |        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    RESPOSTA     | André Barros |      DATA/HORA          |
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
-|        <a id="REF1" href="#anchor_1">1</a>        | COLOCAR O DO AUTOR                                                                             |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
+|        <a id="REF1" href="#anchor_1">1</a>        | As personas são criadas a partir de observações do mundo real?                                                                            |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
 |        <a id="REF2" href="#anchor_2">2</a>        | COLOCAR O DO AUTOR                                                                               |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
 |        <a id="REF3" href="#anchor_3">3</a>        | COLOCAR O DO AUTOR                                                                            |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
 |        <a id="REF4" href="#anchor_4">4</a>        | COLOCAR O DO AUTOR                                                                     |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
@@ -61,9 +61,11 @@ _Autor: [NOME XXX]_
 
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
 >
+> COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. 3. ed. Indianapolis: Wiley Publishing, 2007. ISBN  978-0-470-08411-3
+>
 > Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/verificacao-rich-picture//>. Acesso em 02 de novembro de 2024.
 >
-><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>COLOCAR IMAGEM REFERENCIA (THALES EUFLAUZINO)
+><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./p1.png)
 >****
 ><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>COLOCAR IMAGEM REFERENCIA (VICTOR RODRIGUES)
 >****
