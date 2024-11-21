@@ -21,7 +21,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Julia Takaki</td><td>221029249</td><td>✅</td></tr>
   <tr><td>Maria Helena</td><td>222006982</td><td>✅</td></tr>
   <tr><td>Thales Euflauzino</td><td>222006178</td><td>✅</td></tr>
-  <tr><td>Victor Guimaraes</td><td>211063256</td><td>✅</td></tr>
+  <tr><td>Victor Rodrigues</td><td>211063256</td><td>✅</td></tr>
   <tr><td>Víctor Schmidt</td><td>222021924</td><td>✅</td></tr>
 </table>
 
@@ -64,9 +64,9 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
     <th>Compromisso</th><th>Responsável</th><th>Data de Entrega</th><th>Revisor</th>
     </tr>
     </tr><tr><td>Planejamento do Cronograma</td><td>Maria Helena e Víctor Schmidt</td><td>25/10/2024</td><td>Todos</td>
-    </tr><tr><td>App Escolhido</td><td>Victor Guimaraes</td><td>26/10/2024</td><td>Julia Takaki</td>
+    </tr><tr><td>App Escolhido</td><td>Victor Rodrigues</td><td>26/10/2024</td><td>Julia Takaki</td>
     <tr><td>Criação do GitHub Pages</td><td>Thales Euflauzino</td><td>24/10/2024</td><td>Víctor Schmidt</td>
-    </tr><tr><td>Termo de Uso do Aplicativo Selecionado</td><td>Victor Guimaraes</td><td>26/10/2024</td><td>Julia Takaki</td>
+    </tr><tr><td>Termo de Uso do Aplicativo Selecionado</td><td>Victor Rodrigues</td><td>26/10/2024</td><td>Julia Takaki</td>
     </tr><tr><td>Ferramentas Utilizadas para o Projeto</td><td>Julia Takaki</td><td>27/10/2024</td><td>Víctor Schmidt</td>
 </table>
 
@@ -86,7 +86,7 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-|1.0|23/10/2024|Primeira ata| [Víctor Schmidt](https://github.com/moonshinerd) | [Julia Takaki](https://github.com/juliatakaki) |
-|1.1|24/10/2024|Adicionando video| [Víctor Schmidt](https://github.com/moonshinerd) | [Julia Takaki](https://github.com/juliatakaki) |
-|1.2|24/10/2024|Corrigindo fontes| [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-
+|`1.0`|23/10/2024|Primeira ata| [Víctor Schmidt](https://github.com/moonshinerd) | [Julia Takaki](https://github.com/juliatakaki) |
+|`1.1`|24/10/2024|Adicionando video| [Víctor Schmidt](https://github.com/moonshinerd) | [Julia Takaki](https://github.com/juliatakaki) |
+|`1.2`|24/10/2024|Corrigindo fontes| [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  [Víctor Schmidt](https://github.com/moonshinerd)  |
