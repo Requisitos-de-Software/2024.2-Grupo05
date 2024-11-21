@@ -10,7 +10,7 @@ A definição do perfil de usuário foi realizada por meio de uma abordagem comb
 
 ## Ferramenta de Tráfego
 
-Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/) [adicionar nas ferramentas], foi possível concluir, conforme as Figura 1 e a Figura 2, que o aplicativo é predominantemente usado por pessoas do sexo masculino e na faixa etária de 25 a 34 anos.
+Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/), foi possível concluir, conforme as Figura 1 e a Figura 2, que o aplicativo é predominantemente usado por pessoas do sexo masculino e na faixa etária de 25 a 34 anos.
 
 ##### Figura 1
 

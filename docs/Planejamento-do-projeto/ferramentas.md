@@ -50,6 +50,10 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
       <td><img src="https://i.pinimg.com/originals/99/7b/0a/997b0a243df40b681d8c8177724f1b45.png" width="100" height="100"></td>
       <td><b>Notion:</b> Organização de atas e cronograma [9].</td>
     </tr>
+    </tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/main/docs/assets/similarWeb-logo.png" width="100" height="100"/></td>
+      <td><b>SimilarWeb:</b> análises do tráfego do aplicativo [10].</td>
+    </tr>
   </tbody>
 </table>
 
@@ -76,6 +80,8 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 >
 > [9] Notion. Disponível em: [https://www.notion.so/pt](https://www.notion.so/pt). Acesso em: 29 de Out. de 2024.
 >
+> [10] SimilarWeb. Disponível em: [https://www.similarweb.com/pt/](https://www.similarweb.com/pt/). Acesso em: 19 de Nov. de 2024.
+
 
 ## Histórico de Versões
 
@@ -83,4 +89,4 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 | :----: | :--------: | :----------------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
 | `1.0`  | 29/10/2024 |        Criação da página de ferramentas.         | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-</center>
+| `1.2` | 19/11/2024  | Adicção de ferramenta | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
