@@ -89,4 +89,4 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
 |`1.0`|23/10/2024|Primeira ata| [Víctor Schmidt](https://github.com/moonshinerd) | [Julia Takaki](https://github.com/juliatakaki) |
 |`1.1`|24/10/2024|Adicionando video| [Víctor Schmidt](https://github.com/moonshinerd) | [Julia Takaki](https://github.com/juliatakaki) |
 |`1.2`|24/10/2024|Corrigindo fontes| [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.3` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
+| `1.3` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  [Víctor Schmidt](https://github.com/moonshinerd)  |
