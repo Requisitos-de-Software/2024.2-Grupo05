@@ -118,7 +118,7 @@ Para abrir o documento completo do termo de consentimento, <button id="open-pdf-
 
 | Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) |
 |--------|---------------------------------------------------------------------------|------|---------------------|
-| RF1   | O aplicativo devverá possuir uma tela de login integrado com o Gov Br | GF01 | Sim  |
+| RF1   | O aplicativo deverá possuir uma tela de login integrado com o [gov.br](https://www.gov.br/pt-br) | GF01 | Sim  |
 | RF2   | O aplicativo deverá permitir que o usuário faça login criando uma conta própria no sistema      | GF02 | Sim   |
 | RF3   | O aplicativo deverá possuir uma ferramenta de simulação de evolução dos investimentos.      | GF03 | Sim   |
 | RF4   | O aplicativo deverá possuir uma ferramenta para comparar o investimento escolhido com outros tipos de investimento.  | GF04 | Não   |
