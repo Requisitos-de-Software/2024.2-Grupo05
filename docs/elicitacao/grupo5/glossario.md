@@ -54,7 +54,7 @@ Para facilitar o entendimento do aplicativo, foram reunidos e definidos termos e
 Após uma análise dos conceitos relacionados ao domínio dos investimentos e títulos públicos, foi possível identificar os requisitos descritos na Tabela 2. Cada requisito foi identificado com a sigla GLO seguida de um número, representando sua origem no glossário. Além disso, cada um foi classificado como requisito funcional (RF) ou requisito não funcional (RNF), conforme sua natureza.
 
 <div style="text-align: center">
-<p> Tabela 2: Requisitos elicitados a partir do Glossário.</p>
+  <p>Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024.</p>
 </div>
 
 | **Identificador** | **Descrição do Requisito**                                                                                                                                   | **Tipo** |
@@ -69,7 +69,7 @@ Após uma análise dos conceitos relacionados ao domínio dos investimentos e t�
 | **GLO08**          | A aplicação deve ser compatível com dispositivos móveis e navegadores modernos, garantindo desempenho e responsividade adequados.                           | RNF      |
 
 <div style="text-align: center">
-<p> Autor: [Júlia Takaki](https://github.com/juliatakaki), 2024.</p>
+  <p>Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024.</p>
 </div>
 
 ## Bibliografia
