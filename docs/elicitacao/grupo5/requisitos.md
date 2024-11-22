@@ -1,42 +1,7 @@
-# 100$
-
-## Introdução
-
-Considerando que a priorização consiste em distribuir recursos limitados para maximizar o retorno, a técnica $100 adota uma analogia com dinheiro para facilitar a identificação da relevância dos requisitos. Nesse contexto, a priorização foi aplicada exclusivamente aos requisitos funcionais, visando simplificar o processo para o usuário.
+# Requisitos Elicitados
 
 
-## Participantes
-
-A tabela 1 apresenta os participantes da atividade de priorização
-
-<div style="text-align: center">
-<font size="3"><p> Tabela 1: Participantes 2024 </font></p>
-
-<table>
-  <tr>
-    <th>Nome</th>
-    <th>Função</th>
-  </tr>
-  <tr>
-    <td>Victor Rodrigues</td>
-    <td>Mediador</td>
-  </tr>
-  <tr>
-    <td> - </td>
-    <td> Usuário </td>
-  </tr>
-</table>
-
-<font size="3"><p><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
-</div>
-
-
-## Metodologia
-
-Para esta técnica de priorização, foi realizada uma reunião via Teams no dia 22/11/2024, com os integrantes listados na Tabela 1. A reunião teve duração de X minutos. Durante o encontro, o mediador explicou o funcionamento da técnica e solicitou ao usuário que classificasse os requisitos listados atribuindo quantias de dinheiro, de acordo com sua importância. O consentimento para a gravação foi obtido de forma oral antes do início da gravação. Além disso, foi solicitado ao usuário que, durante a gravação, declarasse seu acordo com o uso de sua imagem e voz.
-
-
-## Requisitos priorizados
+## Requisitos
 
 Os requisitos foram organizados em duas tabelas: a Tabela 2 apresenta os Requisitos Funcionais, enquanto a Tabela 3 lista os Requisitos Não Funcionais.
 
@@ -98,17 +63,25 @@ _Legenda das Tabelas:_
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
 </div>
 
-## Bibliografia
 
-> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013.
->
-> REQUISTOS DE SOFTWARE. 100$. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/100/. Acesso em: 21 nov. 2024.
->
+### Não Funcionais
 
+<div>
+<font size="3"><p style="text-align: center"> Tabela 3 - Requisitos Não Funcionais </a></font></p>
+</div>
 
-## Histórico de Versões
+| Identificador | Descrição	| ID | Priorização |
+|---------------|-----------|-----|-------------|
+| RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | IT20 |  |
+| RNF02 | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD. | IT21, GF06 |  |
+| RNF03 | O aplicativo deve ser responsivo para dispositivos móveis e tablets. | IT22, GF07, GLO08 |  |
+| RNF04 | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade. | IT23, BFN11, GF08, GLO04 |  |
+| RNF05 | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | IT24, GLO06 |  |
+| RNF06 | Disponibilizar suporte para múltiplos idiomas (português como padrão). | IT25 |  |
+| RNF07 | O sistema deve oferecer controle ampliado para simulações de aposentadoria. | BFN6 |  |
+| RNF08 | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo. | BFN9 |  |
+| RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário. | BFN13 |  |
 
-| Versão | Data       | Descrição | Autor     |       Revisor         |
-| ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0`  | 21/11/2024 | Lista de requisitos | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.1`  | 21/11/2024 | Inclusão de Introdução e Metodologia | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
+</div>
