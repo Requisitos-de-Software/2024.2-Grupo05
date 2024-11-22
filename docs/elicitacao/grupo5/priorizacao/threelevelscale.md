@@ -136,4 +136,4 @@ _Legenda das Tabelas:_
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0`  | 21/11/2024 | Lista de requisitos | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.1`  | 21/11/2024 | Inclusão de Introdução e Metodologia | [Víctor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.1`  | 21/11/2024 | Inclusão de Introdução e Metodologia | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
