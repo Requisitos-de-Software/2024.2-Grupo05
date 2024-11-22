@@ -2,16 +2,57 @@
 
 ## Introdução
 
-
-## Metodologia
-
+A técnica de priorização Three Levels Scale é uma abordagem simples e eficiente para classificar requisitos com base em sua prioridade relativa. Essa técnica categoriza os requisitos em três níveis: alta, média e baixa prioridade, facilitando a organização e o planejamento do projeto. No contexto deste trabalho, a técnica foi aplicada com a colaboração de um desenvolvedor, que atuou como mediador, e de um usuário, responsável por avaliar os requisitos.
 
 ## Participantes
 
+A tabela 1 apresenta os participantes da atividade de priorização
+
+<div style="text-align: center">
+<font size="3"><p> Tabela 1: Participantes 2024 </font></p>
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Função</th>
+  </tr>
+  <tr>
+    <td>Victor Rodrigues</td>
+    <td>Mediador</td>
+  </tr>
+  <tr>
+    <td> - </td>
+    <td> Usuário </td>
+  </tr>
+</table>
+
+<font size="3"><p><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
+</div>
+
+## Metodologia
+
+Os requisitos foram apresentados ao usuário, que os classificou em uma das três categorias de prioridade com base em sua importância e urgência. Durante o processo, o mediador explicou os critérios de cada nível e esclareceu dúvidas para garantir uma avaliação consistente. Não foram atribuídos valores numéricos, mas considerou-se a relevância de cada requisito para os objetivos do projeto e as necessidades do usuário.
 
 ## Requisitos priorizados
 
-## Funcionais
+Os requisitos foram organizados em duas tabelas: a Tabela 2 apresenta os Requisitos Funcionais, enquanto a Tabela 3 lista os Requisitos Não Funcionais.
+
+_Legenda das Tabelas:_
+
+- RFx: Requisito Funcional número x;
+- RNFx: Requisito Não Funcional número x;
+- ITx: Requisito da Introspecção número x;
+- BFx: Requisito Funcional do Brainstorm número x;
+- BFNx: Requisito Não Funcional do Brainstorm número x;
+- GFx: Requisito do Grupo de Foco número x;
+- GLOx: Requisito do Glossário número x;
+
+### Funcionais
+
+<div>
+<font size="3"><p style="text-align: center"> Tabela 2 - Requisitos Funcionais </a></font></p>
+</div>
+
 
 | Identificador | Descrição	| ID | Priorização |
 |---------------|-----------|-----|-------------|
@@ -50,7 +91,16 @@
 | RF33 | O aplicativo deverá permitir que o usuário faça login criando uma conta própria no sistema | GF02 | |
 | RF34 | O aplicativo deverá possuir uma tela de login integrado com o gov.br | GF01 | |
 
-## Não Funcionais
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
+</div>
+
+
+### Não Funcionais
+
+<div>
+<font size="3"><p style="text-align: center"> Tabela 3 - Requisitos Não Funcionais </a></font></p>
+</div>
 
 | Identificador | Descrição	| ID | Priorização |
 |---------------|-----------|-----|-------------|
@@ -64,16 +114,21 @@
 | RNF08 | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo. | BFN9 |  |
 | RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário. | BFN13 |  |
 
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
+</div>
 
 
 
 ## Referências Bibliográficas
 
+> WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf. Acesso em: 21 nov. 2024
 >
+> REQUISTOS DE SOFTWARE. Three Levels Scale. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/threeLevel-Scale/. Acesso em: 21 nov. 2024.
 >
+> REQUISTOS DE SOFTWARE. Three Levels Scale. Disponível em: https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/priorizacao/#escala-de-tres-niveis. Acesso em: 21 nov. 2024.
 >
->
->
+> REQUISTOS DE SOFTWARE. Three Levels Scale. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/. Acesso em: 21 nov. 2024.
 >
 
 ## Histórico de Versões
@@ -81,3 +136,4 @@
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0`  | 21/11/2024 | Lista de requisitos | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1`  | 21/11/2024 | Inclusão de Introdução e Metodologia | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |

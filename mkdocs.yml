@@ -52,9 +52,8 @@ nav:
       - Glossário: elicitacao/grupo5/glossario.md
     - Priorização:
       - 100$: elicitacao/grupo5/priorizacao/100$.md
-      - MOSCOW: elicitacao/grupo5/priorizacao/moscow.md
-      - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
-      - First Things First: elicitacao/grupo5/priorizacao/firstthingsfirst.md
+      - In or Out: elicitacao/grupo5/priorizacao/inorout.md
+      - Three Levels Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
 
 theme:
   logo: assets/header-logo-tesourodireto.png
