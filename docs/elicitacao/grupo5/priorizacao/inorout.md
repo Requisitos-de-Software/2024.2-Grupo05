@@ -1,17 +1,62 @@
-# First Things First
+# In or Out
 
 ## Introdução
+
+Durante o desenvolvimento de software, é comum que haja uma quantidade significativa de requisitos elicitados, tornando necessário definir quais deles devem ser priorizados para a primeira etapa de implementação. Nesse contexto, a técnica In or Out é uma abordagem prática e direta para essa priorização.
 
 
 ## Metodologia
 
+A técnica consiste em realizar uma escolha binária para cada requisito: In (dentro) ou Out (fora), indicando, respectivamente, se o requisito será implementado na próxima release ou não. Aqueles marcados como Out permanecem na lista de requisitos para serem reavaliados em futuras etapas do projeto.
+
+Neste trabalho, um dos integrantes do grupo reuniu-se com um usuário externo ao projeto, que foi orientado a aplicar a técnica. A dinâmica envolveu a análise de cada requisito, seguida pela decisão sobre sua inclusão ou exclusão na próxima fase de desenvolvimento, com base em sua relevância e urgência.
+
 
 ## Participantes
 
+A tabela 1 apresenta os participantes da atividade de priorização
+
+<div style="text-align: center">
+<font size="3"><p> Tabela 1: Participantes 2024 </font></p>
+
+<table>
+  <tr>
+    <th>Nome</th>
+    <th>Função</th>
+  </tr>
+  <tr>
+    <td>Victor Rodrigues</td>
+    <td>Mediador</td>
+  </tr>
+  <tr>
+    <td> - </td>
+    <td> Usuário </td>
+  </tr>
+</table>
+
+<font size="3"><p><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
+</div>
 
 ## Requisitos priorizados
 
-## Funcionais
+Os requisitos foram organizados em duas tabelas: a Tabela 2 apresenta os Requisitos Funcionais, enquanto a Tabela 3 lista os Requisitos Não Funcionais.
+
+_Legenda das Tabelas:_
+
+- RFx: Requisito Funcional número x;
+- RNFx: Requisito Não Funcional número x;
+- ITx: Requisito da Introspecção número x;
+- BFx: Requisito Funcional do Brainstorm número x;
+- BFNx: Requisito Não Funcional do Brainstorm número x;
+- GFx: Requisito do Grupo de Foco número x;
+- GLOx: Requisito do Glossário número x;
+
+### Funcionais
+
+<div>
+<font size="3"><p style="text-align: center"> Tabela 2 - Requisitos Funcionais </a></font></p>
+</div>
+
 
 | Identificador | Descrição	| ID | Priorização |
 |---------------|-----------|-----|-------------|
@@ -50,7 +95,16 @@
 | RF33 | O aplicativo deverá permitir que o usuário faça login criando uma conta própria no sistema | GF02 | |
 | RF34 | O aplicativo deverá possuir uma tela de login integrado com o gov.br | GF01 | |
 
-## Não Funcionais
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
+</div>
+
+
+### Não Funcionais
+
+<div>
+<font size="3"><p style="text-align: center"> Tabela 3 - Requisitos Não Funcionais </a></font></p>
+</div>
 
 | Identificador | Descrição	| ID | Priorização |
 |---------------|-----------|-----|-------------|
@@ -64,20 +118,21 @@
 | RNF08 | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo. | BFN9 |  |
 | RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário. | BFN13 |  |
 
+<div>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
+</div>
 
 
 
 ## Referências Bibliográficas
 
+> REQUISTOS DE SOFTWARE. In our Out. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/. Acesso em: 21 nov. 2024.
 >
->
->
->
->
->
+
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0`  | 21/11/2024 | Lista de requisitos | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1`  | 21/11/2024 | Inclusão de Introdução e Metodologia | [Víctor Rodrigues](https://github.com/ViictorHugoo) |  |
