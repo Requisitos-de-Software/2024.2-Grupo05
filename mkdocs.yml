@@ -54,6 +54,7 @@ nav:
       - 100$: elicitacao/grupo5/priorizacao/100$.md
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
       - Three Levels Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
+    - Requisitos Elicitados: elicitacao\grupo5\requisitos.md
 
 theme:
   logo: assets/header-logo-tesourodireto.png

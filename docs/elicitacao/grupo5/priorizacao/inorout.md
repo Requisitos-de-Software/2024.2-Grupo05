@@ -124,10 +124,11 @@ _Legenda das Tabelas:_
 
 
 
-## Referências Bibliográficas
+## Bibliografia
 
-> REQUISTOS DE SOFTWARE. In our Out. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/. Acesso em: 21 nov. 2024.
+> WIEGERS, Karl, BEATTY, Joy. Software Requirements, Third Edition. Microsoft Press, Agosto, 2013.
 >
+> REQUISTOS DE SOFTWARE. In our Out. Disponível em: https://requisitos-de-software.github.io/2022.2-Grasshopper/elicitacao/priorizacao/in-or-out/. Acesso em: 21 nov. 2024.
 
 
 ## Histórico de Versões
