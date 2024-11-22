@@ -120,7 +120,7 @@ _Legenda das Tabelas:_
 
 
 
-## Referências Bibliográficas
+## Bibliografia
 
 > WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf. Acesso em: 21 nov. 2024
 >
