@@ -698,4 +698,4 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
 | `1.3` | 02/11/2024  | Adição das etapas de verificação | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.5` | 14/11/2024  | Adicionando periodo de revisão pós apresentações | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) |
-| `2.0` | 20/11/2024  | Adicionando a bibliografia, retirando o cronograma executado do documento e modificando as tabelas para tabelas colapsáveis | [Maria Helena](https://github.com/MariaCHelena) |  |
+| `2.0` | 20/11/2024  | Adicionando a bibliografia, retirando o cronograma executado do documento e modificando as tabelas para tabelas colapsáveis | [Maria Helena](https://github.com/MariaCHelena) |  [Júlia Takaki](https://github.com/juliatakaki)|
