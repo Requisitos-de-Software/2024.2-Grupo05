@@ -37,7 +37,7 @@ Os participantes da verificação são integrantes do grupo. [NOME XXXX], que ir
 |        <a id="REF2" href="#anchor_2">2</a>        | COLOCAR O DO AUTOR                                                                               |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
 |        <a id="REF3" href="#anchor_3">3</a>        | O Brainstorm possuiu uma pergunta norteadora para guiar os usuários durante a reunião?                                                                            |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
 |        <a id="REF4" href="#anchor_4">4</a>        | COLOCAR O DO AUTOR                                                                     |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
-|        <a id="REF5" href="#anchor_5">5</a>        | COLOCAR O DO AUTOR                                                                                                   |    RESPOSTA     | Maria Helena |       DATA/HORA         |
+|        <a id="REF5" href="#anchor_5">5</a>        | Há alguma comprovação do consentimento para o uso e a divulgação dos dados e das imagens dos participantes dos estudos, pesquisas e análises realizados nesta etapa, por meio da assinatura de um termo de consentimento? |    RESPOSTA     | Maria Helena |       DATA/HORA         |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 
@@ -47,7 +47,7 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino) 2024._
 ## Vídeo da Verificação
 
 <center>
-  
+
 [**Vídeo 1:** Requisitos - Verificação Entrega 2](Adicionar link)
 
 <iframe width="560" height="315" src="ADICIONAR LINK AQUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -59,9 +59,11 @@ _Autor: [NOME XXX]_
 ---
 ## Bibliografia
 
-> SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
+> BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: [s.n.], 2021.
 >
 > COOPER, Alan; REIMANN, Robert; CRONIN, Dave. About Face 3: The Essentials of Interaction Design. 3. ed. Indianapolis: Wiley Publishing, 2007. ISBN  978-0-470-08411-3
+>
+> SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
 >
 > Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/verificacao-rich-picture/>. Acesso em 02 de novembro de 2024.
 >
@@ -73,7 +75,7 @@ _Autor: [NOME XXX]_
 >****
 > <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>COLOCAR IMAGEM REFERENCIA (JULIA TAKAKI)
 >****
-> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>COLOCAR IMAGEM REFERENCIA (MARIA HELENA)
+> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 1](./p5-1.png)</br>![Referência 1](./p5-2.png)
 
 
 ## Histórico de Versões
@@ -82,3 +84,4 @@ _Autor: [NOME XXX]_
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 21/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 21/11/2024 | Adicionando a minha questao pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)|
+| `1.2` | 23/11/2024 | Adicionando a minha questão e referência bibliográfica | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
