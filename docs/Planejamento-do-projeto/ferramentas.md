@@ -108,4 +108,4 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 | `1.1` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.2` | 19/11/2024  | Adição de ferramenta | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) |
 | `1.3` | 21/11/2024  | Adição de ferramenta | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.3` | 21/11/2024  | Adição de ferramenta | [Júlia Takaki](https://github.com/juliatakaki) |  |
+| `1.4` | 23/11/2024  | Adição de ferramenta | [Júlia Takaki](https://github.com/juliatakaki) |  |
