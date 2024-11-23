@@ -70,41 +70,34 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 ## Lista de Verificação
 
-As listas de verificação foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com os slides da _Aula 04 da professora Milene e Maurício Serrano_<a id=anchor_3 href="#REF3"><sup>3</sup></a>.
+As listas de verificação foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com os slides da _Aula 04 da professora Milene e Maurício Serrano_<a id=anchor_3 href="#REF6"><sup>3</sup></a>.
 
 ### Geral
 
 
 <center> 
 
-**Tabela 2** - Lista de Verificação dos Itens de Verificação dos Artefatos.
+**Tabela 1** - Lista de Verificação.
 
-|        ID        | Descrição                                                                                       | Artefato                                                                                       | Avaliação  |
-| :--------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | :--------: | 
-|        1         | As ideias levantadas estão organizadas e categorizadas de forma clara?                         | [Brainstorm](../../../elicitacao/grupo5/brainstorm.md)                                         |    ---     |
-|        2         | As transcrições das discussões estão presentes e incluem uma análise das contribuições?        | [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md)                                   |    ---     |
-|        3         | As reflexões dos stakeholders sobre as necessidades do projeto estão documentadas?             | [Introspecção](../../../elicitacao/grupo5/introspeccao.md)                                     |    ---     |
-|        4         | As características e necessidades principais dos usuários estão bem definidas?                 | [Perfil de Usuário](../../../elicitacao/grupo5/perfil-usuario.md)                              |    ---     |
-|        5         | Os perfis fictícios baseados em dados reais cobrem diferentes cenários de uso?                  | [Personas](../../../elicitacao/grupo5/personas.md)                                             |    ---     |
-|        6         | Todas as definições de termos técnicos utilizados no projeto estão claras e consistentes?       | [Glossário](../../../elicitacao/grupo5/glossario.md)                                           |    ---     |
-|        7         | Os itens priorizados estão descritos e a alocação de valores é justificada?                     | [Priorização 100$](../../../elicitacao/grupo5/priorizacao/100$.md)                             |    ---     |
-|        8         | Os requisitos críticos e descartáveis foram identificados e justificados?                      | [Priorização In or Out](../../../elicitacao/grupo5/priorizacao/inorout.md)                     |    ---     |
-|        9         | Os requisitos estão classificados adequadamente de acordo com os níveis definidos?             | [Priorização Three Level Scale](../../../elicitacao/grupo5/priorizacao/threelevelscale.md)     |    ---     |
-|       10         | O perfil de usuário revisado reflete as análises realizadas no questionário?                    | [Perfil de Usuário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md)   |    ---     |
-|       11         | As perguntas do questionário são abrangentes e ajudam na definição do perfil do usuário?        | [Questionário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md)         |    ---     |
-|       12         | Os critérios de análise e organização das ideias do brainstorm estão claramente definidos?       | [Brainstorm](../../../elicitacao/grupo5/brainstorm.md)                                         |    ---     |
-|       13         | O grupo de foco inclui informações sobre os perfis dos participantes?                           | [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md)                                   |    ---     |
-|       14         | O artefato apresenta um sumário executivo das discussões do grupo de foco?                      | [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md)                                   |    ---     |
-|       15         | A introspecção inclui referências aos objetivos do projeto e como os stakeholders os percebem?   | [Introspecção](../../../elicitacao/grupo5/introspeccao.md)                                     |    ---     |
-|       16         | O perfil de usuário aborda aspectos demográficos, comportamentais e necessidades específicas?    | [Perfil de Usuário](../../../elicitacao/grupo5/perfil-usuario.md)                              |    ---     |
-|       17         | As personas incluem objetivos claros, motivações e possíveis dores dos usuários?                | [Personas](../../../elicitacao/grupo5/personas.md)                                             |    ---     |
-|       18         | O glossário contém referências e fontes utilizadas para definir os termos?                       | [Glossário](../../../elicitacao/grupo5/glossario.md)                                           |    ---     |
-|       19         | A priorização 100$ utiliza critérios objetivos para justificar a alocação dos valores?           | [Priorização 100$](../../../elicitacao/grupo5/priorizacao/100$.md)                             |    ---     |
-|       20         | A priorização In or Out está baseada em dados ou evidências coletadas nas etapas anteriores?     | [Priorização In or Out](../../../elicitacao/grupo5/priorizacao/inorout.md)                     |    ---     |
-|       21         | A priorização Three Level Scale apresenta justificativas para as classificações atribuídas?      | [Priorização Three Level Scale](../../../elicitacao/grupo5/priorizacao/threelevelscale.md)     |    ---     |
-|       22         | O questionário inclui perguntas abertas e fechadas que abrangem os diferentes perfis de usuário? | [Questionário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md)         |    ---     |
-|       23         | O perfil de usuário revisado indica claramente os grupos prioritários para o projeto?            | [Perfil de Usuário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md)   |    ---     |
-|       24         | Há registro das revisões realizadas e das principais mudanças em cada versão do artefato?        | Todos os artefatos                                                                           |    ---     |
+|        ID        | Descrição                                                                                                           | Avaliação  | Autor        | Data e hora |
+| :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | ------------ | ------------- |
+| **Itens do Desenvolvimento do projeto** |                                                                                                                     |            |              |               |
+|        1         | 1 - A Especificação do Perfil do usuário possui informação de: <br> • Idade (criança, jovem, adulto, terceira idade etc.); <br> • Experiência (leigo/ novato, especialista); <br> • Atitudes (tecnófilos, tecnófobos); <br> • tarefas primárias (compra, venda)                       |    RESPOSTA     | André Barros |         DATA/HORA       |
+|        2         | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | RESPOSTA | André Barros |     DATA/HORA           |
+|        3         | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)?                                                                                           |    RESPOSTA     | André Barros |    DATA/HORA            |
+|        4         | A participação do cliente e/ou persona na elicitação de requisitos?                                             |    RESPOSTA     | André Barros |        DATA/HORA        |
+|        5         | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                                                                             |    RESPOSTA     | André Barros |    DATA/HORA            |
+|        6         | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?    |    RESPOSTA     | André Barros |      DATA/HORA          |
+|        7         | No mínimo duas técnicas de priorização (quanto mais melhor)? <BR> * A técnica de MoSCoW* / 100 $* só devem ser  utilizados no projeto após a utilização de outras duas técnicas de priorização no  projeto.                                                      |    RESPOSTA     | André Barros |        DATA/HORA        |
+|        8         | A participação do cliente e/ou persona no processo de priorização?                                                                                   |    RESPOSTA     | André Barros |       DATA/HORA         |
+|        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    RESPOSTA     | André Barros |      DATA/HORA          |
+| **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
+|        <a id="REF1" href="#anchor_1">1</a>        | As personas são criadas a partir de observações do mundo real?                                                                            |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
+|        <a id="REF2" href="#anchor_2">2</a>        | COLOCAR O DO AUTOR                                                                               |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
+|        <a id="REF3" href="#anchor_3">3</a>        | O Brainstorm possuiu uma pergunta norteadora para guiar os usuários durante a reunião?                                                                           |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
+|        <a id="REF4" href="#anchor_4">4</a>        | COLOCAR O DO AUTOR                                                                     |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
+|        <a id="REF5" href="#anchor_5">5</a>        | COLOCAR O DO AUTOR                                                                                                   |    RESPOSTA     | Maria Helena |       DATA/HORA         |
+
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -116,7 +109,17 @@ _Autores: Equipe do Projeto, 2024._
 
 > REQUISTOS DE SOFTWARE. Planejamento da Verificação da Etapa 1 do Grupo 2. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega1/planejamento-verificacao-e1-grupo2/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega1/planejamento-verificacao-e1-grupo2/). Acesso em: 2 nov. 2024.
 >****
-> <a id="REF3" href="#anchor_3"></a> SERRANO, MAURÍCIO; SERRANO, Milene. **Slides da aula Requisitos – Aula 04**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf](https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf). Acessado em: 02 de novembro de 2024.
+> <a id="REF6" href="#6"></a> SERRANO, MAURÍCIO; SERRANO, Milene. **Slides da aula Requisitos – Aula 04**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf](https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf). Acessado em: 02 de novembro de 2024.
+
+><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./p1.png)
+>****
+><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>COLOCAR IMAGEM REFERENCIA (VICTOR RODRIGUES)
+>****
+><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 2](./p3.png)
+>****
+> <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>COLOCAR IMAGEM REFERENCIA (JULIA TAKAKI)
+>****
+> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>COLOCAR IMAGEM REFERENCIA (MARIA HELENA)
 
 ## Histórico de Versões
 
