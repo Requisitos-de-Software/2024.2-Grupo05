@@ -26,7 +26,7 @@ img[alt="inspecaofagan"] {
 
 ![inspecaofagan](../../../assets/inspecao-fagan.png)
 
-_Fonte: SOMMERVILLE (2007)._ <a id="anchor_4" href="#REF4"><sup>4</sup></a>
+_Fonte: SOMMERVILLE (2007)._ <a id="anchor_6" href="#REF6"><sup>3</sup></a>
 
 </center>
 
@@ -94,9 +94,9 @@ As listas de verificação foram construídas levando em conta os padrões esper
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
 |        <a id="REF1" href="#anchor_1">1</a>        | As personas são criadas a partir de observações do mundo real?                                                                            |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
 |        <a id="REF2" href="#anchor_2">2</a>        | As personas possuem objetivos bem esclarecidos?  |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
-|        <a id="REF3" href="#anchor_3">3</a>        | O Brainstorm possuiu uma pergunta norteadora para guiar os usuários durante a reunião?                                                                           |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
+|        <a id="REF3" href="#anchor_3">3</a>        | Os requisitos elicitados consideram tanto os objetivos dos usuários quanto as características e atributos do produto? |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
 |        <a id="REF4" href="#anchor_4">4</a>        | COLOCAR O DO AUTOR                                                                     |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
-|        <a id="REF5" href="#anchor_5">5</a>        | COLOCAR O DO AUTOR                                                                                                   |    RESPOSTA     | Maria Helena |       DATA/HORA         |
+|        <a id="REF5" href="#anchor_5">5</a>        | Há alguma comprovação do consentimento para o uso e a divulgação dos dados e das imagens dos participantes dos estudos, pesquisas e análises realizados nesta etapa, por meio da assinatura de um termo de consentimento? |    RESPOSTA     | Maria Helena |       DATA/HORA         |
 
 
 _Autores: Equipe do Projeto, 2024._
@@ -107,10 +107,12 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Bibliografia
 
+> BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. Rio de Janeiro: [s.n.], 2021.
+>****
 > REQUISTOS DE SOFTWARE. Planejamento da Verificação da Etapa 1 do Grupo 2. Disponível em: [https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega1/planejamento-verificacao-e1-grupo2/](https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega1/planejamento-verificacao-e1-grupo2/). Acesso em: 2 nov. 2024.
 >****
 > <a id="REF6" href="#6"></a> SERRANO, MAURÍCIO; SERRANO, Milene. **Slides da aula Requisitos – Aula 04**. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf](https://aprender3.unb.br/pluginfile.php/2523041/mod_resource/content/3/Requisitos%20-%20Aula%2004.pdf). Acessado em: 02 de novembro de 2024.
-
+>****
 ><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./p1.png)
 >****
 ><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>![Referencia 2](./p2.png)
@@ -119,7 +121,7 @@ _Autores: Equipe do Projeto, 2024._
 >****
 > <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>COLOCAR IMAGEM REFERENCIA (JULIA TAKAKI)
 >****
-> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>COLOCAR IMAGEM REFERENCIA (MARIA HELENA)
+> <a id="anchor_5" href="#REF5"><sup>5</sup></a><br>![Referência 1](./p5-1.png)</br>![Referência 1](./p5-2.png)
 
 ## Histórico de Versões
 
