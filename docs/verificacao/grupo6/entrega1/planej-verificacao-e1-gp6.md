@@ -37,8 +37,8 @@ Os artefatos alvos dessa verificação são:
 - [Heatmap](https://requisitos-de-software.github.io/2024.2-MeuINSS/planejamento_do_projeto/heatmap-disponibilidade/) na versão 1.0 de data 04/11/2024, produzido por [Nicolas Bomfim](https://github.com/nickgehjk) e com revisão de [Ana Catarina](https://github.com/an4catarina).
 - [Lista de apps avaliados](https://requisitos-de-software.github.io/2024.2-MeuINSS/planejamento_do_projeto/lista-apps-avaliados/) na versão 1.4 de data 05/11/2024, produzido e revisado por todos os membros do grupo 6.
 - [App Escolhido](https://requisitos-de-software.github.io/2024.2-MeuINSS/planejamento_do_projeto/app-selecionado/) na versão 1.3 de data 29/10/2024, produzido por [Cristiano Morais](https://github.com/CristianoMoraiss) e com revisão de [Júlia Fortunato](https://github.com/julia-fortunato)
-- [Rich Picture](../../../Planejamento-do-projeto/rich-picture.md) na versão 1.0 de data 28/10/2024, produzido por [Cristiano Borges](https://github.com/CristianoMoraiss), com a revisão de [Júlia Fortunato](https://github.com/julia-fortunato).
-- [Cronograma](../../../Planejamento-do-projeto/cronograma.md) na versão 1.0 de data 02/11/2024, produzido por [Mauricio Araujo](https://github.com/mauricio-araujoo) e [Júlia Fortunato](https://github.com/julia-fortunato) com revisão de [Cristiano Borges](https://github.com/CristianoMoraiss).
+- [Rich Picture](https://requisitos-de-software.github.io/2024.2-MeuINSS/planejamento_do_projeto/rich-picture/) na versão 1.0 de data 28/10/2024, produzido por [Cristiano Borges](https://github.com/CristianoMoraiss), com a revisão de [Júlia Fortunato](https://github.com/julia-fortunato).
+- [Cronograma](https://requisitos-de-software.github.io/2024.2-MeuINSS/planejamento_do_projeto/cronograma_planejado/) na versão 1.0 de data 02/11/2024, produzido por [Mauricio Araujo](https://github.com/mauricio-araujoo) e [Júlia Fortunato](https://github.com/julia-fortunato) com revisão de [Cristiano Borges](https://github.com/CristianoMoraiss).
 
 ### Resultados das Verificações
 
@@ -98,7 +98,7 @@ _Autor: Equipe do Projeto, 2024._
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
 |1| O Rich Picture conta uma história clara e compreensível? <br> **Autor: Thales Euflauzino**                                                                              |    -    |
-|        2        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Guimarães**                                                                               |    -    |
+|        2        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Rodrigues**                                                                               |    -    |
 |        3        | O Rich Picture tem todas as palavras chaves necessárias do projeto?      <br> **Autor: Víctor Schmidt**                                                                         |    -    |
 |        4        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    -    |
 |        5        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    -    |
@@ -126,3 +126,4 @@ _Autores: [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino]
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 07/11/2024 | Criação do documento  | [Todos os integrantes do grupo](../../../index.md) | [Todos os integrantes do grupo](../../../index.md) |
 | `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.2` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  [Víctor Schmidt](https://github.com/moonshinerd) |

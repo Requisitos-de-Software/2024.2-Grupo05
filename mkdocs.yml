@@ -8,17 +8,19 @@ nav:
   - Atas:
     - Ata 1: Atas/ata01.md
     - Ata 2: Atas/ata02.md
-    
+
   - Apresentações:
     - Apresentação 1: Apresentacoes/apresentacao01.md
 
   - Planejamento do projeto:
     - Heatmap: Planejamento-do-projeto/heatmap.md
     - Lista de apps avaliados: Planejamento-do-projeto/lista-apps-avaliados.md
-    - App Escolhido: 
+    - App Escolhido:
       - App Escolhido: Planejamento-do-projeto/app-escolhido.md
       - Rich Picture: Planejamento-do-projeto/rich-picture.md
-    - Cronograma: Planejamento-do-projeto/cronograma.md
+    - Cronogramas:
+      - Cronograma Planejado: Planejamento-do-projeto/cronograma-planejado.md
+      - Cronograma Executado: Planejamento-do-projeto/cronograma-executado.md
     - Ferramentas: Planejamento-do-projeto/ferramentas.md
 
   - Verificação:
@@ -27,18 +29,33 @@ nav:
       - Entrega 1:
         - Planejamento da verificação: verificacao/grupo5/entrega1/planej-verificacao-e1-gp5.md
         - Relatório de verificação: verificacao/grupo5/entrega1/relatorio-verificacao-e1-gp5.md
+        - Verificação do Monitor: verificacao/grupo5/entrega1/verificacao-monitor.md
       - Entrega 2:
         - Planejamento da verificação: verificacao/grupo5/entrega2/planej-verificacao-e2-gp5.md
+        - Relatório de verificação: verificacao/grupo5/entrega2/relatorio-verificacao-e2-gp5.md
     - Grupo +1 (6):
       - Entrega 1:
         - Planejamento da verificação: verificacao/grupo6/entrega1/planej-verificacao-e1-gp6.md
         - Relatório de verificação: verificacao/grupo6/entrega1/relatorio-verificacao-e1-gp6.md
+      - Entrega 2:
+        - Planejamento da verificação: verificacao/grupo6/entrega2/planej-verificacao-e2-gp6.md
+        - Relatório de verificação: verificacao/grupo6/entrega2/relatorio-verificacao-e2-gp6.md
 
   - Elicitação de Requisitos:
-    - Grupo 5:
+    - Definição do Perfil de Usuário:
+      - Perfil de Usuário: elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md
+      - Questionário: elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md
+    - Personas: elicitacao/grupo5/personas.md
+    - Técnicas:
       - Introspecção: elicitacao/grupo5/introspeccao.md
       - Brainstorm: elicitacao/grupo5/brainstorm.md
       - Grupo de foco: elicitacao/grupo5/grupo-de-foco.md
+      - Glossário: elicitacao/grupo5/glossario.md
+    - Priorização:
+      - 100$: elicitacao/grupo5/priorizacao/100$.md
+      - In or Out: elicitacao/grupo5/priorizacao/inorout.md
+      - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
+    - Requisitos Elicitados: elicitacao\grupo5\requisitos.md
 
 theme:
   logo: assets/header-logo-tesourodireto.png

@@ -6,24 +6,26 @@ O perfil de usuário é uma descrição detalhada das características, comporta
 
 ## Metodologia
 
-A definição do perfil de usuário foi realizada por meio de uma abordagem combinada que incluiu a aplicação de um questionário online, pode ser verificado em [Questionario](inserir caminho). Paralelamente, foi utilizado um site especializado em análise de tráfego para validar e complementar os dados obtidos, permitindo identificar padrões de navegação e comportamento dos usuários.
+A definição do perfil de usuário foi realizada por meio de uma abordagem combinada que incluiu a aplicação de um questionário online, pode ser verificado em [Questionario](../questionario/). Paralelamente, foi utilizado um site especializado em análise de tráfego para validar e complementar os dados obtidos, permitindo identificar padrões de navegação e comportamento dos usuários.
 
 ## Ferramenta de Tráfego
 
-Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/) [adicionar nas ferramentas], foi possível concluir, conforme as Figura 1 e a Figura 2, que o aplicativo é predominantemente usado por pessoas do sexo masculino e na faixa etária de 25 a 34 anos.
+Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/), foi possível concluir, conforme as Figura 1 e a Figura 2, que o aplicativo é predominantemente usado por pessoas do sexo masculino e na faixa etária de 25 a 34 anos.
 
+<center>
 ##### Figura 1
-
-![distribuição de genero](../../assets/gender-distribution-(tesourodireto).png)
+![distribuição de genero](../../../assets/gender-distribution-(tesourodireto).png)
+</center>
 
 <div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://pro.similarweb.com/">SimilarWeb</a>, 2024</font></p>
 </div>
 
 
+<center>
 ##### Figura 2
-
-![distribuição de idade](../../assets/age-distribution-(tesourodireto).png)
+![distribuição de idade](../../../assets/age-distribution-(tesourodireto).png)
+</center>
 
 <div>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://pro.similarweb.com/">SimilarWeb</a>, 2024</font></p>
@@ -33,11 +35,11 @@ Ao utilizar a ferramenta de tráfego [Similarweb](https://pro.similarweb.com/) [
 
 Após uma análise das respostas, foi traçado um Perfil de Usuário para o aplicativo com as seguintes descrições:
 
-- Gênero: 
-- Idade: 
-- Experiência: 
-- Atitudes: 
-- Tarefas primárias: 
+- Gênero: Masculino;
+- Idade: 18 a 34 anos;
+- Experiência: Experiente;
+- Atitudes: Tecnófilos;
+- Tarefas primárias: Investir e Simular investimentos.
 
 ## Bibliografia
 
@@ -52,3 +54,5 @@ Após uma análise das respostas, foi traçado um Perfil de Usuário para o apli
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1` | 20/11/2024  | Inclusão de perfil do usuário | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.2` | 23/11/2024 | Corrigindo caminho das imagens | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Júlia Takaki](https://github.com/juliatakaki) |

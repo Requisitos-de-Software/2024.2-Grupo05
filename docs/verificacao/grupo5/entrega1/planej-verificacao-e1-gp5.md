@@ -38,7 +38,7 @@ Os artefatos alvos dessa verificação são:
 - [Lista de apps avaliados](../../../Planejamento-do-projeto/lista-apps-avaliados.md) na versão 1.5 de data 31/10/2024, produzido por e revisado por todos os membros do grupo.
 - [App Escolhido](../../../Planejamento-do-projeto/app-escolhido.md) na versão 1.3 de data 29/10/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Júlia Takaki](https://github.com/juliatakaki) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd)
 - [Rich Picture](../../../Planejamento-do-projeto/rich-picture.md) na versão 1.1 de data 02/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Júlia Takaki](https://github.com/juliatakaki) com a revisão de [Víctor Schmidt](https://github.com/moonshinerd).
-- [Cronograma](../../../Planejamento-do-projeto/cronograma.md) na versão 1.3 de data 02/11/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
+- [Cronograma](../../../Planejamento-do-projeto/cronograma-planejado.md) na versão 1.3 de data 02/11/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
 
 ### Resultados das Verificações
 
@@ -100,7 +100,7 @@ O **Rich Picture** para o Tesouro Direto foi criado pela [Julia Takaki](https://
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
 |<a id="REF5" href="#anchor_5">1</a>| O Rich Picture conta uma história clara e compreensível? <br> **Autor: Thales Euflauzino**                                                                              |    ---     |
-|        <a id="REF6" href="#anchor_6">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Guimarães**                                                                               |    ---     |
+|        <a id="REF6" href="#anchor_6">2</a>        | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo <br> **Autor: Victor Rodrigues**                                                                               |    ---     |
 |        <a id="REF7" href="#anchor_7">3</a>        | O Rich Picture tem todas as palavras chaves necessárias do projeto?      <br> **Autor: Víctor Schmidt**                                                                         |    ---     |
 |        <a id="REF8" href="#anchor_8">4</a>        | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?        <br> **Autor: Julia Takaki**                                                                       |    ---     |
 |        <a id="REF9" href="#anchor_9">5</a>        | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"? <br> **Autor: Maria Helena**                                                                                                       |    ---     |
@@ -136,3 +136,5 @@ _Autores: [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino]
 | `1.0` | 02/11/2024 | Criação do documento  | [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 12/11/2024  | Corringindo checklist para lista de verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.2` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.3` | 20/11/2024  | Corringindo sobrenome do victor rodrigues | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
+| `1.4` | 21/11/2024  | Corringindo link do cronograma | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |

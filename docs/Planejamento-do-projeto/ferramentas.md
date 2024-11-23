@@ -50,6 +50,22 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
       <td><img src="https://i.pinimg.com/originals/99/7b/0a/997b0a243df40b681d8c8177724f1b45.png" width="100" height="100"></td>
       <td><b>Notion:</b> Organização de atas e cronograma [9].</td>
     </tr>
+    </tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/main/docs/assets/similarWeb-logo.png?raw=true" width="100" height="100"/></td>
+      <td><b>SimilarWeb:</b> Análises do tráfego do aplicativo [10].</td>
+    </tr>
+    </tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/YouTube-logo.png?raw=true" width="100" height="100"/></td>
+      <td><b>YouTube:</b> Armazenamento dos vídeos das apresentações e reuniões [11].</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="100" height="100"></td>
+      <td><b>This person does not exist:</b> Criação de imagens de pessoas falsas para as Personas [12].</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/logo-google%20forms.png?raw=true" width="100" height="100"></td>
+      <td><b>Google Forms:</b> Criação do questionário para avaliação do usuário [13].</td>
+    </tr>
   </tbody>
 </table>
 
@@ -76,6 +92,13 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 >
 > [9] Notion. Disponível em: [https://www.notion.so/pt](https://www.notion.so/pt). Acesso em: 29 de Out. de 2024.
 >
+> [10] SimilarWeb. Disponível em: [https://www.similarweb.com/pt/](https://www.similarweb.com/pt/). Acesso em: 19 de Nov. de 2024.
+>
+> [11] YouTube. Disponível em: [https://www.youtube.com/](https://www.youtube.com/). Acesso em: 21 de Nov. de 2024.
+> 
+> [12] This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en). Acesso em: 21 de nov. de 2024.
+>
+> [13] Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](https://www.google.com/intl/pt-BR/forms/about/). Acesso em: 23 de nov. de 2024.
 
 ## Histórico de Versões
 
@@ -83,4 +106,6 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 | :----: | :--------: | :----------------------------------------------: | :----------------------------------------------------------------------: | :------------------------------------------------: |
 | `1.0`  | 29/10/2024 |        Criação da página de ferramentas.         | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-</center>
+| `1.2` | 19/11/2024  | Adição de ferramenta | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) |
+| `1.3` | 21/11/2024  | Adição de ferramenta | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.4` | 23/11/2024  | Adição de ferramenta | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
