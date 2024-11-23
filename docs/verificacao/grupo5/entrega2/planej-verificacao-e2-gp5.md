@@ -93,7 +93,7 @@ As listas de verificação foram construídas levando em conta os padrões esper
 |        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    RESPOSTA     | André Barros |      DATA/HORA          |
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
 |        <a id="REF1" href="#anchor_1">1</a>        | As personas são criadas a partir de observações do mundo real?                                                                            |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
-|        <a id="REF2" href="#anchor_2">2</a>        | COLOCAR O DO AUTOR                                                                               |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
+|        <a id="REF2" href="#anchor_2">2</a>        | As personas possuem objetivos bem esclarecidos?  |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
 |        <a id="REF3" href="#anchor_3">3</a>        | O Brainstorm possuiu uma pergunta norteadora para guiar os usuários durante a reunião?                                                                           |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
 |        <a id="REF4" href="#anchor_4">4</a>        | COLOCAR O DO AUTOR                                                                     |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
 |        <a id="REF5" href="#anchor_5">5</a>        | COLOCAR O DO AUTOR                                                                                                   |    RESPOSTA     | Maria Helena |       DATA/HORA         |
@@ -113,9 +113,9 @@ _Autores: Equipe do Projeto, 2024._
 
 ><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./p1.png)
 >****
-><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>COLOCAR IMAGEM REFERENCIA (VICTOR RODRIGUES)
+><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>![Referencia 2](./p2.png)
 >****
-><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 2](./p3.png)
+><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 3](./p3.png)
 >****
 > <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>COLOCAR IMAGEM REFERENCIA (JULIA TAKAKI)
 >****
