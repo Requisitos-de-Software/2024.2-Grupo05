@@ -23,7 +23,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Víctor Schmidt</td><td>222021924</td><td>✅</td></tr>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: [Víctor Rodrigues](https://github.com/ViictorHugoo)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo)</p></font>
 
 </center>
 
