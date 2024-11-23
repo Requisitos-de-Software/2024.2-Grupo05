@@ -84,4 +84,4 @@ _Autor: [NOME XXX]_
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 21/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 21/11/2024 | Adicionando a minha questao pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)|
-| `1.2` | 23/11/2024 | Adicionando a minha questão e referência bibliográfica | [Maria Helena](https://github.com/MariaCHelena) | |
+| `1.2` | 23/11/2024 | Adicionando a minha questão e referência bibliográfica | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
