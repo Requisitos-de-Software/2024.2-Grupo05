@@ -69,7 +69,7 @@ _Autor: [NOME XXX]_
 >****
 ><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>COLOCAR IMAGEM REFERENCIA (VICTOR RODRIGUES)
 >****
-><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 2](./p3.png)
+><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 3](./p3.png)
 >****
 > <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>COLOCAR IMAGEM REFERENCIA (JULIA TAKAKI)
 >****
