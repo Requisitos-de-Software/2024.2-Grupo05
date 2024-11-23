@@ -143,7 +143,8 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 14:</b> - Questão 14 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q14.png
+<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q14.png" height="300px" >
+
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
