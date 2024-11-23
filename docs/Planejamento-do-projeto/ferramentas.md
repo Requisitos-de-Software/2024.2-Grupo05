@@ -62,6 +62,10 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-Economia-DF/blob/main/docs/imagens/this%20person-logo.jpg?raw=true" width="100" height="100"></td>
       <td><b>This person does not exist:</b> Criação de imagens de pessoas falsas para as Personas [12].</td>
     </tr>
+    <tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/logo-google%20forms.png?raw=true" width="100" height="100"></td>
+      <td><b>Google Forms:</b> Criação do questionário para avaliação do usuário [13].</td>
+    </tr>
   </tbody>
 </table>
 
@@ -94,6 +98,7 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 > 
 > [12] This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en). Acesso em: 21 de nov. de 2024.
 >
+> [13] Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](https://www.google.com/intl/pt-BR/forms/about/). Acesso em: 23 de nov. de 2024.
 
 ## Histórico de Versões
 
@@ -103,3 +108,4 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 | `1.1` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.2` | 19/11/2024  | Adição de ferramenta | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) |
 | `1.3` | 21/11/2024  | Adição de ferramenta | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.3` | 21/11/2024  | Adição de ferramenta | [Júlia Takaki](https://github.com/juliatakaki) |  |
