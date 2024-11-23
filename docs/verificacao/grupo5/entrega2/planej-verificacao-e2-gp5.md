@@ -37,8 +37,8 @@ Os artefatos alvos dessa verificação são:
 - [Brainstorm](../../../elicitacao/grupo5/brainstorm.md) na versão 1.4 de data 20/11/2024, produzido por [Victor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena).
 - [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md) na versão 1.1 de data 21/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e revisado por [Victor Rodrigues](https://github.com/ViictorHugoo).
 - [Introspecção](../../../elicitacao/grupo5/introspeccao.md) na versão 1.0 de data 15/11/2024, produzido por [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
-- [Perfil de Usuario](../../../elicitacao/grupo5/perfil-usuario.md) na versão 1.2 de data 23/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Júlia Takaki](https://github.com/juliatakaki) com a revisão de [Víctor Schmidt](https://github.com/moonshinerd).
-- [Personas](../../../elicitacao/grupo5/personas.md) na versão 1.1 de data 20/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
+- [Perfil de Usuario](../../../elicitacao/grupo5/perfil-usuario.md) na versão 1.0 de data 19/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Júlia Takaki](https://github.com/juliatakaki) com a revisão de [Víctor Schmidt](https://github.com/moonshinerd).
+- [Personas](../../../elicitacao/grupo5/personas.md) na versão 1.0 de data 19/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
 
 ### Resultados das Verificações
 
@@ -70,43 +70,42 @@ As listas de verificação foram construídas levando em conta os padrões esper
 ### Geral
 
 
-<center>  
+<center> 
 
-**Tabela 2** - Lista de Verificação dos Artefatos de Elicitação.  
+**Tabela 2** - Lista de Verificação dos Itens de Verificação dos Artefatos.
 
-|        ID        | Descrição                                                                                                    | Artefato                | Avaliação  |
-| :--------------: | ---------------------------------------------------------------------------------------------------------- | ----------------------- | :--------: |
-|        1         | O artefato apresenta claramente o autor e os revisores?                                                     | Todos                   |    ---     |
-|        2         | O artefato contém a versão e a data de produção?                                                            | Todos                   |    ---     |
-|        3         | O link para o artefato está funcional e leva ao documento correto?                                          | Todos                   |    ---     |
-|        4         | O conteúdo está livre de erros gramaticais e de digitação?                                                  | Todos                   |    ---     |
-|        5         | Foram registrados insights ou contribuições úteis para o projeto?                                          | Brainstorm              |    ---     |
-|        6         | Os participantes do Brainstorm estão identificados?                                                        | Brainstorm              |    ---     |
-|        7         | A metodologia do Brainstorm é descrita (ex.: dinâmica, tempo, ferramentas utilizadas)?                     | Brainstorm              |    ---     |
-|        8         | O artefato contém uma lista de ideias priorizadas ou categorizadas?                                        | Brainstorm              |    ---     |
-|        9         | As restrições ou premissas foram identificadas no Brainstorm?                                              | Brainstorm              |    ---     |
-|       10         | Os objetivos e critérios para a escolha dos participantes do Grupo de Foco estão descritos?                | Grupo de Foco           |    ---     |
-|       11         | O roteiro utilizado no Grupo de Foco está documentado?                                                     | Grupo de Foco           |    ---     |
-|       12         | Os resultados do Grupo de Foco estão apresentados de forma clara, com insights relevantes e acionáveis?    | Grupo de Foco           |    ---     |
-|       13         | Os comentários ou discussões mais relevantes do Grupo de Foco foram registrados e analisados?              | Grupo de Foco           |    ---     |
-|       14         | O Grupo de Foco identificou necessidades ou problemas que foram devidamente contextualizados?              | Grupo de Foco           |    ---     |
-|       15         | A Introspecção descreve claramente os passos seguidos para identificar as necessidades ou problemas?        | Introspecção            |    ---     |
-|       16         | A Introspecção é baseada em conhecimento especializado ou experiência prática do analista?                 | Introspecção            |    ---     |
-|       17         | A Introspecção apresenta reflexões que podem complementar outras técnicas de elicitação?                   | Introspecção            |    ---     |
-|       18         | Os resultados da Introspecção foram validados ou comparados com outras técnicas?                           | Introspecção            |    ---     |
-|       19         | O Perfil de Usuário contém descrições claras e representativas de diferentes usuários do sistema?           | Perfil de Usuário       |    ---     |
-|       20         | O Perfil de Usuário identifica as tarefas, motivações e problemas enfrentados pelos usuários?               | Perfil de Usuário       |    ---     |
-|       21         | O artefato identifica perfis variados que refletem diferentes níveis de habilidade ou experiência?          | Perfil de Usuário       |    ---     |
-|       22         | As Personas possuem informações realistas e detalhadas, como idade, objetivos, desafios e comportamentos?   | Personas                |    ---     |
-|       23         | As Personas incluem dados fictícios, mas fundamentados em pesquisa e observação de usuários reais?         | Personas                |    ---     |
-|       24         | As Personas apresentam expectativas e objetivos que orientam o desenvolvimento do sistema?                 | Personas                |    ---     |
-|       25         | As Personas refletem com precisão as características do público-alvo e suas necessidades específicas?       | Personas                |    ---     |
-|       26         | As Personas incluem cenários de uso ou histórias que ajudam a contextualizar seus comportamentos?          | Personas                |    ---     |
-|       27         | Há uma avaliação da aderência das Personas ao escopo do projeto?                                           | Personas                |    ---     |
+|        ID        | Descrição                                                                                       | Artefato                                                                                       | Avaliação  |
+| :--------------: | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | :--------: | 
+|        1         | As ideias levantadas estão organizadas e categorizadas de forma clara?                         | [Brainstorm](../../../elicitacao/grupo5/brainstorm.md)                                         |    ---     |
+|        2         | As transcrições das discussões estão presentes e incluem uma análise das contribuições?        | [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md)                                   |    ---     |
+|        3         | As reflexões dos stakeholders sobre as necessidades do projeto estão documentadas?             | [Introspecção](../../../elicitacao/grupo5/introspeccao.md)                                     |    ---     |
+|        4         | As características e necessidades principais dos usuários estão bem definidas?                 | [Perfil de Usuário](../../../elicitacao/grupo5/perfil-usuario.md)                              |    ---     |
+|        5         | Os perfis fictícios baseados em dados reais cobrem diferentes cenários de uso?                  | [Personas](../../../elicitacao/grupo5/personas.md)                                             |    ---     |
+|        6         | Todas as definições de termos técnicos utilizados no projeto estão claras e consistentes?       | [Glossário](../../../elicitacao/grupo5/glossario.md)                                           |    ---     |
+|        7         | Os itens priorizados estão descritos e a alocação de valores é justificada?                     | [Priorização 100$](../../../elicitacao/grupo5/priorizacao/100$.md)                             |    ---     |
+|        8         | Os requisitos críticos e descartáveis foram identificados e justificados?                      | [Priorização In or Out](../../../elicitacao/grupo5/priorizacao/inorout.md)                     |    ---     |
+|        9         | Os requisitos estão classificados adequadamente de acordo com os níveis definidos?             | [Priorização Three Level Scale](../../../elicitacao/grupo5/priorizacao/threelevelscale.md)     |    ---     |
+|       10         | O perfil de usuário revisado reflete as análises realizadas no questionário?                    | [Perfil de Usuário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md)   |    ---     |
+|       11         | As perguntas do questionário são abrangentes e ajudam na definição do perfil do usuário?        | [Questionário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md)         |    ---     |
+|       12         | Os critérios de análise e organização das ideias do brainstorm estão claramente definidos?       | [Brainstorm](../../../elicitacao/grupo5/brainstorm.md)                                         |    ---     |
+|       13         | O grupo de foco inclui informações sobre os perfis dos participantes?                           | [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md)                                   |    ---     |
+|       14         | O artefato apresenta um sumário executivo das discussões do grupo de foco?                      | [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md)                                   |    ---     |
+|       15         | A introspecção inclui referências aos objetivos do projeto e como os stakeholders os percebem?   | [Introspecção](../../../elicitacao/grupo5/introspeccao.md)                                     |    ---     |
+|       16         | O perfil de usuário aborda aspectos demográficos, comportamentais e necessidades específicas?    | [Perfil de Usuário](../../../elicitacao/grupo5/perfil-usuario.md)                              |    ---     |
+|       17         | As personas incluem objetivos claros, motivações e possíveis dores dos usuários?                | [Personas](../../../elicitacao/grupo5/personas.md)                                             |    ---     |
+|       18         | O glossário contém referências e fontes utilizadas para definir os termos?                       | [Glossário](../../../elicitacao/grupo5/glossario.md)                                           |    ---     |
+|       19         | A priorização 100$ utiliza critérios objetivos para justificar a alocação dos valores?           | [Priorização 100$](../../../elicitacao/grupo5/priorizacao/100$.md)                             |    ---     |
+|       20         | A priorização In or Out está baseada em dados ou evidências coletadas nas etapas anteriores?     | [Priorização In or Out](../../../elicitacao/grupo5/priorizacao/inorout.md)                     |    ---     |
+|       21         | A priorização Three Level Scale apresenta justificativas para as classificações atribuídas?      | [Priorização Three Level Scale](../../../elicitacao/grupo5/priorizacao/threelevelscale.md)     |    ---     |
+|       22         | O questionário inclui perguntas abertas e fechadas que abrangem os diferentes perfis de usuário? | [Questionário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md)         |    ---     |
+|       23         | O perfil de usuário revisado indica claramente os grupos prioritários para o projeto?            | [Perfil de Usuário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md)   |    ---     |
+|       24         | Há registro das revisões realizadas e das principais mudanças em cada versão do artefato?        | Todos os artefatos                                                                           |    ---     |
 
-_Autores: Equipe do Projeto, 2024._  
+_Autores: Equipe do Projeto, 2024._
 
 </center>  
+
+
 
 ## Bibliografia
 
