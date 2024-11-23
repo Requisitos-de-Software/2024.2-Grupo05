@@ -34,7 +34,7 @@ Os participantes da verificação são integrantes do grupo. [NOME XXXX], que ir
 |        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    RESPOSTA     | André Barros |      DATA/HORA          |
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
 |        <a id="REF1" href="#anchor_1">1</a>        | As personas são criadas a partir de observações do mundo real?                                                                            |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
-|        <a id="REF2" href="#anchor_2">2</a>        | COLOCAR O DO AUTOR                                                                               |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
+|        <a id="REF2" href="#anchor_2">2</a>        | As personas possuem objetivos bem esclarecidos?  |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
 |        <a id="REF3" href="#anchor_3">3</a>        | Os requisitos elicitados consideram tanto os objetivos dos usuários quanto as características e atributos do produto? |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
 |        <a id="REF4" href="#anchor_4">4</a>        | COLOCAR O DO AUTOR                                                                     |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
 |        <a id="REF5" href="#anchor_5">5</a>        | Há alguma comprovação do consentimento para o uso e a divulgação dos dados e das imagens dos participantes dos estudos, pesquisas e análises realizados nesta etapa, por meio da assinatura de um termo de consentimento? |    RESPOSTA     | Maria Helena |       DATA/HORA         |
@@ -69,7 +69,7 @@ _Autor: [NOME XXX]_
 >
 ><a id="anchor_1" href="#REF1"><sup>1</sup></a><br>![Referência 1](./p1.png)
 >****
-><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>COLOCAR IMAGEM REFERENCIA (VICTOR RODRIGUES)
+><a id="anchor_2" href="#REF2"><sup>2</sup></a><br>![Referencia 2](./p2.png)
 >****
 ><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 3](./p3.png)
 >****
@@ -85,3 +85,4 @@ _Autor: [NOME XXX]_
 | `1.0` | 21/11/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1` | 21/11/2024 | Adicionando a minha questao pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)|
 | `1.2` | 23/11/2024 | Adicionando a minha questão e referência bibliográfica | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.3` | 23/11/2024 | Adicionando questão e referência bibliográfica | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
