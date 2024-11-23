@@ -9,7 +9,7 @@ Durante o desenvolvimento de software, é comum que haja uma quantidade signific
 
 A técnica consiste em realizar uma escolha binária para cada requisito: In (dentro) ou Out (fora), indicando, respectivamente, se o requisito será implementado na próxima release ou não. Aqueles marcados como Out permanecem na lista de requisitos para serem reavaliados em futuras etapas do projeto.
 
-Neste trabalho, um dos integrantes do grupo reuniu-se com um usuário externo ao projeto, que foi orientado a aplicar a técnica. A dinâmica envolveu a análise de cada requisito, seguida pela decisão sobre sua inclusão ou exclusão, com base em sua relevância e urgência.
+Neste trabalho, um dos integrantes do grupo reuniu-se com um usuário externo ao projeto, que foi orientado a aplicar a técnica. A dinâmica envolveu a análise de cada requisito, seguida pela decisão sobre sua inclusão ou exclusão, com base em sua relevância e urgência. Reunião via Teams no dia 22/11/2024, das 20:26 às 20:33.
 
 
 ## Participantes
