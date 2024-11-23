@@ -166,4 +166,4 @@ Acerca da avaliação geral do aplicativo, da dificuldade para encontrar funcion
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 20/11/2024 | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki)  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.1` | 23/11/2024 | Adicionando imagens dos gráficos | [Júlia Takaki](https://github.com/juliatakaki)  |
+| `1.1` | 23/11/2024 | Adicionando imagens dos gráficos | [Júlia Takaki](https://github.com/juliatakaki)  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
