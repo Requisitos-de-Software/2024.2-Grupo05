@@ -13,7 +13,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Questão 1 do questionário de definição do perfil de usuário</p></font>
 
-<img src="(../../../assets/q1.png" height="300px" >
+<img src="(../../assets/q1.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
 </div>
@@ -163,6 +163,7 @@ Acerca da avaliação geral do aplicativo, da dificuldade para encontrar funcion
 
 ## Histórico de versões
 
-| Versão | Data       | Descrição                           | Autor(es)                                                                                           | Revisor(es)                                      |
-| ------ | ---------- | ----------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| `1.0`  | 20/11/2024 | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki)  |[Thales Euflauzino](https://github.com/thaleseuflauzino)| `1.1`  | 23/11/2024 | Adicionando imagens dos gráficos | [Júlia Takaki](https://github.com/juliatakaki)  ||
+| Versão | Data       | Descrição | Autor     |       Revisor         |
+| ------ | ---------- | --------- | --------- | --------------------- |
+| `1.0` | 20/11/2024 | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki)  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1` | 23/11/2024 | Adicionando imagens dos gráficos | [Júlia Takaki](https://github.com/juliatakaki)  |
