@@ -37,8 +37,13 @@ Os artefatos alvos dessa verificação são:
 - [Brainstorm](../../../elicitacao/grupo5/brainstorm.md) na versão 1.4 de data 20/11/2024, produzido por [Victor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena).
 - [Grupo de Foco](../../../elicitacao/grupo5/grupo-de-foco.md) na versão 1.1 de data 21/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e revisado por [Victor Rodrigues](https://github.com/ViictorHugoo).
 - [Introspecção](../../../elicitacao/grupo5/introspeccao.md) na versão 1.0 de data 15/11/2024, produzido por [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
-- [Perfil de Usuario](../../../elicitacao/grupo5/perfil-usuario.md) na versão 1.0 de data 19/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Júlia Takaki](https://github.com/juliatakaki) com a revisão de [Víctor Schmidt](https://github.com/moonshinerd).
 - [Personas](../../../elicitacao/grupo5/personas.md) na versão 1.0 de data 19/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
+- [Glossário](../../../elicitacao/grupo5/glossario.md) na versão 1.1 de data 21/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) com revisão de [Víctor Rodrigues](https://github.com/ViictorHugoo).
+- [Priorização 100$](../../../elicitacao/grupo5/priorizacao/100$.md) na versão 1.2 de data 22/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
+- [Priorização In or Out](../../../elicitacao/grupo5/priorizacao/inorout.md) na versão 1.2 de data 22/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
+- [Priorização Three Level Scale](../../../elicitacao/grupo5/priorizacao/threelevelscale.md) na versão 1.2 de data 22/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
+- [Perfil de Usuário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md) na versão 1.2 de data 22/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
+- [Questionário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md) na versão 1.2 de data 22/11/2024, produzido por [Víctor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
 
 ### Resultados das Verificações
 
