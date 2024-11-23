@@ -88,4 +88,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 | `1.3` | 23/11/2024 | Adicionando questão e referência bibliográfica | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 23/11/2024 | Alterando a bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.5` | 23/11/2024 | Realizando a verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Júlia Takaki](https://github.com/juliatakaki) |
-| `1.5` | 23/11/2024 | Adição do video | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Júlia Takaki](https://github.com/juliatakaki) |
+| `1.6` | 23/11/2024 | Adição do video | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
