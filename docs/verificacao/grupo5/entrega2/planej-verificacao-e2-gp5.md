@@ -131,3 +131,4 @@ _Autores: Equipe do Projeto, 2024._
 | `1.1` | 22/11/2024 | Adicionando a minha questao pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)|
 | `1.2` | 23/11/2024 | Adicionando a minha questão e referência bibliográfica | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.3` | 23/11/2024 | Adicionando questão e referência bibliográfica | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.4` | 23/11/2024 | Adicionando questão e referência bibliográfica | [Júlia Takaki](https://github.com/juliatakaki) | [Víctor Schmidt](https://github.com/moonshinerd) |
