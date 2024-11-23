@@ -31,7 +31,7 @@ A tabela 1 apresenta os participantes da atividade de priorização
 
 ## Metodologia
 
-Os requisitos foram apresentados ao usuário, que os classificou em uma das três categorias de prioridade com base em sua importância e urgência. Durante o processo, o mediador explicou os critérios de cada nível e esclareceu dúvidas para garantir uma avaliação consistente. Não foram atribuídos valores numéricos, mas considerou-se a relevância de cada requisito para os objetivos do projeto e as necessidades do usuário.
+Os requisitos foram apresentados ao usuário, que os classificou em uma das três categorias de prioridade com base em sua importância e urgência. Durante o processo, o mediador explicou os critérios de cada nível e esclareceu dúvidas para garantir uma avaliação consistente. Não foram atribuídos valores numéricos, mas considerou-se a relevância de cada requisito para os objetivos do projeto e as necessidades do usuário. Reunião via Teams no dia 22/11/2024, das 20:29 às 20:43.
 
 ## Requisitos priorizados
 
