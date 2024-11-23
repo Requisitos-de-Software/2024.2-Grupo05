@@ -135,5 +135,5 @@ _Autores: Equipe do Projeto, 2024._
 | `1.3` | 23/11/2024 | Adicionando questão e referência bibliográfica | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 23/11/2024 | Adicionando questão e referência bibliográfica | [Júlia Takaki](https://github.com/juliatakaki) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.5` | 23/11/2024 | Corrigindo bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.6` | 23/11/2024 | Alterando a bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.6` | 23/11/2024 | Alterando a bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
