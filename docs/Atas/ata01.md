@@ -25,7 +25,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr><td>Víctor Schmidt</td><td>222021924</td><td>✅</td></tr>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: [Víctor Schmidt](https://github.com/moonshinerd)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Víctor Schmidt](https://github.com/moonshinerd)</p></font>
 
 </center>
 
@@ -70,7 +70,7 @@ Na reunião, foram definidos compromissos para os participantes executarem com o
     </tr><tr><td>Ferramentas Utilizadas para o Projeto</td><td>Julia Takaki</td><td>27/10/2024</td><td>Víctor Schmidt</td>
 </table>
 
-<font size="2"><p style="text-align: center">Fonte: [Víctor Schmidt](https://github.com/moonshinerd)</p></font>
+<font size="2"><p style="text-align: center">Autor: [Víctor Schmidt](https://github.com/moonshinerd)</p></font>
 
 </center>
 
