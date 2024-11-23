@@ -13,7 +13,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Questão 1 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q1.png" height="300px" >
+<img src="../../../assets/q1.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -23,7 +23,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Questão 2 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q2.png" height="300px" >
+<img src="../../../assets/q2.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -33,7 +33,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> - Questão 3 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q3.png" height="300px" >
+<img src="../../../assets/q3.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -43,7 +43,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 4:</b> - Questão 4 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q4.png" height="300px" >
+<img src="../../../assets/q4.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -53,7 +53,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> - Questão 5 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q5.png" height="300px" >
+<img src="../../../assets/q5.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -63,7 +63,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 6:</b> - Questão 6 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q6.png" height="300px" >
+<img src="../../../assets/q6.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -73,7 +73,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 7:</b> - Questão 7 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q7.png" height="300px" >
+<img src="../../../assets/q7.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -83,7 +83,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 8:</b> - Questão 8 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q8.png" height="300px" >
+<img src="../../../assets/q8.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -93,7 +93,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 9:</b> - Questão 9 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q9.png" height="300px" >
+<img src="../../../assets/q9.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -103,7 +103,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 10:</b> - Questão 10 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q10.png" height="300px" >
+<img src="../../../assets/q10.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -113,7 +113,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 11:</b> - Questão 11 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q11.png" height="300px" >
+<img src="../../../assets/q11.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -123,7 +123,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 12:</b> - Questão 12 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q12.png" height="300px" >
+<img src="../../../assets/q12.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -133,7 +133,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 13:</b> - Questão 13 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q13.png" height="300px" >
+<img src="../../../assets/q13.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -143,7 +143,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 14:</b> - Questão 14 do questionário de definição do perfil de usuário</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.2-TesouroDireto/blob/questionario/docs/assets/q14.png" height="300px" >
+<img src="../../../assets/q14.png" height="300px" >
 
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
@@ -159,7 +159,7 @@ Acerca da avaliação geral do aplicativo, da dificuldade para encontrar funcion
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-> ZARANZA, G. Definição do Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/#introducao. Acesso em: 20 de nov. de 2024.
+> ZARANZA, G. Definição do Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/main/#introducao. Acesso em: 20 de nov. de 2024.
 
 ## Histórico de versões
 
