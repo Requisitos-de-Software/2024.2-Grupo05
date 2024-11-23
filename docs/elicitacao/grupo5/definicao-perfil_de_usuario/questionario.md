@@ -159,7 +159,7 @@ Acerca da avaliação geral do aplicativo, da dificuldade para encontrar funcion
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-> ZARANZA, G. Definição do Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://requisitos-de-software.github.io/2024.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/#introducao. Acesso em: 20 de nov. de 2024.
+> ZARANZA, G. Definição do Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/#introducao. Acesso em: 20 de nov. de 2024.
 
 ## Histórico de versões
 
