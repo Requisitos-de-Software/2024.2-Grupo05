@@ -13,9 +13,9 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 <div align="center">
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Questão 1 do questionário de definição do perfil de usuário</p></font>
 
-<img src="(../../assets/q1.png" height="300px" >
+<img src="(../../../assets/q1.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 2 - Qual o seu gênero?
@@ -25,7 +25,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q2.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 3 - Qual o seu grau de escolaridade?
@@ -35,7 +35,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q3.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 4 - Com qual técnica você se sente melhor para aprender?
@@ -45,7 +45,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q4.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 5 - Você utiliza algum aplicativo de investimentos que não seja o Tesouro Direto?
@@ -55,7 +55,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q5.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 6 - Qual seu nível de intimidade com tecnologia?
@@ -65,7 +65,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q6.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 7 - Qual a sua faixa de renda mensal?
@@ -75,7 +75,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q7.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 8 - Com qual frequência que você utiliza o Tesouro Direto?
@@ -85,7 +85,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q8.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 9 - Qual a sua avaliação sobre o Tesouro Direto?
@@ -95,7 +95,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q9.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 10 - Qual o seu nível de dificuldade para encontrar o que precisa no aplicativo?
@@ -105,7 +105,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q10.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 11 - Quanto a interface do Tesouro Direto é agradável para você?
@@ -115,7 +115,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q11.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 12 - Como você analisa o tempo para realizar ações dentro do Tesouro Direto?
@@ -125,7 +125,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q12.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 13 - Qual funcionalidade você mais utiliza?
@@ -135,7 +135,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q13.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ### Questão 14 - Quais funcionalidades você considera mais importantes num aplicativo de investimentos?
@@ -145,7 +145,7 @@ Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na 
 
 <img src="(../../../assets/q14.png" height="300px" >
 
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2023</p></font>
+<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </div>
 
 ## Resultados
@@ -159,7 +159,7 @@ Acerca da avaliação geral do aplicativo, da dificuldade para encontrar funcion
 ## Bibliografia
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-> ZARANZA, G. Definição do Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: https://requisitos-de-software.github.io/2023.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/#introducao. Acesso em: 20 de nov. de 2024.
+> ZARANZA, G. Definição do Perfil de Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://requisitos-de-software.github.io/2024.2-Economia-DF/elicitacao/tecnicas-perfil-usuario/questionario/#introducao. Acesso em: 20 de nov. de 2024.
 
 ## Histórico de versões
 
