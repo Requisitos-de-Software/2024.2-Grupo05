@@ -121,7 +121,7 @@ _Autores: Equipe do Projeto, 2024._
 >****
 ><a id="anchor_3" href="#REF3"><sup>3</sup></a><br>![Referência 3](./p3.png)
 >****
-> <a id="anchor_4" href="#REF4"><sup>6</sup></a><br>COLOCAR IMAGEM REFERENCIA (JULIA TAKAKI)
+> <a id="anchor_4" href="#REF4"><sup>4</sup></a><br>![Referência 4](./p4.png)
 >****
 > <a id="anchor_5" href="#REF5"><sup>7</sup></a><br>![Referência 1](./p5-1.png)</br>![Referência 1](./p5-2.png)
 
