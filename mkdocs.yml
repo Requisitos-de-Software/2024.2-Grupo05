@@ -38,7 +38,7 @@ nav:
       - 100$: elicitacao/grupo5/priorizacao/100$.md
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
       - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
-    - Requisitos Elicitados: elicitacao\grupo5\requisitos.md
+    - Requisitos Elicitados: elicitacao/grupo5/requisitos.md
 
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
