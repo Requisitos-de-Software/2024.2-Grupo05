@@ -45,6 +45,7 @@ nav:
     - Definição do Perfil de Usuário:
       - Perfil de Usuário: elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md
       - Questionário: elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md
+    - Personas: elicitacao/grupo5/personas.md
     - Técnicas:
       - Introspecção: elicitacao/grupo5/introspeccao.md
       - Brainstorm: elicitacao/grupo5/brainstorm.md
@@ -53,7 +54,7 @@ nav:
     - Priorização:
       - 100$: elicitacao/grupo5/priorizacao/100$.md
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
-      - Three Levels Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
+      - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
     - Requisitos Elicitados: elicitacao\grupo5\requisitos.md
 
 theme:
