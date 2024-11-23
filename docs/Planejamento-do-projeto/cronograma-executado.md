@@ -220,74 +220,74 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       <tr>
         <td>Definições de personas e perfis de usuário</td>
         <td>Victor Rodrigues</td>
-        <td>Maria Helena</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Thales Euflauzino</td>
+        <td>19/11</td>
+        <td>20/11</td>
+        <td>23/11</td>
       </tr>
       <tr>
         <td>Definição das técnicas de elicitação de priorização que serão utilizadas no projeto</td>
         <td>Maria Helena</td>
         <td>Júlia Takaki</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>15/11</td>
+        <td>16/11</td>
+        <td>19/11</td>
       </tr>
       <tr>
         <td>Introspecção para a elicitação dos requisitos</td>
         <td>Victor Schmidt</td>
-        <td>Victor Rodrigues</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Thales Euflauzino</td>
+        <td>15/11</td>
+        <td>15/11</td>
+        <td>15/11</td>
       </tr>
       <tr>
         <td>Criação dos questionários</td>
         <td>Júlia Takaki</td>
         <td>Thales Euflauzino</td>
-        <td>11/11</td>
-        <td>16/11</td>
-        <td>de 16/10 a 17/10</td>
+        <td>18/11</td>
+        <td>20/11</td>
+        <td>21/11 a 23/11</td>
       </tr>
       <tr>
-        <td>Entrevista para elicitação de requisitos</td>
+        <td>Grupo de Foco para elicitação de requisitos</td>
+        <td>Thales Euflauzino, Maria Helena e Victor Schmidt</td>
         <td>Thales Euflauzino</td>
-        <td>Maria Helena</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>20/11</td>
+        <td>20/11</td>
+        <td>23/11</td>
       </tr>
       <tr>
         <td>Brainstorming</td>
-        <td>Victor Schmidt</td>
-        <td>Victor Rodrigues</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Víctor Schmidt</td>
+        <td>Thales Euflauzino e Maria Helena</td>
+        <td>18/11</td>
+        <td>20/11</td>
+        <td>20/11</td>
       </tr>
       <tr>
         <td>Desenvolvimento do glossário para coleta de requistos</td>
-        <td>Victor Schmidt</td>
-        <td>Victor Rodrigues</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Júlia Takaki</td>
+        <td>Thales Euflauzino</td>
+        <td>21/11</td>
+        <td>21/11</td>
+        <td>21/11</td>
       </tr>
       <tr>
         <td>Priorização dos requisitos</td>
-        <td>Júlia Takaki</td>
         <td>Victor Rodrigues</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Thales Euflauzino</td>
+        <td>21/11</td>
+        <td>21/11</td>
+        <td>22/11</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
         <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Schmidt</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>23/11</td>
+        <td>23/11</td>
+        <td>23/11</td>
       </tr>
       <tr>
       <td>Revisão pós apresentação</td>
