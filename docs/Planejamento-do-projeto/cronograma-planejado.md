@@ -277,14 +277,6 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
         <td>de 18/11 a 19/11</td>
       </tr>
       <tr>
-        <td>Desenvolvimento da análise de documentos para coleta de requistos</td>
-        <td>Victor Schmidt</td>
-        <td>Victor Rodrigues</td>
-        <td>15/11</td>
-        <td>18/11</td>
-        <td>de 18/11 a 19/11</td>
-      </tr>
-      <tr>
         <td>Priorização dos requisitos</td>
         <td>Júlia Takaki</td>
         <td>Victor Rodrigues</td>
@@ -699,3 +691,4 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
 | `1.4` | 12/11/2024  | Corringindo fonte para autor | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.5` | 14/11/2024  | Adicionando periodo de revisão pós apresentações | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) |
 | `2.0` | 20/11/2024  | Adicionando a bibliografia, retirando o cronograma executado do documento e modificando as tabelas para tabelas colapsáveis | [Maria Helena](https://github.com/MariaCHelena) |  [Júlia Takaki](https://github.com/juliatakaki)|
+| `2.1` | 23/11/2024  | Removendo etapa não realizada do cronograma | [Maria Helena](https://github.com/MariaCHelena) |  |

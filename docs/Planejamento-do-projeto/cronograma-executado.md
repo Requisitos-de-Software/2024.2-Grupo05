@@ -274,14 +274,6 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
         <td>-</td>
       </tr>
       <tr>
-        <td>Desenvolvimento da análise de documentos para coleta de requistos</td>
-        <td>Victor Schmidt</td>
-        <td>Victor Rodrigues</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
-      </tr>
-      <tr>
         <td>Priorização dos requisitos</td>
         <td>Júlia Takaki</td>
         <td>Victor Rodrigues</td>
@@ -686,3 +678,4 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 20/11/2024  | Criação do documento de cronograma executado | [Maria Helena](https://github.com/MariaCHelena) |[Júlia Takaki](https://github.com/juliatakaki)|
+| `1.1` | 23/11/2024  | Removendo etapa não realizada do cronograma | [Maria Helena](https://github.com/MariaCHelena) |  |
