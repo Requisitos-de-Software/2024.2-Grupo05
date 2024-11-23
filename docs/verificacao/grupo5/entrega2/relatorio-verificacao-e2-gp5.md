@@ -86,4 +86,4 @@ _Autor: [NOME XXX]_
 | `1.1` | 21/11/2024 | Adicionando a minha questao pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)|
 | `1.2` | 23/11/2024 | Adicionando a minha questão e referência bibliográfica | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.3` | 23/11/2024 | Adicionando questão e referência bibliográfica | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.4` | 23/11/2024 | Alterando a bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.4` | 23/11/2024 | Alterando a bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
