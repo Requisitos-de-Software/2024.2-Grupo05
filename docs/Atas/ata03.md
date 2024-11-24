@@ -16,7 +16,7 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
   <tr>
     <th>Nome</th><th>Matrícula</th><th>Presente</th>
   </tr>
-  <tr><td>Julia Takaki</td><td>221029249</td><td>✅</td></tr>
+  <tr><td>Júlia Takaki</td><td>221029249</td><td>✅</td></tr>
   <tr><td>Maria Helena</td><td>222006982</td><td>✅</td></tr>
   <tr><td>Thales Euflauzino</td><td>222006178</td><td>✅</td></tr>
   <tr><td>Victor Rodrigues</td><td>211063256</td><td>✅</td></tr>
@@ -53,9 +53,15 @@ Perguntas:
    Sugira ações ou próximos passos que podem ajudar a equipe
 
 ### Julia Takaki
+1. Como está o andamento das suas atividades?  
+   Fiz o questionário de perfil do usuário e irei iniciar o glossário.
 
+2. Você precisa de ajuda com algo?
+   Acredito que não.
 
-
+3. Recomendações sobre o que falta fazer na sua atividade ou em outra atividade relacionada:
+   Preciso esperar as respostas do questionário para recolher e analisar, talvez atrase um pouco.
+   
 ### Maria Helena
 
 1. Como está o andamento das suas atividades?  
