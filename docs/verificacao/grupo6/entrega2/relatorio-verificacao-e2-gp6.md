@@ -23,21 +23,21 @@ Os participantes da verificação são integrantes do grupo. todo o grupo ira ve
 |        ID        | Descrição                                                                                                           | Avaliação  | Autor        | Data e hora |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | ------------ | ------------- |
 | **Itens do Desenvolvimento do projeto** |                                                                                                                     |            |              |               |
-|        1         | 1 - A Especificação do Perfil do usuário possui informação de: <br> • Idade (criança, jovem, adulto, terceira idade etc.); <br> • Experiência (leigo/ novato, especialista); <br> • Atitudes (tecnófilos, tecnófobos); <br> • tarefas primárias (compra, venda)                       |    RESPOSTA     | André Barros |         DATA/HORA       |
-|        2         | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | Incompleto | André Barros |     DATA/HORA           |
-|        3         | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)?                                                                                           |    RESPOSTA     | André Barros |    DATA/HORA            |
-|        4         | A participação do cliente e/ou persona na elicitação de requisitos?                                             |    RESPOSTA     | André Barros |        DATA/HORA        |
-|        5         | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                                                                             |    RESPOSTA     | André Barros |    DATA/HORA            |
-|        6         | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?    |    RESPOSTA     | André Barros |      DATA/HORA          |
-|        7         | No mínimo duas técnicas de priorização (quanto mais melhor)? <BR> * A técnica de MoSCoW* / 100 $* só devem ser  utilizados no projeto após a utilização de outras duas técnicas de priorização no  projeto.                                                      |    RESPOSTA     | André Barros |        DATA/HORA        |
-|        8         | A participação do cliente e/ou persona no processo de priorização?                                                                                   |    RESPOSTA     | André Barros |       DATA/HORA         |
-|        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    RESPOSTA     | André Barros |      DATA/HORA          |
+|        1         | 1 - A Especificação do Perfil do usuário possui informação de: <br> • Idade (criança, jovem, adulto, terceira idade etc.); <br> • Experiência (leigo/ novato, especialista); <br> • Atitudes (tecnófilos, tecnófobos); <br> • tarefas primárias (compra, venda)                       |    RESPOSTA     | André Barros |         25/11/2024 20:30 |
+|        2         | Um cronograma (data e horário) e local para realização da elicitação dos requisitos com o do cliente e/ou persona do projeto? | RESPOSTA | André Barros |     25/11/2024 20:30     |
+|        3         | No mínimo três técnicas de elicitação foram utilizadas (quanto mais melhor)?                                                                                           |    RESPOSTA     | André Barros |    25/11/2024 20:30      |
+|        4         | A participação do cliente e/ou persona na elicitação de requisitos?                                             |    RESPOSTA     | André Barros |        25/11/2024 20:30  |
+|        5         | A gravação e o(s) registro(s) da elicitação dos requisitos (pré-rastreabilidade)?                                                                                             |    RESPOSTA     | André Barros |    25/11/2024 20:30      |
+|        6         | Um cronograma (data e horário) e local para realização da priorização dos requisitos com o do cliente e/ou persona do projeto?    |    RESPOSTA     | André Barros |      25/11/2024 20:30    |
+|        7         | No mínimo duas técnicas de priorização (quanto mais melhor)? <BR> * A técnica de MoSCoW* / 100 $* só devem ser  utilizados no projeto após a utilização de outras duas técnicas de priorização no  projeto.                                                      |    RESPOSTA     | André Barros |        25/11/2024 20:30  |
+|        8         | A participação do cliente e/ou persona no processo de priorização?                                                                                   |    RESPOSTA     | André Barros |       25/11/2024 20:30   |
+|        9         | A gravação e o(s) registro(s) da atividade de priorização dos requisitos?                                                                               |    RESPOSTA     | André Barros |      25/11/2024 20:30    |
 | **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID) |                                                                                                                     |            |              |               |
-|        <a id="REF1" href="#anchor_1">P1</a>        | As personas são criadas a partir de observações do mundo real?                                                                            |    RESPOSTA     | Thales Euflauzino |  DATA/HORA       |
-|        <a id="REF2" href="#anchor_2">P2</a>        | As personas possuem objetivos bem esclarecidos?  |    RESPOSTA     | Victor Rodrigues |      DATA/HORA          |
-|        <a id="REF3" href="#anchor_3">P3</a>        | Os requisitos elicitados consideram tanto os objetivos dos usuários quanto as características e atributos do produto? |    RESPOSTA     | Víctor Schmidt |      DATA/HORA          |
-|        <a id="REF4" href="#anchor_4">P4</a>        | 	O questionário considera variáveis demográficas, como idade e localização geográfica, apenas quando elas têm impacto direto no comportamento e nas interações dos usuários com o sistema?  |    RESPOSTA     | Julia Takaki |      DATA/HORA          |
-|        <a id="REF5" href="#anchor_5">P5</a>        | Há alguma comprovação do consentimento para o uso e a divulgação dos dados e das imagens dos participantes dos estudos, pesquisas e análises realizados nesta etapa, por meio da assinatura de um termo de consentimento? |    RESPOSTA     | Maria Helena |       DATA/HORA         |
+|        <a id="REF1" href="#anchor_1">P1</a>        | As personas são criadas a partir de observações do mundo real?                                                                            |    RESPOSTA     | Thales Euflauzino |  25/11/2024 20:30 |
+|        <a id="REF2" href="#anchor_2">P2</a>        | As personas possuem objetivos bem esclarecidos?  |    RESPOSTA     | Victor Rodrigues |      25/11/2024 20:30    |
+|        <a id="REF3" href="#anchor_3">P3</a>        | Os requisitos elicitados consideram tanto os objetivos dos usuários quanto as características e atributos do produto? |    RESPOSTA     | Víctor Schmidt |      25/11/2024 20:30    |
+|        <a id="REF4" href="#anchor_4">P4</a>        | 	O questionário considera variáveis demográficas, como idade e localização geográfica, apenas quando elas têm impacto direto no comportamento e nas interações dos usuários com o sistema?  |    RESPOSTA     | Julia Takaki |      25/11/2024 20:30    |
+|        <a id="REF5" href="#anchor_5">P5</a>        | Há alguma comprovação do consentimento para o uso e a divulgação dos dados e das imagens dos participantes dos estudos, pesquisas e análises realizados nesta etapa, por meio da assinatura de um termo de consentimento? |    RESPOSTA     | Maria Helena |       25/11/2024 20:30   |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
@@ -66,7 +66,9 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 28 out. 2024.
 >
 > Verificação - Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/verificacao-rich-picture/>. Acesso em 02 de novembro de 2024.
->
+>****
+> REQUISITOS DE SOFTWARE. Documentação do projeto Meu INSS. Disponível em: [https://requisitos-de-software.github.io/2024.2-MeuINSS/](https://requisitos-de-software.github.io/2024.2-MeuINSS/). Acesso em: 24 nov. 2024.
+>****
 ><a id="anchor_1" href="#REF1"><sup>P1</sup></a><br>![Referência 1](./p1.png)
 >****
 ><a id="anchor_2" href="#REF2"><sup>P2</sup></a><br>![Referencia 2](./p2.png)
@@ -82,4 +84,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 21/11/2024 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.0` | 25/11/2024 | Criação do documento  | [Grupo](https://github.com/Requisitos-de-Software/2024.2-MeuINSS) | [Grupo](https://github.com/Requisitos-de-Software/2024.2-MeuINSS)|
