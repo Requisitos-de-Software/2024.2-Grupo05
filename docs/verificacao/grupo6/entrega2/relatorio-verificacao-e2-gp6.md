@@ -84,4 +84,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 25/11/2024 | Criação do documento  | [Grupo](https://github.com/Requisitos-de-Software/2024.2-MeuINSS) | [Grupo](https://github.com/Requisitos-de-Software/2024.2-MeuINSS)|
+| `1.0` | 25/11/2024 | Criação do documento  | [Grupo](https://requisitos-de-software.github.io/2024.2-TesouroDireto/) | [Grupo](https://requisitos-de-software.github.io/2024.2-TesouroDireto/)|
