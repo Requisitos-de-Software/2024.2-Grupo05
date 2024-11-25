@@ -132,6 +132,6 @@ _Autores: Equipe do Projeto, 2024._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 24/11/2024 | Criação do documento  |[Grupo](https://github.com/Requisitos-de-Software/2024.2-MeuINSS)| [Grupo](https://requisitos-de-software.github.io/2024.2-TesouroDireto/) |
+| `1.0` | 24/11/2024 | Criação do documento  |[Grupo](https://requisitos-de-software.github.io/2024.2-TesouroDireto/)| [Grupo](https://requisitos-de-software.github.io/2024.2-TesouroDireto/) |
 
 
