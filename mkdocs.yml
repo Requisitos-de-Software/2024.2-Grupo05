@@ -40,7 +40,8 @@ nav:
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
       - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
     - Requisitos Elicitados: elicitacao/grupo5/requisitos.md
-
+  - Modelagem:
+    - Léxicos: modelagem/lexicos.md
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
