@@ -341,11 +341,11 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Modelagem de Requisitos: Léxicos</td>
-        <td>Júlia Takaki e Thales Euflauzino</td>
+        <td>Thales Euflauzino</td>
         <td>Maria Helena</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>28/11</td>
+        <td>30/11</td>
+        <td>30/11 - 01/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos: Use Cases</td>
