@@ -185,4 +185,4 @@ O quinto, e último, léxico, apresentado na Tabela 6, faz o uso dos seguintes r
 
 | Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 28/11/2024 | Criação dos léxicos.                       | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0`  | 28/11/2024 | Criação dos léxicos.                       | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena) |
