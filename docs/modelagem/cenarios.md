@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Um cenário é uma narrativa concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais (Barbosa et al., 2021). Para o desenvolvimento desse projetos, os cenários serão utilizados para entender as interações entre abientes e sistemas e o fluxo do software.
+Um cenário é uma narrativa concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais (Barbosa et al., 2021). Para o desenvolvimento desse projetos, os cenários serão utilizados para entender as interações entre ambientes e sistemas e o fluxo do software.
 
 ## Metodologia
 
@@ -75,11 +75,11 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
-            <td>Efeitos na situação que motivam as ações realizadas pelos atores</td>
+            <td>Permitir que o usuário visualize e compare os investimentos disponíveis em diferentes instituições financeiras.</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Contexto</td>
-            <td>Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário</td>
+            <td>O usuário deseja avaliar qual instituição oferece as melhores condições para investir, considerando taxas, prazos e rentabilidade.</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Atores</td>
@@ -245,6 +245,54 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
     </tbody>
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
+
+
+### Cenário 5
+
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 6:</strong> Cenário 5</p>
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center;">Cenário 5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Título</td>
+            <td>Planejamento de Aposentadoria [RF05]</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Objetivo</td>
+            <td>Efeitos na situação que motivam as ações realizadas pelos atores</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Contexto</td>
+            <td>Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Atores</td>
+            <td>Pessoas que irão interagir com o aplicativo do tesouro direto</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Recursos</td>
+            <td>Ferramentas utilizadas no cenário</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Episódios</td>
+            <td>Ações realizadas pelos atores divididas em etapas</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Restrições</td>
+            <td>Limitações do cenário</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Exceção</td>
+            <td>Planos ou procedimentos para lidar com situações extraordinárias ou erros inesperados durante o cenário</td>
+        </tr>
+    </tbody>
+</table>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
+
 
 
 ## Bibliografia 
