@@ -24,7 +24,7 @@ nav:
       - Cronograma Planejado: Planejamento-do-projeto/cronograma-planejado.md
       - Cronograma Executado: Planejamento-do-projeto/cronograma-executado.md
     - Ferramentas: Planejamento-do-projeto/ferramentas.md
-    
+
   - Elicitação de Requisitos:
     - Definição do Perfil de Usuário:
       - Perfil de Usuário: elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md
@@ -40,6 +40,8 @@ nav:
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
       - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
     - Requisitos Elicitados: elicitacao/grupo5/requisitos.md
+  - Modelagem:
+    - Cenários: modelagem/cenarios.md
 
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
