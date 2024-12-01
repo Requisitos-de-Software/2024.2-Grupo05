@@ -309,3 +309,4 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
 | Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 01/12/2024 | Estrutura inical do documento                |  [Maria Helena](https://github.com/MariaCHelena) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.1`  | 01/12/2024 | Inicio da criação dos Cenários               |  [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) | 
