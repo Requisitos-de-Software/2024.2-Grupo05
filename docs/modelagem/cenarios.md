@@ -293,9 +293,250 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
+### Cenário 6
+
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 7:</strong> Cenário 6</p>
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center;">Cenário 6</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Título</td>
+            <td>Consultar operações agendadas [RF08]</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Objetivo</td>
+            <td>Consultar as operações de investimento em tesouros públicos que foram agendadas pelo aplicativo</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Contexto</td>
+            <td>
+                <p>Local: <i>Tela de "Meus Investimentos" do aplicativo.</i></p>
+                <p>Tempo: <i>Aproximadamente 1 minuto.</i></p>
+                <p>Pré-condição: <i>Possuir um cadastro ativo no sistema e possuir agendamentos realizados.</i></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Atores</td>
+            <td>
+                <ul>
+                    <li>Usuários do tesouro direto</li>
+                    <li>Sistema do tesouro direto</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Recursos</td>
+            <td>
+                <ul>
+                    <li>Aplicativo do tesouro direto instalado no celular</li>
+                    <li>Conexão com a internet</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Episódios</td>
+            <td>
+                <ol>
+                    <li>Acessar o aplicativo</li>
+                    <li>Realizar a autenticação no sistema</li>
+                    <li>Acessar a tela principal do aplicativo</li>
+                    <li>Navegar para a tela de meus investimentos</li>
+                    <li>Visualizar seus agendamentos em formato de lista</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Restrições</td>
+            <td>
+                <ul>
+                    <li>O usuário só deverá poder visualizar os agendamentos que ele mesmo realizar</li>
+                    <li>Somente usuários cadastrados e autenticados no aplicativo poderão realizar agendamentos</li>
+                    <li>O sistema deverá realizar uma diferenciação entre agendamentos e compras que ainda não foram realizadas</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Exceção</td>
+            <td>
+                <ul>
+                    <li>Erro de conexão à internet <p><i>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</i></p></li>
+                    <li>Erro de obtenção de usuário não autenticado <p><i>Caso o usuário não esteja mais autenticado na aplicação e ele tente acessar os agendamentos o aplicativo deverá gerar uma mensagem de erro de "sessão expirada" e redirecioná-lo a tela de login</i></p></li>
+                    <li>Erro de obtenção de agendamentos <p><i>Caso o usuário não tenha nenhum agendamento o sistema deverá exibir um texto de aviso de nenhum investimento, com uma mensagem guiando o usuário a como realizar agendamentos no aplicativo.</i></p></li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
+
+### Cenário 7
+
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 8:</strong> Cenário 7</p>
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center;">Cenário 7</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Título</td>
+            <td>Visualizar lista de títulos públicos disponíveis [RF30]</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Objetivo</td>
+            <td>Visualizar os títulos públicos disponíveis para a compra dentro da aplicação em formato de lista.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Contexto</td>
+            <td>
+                <p>Local: <i>Tela "Investir" do aplicativo.</i></p>
+                <p>Tempo: <i>Aproximadamente 1 minuto.</i></p>
+                <p>Pré-condição: <i>Possuir um cadastro ativo no sistema e o sistema possuir títulos cadastrados disponíveis para a visualização.</i></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Atores</td>
+            <td>
+                <ul>
+                    <li>Usuários do tesouro direto</li>
+                    <li>Sistema do tesouro direto</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Recursos</td>
+            <td>
+                <ul>
+                    <li>Aplicativo do tesouro direto instalado no celular</li>
+                    <li>Conexão com a internet</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Episódios</td>
+            <td>
+                <ol>
+                    <li>Acessar o aplicativo</li>
+                    <li>Realizar a autenticação no sistema</li>
+                    <li>Acessar a tela principal do aplicativo</li>
+                    <li>Navegar para a tela de investimentos</li>
+                    <li>Visualizar os investimentos disponíveis em formato de lista</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Restrições</td>
+            <td>
+                <ul>
+                    <li>Os investimentos deverão estar cadastrados no banco de dados no sistema</li>
+                    <li>Os investimentos deverão ser acessíveis para os usuários do sistema</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Exceção</td>
+            <td>
+                <ul>
+                    <li>Erro de conexão à internet <p><i>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</i></p></li>
+                    <li>Erro de usuário não autenticado <p><i>Caso o usuário não esteja mais autenticado na aplicação e ele tente acessar a tela de investimentos o aplicativo deverá gerar uma mensagem de erro de "sessão expirada" e redirecioná-lo a tela de login</i></p></li>
+                    <li>Erro de obtenção de investimentos <p><i>Caso não seja possível obter nenhum título na tela de investimentos, o sistema deverá retornar ao usuário uma mensagem de erro de investimentos não disponíveis.</i></p></li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
+
+### Cenário 8
+
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 9:</strong> Cenário 8</p>
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center;">Cenário 8</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Título</td>
+            <td>Consultar as informações de liquidez dos títulos disponíveis [RF23]</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Objetivo</td>
+            <td>Permitir que o usuário visualize as informações de liquidez referentes a cada título cadastrado no sistema</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Contexto</td>
+            <td>
+                <p>Local: <i>Tela de "Simulador" referente a cada título do aplicativo.</i></p>
+                <p>Tempo: <i>Aproximadamente 2 minutos.</i></p>
+                <p>Pré-condição: <i>Possuir um cadastro ativo no sistema e possuir títulos disponíveis no sistema com informações de liquidez.</i></p>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Atores</td>
+            <td>
+                <ul>
+                    <li>Usuários do tesouro direto</li>
+                    <li>Sistema do tesouro direto</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Recursos</td>
+            <td>
+                <ul>
+                    <li>Aplicativo do tesouro direto instalado no celular</li>
+                    <li>Conexão com a internet</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Episódios</td>
+            <td>
+                <ol>
+                    <li>Acessar o aplicativo</li>
+                    <li>Realizar a autenticação no sistema</li>
+                    <li>Acessar a tela principal do aplicativo</li>
+                    <li>Navegar para a tela de meus investimentos</li>
+                    <li>Visualizar os títulos disponíveis</li>
+                    <li>Clicar em "ver detalhes e simular" no título que deseja obter mais informações</li>
+                    <li>Visualizar a tela de simulação com as informações detalhadas a respeito do título</li>
+                    <li>Navegar até a seção de "Tempo de liquidação"</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Restrições</td>
+            <td>
+                <ul>
+                    <li>Os títulos disponíveis no sistema deverão possuir também os detalhes a respeito de liquidez associados a ele cadastrados no sistema</li>
+                    <li>Somente usuários cadastrados e autenticados no aplicativo poderão visualizar informações a respeito da liquidez dos títulos</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Exceção</td>
+            <td>
+                <ul>
+                    <li>Erro de conexão à internet <p><i>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</i></p></li>
+                    <li>Erro de usuário não autenticado <p><i>Caso o usuário não esteja mais autenticado na aplicação e ele tente acessar as informações do título, o aplicativo deverá gerar uma mensagem de erro de "sessão expirada" e redirecioná-lo a tela de login</i></p></li>
+                    <li>Erro de obtenção de dados do título <p><i>Caso o título cadastrado não possua dados de liquidez associados a ele, o sistema deverá gerar uma mensagem de obtenção de dados interna para o usuário.</i></p></li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-## Bibliografia 
+
+## Bibliografia
 
 > Bilheteria Digital - Cenários. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/>. Acesso em 01 de dezembro de 2024
 
@@ -309,4 +550,4 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
 | Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 01/12/2024 | Estrutura inical do documento                |  [Maria Helena](https://github.com/MariaCHelena) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.1`  | 01/12/2024 | Inicio da criação dos Cenários               |  [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) | 
+| `1.1`  | 01/12/2024 | Inicio da criação dos Cenários               |  [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) |
