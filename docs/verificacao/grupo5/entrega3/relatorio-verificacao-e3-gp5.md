@@ -14,7 +14,7 @@ Os resultados da verificação do artefato foram obtidos a partir da lista de ve
 
 ### Cronograma e Participantes
 
-Os participantes da verificação são todos integrantes do grupo. [Víctor Schmidt](https://github.com/moonshinerd), que irá verificar e corrigir possíveis problemas com os outros integrantes do grupo. E o integrante do grupo [Thales Euflauzino](https://github.com/thaleseuflauzino) realizará a revisão da avaliação realizada. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega3/planej-verificacao-e3-gp5.md).
+Os participantes da verificação são todos integrantes do grupo. [Víctor Schmidt](https://github.com/moonshinerd), que irá verificar e corrigir possíveis problemas com os outros integrantes do grupo. E o integrante do grupo [Thales Euflauzino](https://github.com/thaleseuflauzino) realizará a revisão da avaliação. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega3/planej-verificacao-e3-gp5.md).
 
 <center>
 
@@ -88,4 +88,4 @@ _Autor: NOME E LINK GITHUB, 2024_
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 04/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0` | 04/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
