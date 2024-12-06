@@ -6,15 +6,16 @@ A validação tem como principal propósito garantir que cada caso de uso seja c
 
 ## Metodologia
 
-Para o desenvolvimento deste artefato, foram utilizadas as técnicas de encenação (roleplaying) e entrevistas. Na encenação, a persona Gustavo Ribeiro foi aplicada, permitindo que a equipe simulasse características e necessidades de um usuário típico. Essa técnica ajudou a modelar cenários realistas e identificar requisitos relevantes para os casos de uso.
-
-<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de gravação da validação dos casos de uso</p></font>
-
-| Entrevistadores | Data       | Horário | Entrevistado | Local      |
-|-----------------|------------|---------|--------------|------------|
-
+Para o desenvolvimento deste artefato, foram utilizadas as técnicas de encenação (roleplaying) e entrevistas. Na encenação, a persona Gustavo Ribeiro foi aplicada, permitindo que a equipe simulasse características e necessidades de um usuário típico. Essa técnica ajudou a modelar cenários realistas e validar os casos de uso. A tabela 1 apresenta os participantes da validação dos [Casos de Uso](./casos-de-uso.md)
 
 <center>
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de gravação da validação dos casos de uso</p></font>
+
+| Participantes | Função | Local      |
+|---------------|--------|------------|
+| Victor Rodrigues | Entrevistador | Microsoft Teams |
+| Victor Schmidt | Persona Gustavo Ribeiro | Microsoft Teams |
+
 <font size="2"><p style="text-align: center">Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024</p></font>
 </center>
 
@@ -27,9 +28,9 @@ No vídeo 1 apresenta-se a gravação da validação dos casos de uso.
 
 <p style="text-align: center"><b>Vídeo 1:</b> Reunião - Validação de casos de uso</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fu17pZzb_qA?si=-XoM03Ft51RcWQe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-<font size="2"><p style="text-align: center">Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p></font>
 </div>
 
 

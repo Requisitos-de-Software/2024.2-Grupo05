@@ -159,4 +159,4 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | Versão | Data       | Descrição                                      | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0    | 06/12/2024 | Criação da página | [Víctor Schmidt](https://github.com/moonshinerd)   |  |
+| 1.0    | 06/12/2024 | Criação da página | [Víctor Schmidt](https://github.com/moonshinerd)   | [Victor Rodrigues](https://github.com/ViictorHugoo) |
