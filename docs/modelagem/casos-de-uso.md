@@ -101,9 +101,6 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 </center>
 <font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
-
 <font size="3"><p style="text-align: center">Tabela 5: Verificar Meus Investimentos </p></font>
 <center>
 
