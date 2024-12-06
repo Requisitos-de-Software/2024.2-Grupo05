@@ -18,7 +18,7 @@ A construção das personas seguiu uma metodologia estruturada em três etapas p
 
 As tabelas de 1 a 5 apresentam o elenco de personas.
 
-<p style="text-align: center"><b>Tabela 1</b> - Persona Primária 1.</p>
+<p id= "persona1" style="text-align: center"><b>Tabela 1</b> - Persona Primária 1.</p>
 
 | <font size="3"><p style="text-align: center">Figura 1 - Persona Primária Gustavo Ribeiro.</p></font><figure markdown>![persona 1](../../assets/persona1.png)<figcaption>Fonte: <a id="TEC2" href="https://thispersondoesnotexist.com">This Person Does not Exists.¹</a></figcaption></figure> |
 |-------------------------|
