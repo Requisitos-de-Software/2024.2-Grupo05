@@ -71,35 +71,76 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Consulta de Investimentos por Instituição Financeira [RF01]</td>
+            <td>Simulação de compra de titulos [RF02]</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
-            <td>Permitir que o usuário visualize e compare os investimentos disponíveis em diferentes instituições financeiras.</td>
+            <td>Simular a compra de titulos para avaliar rentabilidade, custos e prazos</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Contexto</td>
-            <td>O usuário deseja avaliar qual instituição oferece as melhores condições para investir, considerando taxas, prazos e rentabilidade.</td>
+            <td>
+                <ul>
+                    <li>Local: Tela de "Simulação"</li>
+                    <li>Tempo: Aproximadamente 3 minutos.</li>
+                    <li>Pré-condição: Possuir cadastro ativo no sistema e o sistema possuir títulos cadastrados</li>
+                </ul>           
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Atores</td>
-            <td>Pessoas que irão interagir com o aplicativo do tesouro direto</td>
+            <td>
+                <ul>
+                    <li>Usuário do tesouro direto</li>
+                    <li>Sistema do tesouro direto</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Recursos</td>
-            <td>Ferramentas utilizadas no cenário</td>
+            <td>
+                <ul>
+                    <li>Aplicativo do tesouro direto instalado</li>
+                    <li>Conexão com a internet</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Episódios</td>
-            <td>Ações realizadas pelos atores divididas em etapas</td>
+            <td>
+                <ol>
+                    <li>Acessar aplicativo</li>
+                    <li>Realizar autenticação no sistema</li>
+                    <li>Navegar para a tela de simulação</li>
+                    <li>Realizar simulação</li>
+                </ol>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Restrições</td>
-            <td>Limitações do cenário</td>
+            <td>As informações apresentadas dependem de dados atualizados sobre os títulos e taxas</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Exceção</td>
-            <td>Planos ou procedimentos para lidar com situações extraordinárias ou erros inesperados durante o cenário</td>
+            <td>
+                <ul>
+                    <li> Erro de conexão à internet
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>   
+                    <li> Erro de usuário não autenticado
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>
+                    <li> Erro de simulação
+                        <ul>
+                            <li>Caso não haja títulos para os parâmetros estabelecidos pelo usuário, o sistema deve apresentar uma mensagem de falta de títulos para os parâmetros entregues</li>
+                        </ul>
+                    </li>             
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -118,35 +159,78 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Simulação de compra de titulos [RF02]</td>
+            <td>Resgate Antecipado de Títulos [RF03]</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
-            <td>Efeitos na situação que motivam as ações realizadas pelos atores</td>
+            <td>Permitir que o usuário realize o resgate antecipado de seus investimentos em títulos</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Contexto</td>
-            <td>Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário</td>
+            <td>
+                <ul>
+                    <li>Local: Tela de "Meus Investimentos"</li>
+                    <li>Tempo: Aproximadamente 3 minutos.</li>
+                    <li>Pré-condição: O usuário possuir cadastro ativo no sistema e títulos de investimeto</li>
+                </ul>  
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Atores</td>
-            <td>Pessoas que irão interagir com o aplicativo do tesouro direto</td>
+            <td>
+                <ul>
+                    <li>Usuário do tesouro direto</li>
+                    <li>Sistema do tesouro direto</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Recursos</td>
-            <td>Ferramentas utilizadas no cenário</td>
+            <td>
+                <ul>
+                    <li>Aplicativo do tesouro direto instalado</li>
+                    <li>Conexão com a internet</li>
+                    <li>Dados de rentabilidade</li>
+                    <li>Valores líquidos dos titulos</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Episódios</td>
-            <td>Ações realizadas pelos atores divididas em etapas</td>
+            <td>
+                <ol>
+                    <li>Acessar aplicativo</li>
+                    <li>Realizar autenticação no sistema</li>
+                    <li>Navegar para a tela meus investimentos</li>
+                    <li>Realizar resgate antecipado</li>
+                </ol>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Restrições</td>
-            <td>Limitações do cenário</td>
+            <td>o resgate antecipado está sujeito a disponibilidade de liquidez e às condições impostas pelo Tesouro Nacional</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Exceção</td>
-            <td>Planos ou procedimentos para lidar com situações extraordinárias ou erros inesperados durante o cenário</td>
+            <td>
+                <ul>
+                    <li> Erro de conexão à internet
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>   
+                    <li> Erro de usuário não autenticado
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>
+                    <li> Erro de calculo ou resgate
+                        <ul>
+                            <li>Caso o sistema não consiga calcular ou processar o resgate, o usuário deve ser notificado e instruído a entrar em contato com o suporte técnico</li>
+                        </ul>
+                    </li>             
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -165,35 +249,78 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Resgate Antecipado de Títulos [RF03]</td>
+            <td>Planejamento de Metas de Investimento [RF04]</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
-            <td>Efeitos na situação que motivam as ações realizadas pelos atores</td>
+            <td>Realizar o cadastro e o acompanhamento de metas fincanceiras</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Contexto</td>
-            <td>Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário</td>
+            <td>
+                <ul>
+                    <li>Local: Tela de "Meus Sonhos"</li>
+                    <li>Tempo: Aproximadamente 2 minutos.</li>
+                    <li>Pré-condição: O usuário possuir cadastro ativo no sistema e o sistema deve ter títulos de investimeto</li>
+                </ul>  
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Atores</td>
-            <td>Pessoas que irão interagir com o aplicativo do tesouro direto</td>
+            <td>
+                <ul>
+                    <li>Usuário do tesouro direto</li>
+                    <li>Sistema do tesouro direto</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Recursos</td>
-            <td>Ferramentas utilizadas no cenário</td>
+            <td>
+                <ul>
+                    <li>Aplicativo do tesouro direto instalado</li>
+                    <li>Conexão com a internet</li>
+                    <li>Dados de rentabilidade</li>
+                    <li>Valores líquidos dos titulos</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Episódios</td>
-            <td>Ações realizadas pelos atores divididas em etapas</td>
+            <td>
+                <ol>
+                    <li>Acessar aplicativo</li>
+                    <li>Realizar autenticação no sistema</li>
+                    <li>Navegar para a tela meus sonho</li>
+                    <li>Cadastrar sonho</li>
+                </ol>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Restrições</td>
-            <td>Limitações do cenário</td>
+            <td> O planejamento depende de títulos disponíveis e compatíveis com a meta estabelecida</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Exceção</td>
-            <td>Planos ou procedimentos para lidar com situações extraordinárias ou erros inesperados durante o cenário</td>
+            <td>
+                <ul>
+                    <li> Erro de conexão à internet
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>   
+                    <li> Erro de usuário não autenticado
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>
+                    <li> Erro de sugestões
+                        <ul>
+                            <li>Caso o sistema não consiga sugerir títulos, o usuário deve ser notificado e orientado a ajudar prazos e valores</li>
+                        </ul>
+                    </li>             
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -212,40 +339,85 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Planejamento de Metas de Investimento [RF04]</td>
+            <td>Planejamento de Aposentadoria [RF05]</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
-            <td>Efeitos na situação que motivam as ações realizadas pelos atores</td>
+            <td>Planejar a aposentadoria, definindo montante necessário e simulando investimentos</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Contexto</td>
-            <td>Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário</td>
+            <td>
+                <ul>
+                    <li>Local: Tela de "Meus Sonhos"</li>
+                    <li>Tempo: Aproximadamente 5 minutos.</li>
+                    <li>Pré-condição: O usuário possuir cadastro ativo no sistema e ter idade e ano de aposentadoria definidos</li>
+                </ul>  
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Atores</td>
-            <td>Pessoas que irão interagir com o aplicativo do tesouro direto</td>
+            <td>
+                <ul>
+                    <li>Usuário do tesouro direto</li>
+                    <li>Sistema do tesouro direto</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Recursos</td>
-            <td>Ferramentas utilizadas no cenário</td>
+            <td>
+                <ul>
+                    <li>Aplicativo do tesouro direto instalado</li>
+                    <li>Conexão com a internet</li>
+                    <li>Dados de rentabilidade</li>
+                    <li>Valores líquidos dos titulos</li>
+                </ul>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Episódios</td>
-            <td>Ações realizadas pelos atores divididas em etapas</td>
+            <td>
+                <ol>
+                    <li>Acessar aplicativo</li>
+                    <li>Realizar autenticação no sistema</li>
+                    <li>Navegar para a tela meus sonhos</li>
+                    <li>Selecionar para cadastar novo sonho</li>
+                    <li>Escolher aposentadoria como opção</li>
+                    <li>Definir de parâmetros de aposentadoria</li>
+                    <li>Escolher os titulos</li>
+                </ol>
+            </td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Restrições</td>
-            <td>Limitações do cenário</td>
+            <td> O planejamento depende de títulos disponíveis e compatíveis, condições de mercado e regularidade dos aportes do usuário.</td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Exceção</td>
-            <td>Planos ou procedimentos para lidar com situações extraordinárias ou erros inesperados durante o cenário</td>
+            <td>
+                <ul>
+                    <li> Erro de conexão à internet
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>   
+                    <li> Erro de usuário não autenticado
+                        <ul>
+                            <li>Caso o usuário não tenha acesso a internet, o aplicativo deverá gerar uma mensagem de erro de conexão</li>
+                        </ul>
+                    </li>
+                    <li> Erro de completude
+                        <ul>
+                            <li>Caso o sistema não consiga sugerir títulos compatíveis ou o usuário não possua saldo suficiente com os prazos desejados, o sistema deve sugerir mudanças no ano da aposentadoria ou no investimento mensal</li>
+                        </ul>
+                    </li>             
+                </ul>
+            </td>
         </tr>
     </tbody>
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
-
 
 ### Cenário 5
 
@@ -254,52 +426,6 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
     <thead>
         <tr>
             <th colspan="2" style="text-align: center;">Cenário 5</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="font-weight: bold;">Título</td>
-            <td>Planejamento de Aposentadoria [RF05]</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;">Objetivo</td>
-            <td>Efeitos na situação que motivam as ações realizadas pelos atores</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;">Contexto</td>
-            <td>Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;">Atores</td>
-            <td>Pessoas que irão interagir com o aplicativo do tesouro direto</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;">Recursos</td>
-            <td>Ferramentas utilizadas no cenário</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;">Episódios</td>
-            <td>Ações realizadas pelos atores divididas em etapas</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;">Restrições</td>
-            <td>Limitações do cenário</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;">Exceção</td>
-            <td>Planos ou procedimentos para lidar com situações extraordinárias ou erros inesperados durante o cenário</td>
-        </tr>
-    </tbody>
-</table>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
-
-### Cenário 6
-
-<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 7:</strong> Cenário 6</p>
-<table border="1">
-    <thead>
-        <tr>
-            <th colspan="2" style="text-align: center;">Cenário 6</th>
         </tr>
     </thead>
     <tbody>
@@ -373,13 +499,13 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 7
+### Cenário 6
 
-<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 8:</strong> Cenário 7</p>
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 7:</strong> Cenário 6</p>
 <table border="1">
     <thead>
         <tr>
-            <th colspan="2" style="text-align: center;">Cenário 7</th>
+            <th colspan="2" style="text-align: center;">Cenário 6</th>
         </tr>
     </thead>
     <tbody>
@@ -452,13 +578,13 @@ Os cenários listados nas tabelas 2 a X foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 8
+### Cenário 7
 
-<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 9:</strong> Cenário 8</p>
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 8:</strong> Cenário 7</p>
 <table border="1">
     <thead>
         <tr>
-            <th colspan="2" style="text-align: center;">Cenário 8</th>
+            <th colspan="2" style="text-align: center;">Cenário 7</th>
         </tr>
     </thead>
     <tbody>
