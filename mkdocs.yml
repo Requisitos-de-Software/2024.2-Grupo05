@@ -24,7 +24,7 @@ nav:
       - Cronograma Planejado: Planejamento-do-projeto/cronograma-planejado.md
       - Cronograma Executado: Planejamento-do-projeto/cronograma-executado.md
     - Ferramentas: Planejamento-do-projeto/ferramentas.md
-    
+
   - Elicitação de Requisitos:
     - Definição do Perfil de Usuário:
       - Perfil de Usuário: elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md
@@ -42,6 +42,7 @@ nav:
     - Requisitos Elicitados: elicitacao/grupo5/requisitos.md
   - Modelagem:
     - Léxicos: modelagem/lexicos.md
+    - Cenários: modelagem/cenarios.md
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
@@ -52,6 +53,9 @@ nav:
       - Entrega 2:
         - Planejamento da verificação: verificacao/grupo5/entrega2/planej-verificacao-e2-gp5.md
         - Relatório de verificação: verificacao/grupo5/entrega2/relatorio-verificacao-e2-gp5.md
+      - Entrega 3:
+        - Planejamento da verificação: verificacao/grupo5/entrega3/planej-verificacao-e3-gp5.md
+        - Relatório de verificação: verificacao/grupo5/entrega3/relatorio-verificacao-e3-gp5.md
     - Grupo +1 (6):
       - Entrega 1:
         - Planejamento da verificação: verificacao/grupo6/entrega1/planej-verificacao-e1-gp6.md

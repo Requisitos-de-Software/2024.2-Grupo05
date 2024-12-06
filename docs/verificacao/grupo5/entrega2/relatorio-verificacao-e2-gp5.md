@@ -48,7 +48,7 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
 <center>
 
-[**Vídeo 1:** Requisitos - Verificação Entrega 2](Adicionar link)
+[**Vídeo 1:** Requisitos - Verificação Entrega 2](https://youtu.be/k64_m5UUJ1c)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k64_m5UUJ1c?si=ME0qFRofbA2lbFlx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
