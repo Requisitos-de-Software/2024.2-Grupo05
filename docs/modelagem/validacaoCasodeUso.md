@@ -47,4 +47,4 @@ No vídeo 1 apresenta-se a gravação da validação dos casos de uso.
 
 | Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 06/12/2024 | Estrutura inical do documento                | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.0`  | 06/12/2024 | Estrutura inical do documento                | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Víctor Schmidt](https://github.com/moonshinerd)  | 
