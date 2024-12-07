@@ -80,5 +80,6 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 
 | Versão | Data  | Descrição                     | Autor(es)     | Revisor(es)   |
 | ------ | ----- | ----------------------------- |-------------- | -------       |
-| `1.0`  | 06/12 |  Criação do documento         | [Júlia Takaki](https://github.com/juliatakaki)  | [Maria Helena](https://github.com/MariaCHelena)  |
-| `1.1`  | 06/12 |  Correção do documento e adição de novos tópicos        | [Maria Helena](https://github.com/MariaCHelena)  | [Júlia Takaki](https://github.com/juliatakaki)  |
+| `1.0`  | 06/12/2024 |  Criação do documento         | [Júlia Takaki](https://github.com/juliatakaki)  | [Maria Helena](https://github.com/MariaCHelena)  |
+| `1.1`  | 06/12/2024 |  Correção do documento e adição de novos tópicos        | [Maria Helena](https://github.com/MariaCHelena)  | [Júlia Takaki](https://github.com/juliatakaki)  |
+| `1.2`  | 07/12/2024 |  Padronizando versionamento        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
