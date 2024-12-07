@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A Especificação Suplementar objetiva descrever requisitos adicionais do aplicativo, incluindo características relacionadas à usabilidade, confiabilidade, desempenho e capacidade de suporte. Ele complementa os Casos de Uso ao especificar pontos que não foram tratados diretamente neles.
+A Especificação Suplementar objetiva descrever requisitos adicionais do aplicativo em linguagem natural, incluindo características relacionadas à usabilidade, confiabilidade, desempenho e capacidade de suporte. Ele complementa os Casos de Uso ao especificar pontos que não foram tratados diretamente neles.
 
 ## Metodologia
 
@@ -19,7 +19,7 @@ As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de r
 
 ### 2. Usabilidade
 
-Este tópico aborda os requisitos que influenciam a facilidade de uso da aplicação pelo usuário.
+Este tópico aborda os requisitos que influenciam a facilidade de uso da aplicação pelo usuário. Para essa seção, os requisitos referentes a usabilidade do aplicativo estão listados na tabela 1.
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 1:</strong> Requisitos de usabilidade</p>
 | Código | Descrição |
@@ -32,7 +32,7 @@ Este tópico aborda os requisitos que influenciam a facilidade de uso da aplica�
 
 ### 3. Confiabilidade
 
-Esse tópico diz respeito a quanto o aplicativo é confiável
+Esse tópico diz respeito a quanto o aplicativo é confiável. Os requisitos relacionados a confiabilidade do sistema estão listados na tabela 2.
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 2:</strong> Requisitos de confiabilidade</p>
 | Código | Descrição |
@@ -43,7 +43,7 @@ Esse tópico diz respeito a quanto o aplicativo é confiável
 
 ### 4. Suportabilidade
 
-Multiplataforma(versão mobile, versão web, versão desktop) e responsividade.
+Requisitos referentes ao suporte do sistema em diferentes contextos e plataformas e aspectos relevantes a extensibilidade do software. Na tabela 3, os requisitos relacionados a suportabilidade foram elencados.
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 3:</strong> Requisitos de suportabilidade</p>
 | Código | Descrição |
@@ -54,7 +54,7 @@ Multiplataforma(versão mobile, versão web, versão desktop) e responsividade.
 
 ### 5. Performance
 
-Esse tópico diz respeito a questões relacionadas ao desempenho do software
+Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os requisitos referentes a desempenho foram listados na tabela 4.
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 4:</strong> Requisitos de performance</p>
 | Código | Descrição |
@@ -65,6 +65,8 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software
 ## Bibliografia
 
 > Lichess - Espeficicação Suplementar. Disponível em: https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/. Acesso em 06 de dezembro de 2024.
+>
+> Tik Tok - Especificação Suplementar. Disponível em: https://requisitos-de-software.github.io/2022.1-TikTok/especificao-suplementar/. Acesso em 07 de dezembro de 2024.
 
 ## Referências Bibliográficas
 
