@@ -141,7 +141,7 @@ O quarto léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos:
 | **Noção**          | Ferramenta de análise de dados financeiros. |
 | **Dicionário**     | Relatório de Rentabilidade, Relatório de Evolução Patrimonial, Relatórios de Simulação. |
 
-<font size="2"><p style="text-align: center">Fonte: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024</p></font>
 
 
 ---
@@ -186,3 +186,4 @@ O quinto, e último, léxico, apresentado na Tabela 6, faz o uso dos seguintes r
 | Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 28/11/2024 | Criação dos léxicos.                       | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.1`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
