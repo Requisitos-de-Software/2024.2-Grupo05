@@ -10,78 +10,57 @@ O modelo adotado para definir os requisitos do aplicativo Tesouro Direto foi o F
 
 ## Definições da Especificação Suplementar
 
-## Funcionalidades
+### 1. Funcionalidades
 
 As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de requisitos e nos Casos de usos levantados.
 
 - [Elicitação de Requisitos(priorização)](../priorizacao.md)
 - [Casos de Uso](casos_de_uso.md)
 
-## Usabilidade
+### 2. Usabilidade
 
 Este tópico aborda os requisitos que influenciam a facilidade de uso da aplicação pelo usuário.
 
-### Capacidade de customização
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 1:</strong> Requisitos de usabilidade</p>
+| Código | Descrição |
+| ------- | -------- |
+| RNF04 | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade |
+| RNF07 | O sistema deve oferecer controle ampliado para simulações de aposentadoria |
+| RNF08 | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo |
+| RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário |
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
-O sistema não apresenta uma boa capacidade de customização, possui apenas um tema (tema claro).
-
-### Visibilidade do sistema
-
-O sistema exibe informações de forma clara e organizada para o usuário.
-
-### Fácil aprendizagem
-
-O sistema possui uma interface padronizada, garantindo conforto ao usuário e facilitando o acesso a informações de forma clara e objetiva.
-
-## Confiabilidade
+### 3. Confiabilidade
 
 Esse tópico diz respeito a quanto o aplicativo é confiável
 
-### Disponibilidade
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 2:</strong> Requisitos de confiabilidade</p>
+| Código | Descrição |
+| ------- | -------- |
+| RNF02 | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD |
+| RNF05 | O sistema deve permitir integrações seguras com APIs de instituições financeiras |
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
-Os servidores devem permanecer acessíveis ao usuário em tempo integral. Em casos de manutenção ou falhas no sistema, o usuário deve ser notificado com a maior antecedência possível.
-
-### Segurança das informações
-
-O sistema apresenta uma conta vinculada ao Gov.br, que traz mais segurança para o usuário por já ser utilizado em outros aplicativos do governo.
-
-## Suportabilidade
+### 4. Suportabilidade
 
 Multiplataforma(versão mobile, versão web, versão desktop) e responsividade.
 
-### Web
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 3:</strong> Requisitos de suportabilidade</p>
+| Código | Descrição |
+| ------- | -------- |
+| RNF03 | O aplicativo deve ser responsivo para dispositivos móveis e tablets. |
+| RNF06 | Disponibilizar suporte para múltiplos idiomas (português como padrão) |
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
-O sistema do Tesouro Direto é acessível através de navegadores em desktops, tablets ou smartphones, sendo necessário apenas uma conexão com a internet.
-
-Caminho: [Tesouro Direto Web](https://www.tesourodireto.com.br/)
-
-### IOs
-
-A aplicação mobile destinada a dispositivos Apple está disponível nos sistemas iOS 10.0 ou posterior.
-
-Caminho: [Tesouro Direto Apple Store](https://apps.apple.com/br/app/tesouro-direto/id1356012706)
-
-### Android
-
-A aplicação mobile destinada a dispositivos Android está disponível nos sistemas Android 10.0 ou posterior.
-
-Caminho: [Tesouro Direto Google Play](https://play.google.com/store/apps/details?id=br.gov.b3.tesourodireto)
-
-## Performance
+### 5. Performance
 
 Esse tópico diz respeito a questões relacionadas ao desempenho do software
 
-### Economia de dados
-
-Economia de dados (modo hibernar, boa experiência offline), tempo de resposta(otimização de requisições), economia de bateria (Escurecer a tela, modo hibernar).
-
-### Tempo de resposta
-
-Otimização das requisições do aplicativo
-
-### Economia de bateria
-
-É possível escurecer a tela, ativar o modo hibernar.
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 4:</strong> Requisitos de performance</p>
+| Código | Descrição |
+| ------- | -------- |
+| RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. |
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
 ## Bibliografia
 
