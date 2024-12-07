@@ -43,6 +43,9 @@ nav:
   - Modelagem:
     - Léxicos: modelagem/lexicos.md
     - Cenários: modelagem/cenarios.md
+    - Casos de Uso: modelagem/casos-de-uso.md
+    - Validação dos Casos de Uso: modelagem/validacaoCasodeUso.md
+    - Especificação Suplementar: modelagem/especificacao-suplementar.md
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
