@@ -83,14 +83,21 @@ Otimização das requisições do aplicativo
 
 É possível escurecer a tela, ativar o modo hibernar.
 
-## Referências
+## Bibliografia
 
-[1] SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível na plataforma Aprender3. Aceso em 06 de dez. de 2024.
-[2] ROCHA, Samily. Especificação Suplementar - Aula 13. Material de apoio, disponível na plataforma Aprender 3. Aceso em 06 de dez. de 2024.
-[3] SILVA, Davi. Especificação Suplementar, dispovível em: https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/. Acesso em 06 de dez. de 2024.
+> Lichess - Espeficicação Suplementar. Disponível em: https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/. Acesso em 06 de dezembro de 2024.
+
+## Referências Bibliográficas
+
+> SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível na plataforma Aprender3. Aceso em 06 de dez. de 2024.
+>
+> SILVA, Davi. Especificação Suplementar, dispovível em: https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/. Acesso em 06 de dez. de 2024.
+>
+>ROCHA, Samily. Especificação Suplementar - Aula 13. Material de apoio, disponível na plataforma Aprender 3. Aceso em 06 de dez. de 2024.
 
 ## Histórico de Versão
 
 | Versão | Data  | Descrição                     | Autor(es)     | Revisor(es)   |
 | ------ | ----- | ----------------------------- |-------------- | -------       |
-| `1.0`  | 06/12 |  Criação do documento         | Júlia Takaki  | Maria Helena  |
+| `1.0`  | 06/12 |  Criação do documento         | [Júlia Takaki](https://github.com/juliatakaki)  | [Maria Helena](https://github.com/MariaCHelena)  |
+| `1.1`  | 06/12 |  Correção do documento e adição de novos tópicos        | [Maria Helena](https://github.com/MariaCHelena)  | [Júlia Takaki](https://github.com/juliatakaki)  |
