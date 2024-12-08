@@ -124,7 +124,7 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 >****
 ><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./referencias_png/p3.png)       Serrano, Milene; Serrano, Maurício. Requisitos – Aula 13.pdf. Slide 18.
 >****
-> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./referencias_png/ref_p4.png)
+> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./referencias_png/p4.png)    BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021. ISBN: 978-65-00-19677-1.
 >****
 > <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./referencias_png/p5.png)       TAKAKI   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
 
