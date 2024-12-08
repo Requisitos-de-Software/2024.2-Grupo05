@@ -34,11 +34,11 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>5</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Léxicos](../../../modelagem/lexicos.md) na versão 1.0 de data 28/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) com revisão de [Maria Helena](https://github.com/MariaCHelena).
-- [Cenários](../../../modelagem/cenarios.md) na versão XX de data XX/12/2024, produzido por [XX](https://github.com/XX) e revisado por [XX](https://github.com/XX).
-- [XX](../../../XX/XX/XX.md) na versão XX de data XX/12/2024, produzido por [XX](https://github.com/XX) com revisão de [XX](https://github.com/XX).
-- [XX](../../../XX/XX/XX.md) na versão XX de data XX/12/2024, produzido por [XX](https://github.com/XX) com revisão de [XX](https://github.com/XX).
-- [XX](../../../XX/XX/XX.md) na versão XX de data XX/12/2024, produzido por [XX](https://github.com/XX) com revisão de [XX](https://github.com/XX).
+- [Léxicos](../../../modelagem/lexicos.md) na versão 1.1 de data 07/12/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) com revisão de [Maria Helena](https://github.com/MariaCHelena).
+- [Cenários](../../../modelagem/cenarios.md) na versão 1.1 de data 01/12/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Maria Helena](https://github.com/ViictorHugoo), com revisão dos mesmos
+- [Casos de Uso](../../../modelagem/casos-de-uso.md) na versão 1.1 de data 07/12/2024, produzido por [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Victor Rodrigues](https://github.com/ViictorHugoo).
+- [Validação dos Casos de Uso](../../../modelagem/validacaoCasodeUso.md) na versão 1.0 de data XX/12/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Víctor Schmidt](https://github.com/moonshinerd).
+- [Especificação Suplementar](../../../modelagem/especificacao-suplementar.md) na versão 1.2 de data 07/12/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Júlia Takaki](https://github.com/juliatakaki), com revisão das mesmas.
 
 ### Resultados das Verificações
 
@@ -56,8 +56,8 @@ A verificação será realizada no período de 07 de dezembro de 2024, com os re
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-| 22/11/2024 | Planejamento da Verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| 23/11/2024 | Adição dos resultados.       |  [Grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto)   |
+| 04/12/2024 | Planejamento da Verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 08/12/2024 | Adição dos resultados.       |  [Grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto)   |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
 
@@ -69,7 +69,7 @@ As listas de verificação foram construídas levando em conta os padrões esper
 
 ### Geral
 
-<center> 
+<center>
 
 **Tabela 1** - Lista de Verificação.
 
@@ -91,17 +91,17 @@ As listas de verificação foram construídas levando em conta os padrões esper
 |       11         | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.).           | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       12         | No diagrama de caso de uso há ao menos um caso de uso com pontos de extensão? <br> <a id="anchor_3" href="#REF3">3 [min. 8:35]</a>   | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       13         | A participação do cliente e/ou persona na validação do diagrama de caso de uso.                                                                                            | **RESPOSTA** | André Barros      | **DATA/HORA**       |
-|       14         | A especificação suplementar. <br> <a href="../referencias_png/oqesuplementar.png" target="_blank">O que é especificação suplementar?</a> <a id="anchor_2" href="#REF2"><sup>2</sup></a>                                      | **RESPOSTA** | André Barros      | **DATA/HORA**       | 
+|       14         | A especificação suplementar. <br> <a href="../referencias_png/oqesuplementar.png" target="_blank">O que é especificação suplementar?</a> <a id="anchor_2" href="#REF2"><sup>2</sup></a>                                      | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       15         | O artefato segue o modelo FURPS+.                                                                                                                                          | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       16         | O documento especifica o tempo de resposta, no desempenho?                                                                                                                 | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       17         | O documento especifica qual plataforma o aplicativo pode ser executado?                                                                                                    | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       18         | Todos os requisitos podem ser testados (RF e RNF)? <br> **Identificar quais requisitos não são testáveis/verificáveis.**                                                    | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID)         |   |  |  |  |
 |       <a id="anchor_3" href="#REF3">P1</a>         | Todos os elementos necessários no diagrama de caso de uso estão presentes? (atores, relacionamentos, sistemas e casos de uso) <a id="anchor_3" href="#REF3">3 [min. 1:37]. </a>                                                    | **RESPOSTA** | Thales Euflauzino | **DATA/HORA**       |
-|       <a id="REF7" href="#anchor_8">P2</a>         | Víctor Schmidt                                                    | **RESPOSTA** | Víctor Schmidt      | **DATA/HORA**       |
-|       <a id="REF8" href="#anchor_8">P3</a>         | Victor Rodrigues                                                  | **RESPOSTA** | Victor Rodrigues      | **DATA/HORA**       |
-|       <a id="REF9" href="#anchor_9">P4</a>         | Maria Helena                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
-|       <a id="REF10" href="#anchor_10">P5</a>         | Júlia Takaki                                                   | **RESPOSTA** | Júlia Takaki      | **DATA/HORA**       |
+|       <a id="REF7" href="#anchor_7">P2</a>         | Os casos de uso estão em formato oval na horizontal?                                                   | **RESPOSTA** | Víctor Schmidt      | **DATA/HORA**       |
+|       <a id="REF8" href="#anchor_8">P3</a>         | Os fluxos do diagrama de casos de uso são divididos em: Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção | **RESPOSTA** | Victor Rodrigues      | **DATA/HORA**       |
+|       <a id="REF9" href="#anchor_9">P4</a>         | Os cenários descrevem apenas um único caminho específico feito pelo ator específico realizando ações específicas?                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
+|       <a id="REF10" href="#anchor_10">P5</a>         | O diagrama de caso de uso dá uma visão geral do relacionamento entre casos de uso, atores e sistemas?                       | **RESPOSTA** | Júlia Takaki      | **DATA/HORA**       |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
@@ -120,13 +120,15 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 >
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 04 dez. 2024.
 >
-><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./p2.png)     SCHMIDT   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+> <a id="REF3" href="#anchor_3">P1</a>![Referencia 1](./referencias_png/p1.png) LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: [https://youtu.be/ab6eDdwS3rA](https://youtu.be/ab6eDdwS3rA). Min 1:37. Acesso em: 28 nov. 2024.
 >****
-><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./p3.png)       RODRIGUES    ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./referencias_png/p2.png)     LUCIDCHART. Diagrama de caso de uso UML. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 8 dez. 2024
 >****
-> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./p3.png)        HELENA   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./referencias_png/p3.png)       Serrano, Milene; Serrano, Maurício. Requisitos – Aula 13.pdf. Slide 18.
 >****
-> <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./p5.png)       TAKAKI   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./referencias_png/p4.png)    BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. Interação Humano-Computador e Experiência do Usuário. Autopublicação, 2021. ISBN: 978-65-00-19677-1.
+>****
+> <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./referencias_png/p5.png) <br> LUCIDCHART. Diagrama de caso de uso UML. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 8 dez. 2024
 
 
 
@@ -135,3 +137,5 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 04/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.1` | 08/12/2024 | Adição de item de verificação  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.2` | 08/12/2024 | Adição de item de verificação (Maria Helena)  | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
