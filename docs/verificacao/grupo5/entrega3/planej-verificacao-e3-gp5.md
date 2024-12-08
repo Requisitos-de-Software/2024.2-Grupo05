@@ -69,7 +69,7 @@ As listas de verificação foram construídas levando em conta os padrões esper
 
 ### Geral
 
-<center> 
+<center>
 
 **Tabela 1** - Lista de Verificação.
 
@@ -91,7 +91,7 @@ As listas de verificação foram construídas levando em conta os padrões esper
 |       11         | A especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.).           | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       12         | No diagrama de caso de uso há ao menos um caso de uso com pontos de extensão? <br> <a id="anchor_3" href="#REF3">3 [min. 8:35]</a>   | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       13         | A participação do cliente e/ou persona na validação do diagrama de caso de uso.                                                                                            | **RESPOSTA** | André Barros      | **DATA/HORA**       |
-|       14         | A especificação suplementar. <br> <a href="../referencias_png/oqesuplementar.png" target="_blank">O que é especificação suplementar?</a> <a id="anchor_2" href="#REF2"><sup>2</sup></a>                                      | **RESPOSTA** | André Barros      | **DATA/HORA**       | 
+|       14         | A especificação suplementar. <br> <a href="../referencias_png/oqesuplementar.png" target="_blank">O que é especificação suplementar?</a> <a id="anchor_2" href="#REF2"><sup>2</sup></a>                                      | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       15         | O artefato segue o modelo FURPS+.                                                                                                                                          | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       16         | O documento especifica o tempo de resposta, no desempenho?                                                                                                                 | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       17         | O documento especifica qual plataforma o aplicativo pode ser executado?                                                                                                    | **RESPOSTA** | André Barros      | **DATA/HORA**       |
@@ -100,7 +100,7 @@ As listas de verificação foram construídas levando em conta os padrões esper
 |       <a id="anchor_3" href="#REF3">P1</a>         | Todos os elementos necessários no diagrama de caso de uso estão presentes? (atores, relacionamentos, sistemas e casos de uso) <a id="anchor_3" href="#REF3">3 [min. 1:37]. </a>                                                    | **RESPOSTA** | Thales Euflauzino | **DATA/HORA**       |
 |       <a id="REF7" href="#anchor_8">P2</a>         | Víctor Schmidt                                                    | **RESPOSTA** | Víctor Schmidt      | **DATA/HORA**       |
 |       <a id="REF8" href="#anchor_8">P3</a>         | Victor Rodrigues                                                  | **RESPOSTA** | Victor Rodrigues      | **DATA/HORA**       |
-|       <a id="REF9" href="#anchor_9">P4</a>         | Maria Helena                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
+|       <a id="REF9" href="#anchor_9">P4</a>         | Os cenários descrevem apenas um único caminho específico feito pelo ator específico realizando ações específicas?                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
 |       <a id="REF10" href="#anchor_10">P5</a>         | Júlia Takaki                                                   | **RESPOSTA** | Júlia Takaki      | **DATA/HORA**       |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
@@ -124,7 +124,7 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 >****
 ><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./p3.png)       RODRIGUES    ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
 >****
-> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./p3.png)        HELENA   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./referencias_png/ref_p4.png)
 >****
 > <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./p5.png)       TAKAKI   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
 
