@@ -77,13 +77,13 @@ _Autor: NOME E LINK GITHUB, 2024_
 >
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 04 dez. 2024.
 >
-><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./p2.png)     LUCIDCHART. Diagrama de caso de uso UML. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 8 dez. 2024
+><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./referencias_png/p2.png)     LUCIDCHART. Diagrama de caso de uso UML. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 8 dez. 2024
 >****
-><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./p3.png)       RODRIGUES    ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./referencias_png/p3.png)       RODRIGUES    ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
 >****
-> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./p3.png)        HELENA   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+> <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./referencias_png/p3.png)        HELENA   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
 >****
-> <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./p5.png)       TAKAKI   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+> <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./referencias_png/p5.png)       TAKAKI   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
 
 
 ## Histórico de Versões
