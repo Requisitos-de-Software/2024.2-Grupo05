@@ -23,7 +23,7 @@ Voltando ao foco nos diagramas de caso de uso, a **Tabela 1** apresenta os princ
 | Retângulo (Sistema) | É utilizado para representar o sistema ou o componente em análise, agrupando os casos de uso e os atores associados a ele. | <figure style="width: 80%; display: flex; justify-content: center; background-color: white; padding: 10px;"> ![retangulo](../assets/modelagem/casos-de-uso/retangulo.png) </figure>
 | Flecha (Relações) | As setas são utilizadas para ilustrar as relações ou interações entre os atores e os casos de uso no diagrama. | <figure style="width: 80%; display: flex; justify-content: center; background-color: white; padding: 10px;"> ![flecha](../assets/modelagem/casos-de-uso/flecha.png) </figure>
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
 Além disso, no diagrama de casos de uso, é possível detalhar:  
 
@@ -39,7 +39,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ![Diagrama de Caso de Uso](../assets/modelagem/casos-de-uso/diagrama-de-caso-de-uso.png)
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
 ## Especialização dos casos de uso
 
@@ -62,7 +62,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 </center>
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
 
 <font size="3"><p style="text-align: center">Tabela 3: Simular Investimento </p></font>
@@ -81,7 +81,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
  
 <font size="3"><p style="text-align: center">Tabela 4: Escolher Investimentos </p></font>
 <center>
@@ -99,7 +99,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 5: Verificar Meus Investimentos </p></font>
 <center>
@@ -117,7 +117,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 6: Resgatar Investimento </p></font>
 <center>
@@ -136,7 +136,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 </center>
 
-<font size="2"><p style="text-align: center"><b>Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
 ## Bibliografia
 
@@ -156,4 +156,5 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | Versão | Data       | Descrição                                      | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| 1.0    | 06/12/2024 | Criação da página | [Víctor Schmidt](https://github.com/moonshinerd)   | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.0`    | 06/12/2024 | Criação da página | [Víctor Schmidt](https://github.com/moonshinerd)   | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.1`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
