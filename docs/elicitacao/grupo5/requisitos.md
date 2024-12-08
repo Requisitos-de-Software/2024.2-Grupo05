@@ -55,7 +55,7 @@ _Legenda das Tabelas:_
 | <a id="anchor_RF26" style="visibility: hidden"></a>RF26 | O aplicativo deve apresentar um dashboard inicial com informações relevantes para o usuário. | BF10 | Não |  
 | <a id="anchor_RF27" style="visibility: hidden"></a>RF27 | O sistema deve incluir uma barra de progresso na aba "Meus Sonhos". | BF12 | Não |  
 | <a id="anchor_RF28" style="visibility: hidden"></a>RF28 | O aplicativo deve permitir a comparação da simulação com os padrões do INSS na aposentadoria. | BF14 | Não |  
-| <a id="anchor_RF39" style="visibility: hidden"></a>RF29 | O sistema deve exibir sugestões personalizadas na página inicial do "Meu Investimento". | BF15 | Não |  
+| <a id="anchor_RF29" style="visibility: hidden"></a>RF29 | O sistema deve exibir sugestões personalizadas na página inicial do "Meu Investimento". | BF15 | Não |  
 | <a id="anchor_RF30" style="visibility: hidden"></a>RF30 | O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis, incluindo suas características principais. | GLO01 | Sim |  
 | <a id="anchor_RF31" style="visibility: hidden"></a>RF31 | O sistema deve possibilitar a compra de títulos públicos por meio de diferentes métodos de pagamento, garantindo segurança na transação. | GLO02 | Sim |  
 | <a id="anchor_RF32" style="visibility: hidden"></a>RF32 | O sistema deve exibir a rentabilidade acumulada de cada título na carteira do usuário, de forma clara e atualizada. | GLO03 | Sim |  
@@ -75,15 +75,15 @@ _Legenda das Tabelas:_
 
 | Identificador | Descrição	| ID | Implementado |
 |---------------|-----------|-----|-------------|
-| RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | IT20 | Não |
-| RNF02 | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD. | IT21, GF06 | Sim |
-| RNF03 | O aplicativo deve ser responsivo para dispositivos móveis e tablets. | IT22, GF07, GLO08 | Sim |
-| RNF04 | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade. | IT23, BFN11, GF08, GLO04 | Não |
-| RNF05 | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | IT24, GLO06 | Sim |
-| RNF06 | Disponibilizar suporte para múltiplos idiomas (português como padrão). | IT25 | Não |
-| RNF07 | O sistema deve oferecer controle ampliado para simulações de aposentadoria. | BFN6 | Não |
-| RNF08 | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo. | BFN9 | Não |
-| RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário. | BFN13 | Não |
+| <a id="anchor_RNF01" style="visibility: hidden"></a>RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | IT20 | Não |
+| <a id="anchor_RNF02" style="visibility: hidden"></a>RNF02 | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD. | IT21, GF06 | Sim |
+| <a id="anchor_RNF03" style="visibility: hidden"></a>RNF03 | O aplicativo deve ser responsivo para dispositivos móveis e tablets. | IT22, GF07, GLO08 | Sim |
+| <a id="anchor_RNF04" style="visibility: hidden"></a>RNF04 | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade. | IT23, BFN11, GF08, GLO04 | Não |
+| <a id="anchor_RNF05" style="visibility: hidden"></a>RNF05 | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | IT24, GLO06 | Sim |
+| <a id="anchor_RNF06" style="visibility: hidden"></a>RNF06 | Disponibilizar suporte para múltiplos idiomas (português como padrão). | IT25 | Não |
+| <a id="anchor_RNF07" style="visibility: hidden"></a>RNF07 | O sistema deve oferecer controle ampliado para simulações de aposentadoria. | BFN6 | Não |
+| <a id="anchor_RNF08" style="visibility: hidden"></a>RNF08 | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo. | BFN9 | Não |
+| <a id="anchor_RNF09" style="visibility: hidden"></a>RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário. | BFN13 | Não |
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>

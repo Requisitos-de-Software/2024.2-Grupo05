@@ -56,7 +56,7 @@ Inicialmente serão definidos os cenários das tarefas principais, que descrevem
 
 ## Cenários Identificados
 
-Os cenários listados nas tabelas 2 a X foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
+Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
 
 
 ### Cenário 1
