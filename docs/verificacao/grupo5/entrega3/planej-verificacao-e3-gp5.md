@@ -98,9 +98,15 @@ As listas de verificação foram construídas levando em conta os padrões esper
 |       18         | Todos os requisitos podem ser testados (RF e RNF)? <br> **Identificar quais requisitos não são testáveis/verificáveis.**                                                    | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID)         |   |  |  |  |
 |       <a id="anchor_3" href="#REF3">P1</a>         | Todos os elementos necessários no diagrama de caso de uso estão presentes? (atores, relacionamentos, sistemas e casos de uso) <a id="anchor_3" href="#REF3">3 [min. 1:37]. </a>                                                    | **RESPOSTA** | Thales Euflauzino | **DATA/HORA**       |
+<<<<<<< HEAD
 |       <a id="REF7" href="#anchor_8">P2</a>         | Víctor Schmidt                                                    | **RESPOSTA** | Víctor Schmidt      | **DATA/HORA**       |
 |       <a id="REF8" href="#anchor_8">P3</a>         | Victor Rodrigues                                                  | **RESPOSTA** | Victor Rodrigues      | **DATA/HORA**       |
 |       <a id="REF9" href="#anchor_9">P4</a>         | Os cenários descrevem apenas um único caminho específico feito pelo ator específico realizando ações específicas?                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
+=======
+|       <a id="REF7" href="#anchor_7">P2</a>         | Os casos de uso estão em formato oval na horizontal?                                                   | **RESPOSTA** | Víctor Schmidt      | **DATA/HORA**       |
+|       <a id="REF8" href="#anchor_8">P3</a>         | Os fluxos do diagrama de casos de uso são divididos em: Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção | **RESPOSTA** | Victor Rodrigues      | **DATA/HORA**       |
+|       <a id="REF9" href="#anchor_9">P4</a>         | Maria Helena                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
+>>>>>>> 5e689447ad6bfd3ea5748c7a8cd711a01d46a1f8
 |       <a id="REF10" href="#anchor_10">P5</a>         | Júlia Takaki                                                   | **RESPOSTA** | Júlia Takaki      | **DATA/HORA**       |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
@@ -120,13 +126,13 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 >
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 04 dez. 2024.
 >
-><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./p2.png)     SCHMIDT   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./referencias_png/p2.png)     LUCIDCHART. Diagrama de caso de uso UML. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 8 dez. 2024
 >****
-><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./p3.png)       RODRIGUES    ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./referencias_png/p3.png)       Serrano, Milene; Serrano, Maurício. Requisitos – Aula 13.pdf. Slide 18.
 >****
 > <a id="anchor_9" href="#REF9"><sup>P4</sup></a><br>![Referência 4](./referencias_png/ref_p4.png)
 >****
-> <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./p5.png)       TAKAKI   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
+> <a id="anchor_10" href="#REF10"><sup>P5</sup></a><br>![Referência 5](./referencias_png/p5.png)       TAKAKI   ADICIONE SE HOUVER REFERENCIA DE IMAGEM, SE NAO TIRE!!!!!!! COLOQUE TAMBÉM NO PLANEJAMENTO
 
 
 
@@ -135,4 +141,5 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 04/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.1` | 08/12/2024 | Adição da pergunta de verificação (Maria Helena)  | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1` | 08/12/2024 | Adição de item de verificação  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.2` | 08/12/2024 | Adição de item de verificação (Maria Helena)  | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
