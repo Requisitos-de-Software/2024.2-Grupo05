@@ -135,3 +135,4 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 04/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.1` | 08/12/2024 | Adição da pergunta de verificação (Maria Helena)  | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
