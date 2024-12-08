@@ -112,5 +112,5 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
 | `1.0` | 04/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1` | 08/12/2024 | Adição de item de verificação  | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.2` | 08/12/2024 | Adição de item de verificação (Maria Helena)  | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.3` | 08/12/2024 | Adicionando respostas da verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
-| `1.4` | 08/12/2024 | Adicionando gravação da verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.3` | 08/12/2024 | Adicionando respostas da verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.4` | 08/12/2024 | Adicionando gravação da verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
