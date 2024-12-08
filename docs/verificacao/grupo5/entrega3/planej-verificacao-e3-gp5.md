@@ -98,16 +98,13 @@ As listas de verificação foram construídas levando em conta os padrões esper
 |       18         | Todos os requisitos podem ser testados (RF e RNF)? <br> **Identificar quais requisitos não são testáveis/verificáveis.**                                                    | **RESPOSTA** | André Barros      | **DATA/HORA**       |
 |       **Itens do Conteúdo da Disciplina** (a foto referente ao texto está no ID)         |   |  |  |  |
 |       <a id="anchor_3" href="#REF3">P1</a>         | Todos os elementos necessários no diagrama de caso de uso estão presentes? (atores, relacionamentos, sistemas e casos de uso) <a id="anchor_3" href="#REF3">3 [min. 1:37]. </a>                                                    | **RESPOSTA** | Thales Euflauzino | **DATA/HORA**       |
-<<<<<<< HEAD
 |       <a id="REF7" href="#anchor_8">P2</a>         | Víctor Schmidt                                                    | **RESPOSTA** | Víctor Schmidt      | **DATA/HORA**       |
 |       <a id="REF8" href="#anchor_8">P3</a>         | Victor Rodrigues                                                  | **RESPOSTA** | Victor Rodrigues      | **DATA/HORA**       |
 |       <a id="REF9" href="#anchor_9">P4</a>         | Os cenários descrevem apenas um único caminho específico feito pelo ator específico realizando ações específicas?                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
-=======
 |       <a id="REF7" href="#anchor_7">P2</a>         | Os casos de uso estão em formato oval na horizontal?                                                   | **RESPOSTA** | Víctor Schmidt      | **DATA/HORA**       |
 |       <a id="REF8" href="#anchor_8">P3</a>         | Os fluxos do diagrama de casos de uso são divididos em: Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção | **RESPOSTA** | Victor Rodrigues      | **DATA/HORA**       |
-|       <a id="REF9" href="#anchor_9">P4</a>         | Maria Helena                                                   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
->>>>>>> 5e689447ad6bfd3ea5748c7a8cd711a01d46a1f8
-|       <a id="REF10" href="#anchor_10">P5</a>         | Júlia Takaki                                                   | **RESPOSTA** | Júlia Takaki      | **DATA/HORA**       |
+|       <a id="REF9" href="#anchor_9">P4</a>         | Os cenários descrevem apenas um único caminho específico feito pelo ator específico realizando ações específicas?   | **RESPOSTA** | Maria Helena      | **DATA/HORA**       |
+|       <a id="REF10" href="#anchor_10">P5</a>        | Júlia Takaki                                                   | **RESPOSTA** | Júlia Takaki      | **DATA/HORA**       |
 
 _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
