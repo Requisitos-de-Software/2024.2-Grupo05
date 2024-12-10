@@ -116,4 +116,4 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
 | `1.3` | 08/12/2024 | Adicionando respostas da verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 08/12/2024 | Adicionando gravação da verificação  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
 | `1.5` | 10/12/2024 | Alterando pergunta pessoal  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
-| `1.6` | 10/12/2024 | Adicionando imagem de formato oval na horizontal  | [Victor Schmidt](https://github.com/moonshinerd) |   |
+| `1.6` | 10/12/2024 | Adicionando imagem de formato oval na horizontal  | [Victor Schmidt](https://github.com/moonshinerd) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
