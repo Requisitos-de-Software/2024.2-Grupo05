@@ -61,6 +61,7 @@ _Legenda das Tabelas:_
 | <a id="anchor_RF32" style="visibility: hidden"></a>RF32 | O sistema deve exibir a rentabilidade acumulada de cada título na carteira do usuário, de forma clara e atualizada. | GLO03 | Sim |  
 | <a id="anchor_RF33" style="visibility: hidden"></a>RF33 | O aplicativo deverá permitir que o usuário faça login criando uma conta própria no sistema | GF02 | Não |
 | <a id="anchor_RF34" style="visibility: hidden"></a>RF34 | O aplicativo deverá possuir uma tela de login integrado com o gov.br | GF01 | Sim |
+|<a id="anchor_RF35" style="visibility: hidden"></a>RF35|Escolher meus investimentos, definir um valor para cada investimento e escolher entre investir agora ou investir depois|IT21|Sim|
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>

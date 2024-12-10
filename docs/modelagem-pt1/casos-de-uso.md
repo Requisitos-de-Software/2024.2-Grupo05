@@ -58,6 +58,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Fluxo alternativo**  | <ul><li>O usuário acessa a tela inicial.</li><li>O sistema detecta erro de login e exibe mensagem de erro.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta ausência de conexão com a internet.</li><li>Exibe uma mensagem informando que não é possível conectar.</li></ul> |
 | **Pós-condições**      | O usuário é autenticado e pode acessar as funcionalidades do aplicativo. |
+| **Rastreabilidade**    | [RF33](../../elicitacao/grupo5/requisitos/#anchor_RF33) e [RF34](../../elicitacao/grupo5/requisitos/#anchor_RF34)                                                |
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
@@ -78,6 +79,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Fluxo alternativo**  | <ul><li>O usuário acessa "Simular Investimento".</li><li>O sistema solicita que o usuário preencha um questionário para personalizar a simulação.</li><li>O questionário é preenchido, e o sistema apresenta os resultados.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta ausência de conexão com a internet.</li><li>Exibe uma mensagem informando que não é possível realizar a simulação no momento.</li></ul> |
 | **Pós-condições**      | O usuário visualiza as opções de investimento com base na simulação realizada. |
+| **Rastreabilidade**    | [RF02](../../elicitacao/grupo5/requisitos/#anchor_RF02)                                                  |
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
@@ -96,6 +98,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Fluxo alternativo**  | <ul><li>O sistema sugere opções com base no questionário previamente preenchido.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta problemas na conexão com o servidor.</li><li>Exibe uma mensagem informando que os investimentos não podem ser carregados no momento.</li></ul> |
 | **Pós-condições**      | O usuário realizou o investimento. |
+| **Rastreabilidade**    | [RF35](../../elicitacao/grupo5/requisitos/#anchor_RF35)                                                  |
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
@@ -114,6 +117,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Fluxo alternativo**  | <ul><li>O sistema apresenta os investimentos organizados por categoria ou instituição financeira.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta problemas de carregamento dos dados.</li><li>Exibe uma mensagem informando que os investimentos não podem ser carregados no momento.</li></ul> |
 | **Pós-condições**      | O usuário visualiza os detalhes de seus investimentos.     |
+| **Rastreabilidade**    | [RF01](../../elicitacao/grupo5/requisitos/#anchor_RF01)                                                 |
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
@@ -132,6 +136,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Fluxo alternativo**  | <ul><li>O sistema solicita que o usuário escolha a instituição financeira para crédito dos valores resgatados.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta que o investimento selecionado não pode ser resgatado no momento.</li><li>Exibe uma mensagem com detalhes do motivo.</li></ul> |
 | **Pós-condições**      | O resgate é processado e os valores são creditados na conta do usuário. |
+| **Rastreabilidade**    | [RF03](../../elicitacao/grupo5/requisitos/#anchor_RF03)                                                 |
 | **Data de Criação**    | 06/12/2024                                                 |
 
 </center>
@@ -157,4 +162,5 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | Versão | Data       | Descrição                                      | Autor(es)                                        | Revisor(es)                                      |
 | ------ | ---------- | ---------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`    | 06/12/2024 | Criação da página | [Víctor Schmidt](https://github.com/moonshinerd)   | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.1`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
