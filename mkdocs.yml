@@ -41,12 +41,17 @@ nav:
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
       - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
     - Requisitos Elicitados: elicitacao/grupo5/requisitos.md
+
   - Modelagem - Parte 1:
     - Léxicos: modelagem-pt1/lexicos.md
     - Cenários: modelagem-pt1/cenarios.md
     - Casos de Uso: modelagem-pt1/casos-de-uso.md
     - Validação dos Casos de Uso: modelagem-pt1/validacaoCasodeUso.md
     - Especificação Suplementar: modelagem-pt1/especificacao-suplementar.md
+  - Modelagem - Parte 2:
+    - Backlog: modelagem-pt2/backlog.md
+    - NFR Framework: modelagem-pt2/nfr_framework.md
+    - Histórias de Usuário: modelagem-pt2/userstories.md
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
@@ -60,6 +65,9 @@ nav:
       - Entrega 3:
         - Planejamento da verificação: verificacao/grupo5/entrega3/planej-verificacao-e3-gp5.md
         - Relatório de verificação: verificacao/grupo5/entrega3/relatorio-verificacao-e3-gp5.md
+      - Entrega 4:
+        - Planejamento da verificação: verificacao/grupo5/entrega4/planej-verificacao-e4-gp5.md
+        - Relatório de verificação: verificacao/grupo5/entrega4/relatorio-verificacao-e4-gp5.md
     - Grupo +1 (6):
       - Entrega 1:
         - Planejamento da verificação: verificacao/grupo6/entrega1/planej-verificacao-e1-gp6.md
@@ -70,7 +78,9 @@ nav:
       - Entrega 3:
         - Planejamento da verificação: verificacao/grupo6/entrega3/planej-verificacao-e3-gp6.md
         - Relatório de verificação: verificacao/grupo6/entrega3/relatorio-verificacao-e3-gp6.md
-
+      - Entrega 4:
+        - Planejamento da verificação: verificacao/grupo6/entrega4/planej-verificacao-e4-gp6.md
+        - Relatório de verificação: verificacao/grupo6/entrega4/relatorio-verificacao-e4-gp6.md
 theme:
   logo: assets/header-logo-tesourodireto.png
   name: material
