@@ -95,3 +95,4 @@ _Legenda das Tabelas:_
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0`  | 21/11/2024 | Lista de requisitos | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1`  | 27/11/2024 | Adicionando anchor's para rastreabilidade |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |

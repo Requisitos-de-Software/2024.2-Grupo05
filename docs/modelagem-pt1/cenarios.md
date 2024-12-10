@@ -58,8 +58,7 @@ Inicialmente serão definidos os cenários das tarefas principais, que descrevem
 
 Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
 
-
-### Cenário 1
+### Cenário 1 - Simulação de compra de titulos <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">[RF02]</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 2:</strong> Cenário 1</p>
 <table border="1">
@@ -71,7 +70,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Simulação de compra de titulos [RF02]</td>
+            <td>Simulação de compra de titulos <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">[RF02]</a></td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
@@ -147,7 +146,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 2
+### Cenário 2 - Resgate Antecipado de Títulos <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">[RF03]</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 3:</strong> Cenário 2</p>
 <table border="1">
@@ -159,7 +158,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Resgate Antecipado de Títulos [RF03]</td>
+            <td>Resgate Antecipado de Títulos <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">[RF03]</a></td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
@@ -237,7 +236,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 3
+### Cenário 3 - Planejamento de Metas de Investimento <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">[RF04]</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 4:</strong> Cenário 3</p>
 <table border="1">
@@ -249,7 +248,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Planejamento de Metas de Investimento [RF04]</td>
+            <td>Planejamento de Metas de Investimento <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">[RF04]</a></td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
@@ -327,7 +326,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 4
+### Cenário 4 - Planejamento de Aposentadoria <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">[RF05]</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 5:</strong> Cenário 4</p>
 <table border="1">
@@ -339,7 +338,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Planejamento de Aposentadoria [RF05]</td>
+            <td>Planejamento de Aposentadoria <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">[RF05]</a></td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
@@ -419,7 +418,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 5
+### Cenário 5 - Consultar operações agendadas <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">[RF08]</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 6:</strong> Cenário 5</p>
 <table border="1">
@@ -431,7 +430,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Consultar operações agendadas [RF08]</td>
+            <td>Consultar operações agendadas <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">[RF08]</a></td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
@@ -499,7 +498,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 6
+### Cenário 6 - Visualizar lista de títulos públicos disponíveis <a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">[RF30]</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 7:</strong> Cenário 6</p>
 <table border="1">
@@ -511,7 +510,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Visualizar lista de títulos públicos disponíveis [RF30]</td>
+            <td>Visualizar lista de títulos públicos disponíveis <a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">[RF30]</a></td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
@@ -578,7 +577,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 7
+### Cenário 7 - Consultar as informações de liquidez dos títulos disponíveis <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">[RF23]</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 8:</strong> Cenário 7</p>
 <table border="1">
@@ -590,7 +589,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
     <tbody>
         <tr>
             <td style="font-weight: bold;">Título</td>
-            <td>Consultar as informações de liquidez dos títulos disponíveis [RF23]</td>
+            <td>Consultar as informações de liquidez dos títulos disponíveis <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">[RF23]</a></td>
         </tr>
         <tr>
             <td style="font-weight: bold;">Objetivo</td>
@@ -665,12 +664,13 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 ## Bibliografia
 
 > Bilheteria Digital - Cenários. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/>. Acesso em 01 de dezembro de 2024
+> 
+> SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf.
 
 ## Referências Bibliográficas
 
-> BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. *Interação Humano-Computador e Experiência do Usuário.* Autopublicação, 2021. ISBN: 978-65-00-19677-1.]
->
-> SERRANO, Milene. Requisitos – Aula 10. 2017. Apresentação de slides. Disponível em: https://aprender3.unb.br/pluginfile.php/2972470/mod_resource/content/1/Aula%2010.pdf.
+> BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. *Interação Humano-Computador e Experiência do Usuário.* Autopublicação, 2021. ISBN: 978-65-00-19677-1.
+
 
 
 ## Histórico de Versões
@@ -679,3 +679,6 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 | ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | `1.0`  | 01/12/2024 | Estrutura inical do documento                |  [Maria Helena](https://github.com/MariaCHelena) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1`  | 01/12/2024 | Inicio da criação dos Cenários               |  [Victor Rodrigues](https://github.com/ViictorHugoo) | [Maria Helena](https://github.com/MariaCHelena) |
+| `1.2` | 10/12/2024 | Colocando titulos nos cenarios  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
+| `1.3` | 10/12/2024 | Adicionando rastreabilidade  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
+| `1.4`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
