@@ -423,16 +423,16 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
         <td>Modelagem de Requisitos - Ágil: Backlogs</td>
-        <td>Júlia Takaki e Thales Euflauzino</td>
-        <td>Victor Schmidt</td>
+        <td>Victor Schmidt e Thales Euflauzino</td>
+        <td>Júlia Takaki</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos - Ágil: NFR Framework</td>
-        <td>Victor Schmidt e Victor Rodrigues</td>
-        <td>Júlia Takaki</td>
+        <td> Júlia Takaki e Victor Rodrigues</td>
+        <td>Victor Schmidt</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -440,15 +440,15 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       <tr>
         <td>Gravação da Apresentação</td>
         <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
-        <td>Victor Rodrigues</td>
+        <td>Thales Euflauzino</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
       <td>Revisão pós apresentação</td>
-        <td>Victor Rodrigues</td>
         <td>Maria Helena</td>
+        <td>Júlia Takaki</td>
         <td> - </td>
         <td> - </td>
         <td> - </td>
