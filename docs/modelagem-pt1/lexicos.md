@@ -61,7 +61,7 @@ O primerio léxico, apresentado na Tabela 2, faz o uso dos seguintes requisitos:
 |--------------------|---------|
 | **Descrição**      | Os títulos disponíveis são listados após a simulação  |
 | **Classificação**  | Verbo |
-| **Impacto**        | O <a href="/modelagem/lexicos/#anchor_L02">usuário</a> está interessado em simular um investimento.<br>O <a href="/modelagem/lexicos/#anchor_L02">usuário</a> escolhe o que quer conquistar, o tempo de investimento e a prioridade (quanto vai ganhar ou preservar o poder de compra).<br>O <a href="/modelagem/lexicos/#anchor_L02">usuário</a> realiza a simulação baseada nas escolhas feitas anteriormente. |
+| **Impacto**        | O <a href="#anchor_L02">usuário</a> está interessado em simular um investimento.<br>O <a href="#anchor_L02">usuário</a> escolhe o que quer conquistar, o tempo de investimento e a prioridade (quanto vai ganhar ou preservar o poder de compra).<br>O <a href="#anchor_L02">usuário</a> realiza a simulação baseada nas escolhas feitas anteriormente. |
 | **Noção**          | Calcular projeções, definir metas e avaliar possibilidades. |
 | **Dicionário**     | Calcular projeções, definir metas e avaliar possibilidades. |
 
@@ -85,9 +85,9 @@ O segundo léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos:
 
 | **Identificador** | **L02** |
 |--------------------|---------|
-| **Descrição**      | O investidor pode realizar simulações de investimento (<a href="/modelagem/lexicos/#anchor_L01">L01</a>).<br>O investidor pode escolher títulos com base em suas metas financeiras.<br>O investidor pode consultar o histórico de rendimentos de seus investimentos.<br>O investidor pode configurar alertas e notificações sobre títulos de interesse.<br>O investidor pode atualizar suas metas financeiras a qualquer momento. |
+| **Descrição**      | O investidor pode realizar simulações de investimento (<a href="#anchor_L01">L01</a>).<br>O investidor pode escolher títulos com base em suas metas financeiras.<br>O investidor pode consultar o histórico de rendimentos de seus investimentos.<br>O investidor pode configurar alertas e notificações sobre títulos de interesse.<br>O investidor pode atualizar suas metas financeiras a qualquer momento. |
 | **Classificação**  | Objeto |
-| **Impacto**        | O investidor é o <a href="/modelagem/lexicos/#anchor_L02">usuário</a> principal do aplicativo Tesouro Direto.<br>O investidor pode ser alguém buscando preservar o poder de compra.<br>O investidor pode ser alguém interessado em aumentar seu patrimônio financeiro.<br>O sistema auxilia o investidor a tomar decisões informadas, sugerindo opções adequadas às suas escolhas. |
+| **Impacto**        | O investidor é o <a href="#anchor_L02">usuário</a> principal do aplicativo Tesouro Direto.<br>O investidor pode ser alguém buscando preservar o poder de compra.<br>O investidor pode ser alguém interessado em aumentar seu patrimônio financeiro.<br>O sistema auxilia o investidor a tomar decisões informadas, sugerindo opções adequadas às suas escolhas. |
 | **Noção**          | Cliente, Usuário, Aplicador e Cidadão. |
 | **Dicionário**     | Cliente, Usuário, Aplicador e Cidadão. |
 
@@ -111,7 +111,7 @@ O terceiro léxico, apresentado na Tabela 4, faz o uso dos seguintes requisitos:
 |--------------------|---------|
 | **Descrição**      | Exibe os títulos disponíveis de acordo com o tipo de filtro selecionado pelo usuário.<br>Facilita a busca ao permitir a segmentação por categorias: Selic, Prefixado e Inflação. |
 | **Classificação**  | Estado |
-| **Impacto**        | O tipo de título é categorizado pelo sistema com base nos parâmetros financeiros.<br>O aplicativo permite ao <a href="/modelagem/lexicos/#anchor_L02">usuário</a> aplicar filtros para encontrar títulos específicos. |
+| **Impacto**        | O tipo de título é categorizado pelo sistema com base nos parâmetros financeiros.<br>O aplicativo permite ao <a href="#anchor_L02">usuário</a> aplicar filtros para encontrar títulos específicos. |
 | **Noção**          | Títulos Selic, Títulos Prefixados, Títulos de Inflação. |
 | **Dicionário**     | Títulos Selic, Títulos Prefixados, Títulos de Inflação. |
 
@@ -137,7 +137,7 @@ O quarto léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos:
 |--------------------|---------|
 | **Descrição**      | Ferramenta que permite a geração de relatórios detalhados sobre rentabilidade, evolução patrimonial e simulações financeiras realizadas. |
 | **Classificação**  | Verbo |
-| **Impacto**        | O sistema gera relatórios específicos com base nas simulações financeiras realizadas e nos dados de investimentos.<br>Os relatórios podem ser usados pelo <a href="/modelagem/lexicos/#anchor_L02">usuário</a> para planejar novas estratégias financeiras. |
+| **Impacto**        | O sistema gera relatórios específicos com base nas simulações financeiras realizadas e nos dados de investimentos.<br>Os relatórios podem ser usados pelo <a href="#anchor_L02">usuário</a> para planejar novas estratégias financeiras. |
 | **Noção**          | Ferramenta de análise de dados financeiros. |
 | **Dicionário**     | Relatório de Rentabilidade, Relatório de Evolução Patrimonial, Relatórios de Simulação. |
 
@@ -165,7 +165,7 @@ O quinto, e último, léxico, apresentado na Tabela 6, faz o uso dos seguintes r
 
 | **Identificador** | **L05** |
 |-------------------|---------|
-| **Descrição**     | O usuário pode gerar relatórios personalizados (<a href="/modelagem/lexicos/#anchor_L04">L04</a>).<br>O usuário pode consultar dados de sua conta e histórico de investimentos.<br>O usuário pode consultar o histórico de rendimentos de seus investimentos.(<a href="/modelagem/lexicos/#anchor_L02">L02</a>)<br>O usuário pode configurar alertas personalizados sobre metas financeiras.<br>O usuário pode realizar transferências automáticas entre investimentos com base em objetivos definidos.<br>O usuário pode realizar simulações de investimento com base em seus objetivos financeiros (<a href="/modelagem/lexicos/#anchor_L01">L01</a>, <a href="/modelagem/lexicos/#anchor_L03">L03</a>).<br>O sistema permite login integrado com o [gov.br](https://www.gov.br). |
+| **Descrição**     | O usuário pode gerar relatórios personalizados (<a href="#anchor_L04">L04</a>).<br>O usuário pode consultar dados de sua conta e histórico de investimentos.<br>O usuário pode consultar o histórico de rendimentos de seus investimentos.(<a href="#anchor_L02">L02</a>)<br>O usuário pode configurar alertas personalizados sobre metas financeiras.<br>O usuário pode realizar transferências automáticas entre investimentos com base em objetivos definidos.<br>O usuário pode realizar simulações de investimento com base em seus objetivos financeiros (<a href="#anchor_L01">L01</a>, <a href="#anchor_L03">L03</a>).<br>O sistema permite login integrado com o [gov.br](https://www.gov.br). |
 | **Classificação** | Objeto |
 | **Impacto**       | O usuário interage diretamente com as principais funcionalidades do aplicativo.<br>O sistema auxilia na tomada de decisões financeiras com base nas preferências e metas do usuário.<br>Permite a personalização de notificações e metas financeiras. |
 | **Noção**         | Cliente, Investidor, Usuário final, Aplicador, Cidadão. |

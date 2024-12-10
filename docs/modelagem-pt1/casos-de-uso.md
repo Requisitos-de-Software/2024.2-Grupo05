@@ -50,14 +50,14 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | UC01 | Informações |
 | ----- | ---------- |
-| **Descrição**          | Permitir que o usuário acesse sua conta no aplicativo.      |
-| **Ator**              | Usuário                                                    |
+| **Descrição**          | Permitir que o investidor ou interessado acesse sua conta no aplicativo.      |
+| **Ator**              | Investidor ou Interessado                                                    |
 | **Pré-condições**      | O aplicativo deve estar instalado e conectado à internet.   |
-| **Ação**               | O usuário realiza login no aplicativo.                     |
-| **Fluxo principal**    | <ul><li>O usuário acessa a tela inicial do app.</li><li>O usuário insere suas credenciais (usuário e senha).</li><li>O sistema verifica a senha.</li><li>O usuário é autenticado e acessa sua conta.</li> |
-| **Fluxo alternativo**  | <ul><li>O usuário acessa a tela inicial.</li><li>O sistema detecta erro de login e exibe mensagem de erro.</li></ul> |
+| **Ação**               | O Investidor ou Interessado realiza login no aplicativo.                     |
+| **Fluxo principal**    | <ul><li>O Investidor ou Interessado acessa a tela inicial do app.</li><li>O Investidor ou Interessado insere suas credenciais (usuário e senha).</li><li>O sistema verifica a senha.</li><li>O Investidor ou Interessado é autenticado e acessa sua conta.</li> |
+| **Fluxo alternativo**  | <ul><li>O Investidor ou Interessado acessa a tela inicial.</li><li>O sistema detecta erro de login e exibe mensagem de erro.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta ausência de conexão com a internet.</li><li>Exibe uma mensagem informando que não é possível conectar.</li></ul> |
-| **Pós-condições**      | O usuário é autenticado e pode acessar as funcionalidades do aplicativo. |
+| **Pós-condições**      | O Investidor ou Interessado é autenticado e pode acessar as funcionalidades do aplicativo. |
 | **Rastreabilidade**    | [RF33](../../elicitacao/grupo5/requisitos/#anchor_RF33) e [RF34](../../elicitacao/grupo5/requisitos/#anchor_RF34)                                                |
 | **Data de Criação**    | 06/12/2024                                                 |
 
@@ -71,14 +71,14 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | UC02 | Informações |
 | ----- | ---------- |
-| **Descrição**          | Permitir que o usuário realize simulações de investimento no Tesouro Direto. |
-| **Ator**              | Usuário                                                    |
-| **Pré-condições**      | O usuário deve estar autenticado no aplicativo e conectado à internet. |
-| **Ação**               | O usuário simula diferentes cenários de investimento.      |
-| **Fluxo principal**    | <ul><li>O usuário acessa a opção "Simular Investimento".</li><li>O usuário preenche os dados necessários, como valor e período do investimento.</li><li>O sistema apresenta os resultados da simulação.</li></ul> |
-| **Fluxo alternativo**  | <ul><li>O usuário acessa "Simular Investimento".</li><li>O sistema solicita que o usuário preencha um questionário para personalizar a simulação.</li><li>O questionário é preenchido, e o sistema apresenta os resultados.</li></ul> |
+| **Descrição**          | Permitir que o Investidor ou Interessado realize simulações de investimento no Tesouro Direto. |
+| **Ator**              | Investidor ou Interessado                                                    |
+| **Pré-condições**      | O Investidor ou Interessado deve estar autenticado no aplicativo e conectado à internet. |
+| **Ação**               | O Investidor ou Interessado simula diferentes cenários de investimento.      |
+| **Fluxo principal**    | <ul><li>O Investidor ou Interessado acessa a opção "Simular Investimento".</li><li>O Investidor ou Interessado preenche os dados necessários, como valor e período do investimento.</li><li>O sistema apresenta os resultados da simulação.</li></ul> |
+| **Fluxo alternativo**  | <ul><li>O Investidor ou Interessado acessa "Simular Investimento".</li><li>O sistema solicita que o Investidor ou Interessado preencha um questionário para personalizar a simulação.</li><li>O questionário é preenchido, e o sistema apresenta os resultados.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta ausência de conexão com a internet.</li><li>Exibe uma mensagem informando que não é possível realizar a simulação no momento.</li></ul> |
-| **Pós-condições**      | O usuário visualiza as opções de investimento com base na simulação realizada. |
+| **Pós-condições**      | O Investidor ou Interessado visualiza as opções de investimento com base na simulação realizada. |
 | **Rastreabilidade**    | [RF02](../../elicitacao/grupo5/requisitos/#anchor_RF02)                                                  |
 | **Data de Criação**    | 06/12/2024                                                 |
 
@@ -90,14 +90,14 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | UC03 | Informações |
 | ----- | ---------- |
-| **Descrição**          | O usuário escolhe o investimento mais adequado para seus objetivos. |
-| **Ator**              | Usuário                                                    |
-| **Pré-condições**      | O usuário deve estar autenticado e conectado à internet.   |
-| **Ação**               | O usuário escolhe um ou mais investimentos disponíveis.    |
-| **Fluxo principal**    | <ul><li>O usuário acessa a opção "Escolher Investimentos".</li><li>O sistema apresenta a lista de investimentos disponíveis e o usuário seleciona os que lhe interessa.</li><li>O usuário define o valor a ser investido em cada um e escolhe investir agora ou agendar o investimento.</li></ul> |
+| **Descrição**          | O Investidor escolhe o investimento mais adequado para seus objetivos. |
+| **Ator**              | Investidor                                                    |
+| **Pré-condições**      | O Investidor deve estar autenticado e conectado à internet.   |
+| **Ação**               | O Investidor escolhe um ou mais investimentos disponíveis.    |
+| **Fluxo principal**    | <ul><li>O Investidor acessa a opção "Escolher Investimentos".</li><li>O sistema apresenta a lista de investimentos disponíveis e o Investidor seleciona os que lhe interessa.</li><li>O Investidor define o valor a ser investido em cada um e escolhe investir agora ou agendar o investimento.</li></ul> |
 | **Fluxo alternativo**  | <ul><li>O sistema sugere opções com base no questionário previamente preenchido.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta problemas na conexão com o servidor.</li><li>Exibe uma mensagem informando que os investimentos não podem ser carregados no momento.</li></ul> |
-| **Pós-condições**      | O usuário realizou o investimento. |
+| **Pós-condições**      | O Investidor realizou o investimento. |
 | **Rastreabilidade**    | [RF35](../../elicitacao/grupo5/requisitos/#anchor_RF35)                                                  |
 | **Data de Criação**    | 06/12/2024                                                 |
 
@@ -109,14 +109,14 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | UC06 | Informações |
 | ----- | ---------- |
-| **Descrição**          | Permitir que o usuário visualize e acompanhe os investimentos realizados. |
-| **Ator**              | Usuário                                                    |
-| **Pré-condições**      | O usuário deve estar autenticado no aplicativo.            |
-| **Ação**               | O usuário verifica o histórico e status dos investimentos. |
-| **Fluxo principal**    | <ul><li>O usuário acessa "Verificar Meus Investimentos".</li><li>O sistema apresenta uma lista com os investimentos ativos e finalizados.</li></ul> |
+| **Descrição**          | Permitir que o Investidor visualize e acompanhe os investimentos realizados. |
+| **Ator**              | Investidor                                                    |
+| **Pré-condições**      | O Investidor deve estar autenticado no aplicativo.            |
+| **Ação**               | O Investidor verifica o histórico e status dos investimentos. |
+| **Fluxo principal**    | <ul><li>O Investidor acessa "Verificar Meus Investimentos".</li><li>O sistema apresenta uma lista com os investimentos ativos e finalizados.</li></ul> |
 | **Fluxo alternativo**  | <ul><li>O sistema apresenta os investimentos organizados por categoria ou instituição financeira.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta problemas de carregamento dos dados.</li><li>Exibe uma mensagem informando que os investimentos não podem ser carregados no momento.</li></ul> |
-| **Pós-condições**      | O usuário visualiza os detalhes de seus investimentos.     |
+| **Pós-condições**      | O Investidor visualiza os detalhes de seus investimentos.     |
 | **Rastreabilidade**    | [RF01](../../elicitacao/grupo5/requisitos/#anchor_RF01)                                                 |
 | **Data de Criação**    | 06/12/2024                                                 |
 
@@ -128,14 +128,14 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 | UC07 | Informações |
 | ----- | ---------- |
-| **Descrição**          | Permitir que o usuário resgate investimentos realizados.   |
-| **Ator**              | Usuário                                                    |
-| **Pré-condições**      | O usuário deve estar autenticado e ter investimentos disponíveis para resgate. |
-| **Ação**               | O usuário solicita o resgate de um ou mais investimentos.  |
-| **Fluxo principal**    | <ul><li>O usuário acessa "Resgatar Investimento".</li><li>O usuário seleciona quais investimentos deseja resgatar.</li><li>O sistema confirma o resgate e processa a solicitação.</li></ul> |
-| **Fluxo alternativo**  | <ul><li>O sistema solicita que o usuário escolha a instituição financeira para crédito dos valores resgatados.</li></ul> |
+| **Descrição**          | Permitir que o Investidor resgate investimentos realizados.   |
+| **Ator**              | Investidor                                                    |
+| **Pré-condições**      | O Investidor deve estar autenticado e ter investimentos disponíveis para resgate. |
+| **Ação**               | O Investidor solicita o resgate de um ou mais investimentos.  |
+| **Fluxo principal**    | <ul><li>O Investidor acessa "Resgatar Investimento".</li><li>O Investidor seleciona quais investimentos deseja resgatar.</li><li>O sistema confirma o resgate e processa a solicitação.</li></ul> |
+| **Fluxo alternativo**  | <ul><li>O sistema solicita que o Investidor escolha a instituição financeira para crédito dos valores resgatados.</li></ul> |
 | **Fluxo de exceção**   | <ul><li>O sistema detecta que o investimento selecionado não pode ser resgatado no momento.</li><li>Exibe uma mensagem com detalhes do motivo.</li></ul> |
-| **Pós-condições**      | O resgate é processado e os valores são creditados na conta do usuário. |
+| **Pós-condições**      | O resgate é processado e os valores são creditados na conta do Investidor. |
 | **Rastreabilidade**    | [RF03](../../elicitacao/grupo5/requisitos/#anchor_RF03)                                                 |
 | **Data de Criação**    | 06/12/2024                                                 |
 
