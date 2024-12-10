@@ -136,5 +136,5 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 08/12/2024 | Criação do documento  | [Víctor Schmidt](https://github.com/moonshinerd) |  |
+| `1.0` | 08/12/2024 | Criação do documento  | [Víctor Schmidt](https://github.com/moonshinerd) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
