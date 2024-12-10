@@ -100,7 +100,7 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 > SALES, André Barros. Plano de Ensino. Aprender 3. Distrito Federal, 2024. Disponível em: [https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf](https://aprender3.unb.br/pluginfile.php/2972367/mod_resource/content/51/Plano_de_Ensino%20RE%20022024%20Turma%2002%20v1.pdf). Acesso em 04 dez. 2024.
 > <a id="REF3" href="#anchor_3">P1</a>![Referencia 1](./referencias_png/p1.png) LUCID SOFTWARE PORTUGUÊS. Tutorial de Caso de Uso UML. YouTube, 25 abr. 2019. Disponível em: [https://youtu.be/ab6eDdwS3rA](https://youtu.be/ab6eDdwS3rA). Min 1:37. Acesso em: 28 nov. 2024.
 > ****
-><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./referencias_png/p2.png)     LUCIDCHART. Diagrama de caso de uso UML. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 8 dez. 2024
+><a id="anchor_7" href="#REF7"><sup>P2</sup></a><br>![Referencia 2](./referencias_png/p2.png) <figure style="width: 50%; display: flex; justify-content: center; background-color: white; padding: 10px;">![Formato Oval](../../../assets/modelagem/casos-de-uso/elipse.png) </figure>     LUCIDCHART. Diagrama de caso de uso UML. Disponível em: [LucidChart](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 8 dez. 2024
 >****
 ><a id="anchor_8" href="#REF8"><sup>P3</sup></a><br>![Referência 3](./referencias_png/p3.png)       Serrano, Milene; Serrano, Maurício. Requisitos – Aula 13.pdf. Slide 18.
 >****
