@@ -48,6 +48,7 @@ Esse processo de introspecção para elicitação de requisitos consiste justame
 | RF17| Oferecer integração com carteiras digitais para pagamento direto de investimentos.                     | IT18 | Não | Could Have|
 | RF18| Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação.                         | IT19 | Não | Must Have |
 | RF19| Adicionar gamificação, como conquistas ou recompensas simbólicas ao atingir metas financeiras.         | IT20 | Não | Could Have|
+|RF20|Escolher meus investimentos, definir um valor para cada investimento e escolher entre investir agora ou investir depois|IT21|Sim|Must Have|
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 </center>

@@ -14,7 +14,7 @@ O modelo adotado para definir os requisitos do aplicativo Tesouro Direto foi o F
 
 As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de requisitos e nos Casos de usos levantados.
 
-- [Elicitação de Requisitos(priorização)](../priorizacao.md)
+- [Elicitação de Requisitos (priorização)](../priorizacao.md)
 - [Casos de Uso](casos_de_uso.md)
 
 ### 2. Usabilidade
@@ -24,10 +24,10 @@ Este tópico aborda os requisitos que influenciam a facilidade de uso da aplica�
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 1:</strong> Requisitos de usabilidade</p>
 | Código | Descrição |
 | ------- | -------- |
-| RNF04 | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade |
-| RNF07 | O sistema deve oferecer controle ampliado para simulações de aposentadoria |
-| RNF08 | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo |
-| RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04">[RNF04]</a> | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF07">[RNF07]</a> | O sistema deve oferecer controle ampliado para simulações de aposentadoria |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">[RNF08]</a> | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09">[RNF09]</a> | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário |
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
 ### 3. Confiabilidade
@@ -37,8 +37,8 @@ Esse tópico diz respeito a quanto o aplicativo é confiável. Os requisitos rel
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 2:</strong> Requisitos de confiabilidade</p>
 | Código | Descrição |
 | ------- | -------- |
-| RNF02 | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD |
-| RNF05 | O sistema deve permitir integrações seguras com APIs de instituições financeiras |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF02">[RNF02]</a>| Garantir a segurança dos dados sensíveis do usuário conforme a LGPD |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF05">[RNF05]</a> | O sistema deve permitir integrações seguras com APIs de instituições financeiras |
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
 ### 4. Suportabilidade
@@ -48,8 +48,8 @@ Requisitos referentes ao suporte do sistema em diferentes contextos e plataforma
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 3:</strong> Requisitos de suportabilidade</p>
 | Código | Descrição |
 | ------- | -------- |
-| RNF03 | O aplicativo deve ser responsivo para dispositivos móveis e tablets. |
-| RNF06 | Disponibilizar suporte para múltiplos idiomas (português como padrão) |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF03">[RNF03]</a> | O aplicativo deve ser responsivo para dispositivos móveis e tablets. |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06">[RNF06]</a> | Disponibilizar suporte para múltiplos idiomas (português como padrão) |
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
 ### 5. Performance
@@ -59,7 +59,7 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 4:</strong> Requisitos de performance</p>
 | Código | Descrição |
 | ------- | -------- |
-| RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01">[RNF01]</a> | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. |
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
 ## Bibliografia
@@ -67,14 +67,11 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 > Lichess - Espeficicação Suplementar. Disponível em: https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/. Acesso em 06 de dezembro de 2024.
 >
 > Tik Tok - Especificação Suplementar. Disponível em: https://requisitos-de-software.github.io/2022.1-TikTok/especificao-suplementar/. Acesso em 07 de dezembro de 2024.
-
-## Referências Bibliográficas
-
 > SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível na plataforma Aprender3. Aceso em 06 de dez. de 2024.
 >
 > SILVA, Davi. Especificação Suplementar, dispovível em: https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/especificacao_suplementar/. Acesso em 06 de dez. de 2024.
 >
->ROCHA, Samily. Especificação Suplementar - Aula 13. Material de apoio, disponível na plataforma Aprender 3. Aceso em 06 de dez. de 2024.
+> ROCHA, Samily. Especificação Suplementar - Aula 13. Material de apoio, disponível na plataforma Aprender 3. Aceso em 06 de dez. de 2024.
 
 ## Histórico de Versão
 
@@ -83,3 +80,5 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 | `1.0`  | 06/12/2024 |  Criação do documento         | [Júlia Takaki](https://github.com/juliatakaki)  | [Maria Helena](https://github.com/MariaCHelena)  |
 | `1.1`  | 06/12/2024 |  Correção do documento e adição de novos tópicos        | [Maria Helena](https://github.com/MariaCHelena)  | [Júlia Takaki](https://github.com/juliatakaki)  |
 | `1.2`  | 07/12/2024 |  Padronizando versionamento        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
+| `1.3`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
+| `1.4`  | 10/12/2024 |  Adicionando rastreabilidade        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |

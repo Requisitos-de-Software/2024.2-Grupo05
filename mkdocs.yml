@@ -41,12 +41,12 @@ nav:
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
       - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
     - Requisitos Elicitados: elicitacao/grupo5/requisitos.md
-  - Modelagem:
-    - Léxicos: modelagem/lexicos.md
-    - Cenários: modelagem/cenarios.md
-    - Casos de Uso: modelagem/casos-de-uso.md
-    - Validação dos Casos de Uso: modelagem/validacaoCasodeUso.md
-    - Especificação Suplementar: modelagem/especificacao-suplementar.md
+  - Modelagem - Parte 1:
+    - Léxicos: modelagem-pt1/lexicos.md
+    - Cenários: modelagem-pt1/cenarios.md
+    - Casos de Uso: modelagem-pt1/casos-de-uso.md
+    - Validação dos Casos de Uso: modelagem-pt1/validacaoCasodeUso.md
+    - Especificação Suplementar: modelagem-pt1/especificacao-suplementar.md
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
