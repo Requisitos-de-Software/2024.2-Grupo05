@@ -26,7 +26,7 @@ Este tópico aborda os requisitos que influenciam a facilidade de uso da aplica�
 | ------- | -------- |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04">[RNF04]</a> | A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022. |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF07">[RNF07]</a> | O sistema deve oferecer controle ampliado para simulações de aposentadoria |
-| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">[RNF08]</a> | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">[RNF08]</a> | O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo. |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09">[RNF09]</a> | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário |
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
@@ -83,3 +83,4 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 | `1.3`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.4`  | 10/12/2024 |  Adicionando rastreabilidade        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.5`    | 11/12/2024 | Corrigindo RNF04 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.6`    | 11/12/2024 | Corrigindo RNF08 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)|  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
