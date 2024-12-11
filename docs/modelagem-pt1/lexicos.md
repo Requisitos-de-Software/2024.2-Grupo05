@@ -209,4 +209,4 @@ O quinto léxico, apresentado na Tabela 7, faz o uso do requisito [RF25](../../e
 | `1.1`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`    | 10/12/2024 | Ajustando rastreabilidade e hyperlinks |  [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino)   |
 | `1.3`    | 10/12/2024 | Ajustando usuário para investidor |   [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.4`    | 11/12/2024 | Adicionando léxico baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   |  |
+| `1.4`    | 11/12/2024 | Adicionando léxico baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |

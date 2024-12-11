@@ -82,4 +82,4 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 | `1.2`  | 07/12/2024 |  Padronizando versionamento        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.3`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.4`  | 10/12/2024 |  Adicionando rastreabilidade        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
-| `1.5`    | 11/12/2024 | Corrigindo RNF04 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   |  |
+| `1.5`    | 11/12/2024 | Corrigindo RNF04 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
