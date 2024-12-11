@@ -24,7 +24,7 @@ Este tópico aborda os requisitos que influenciam a facilidade de uso da aplica�
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 1:</strong> Requisitos de usabilidade</p>
 | Código | Descrição |
 | ------- | -------- |
-| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04">[RNF04]</a> | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04">[RNF04]</a> | A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022. |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF07">[RNF07]</a> | O sistema deve oferecer controle ampliado para simulações de aposentadoria |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">[RNF08]</a> | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09">[RNF09]</a> | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário |
@@ -82,3 +82,4 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 | `1.2`  | 07/12/2024 |  Padronizando versionamento        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.3`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.4`  | 10/12/2024 |  Adicionando rastreabilidade        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
+| `1.5`    | 11/12/2024 | Corrigindo RNF04 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
