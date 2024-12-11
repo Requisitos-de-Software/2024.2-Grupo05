@@ -148,7 +148,7 @@ O quarto léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos:
 ---
 ## <a id="anchor_L05" style="visibility: hidden"></a>Léxico 05: Investidor ou Interessado
 
-O quinto, e último, léxico, apresentado na Tabela 6, faz o uso dos seguintes requisitos: 
+O quinto léxico, apresentado na Tabela 6, faz o uso dos seguintes requisitos: 
 
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF06">IT6</a>**- 	Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
@@ -174,6 +174,26 @@ O quinto, e último, léxico, apresentado na Tabela 6, faz o uso dos seguintes r
 
 <font size="2"><p style="text-align: center">Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024</p></font>
 
+
+## <a id="anchor_L05" style="visibility: hidden"></a>Léxico 06: Simulação de Metas/Sonhos
+
+O quinto léxico, apresentado na Tabela 7, faz o uso do requisito [RF25](../../elicitacao/grupo5/requisitos/#anchor_25). Esse léxico foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+
+<center> 
+
+**Tabela 7 - Léxico de Objeto: Simulação de Metas/Sonhos (RF25)**
+</center>
+
+| **Identificador** | **RF25** |
+|-------------------|----------|
+| **Descrição**     | O Investidor ou Interessado pode simular a evolução de suas metas financeiras no aplicativo.<br>O Investidor ou Interessado insere parâmetros como valor adicional a ser investido, período de tempo e expectativa de retorno.<br>O sistema exibe uma projeção da evolução da meta ou sonho financeiro em gráficos e tabelas.<br>O Investidor ou Interessado pode ajustar os parâmetros da simulação para explorar diferentes cenários.<br>O sistema calcula e apresenta as projeções com base em dados financeiros históricos.<br>O Investidor ou Interessado pode visualizar o impacto dos aportes na meta/salvo na conta do usuário. |
+| **Classificação** | Objeto |
+| **Impacto**       | O Investidor ou Interessado pode tomar decisões informadas sobre como atingir suas metas financeiras, ajustando o investimento de acordo com a projeção de evolução.<br>O sistema oferece uma ferramenta visual e interativa para a análise de metas, aumentando a confiança do usuário em suas escolhas financeiras.<br>O sistema permite a personalização das simulações, com base em diferentes variáveis de contribuição e rentabilidade. |
+| **Noção**         | Simulador, Planejador, Investidor, Projeção Financeira. |
+| **Dicionário**    | Simulador, Planejador, Investidor, Projeção Financeira. |
+
+<font size="2"><p style="text-align: center">Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024</p></font>
+
 ## Bibliografia
 > Bilheteria Digital - Léxicos. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em 28 de novembro de 2024
 >
@@ -191,3 +211,4 @@ O quinto, e último, léxico, apresentado na Tabela 6, faz o uso dos seguintes r
 | `1.2`    | 10/12/2024 | Ajustando rastreabilidade e hyperlinks |  [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino)   |
 | `1.3`    | 10/12/2024 | Ajustando usuário para investidor |   [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.4`    | 11/12/2024 | Ajustando rastreabilidade dos códigos novos dos requisitos |   [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.5`    | 11/12/2024 | Adicionando léxico baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
