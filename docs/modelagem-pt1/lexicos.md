@@ -49,9 +49,11 @@ _Legenda das Tabelas:_
 O primerio léxico, apresentado na Tabela 2, faz o uso dos seguintes requisitos:
 
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - Permitir a simulação, realização e visualização de detalhes de investimentos nos títulos SELIC, Prefixado e Inflação.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF07">IT7</a>** - Incluir um simulador para ajudar o usuário a encontrar títulos adequados ao perfil dele.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF22">BF3, GF03</a>** - O sistema deve disponibilizar um maior leque de opções para simulações financeiras.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">GLO01</a>** - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis, incluindo suas características principais.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF37">IT7</a>** - O simulador deverá possuir as informações de: título do tesouro nacional que será usado, tempo de investimento e valor que será resgatado no futuro ou valor que será investido agora.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF38">IT26</a>**- O simulador deverá possuir um questionário para obter do usuário as informações necessárias para gerar o simulador.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF39">IT27</a>**- O sistema deverá possuir um simulador da evolução de um título do tesouro direto com base em um determinado período de tempo
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">IT01, GLO01</a>** - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento.
+
 <center>
 
 **Tabela 2 - Léxico de Verbo: Simular Investimentos (L01)**
@@ -72,10 +74,10 @@ O primerio léxico, apresentado na Tabela 2, faz o uso dos seguintes requisitos:
 
 O segundo léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos: 
 
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">IT1</a>**- Permitir a consulta de investimentos por instituição financeira.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - Permitir a simulação, realização e visualização de detalhes de investimentos.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">IT8</a>** - Permitir a consulta de operações realizadas e agendadas.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF12">IT12</a>** - Permitir a visualização de dados do usuário.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF06">IT6</a>**- 	Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - 	O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">IT8</a>** - 	Permitir a consulta de operações de compra de títulos do tesouro nacional realizadas e agendadas na aplicação.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF12">IT12</a>** - 	Permitir a visualização dos dados cadastrais do usuário (nome, cpf, email, celular).
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF13">IT13, GLO07</a>** - Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF14">IT14</a>** - Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.
 <center>
@@ -87,7 +89,7 @@ O segundo léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos:
 |--------------------|---------|
 | **Descrição**      | O investidor pode realizar simulações de investimento (<a href="#anchor_L01">L01</a>).<br>O investidor pode escolher títulos com base em suas metas financeiras.<br>O investidor pode consultar o histórico de rendimentos de seus investimentos.<br>O investidor pode configurar alertas e notificações sobre títulos de interesse.<br>O investidor pode atualizar suas metas financeiras a qualquer momento. |
 | **Classificação**  | Objeto |
-| **Impacto**        | O investidor é o <a href="#anchor_L02">usuário</a> principal do aplicativo Tesouro Direto.<br>O investidor pode ser alguém buscando preservar o poder de compra.<br>O investidor pode ser alguém interessado em aumentar seu patrimônio financeiro.<br>O sistema auxilia o investidor a tomar decisões informadas, sugerindo opções adequadas às suas escolhas. |
+| **Impacto**        | O investidor é o <a href="#anchor_L06">usuário</a> principal do aplicativo Tesouro Direto.<br>O investidor pode ser alguém buscando preservar o poder de compra.<br>O investidor pode ser alguém interessado em aumentar seu patrimônio financeiro.<br>O sistema auxilia o investidor a tomar decisões informadas, sugerindo opções adequadas às suas escolhas. |
 | **Noção**          | Cliente, Interessado, Aplicador e Cidadão. |
 | **Dicionário**     | Cliente, Interessado, Aplicador e Cidadão. |
 
@@ -98,9 +100,9 @@ O segundo léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos:
 
 O terceiro léxico, apresentado na Tabela 4, faz o uso dos seguintes requisitos: 
 
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - Permitir a simulação, realização e visualização de detalhes de investimentos nos títulos SELIC, Prefixado e Inflação.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF24">BF5, GF04</a>** - O sistema deve permitir a comparação de títulos de diferentes origens na simulação.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">GLO01</a>** - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis, incluindo suas características principais.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF24">BF5, GF04</a>** - O sistema deverá disponibilizar uma ferramenta para simular a evolução do investimento em um título do tesouro nacional em comparação com outras opções de investimento como a poupança, LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio), Fundo de Renda Fixa Referenciado DI e CDB (Certificado de Depósito Bancário).
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">IT01, GLO01</a>** - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento.
   
 <center>
 
@@ -123,9 +125,8 @@ O terceiro léxico, apresentado na Tabela 4, faz o uso dos seguintes requisitos:
 
 O quarto léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos:
 
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF15">IT15</a>** - Incluir relatórios personalizados para análise detalhada de rentabilidade e evolução de investimentos.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF22">BF3, GF03</a>** - O sistema deve disponibilizar um maior leque de opções para simulações financeiras.
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">GLO01</a>** - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis, incluindo suas características principais.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF15">IT15</a>** - O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">IT01, GLO01</a>** - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento.
 
 ---
 <center>
@@ -149,18 +150,18 @@ O quarto léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos:
 
 O quinto léxico, apresentado na Tabela 6, faz o uso dos seguintes requisitos: 
 
-- **[IT1](../../elicitacao/grupo5/requisitos/#anchor_RF01)** - Permitir a consulta de investimentos por instituição financeira.
-- **[IT2](../../elicitacao/grupo5/requisitos/#anchor_RF02)** - Permitir a simulação, realização e visualização de detalhes de investimentos.
-- **[IT8](../../elicitacao/grupo5/requisitos/#anchor_RF08)** - Permitir a consulta de operações realizadas e agendadas.
-- **[IT12](../../elicitacao/grupo5/requisitos/#anchor_RF12)** - Permitir a visualização de dados do usuário.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF06">IT6</a>**- 	Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">IT8</a>** - 	Permitir a consulta de operações de compra de títulos do tesouro nacional realizadas e agendadas na aplicação.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF12">IT12</a>** - 	Permitir a visualização dos dados cadastrais do usuário (nome, cpf, email, celular).
 - **[IT13, GLO07](../../elicitacao/grupo5/requisitos/#anchor_RF13)** - Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.
 - **[IT14](../../elicitacao/grupo5/requisitos/#anchor_RF14)** - Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF18">IT18</a>** - Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação.
-- **[GF01](../../elicitacao/grupo5/requisitos/#anchor_RF34)** - O aplicativo deverá possuir uma tela de login integrado com o [gov.br](https://www.gov.br).
+- **[GF01](../../elicitacao/grupo5/requisitos/#anchor_RF34)** - O aplicativo deverá possuir a opção de realizar o login e cadastro a partir do sistema [gov.br](https://www.gov.br).
 
 <center>
 
-**Tabela 6 - Léxico de Objeto: Investidor ou Interessado (L05)**
+**<a id="anchor_L06" style="visibility: hidden"></a>Tabela 6 - Léxico de Objeto: Investidor ou Interessado (L05)**
 </center>
 
 | **Identificador** | **L05** |
@@ -209,4 +210,5 @@ O quinto léxico, apresentado na Tabela 7, faz o uso do requisito [RF25](../../e
 | `1.1`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`    | 10/12/2024 | Ajustando rastreabilidade e hyperlinks |  [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino)   |
 | `1.3`    | 10/12/2024 | Ajustando usuário para investidor |   [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.4`    | 11/12/2024 | Adicionando léxico baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.4`    | 11/12/2024 | Ajustando rastreabilidade dos códigos novos dos requisitos |   [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.5`    | 11/12/2024 | Adicionando léxico baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
