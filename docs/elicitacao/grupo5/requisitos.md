@@ -125,4 +125,4 @@ _Legenda das Tabelas:_
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0`  | 21/11/2024 | Lista de requisitos | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1`  | 27/11/2024 | Adicionando anchor's para rastreabilidade |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.2`  | 11/12/2024 | Removendo, complementando e ajustando requisitos que foram mau ou pouco elaborados e adicionando tabela 3|  [Víctor Schmidt](https://github.com/moonshinerd) e [Maria Helena](https://github.com/MariaCHelena) |  |
+| `1.2`  | 11/12/2024 | Removendo, complementando e ajustando requisitos que foram mau ou pouco elaborados e adicionando tabela 3|  [Víctor Schmidt](https://github.com/moonshinerd) e [Maria Helena](https://github.com/MariaCHelena) | [Víctor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
