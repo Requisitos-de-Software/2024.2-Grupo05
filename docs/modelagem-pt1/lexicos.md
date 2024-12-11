@@ -46,7 +46,7 @@ _Legenda das Tabelas:_
 
 ## <a id="anchor_L01" style="visibility: hidden"></a>Léxico 01: Simular Investimentos
 
-O primerio léxico, apresentado na Tabela 2, faz o uso dos seguintes requisitos:
+O primerio léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos:
 
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - Permitir a simulação, realização e visualização de detalhes de investimentos nos títulos SELIC, Prefixado e Inflação.
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF37">IT7</a>** - O simulador deverá possuir as informações de: título do tesouro nacional que será usado, tempo de investimento e valor que será resgatado no futuro ou valor que será investido agora.
@@ -56,7 +56,7 @@ O primerio léxico, apresentado na Tabela 2, faz o uso dos seguintes requisitos:
 
 <center>
 
-**Tabela 2 - Léxico de Verbo: Simular Investimentos (L01)**
+**Tabela 3 - Léxico de Verbo: Simular Investimentos (L01)**
 </center>
 
 | **Identificador** | **L01** |
@@ -72,7 +72,7 @@ O primerio léxico, apresentado na Tabela 2, faz o uso dos seguintes requisitos:
 ---
 ## <a id="anchor_L02" style="visibility: hidden"></a>Léxico 02: Investidor
 
-O segundo léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos: 
+O segundo léxico, apresentado na Tabela 4, faz o uso dos seguintes requisitos: 
 
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF06">IT6</a>**- 	Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - 	O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação.
@@ -82,7 +82,7 @@ O segundo léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos:
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF14">IT14</a>** - Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.
 <center>
 
-**Tabela 3 - Léxico de Objeto: Investidor (L02)**
+**Tabela 4 - Léxico de Objeto: Investidor (L02)**
 </center>
 
 | **Identificador** | **L02** |
@@ -98,7 +98,7 @@ O segundo léxico, apresentado na Tabela 3, faz o uso dos seguintes requisitos:
 ---
 ## <a id="anchor_L03" style="visibility: hidden"></a>Léxico 03: Filtros de Tesouros
 
-O terceiro léxico, apresentado na Tabela 4, faz o uso dos seguintes requisitos: 
+O terceiro léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos: 
 
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF24">BF5, GF04</a>** - O sistema deverá disponibilizar uma ferramenta para simular a evolução do investimento em um título do tesouro nacional em comparação com outras opções de investimento como a poupança, LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio), Fundo de Renda Fixa Referenciado DI e CDB (Certificado de Depósito Bancário).
@@ -106,7 +106,7 @@ O terceiro léxico, apresentado na Tabela 4, faz o uso dos seguintes requisitos:
   
 <center>
 
-**Tabela 4 - Léxico de Estados: Filtros de Tesouros (L03)**
+**Tabela 5 - Léxico de Estados: Filtros de Tesouros (L03)**
 </center>
 
 | **Identificador** | **L03** |
@@ -123,15 +123,15 @@ O terceiro léxico, apresentado na Tabela 4, faz o uso dos seguintes requisitos:
 
 ## <a id="anchor_L04" style="visibility: hidden"></a>Léxico 04: Relatórios Personalizados
 
-O quarto léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos:
+O quarto léxico, apresentado na Tabela 6, faz o uso dos seguintes requisitos:
 
-- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF15">IT15</a>** - O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores.
+- **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF15">IT15</a>** - 	O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores.
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">IT01, GLO01</a>** - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento.
 
 ---
 <center>
 
-**Tabela 5 - Léxico de Verbo: Relatórios Personalizados (L04)**
+**Tabela 6 - Léxico de Verbo: Relatórios Personalizados (L04)**
 </center>
 
 | **Identificador** | **L04** |
@@ -148,7 +148,7 @@ O quarto léxico, apresentado na Tabela 5, faz o uso dos seguintes requisitos:
 ---
 ## <a id="anchor_L05" style="visibility: hidden"></a>Léxico 05: Investidor ou Interessado
 
-O quinto léxico, apresentado na Tabela 6, faz o uso dos seguintes requisitos: 
+O quinto léxico, apresentado na Tabela 7, faz o uso dos seguintes requisitos: 
 
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">IT2</a>** - O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação
 - **<a href="../../elicitacao/grupo5/requisitos/#anchor_RF06">IT6</a>**- 	Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
@@ -161,7 +161,7 @@ O quinto léxico, apresentado na Tabela 6, faz o uso dos seguintes requisitos:
 
 <center>
 
-**<a id="anchor_L06" style="visibility: hidden"></a>Tabela 6 - Léxico de Objeto: Investidor ou Interessado (L05)**
+**<a id="anchor_L06" style="visibility: hidden"></a>Tabela 7 - Léxico de Objeto: Investidor ou Interessado (L05)**
 </center>
 
 | **Identificador** | **L05** |
@@ -177,11 +177,11 @@ O quinto léxico, apresentado na Tabela 6, faz o uso dos seguintes requisitos:
 
 ## <a id="anchor_L05" style="visibility: hidden"></a>Léxico 06: Simulação de Metas/Sonhos
 
-O quinto léxico, apresentado na Tabela 7, faz o uso do requisito [RF25](../../elicitacao/grupo5/requisitos/#anchor_25). Esse léxico foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+O quinto léxico, apresentado na Tabela 8, faz o uso do requisito [RF25](../../elicitacao/grupo5/requisitos/#anchor_25). Esse léxico foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
 
 <center> 
 
-**Tabela 7 - Léxico de Objeto: Simulação de Metas/Sonhos (RF25)**
+**Tabela 8 - Léxico de Objeto: Simulação de Metas/Sonhos (RF25)**
 </center>
 
 | **Identificador** | **RF25** |
@@ -212,3 +212,4 @@ O quinto léxico, apresentado na Tabela 7, faz o uso do requisito [RF25](../../e
 | `1.3`    | 10/12/2024 | Ajustando usuário para investidor |   [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.4`    | 11/12/2024 | Ajustando rastreabilidade dos códigos novos dos requisitos |   [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.5`    | 11/12/2024 | Adicionando léxico baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.6`    | 11/12/2024 | Ajustando números das tabelas| [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
