@@ -56,9 +56,9 @@ Inicialmente serão definidos os cenários das tarefas principais, que descrevem
 
 ## Cenários Identificados
 
-Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
+Os cenários listados nas tabelas 2 a 10 foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
 
-### Cenário 1 - Simulação de compra de titulos <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">[RF02]</a>
+### Cenário 1 - Simulação de compra de titulos - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">RF02</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 2:</strong> Cenário 1</p>
 <table border="1">
@@ -146,7 +146,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 2 - Resgate Antecipado de Títulos <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">[RF03]</a>
+### Cenário 2 - Resgate Antecipado de Títulos - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">RF03</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 3:</strong> Cenário 2</p>
 <table border="1">
@@ -236,7 +236,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 3 - Planejamento de Metas de Investimento <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">[RF04]</a>
+### Cenário 3 - Planejamento de Metas de Investimento - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">RF04</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 4:</strong> Cenário 3</p>
 <table border="1">
@@ -326,7 +326,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 4 - Planejamento de Aposentadoria <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">[RF05]</a>
+### Cenário 4 - Planejamento de Aposentadoria - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">RF05</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 5:</strong> Cenário 4</p>
 <table border="1">
@@ -418,7 +418,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 5 - Consultar operações agendadas <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">[RF08]</a>
+### Cenário 5 - Consultar operações agendadas - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">RF08</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 6:</strong> Cenário 5</p>
 <table border="1">
@@ -498,7 +498,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 6 - Visualizar lista de títulos públicos disponíveis <a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">[RF30]</a>
+### Cenário 6 - Visualizar lista de títulos públicos disponíveis - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">RF30</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 7:</strong> Cenário 6</p>
 <table border="1">
@@ -577,7 +577,7 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 7 - Consultar as informações de liquidez dos títulos disponíveis <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">[RF23]</a>
+### Cenário 7 - Consultar as informações de liquidez dos títulos disponíveis - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">RF23</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 8:</strong> Cenário 7</p>
 <table border="1">
@@ -659,9 +659,9 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 8 - Simulação da Evolução de Metas/Sonhos [RF25](../../elicitacao/grupo5/requisitos/#anchor_RF25)
+### Cenário 8 - Simulação da Evolução de Metas/Sonhos - [RF25](../../elicitacao/grupo5/requisitos/#anchor_RF25)
 
-<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 1:</strong> Cenário 8</p>
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 9:</strong> Cenário 8</p>
 <table border="1">
     <thead>
         <tr>
@@ -726,6 +726,73 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/moonshinerd" target="blank">Víctor Schmidt</a></p>
 
+### Cenário 9 - Relatórios Mensais de Evolução de Rendimentos - [RF15](../../elicitacao/grupo5/requisitos/#anchor_RF15)
+
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 10:</strong> Cenário 9</p>
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center;">Cenário: Relatórios Mensais de Evolução de Rendimentos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Título</td>
+            <td>Geração de Relatórios Mensais de Evolução de Rendimentos</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Objetivo</td>
+            <td>Fornecer ao usuário uma visão consolidada da evolução mensal dos rendimentos de seus títulos adquiridos que estão ativos, auxiliando na análise de desempenho dos investimentos.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Contexto</td>
+            <td>O usuário deseja verificar como os rendimentos de seus títulos têm evoluído ao longo dos meses, usando os relatórios gerados pelo sistema para acompanhamento financeiro.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Atores</td>
+            <td>Sistema e Usuário</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Recursos</td>
+            <td>Base de dados dos rendimentos dos títulos adquiridos, módulo de geração de relatórios, interface do sistema.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Episódios</td>
+            <td>
+                <ol>
+                    <li>O sistema gera automaticamente o relatório mensal ao final de cada mês.</li>
+                    <li>O relatório consolida os rendimentos mensais de todos os títulos adquiridos ativos pelo usuário.</li>
+                    <li>Os dados são organizados em gráficos e/ou tabelas comparando o mês atual com os 3 meses anteriores.</li>
+                    <li>O sistema notifica o usuário sobre a disponibilidade do relatório na seção "Meus Relatórios".</li>
+                    <li>O usuário acessa o relatório, visualiza os dados e faz o download, se desejar.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Restrições</td>
+            <td>
+                <ul>
+                    <li>O usuário deve estar autenticado para acessar os relatórios.</li>
+                    <li>Os dados dos rendimentos dos títulos devem estar atualizados no sistema.</li>
+                    <li>Os relatórios são baseados em dados históricos e não apresentam projeções futuras.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Exceção</td>
+            <td>
+                <ul>
+                    <li>Se houver falha na geração do relatório, o sistema exibe uma mensagem de erro e agenda uma nova tentativa automática.</li>
+                    <li>Se o usuário tentar acessar o relatório durante uma indisponibilidade do servidor, o sistema exibe uma mensagem e sugere tentar novamente mais tarde.</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/thaleseuflauzino" target="blank">Thales Euflauzino</a></p>
+
 
 ## Bibliografia
 
@@ -749,3 +816,4 @@ Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao
 | `1.3` | 10/12/2024 | Adicionando rastreabilidade  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
 | `1.4`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.5`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.6`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
