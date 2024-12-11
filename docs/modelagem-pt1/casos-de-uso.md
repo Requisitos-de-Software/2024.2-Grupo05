@@ -14,6 +14,8 @@ Para criar casos de uso que atendam melhor às necessidades dos usuários, utili
 
 Voltando ao foco nos diagramas de caso de uso, a **Tabela 1** apresenta os principais elementos que compõem o diagrama, oferecendo uma visão clara e estruturada de suas partes fundamentais.
 
+### Tabela 1: Elementos do diagrama de casos de uso
+
 <font size="3"><p style="text-align: center"><b>Tabela 1</b>: Elementos do diagrama de casos de uso</p></font>
 
 | Nome | Função | Elemento
@@ -45,6 +47,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
+### Tabela 2: Fazer Login
 <font size="3"><p style="text-align: center">Tabela 2: Fazer Login </p></font>
 <center>
 
@@ -65,7 +68,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-
+### Tabela 3: Simular Investimento
 <font size="3"><p style="text-align: center">Tabela 3: Simular Investimento </p></font>
 <center>
 
@@ -85,6 +88,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 </center>
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
  
+### Tabela 4: Escolher Investimentos
 <font size="3"><p style="text-align: center">Tabela 4: Escolher Investimentos </p></font>
 <center>
 
@@ -104,6 +108,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 </center>
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
+### Tabela 5: Verificar Meus Investimentos
 <font size="3"><p style="text-align: center">Tabela 5: Verificar Meus Investimentos </p></font>
 <center>
 
@@ -123,6 +128,7 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 </center>
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
+### Tabela 6: Resgatar Investimento
 <font size="3"><p style="text-align: center">Tabela 6: Resgatar Investimento </p></font>
 <center>
 
@@ -139,6 +145,51 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Rastreabilidade**    | [RF03](../../elicitacao/grupo5/requisitos/#anchor_RF03)                                                 |
 | **Data de Criação**    | 06/12/2024                                                 |
 
+</center>
+
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+
+### Tabela 7: Criar Meta/Sonho
+<font size="3"><p style="text-align: center">Tabela 7: Criar Meta/Sonho </p></font>
+<center>
+
+
+| **UC08**               | **Informações**                                                                                                      |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Descrição**           | Permitir que o Investidor ou Interessado crie metas ou sonhos financeiros no sistema.                               |
+| **Ator**                | Investidor ou Interessado                                                                                           |
+| **Pré-condições**       | O Investidor ou Interessado deve estar autenticado no sistema.                                                      |
+| **Ação**                | O Investidor ou Interessado inicia o processo de criação de uma meta ou sonho financeiro.                           |
+| **Fluxo principal**     | <ul><li>1. O Investidor ou Interessado acessa a seção "Meus Sonhos".</li><li>2. O Investidor ou Interessado preenche o formulário com as seguintes informações:</li><ul><li>a. Tipo do sonho (e.g., aposentadoria, compra de casa, estudos, automóvel, reserva de emergência, férias ou outro);</li><li>b. Nome do sonho;</li><li>c. Valor total estimado para a meta (em R$);</li><li>d. Títulos selecionados para alcançar o sonho/meta.</li></ul><li>3. O Investidor ou Interessado confirma os dados inseridos.</li><li>4. O sistema processa as informações e confirma a criação da meta/sonho.</li></ul> |
+| **Fluxo alternativo**   | <ul><li>1. O Investidor ou Interessado decide cancelar o processo antes de finalizar o preenchimento do formulário.</li><li>2. O sistema descarta os dados inseridos e retorna para a tela principal.</li></ul> |
+| **Fluxo de exceção**    | <ul><li>1. O sistema identifica que um ou mais campos obrigatórios não foram preenchidos.</li><li>2. O sistema exibe uma mensagem de erro informando quais campos precisam ser preenchidos.</li><li>3. O Investidor ou Interessado completa os campos e tenta novamente.</li></ul> |
+| **Pós-condições**       | A meta ou sonho financeiro é criado e armazenado no perfil do Investidor ou Interessado.                            |
+| **Rastreabilidade**     | [RF04](../../elicitacao/grupo5/requisitos/#anchor_RF04)                                                             |
+| **Data de Criação**     | 11/12/2024                                   |
+
+</center>
+
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+
+### Tabela 8: Simular Evolução Meta/Sonho
+<font size="3"><p style="text-align: center">Tabela 8: Simular Evolução Meta/Sonho </p></font>
+<center>
+
+
+| **UC09**               | **Informações**                                                                                                     |
+|-------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Descrição**           | Permitir que o Investidor ou Interessado simule a evolução de suas metas ou sonhos financeiros no sistema.          |
+| **Ator**                | Investidor ou Interessado                                                                                          |
+| **Pré-condições**       | O Investidor ou Interessado deve estar autenticado no sistema.                                                     |
+| **Ação**                | O Investidor ou Interessado inicia o processo de simulação da evolução de uma meta ou sonho financeiro.            |
+| **Fluxo principal**     | <ul><li>1. O Investidor ou Interessado acessa a seção "Meus Sonhos".</li><li>2. O Investidor ou Interessado seleciona uma meta ou sonho financeiro existente na lista.</li><li>3. O sistema exibe os detalhes da meta, incluindo:</li><ul><li>a. Nome da meta/sonho;</li><li>b. Valor total estimado (R$);</li><li>c. Progresso atual em relação ao objetivo (percentual e valores);</li><li>d. Títulos associados ao objetivo.</li></ul><li>4. O Investidor ou Interessado insere dados de simulação, como:</li><ul><li>a. Valor adicional a ser investido;</li><li>b. Período de tempo (em meses ou anos);</li><li>c. Expectativa de retorno percentual anual.</li></ul><li>5. O sistema processa os dados e exibe uma projeção da evolução da meta, mostrando:</li><ul><li>a. Progresso esperado no período informado;</li><li>b. Gráficos ou tabelas ilustrativos;</li><li>c. Possíveis cenários (otimista, conservador, e intermediário).</li></ul><li>6. O Investidor ou Interessado avalia os resultados da simulação e, se necessário, ajusta os parâmetros ou finaliza a análise.</li></ul> |
+| **Fluxo alternativo**   | <ul><li>1. O Investidor ou Interessado decide cancelar o processo de simulação antes de visualizar os resultados.</li><li>2. O sistema descarta os dados da simulação e retorna à tela principal de "Meus Sonhos".</li></ul>                  |
+| **Fluxo de exceção**    | <ul><li>1. O sistema identifica que os dados inseridos para a simulação estão incompletos ou inválidos (e.g., campos em branco ou valores fora de limites plausíveis).</li><li>2. O sistema exibe uma mensagem de erro informando o problema e orienta o Investidor ou Interessado a corrigir os dados.</li><li>3. Após a correção, o sistema permite a continuação da simulação.</li></ul> |
+| **Pós-condições**       | A simulação da evolução da meta ou sonho financeiro é exibida ao Investidor ou Interessado, mas não é salva no sistema (apenas descartada após análise). |
+| **Rastreabilidade**     | [RF25](../../elicitacao/grupo5/requisitos/#anchor_RF25)                                                            |
+| **Data de Criação**     | 11/12/2024                                                                                                         |
+
+Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
 </center>
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
@@ -165,3 +216,4 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | `1.1`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.3`    | 10/12/2024 | Alterações e correções | [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.4`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   |  |

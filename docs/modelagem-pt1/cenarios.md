@@ -659,6 +659,72 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
+### Cenário 8 - Simulação da Evolução de Metas/Sonhos [RF25](../../elicitacao/grupo5/requisitos/#anchor_RF25)
+
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 1:</strong> Cenário 8</p>
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center;">Cenário: Simulação da Evolução de Metas/Sonhos</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Título</td>
+            <td>Simulação da Evolução de uma Meta ou Sonho Financeiro</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Objetivo</td>
+            <td>Permitir que o Investidor ou Interessado visualize, de forma projetada, o progresso financeiro de suas metas ou sonhos, auxiliando no planejamento e tomada de decisões sobre investimentos.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Contexto</td>
+            <td>O Investidor ou Interessado deseja verificar como suas metas financeiras podem evoluir ao longo do tempo com base em diferentes cenários de aportes e rendimentos, usando o aplicativo do Tesouro Direto para realizar a análise.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Atores</td>
+            <td>Investidor ou Interessado</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Recursos</td>
+            <td>Aplicativo do Tesouro Direto, dados financeiros das metas cadastradas, simulador de evolução de investimentos.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Episódios</td>
+            <td>
+                <ol>
+                    <li>O Investidor ou Interessado acessa a seção "Meus Sonhos" no aplicativo.</li>
+                    <li>Seleciona uma meta ou sonho existente na lista.</li>
+                    <li>Insere dados para simulação, como valor adicional a ser investido, período de tempo e expectativa de retorno.</li>
+                    <li>O sistema processa os dados e exibe projeções em gráficos e tabelas.</li>
+                    <li>O Investidor ou Interessado avalia os cenários apresentados e pode ajustar os parâmetros da simulação para realizar novas análises.</li>
+                    <li>Após finalizar a análise, o usuário encerra o processo, sem necessidade de salvar a simulação.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Restrições</td>
+            <td>
+                <ul>
+                    <li>O usuário deve estar autenticado para acessar a funcionalidade.</li>
+                    <li>O sistema requer que a meta ou sonho já esteja cadastrada para realizar a simulação.</li>
+                    <li>Os dados de rendimento projetado são baseados em taxas históricas e não garantem retorno futuro.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Exceção</td>
+            <td>
+                <ul>
+                    <li>Se algum campo necessário para a simulação estiver vazio ou preenchido incorretamente, o sistema exibe uma mensagem de erro e solicita a correção.</li>
+                    <li>Se houver falha na comunicação com o servidor, o sistema exibe uma mensagem de indisponibilidade e orienta o usuário a tentar novamente mais tarde.</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/moonshinerd" target="blank">Víctor Schmidt</a></p>
 
 
 ## Bibliografia
@@ -682,3 +748,4 @@ Os cenários listados nas tabelas 2 a 8 foram elaborados com base na análise do
 | `1.2` | 10/12/2024 | Colocando titulos nos cenarios  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
 | `1.3` | 10/12/2024 | Adicionando rastreabilidade  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
 | `1.4`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
+| `1.5`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   |  |
