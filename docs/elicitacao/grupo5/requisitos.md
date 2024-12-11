@@ -34,7 +34,7 @@ _Legenda das Tabelas:_
 | <a id="anchor_RF06" style="visibility: hidden"></a>RF06 | Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira. | IT6 | Sim | 
 | <a id="anchor_RF08" style="visibility: hidden"></a>RF08 | Permitir a consulta de operações de compra de títulos do tesouro nacional realizadas e agendadas na aplicação. | IT8 | Sim |
 | <a id="anchor_RF09" style="visibility: hidden"></a>RF09 | O aplicativo deverá possuir uma tela intitulada “Fale Conosco” com informações de contato e perguntas frequentes dos usuários. | IT9 | Sim |  
-| <a id="anchor_RF12" style="visibility: hidden"></a>RF12 | Permitir a visualização dos dados cadastrais do usuário (nome, cpf, email, celular). | Sim |
+| <a id="anchor_RF12" style="visibility: hidden"></a>RF12 | Permitir a visualização dos dados cadastrais do usuário (nome, cpf, email, celular). | IT12 | Sim |
 | <a id="anchor_RF13" style="visibility: hidden"></a>RF13 | Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos. | IT13, GLO07 | Não |  
 | <a id="anchor_RF14" style="visibility: hidden"></a>RF14 | Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos. | IT14 | Não |  
 | <a id="anchor_RF15" style="visibility: hidden"></a>RF15 | O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores. | IT15 | Não | 
@@ -42,7 +42,7 @@ _Legenda das Tabelas:_
 | <a id="anchor_RF17" style="visibility: hidden"></a>RF17| Oferecer integração com carteiras digitais de outros bancos digitais para pagamento direto de investimentos. Atualmente as instituições financeiras integradas são “INTER DTVM LTDA”, “NU INVEST CORRETORA DE VALORES S.A” e “XP INVESTIMENTOS CCTVM S/A” | IT17 | Não |
 | <a id="anchor_RF18" style="visibility: hidden"></a>RF18 | Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação. | IT18 | Não |
 |  <a id="anchor_RF20" style="visibility: hidden"></a>RF20 | O aplicativo deve permitir que o usuário faça uma autodeclaração de expertise (novo, médio, experiente) durante o seu cadastro no sistema. | BF1 | Não |
-| RF21 | O aplicativo deve oferecer um tutorial para guiar o usuário no uso das funcionalidades. | BF2 | Não |
+| <a id="anchor_RF21" style="visibility: hidden"></a>RF21 | O aplicativo deve oferecer um tutorial para guiar o usuário no uso das funcionalidades. | BF2 | Não |
 | <a id="anchor_RF23" style="visibility: hidden"></a>RF23 | O aplicativo deve exibir a liquidez dos títulos do Tesouro Nacional na simulação. | BF4 | Não | 
 | <a id="anchor_RF24" style="visibility: hidden"></a>RF24 | O sistema deverá disponibilizar uma ferramenta para simular a evolução do investimento em um título do tesouro nacional em comparação com outras opções de investimento como a poupança, LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio), Fundo de Renda Fixa Referenciado DI e CDB (Certificado de Depósito Bancário). | BF5, GF04 | Sim   |
 | <a id="anchor_RF25" style="visibility: hidden"></a>RF25 | A tela de metas e sonhos deverá ser capaz de simular a evolução das metas | BF7 | Não |
@@ -56,11 +56,11 @@ _Legenda das Tabelas:_
 | <a id="anchor_RF34" style="visibility: hidden"></a>RF34 | O aplicativo deverá possuir a opção de realizar o login e cadastro a partir do sistema gov.br | GF01 | Sim |
 |<a id="anchor_RF35" style="visibility: hidden"></a>RF35|Escolher meus investimentos, definir um valor para cada investimento e escolher entre investir agora ou investir depois|IT21|Sim|
 | <a id="anchor_RF36" style="visibility: hidden"></a>RF36 | O sistema deverá armazenar (preço unitário, rentabilidade, valor mínimo para investir, data de vencimento do título, pagamento de juros, taxa da BR, imposto de renda previsto sobre o rendimento, taxa de IOF) bem como informações a respeito do horário de funcionamento do mercado e tempo de liquidação dos juros. | IT01, GLO01 | Sim |
-| <a id="anchor_RF037" style="visibility: hidden"></a>RF37 | O sistema deverá possuir um simulador da evolução de um título do tesouro direto com base em um determinado período de tempo | IT7 | Sim |
-| <a id="anchor_RF038" style="visibility: hidden"></a>RF38 | O simulador deverá possuir um questionário para obter do usuário as informações necessárias para gerar o simulador. | IT7 | Sim |
-| <a id="anchor_RF039" style="visibility: hidden"></a>RF39 | O simulador deverá possuir as informações de: título do tesouro nacional que será usado, tempo de investimento e valor que será resgatado no futuro ou valor que será investido agora. | IT7 | Sim |
-| <a id="anchor_RF040" style="visibility: hidden"></a>RF40 | Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta. | BF12 | Não |
-| <a id="anchor_RF041" style="visibility: hidden"></a>RF41 | As contas cadastradas na aplicação deverão possuir os dados de nome, cpf, email e celular do dono da conta. | GF02 | Sim |
+| <a id="anchor_RF37" style="visibility: hidden"></a>RF37 | O sistema deverá possuir um simulador da evolução de um título do tesouro direto com base em um determinado período de tempo | IT7 | Sim |
+| <a id="anchor_RF38" style="visibility: hidden"></a>RF38 | O simulador deverá possuir um questionário para obter do usuário as informações necessárias para gerar o simulador. | IT26 | Sim |
+| <a id="anchor_RF39" style="visibility: hidden"></a>RF39 | O simulador deverá possuir as informações de: título do tesouro nacional que será usado, tempo de investimento e valor que será resgatado no futuro ou valor que será investido agora. | IT27 | Sim |
+| <a id="anchor_RF40" style="visibility: hidden"></a>RF40 | Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta. | BF12 | Não |
+| <a id="anchor_RF41" style="visibility: hidden"></a>RF41 | As contas cadastradas na aplicação deverão possuir os dados de nome, cpf, email e celular do dono da conta. | GF02 | Sim |
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues, 2024</a></font></p>
@@ -102,7 +102,7 @@ _Legenda das Tabelas:_
 |----------------------------------------------------|--------------------------------------|------------------------------------|
 | [Júlia Takaki](https://github.com/juliatakaki)     | -                                    | -                                  |
 | [Maria Helena](https://github.com/MariaCHelena)    | -                                    | -                                  |
-| [Thales Euflauzino](https://github.com/thaleseuflauzino) | -                               | -                                  |
+| [Thales Euflauzino](https://github.com/thaleseuflauzino) | [RF15](#anchor_RF15)                               | [RNF08](#anchor_RNF08)                                  |
 | [Víctor Schmidt](https://github.com/moonshinerd)   | [RF25](#anchor_RF25)                 | [RNF04](#anchor_RNF04)             |
 | [Víctor Rodrigues](https://github.com/ViictorHugoo)| -                                    | -                                  |
 
@@ -126,3 +126,4 @@ _Legenda das Tabelas:_
 | `1.0`  | 21/11/2024 | Lista de requisitos | [Víctor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1`  | 27/11/2024 | Adicionando anchor's para rastreabilidade |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`  | 11/12/2024 | Removendo, complementando e ajustando requisitos que foram mau ou pouco elaborados e adicionando tabela 3|  [Víctor Schmidt](https://github.com/moonshinerd) e [Maria Helena](https://github.com/MariaCHelena) | [Víctor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3`  | 11/12/2024 | Escolhendo requisitos para trabalho pessoal |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
