@@ -748,4 +748,4 @@ Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao
 | `1.2` | 10/12/2024 | Colocando titulos nos cenarios  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
 | `1.3` | 10/12/2024 | Adicionando rastreabilidade  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd)  |
 | `1.4`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
-| `1.5`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   |  |
+| `1.5`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
