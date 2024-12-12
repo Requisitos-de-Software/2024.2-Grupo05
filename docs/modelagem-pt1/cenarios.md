@@ -56,7 +56,7 @@ Inicialmente serão definidos os cenários das tarefas principais, que descrevem
 
 ## Cenários Identificados
 
-Os cenários listados nas tabelas 2 a 10 foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
+Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
 
 ### Cenário 1 - Simulação de compra de titulos - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">RF02</a>
 
