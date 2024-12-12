@@ -168,3 +168,4 @@ Acerca da avaliação geral do aplicativo, da dificuldade para encontrar funcion
 | `1.0` | 20/11/2024 | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki)  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 23/11/2024 | Adicionando imagens dos gráficos | [Júlia Takaki](https://github.com/juliatakaki)  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.2` | 23/11/2024 | Corrigindo caminho das imagens | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Júlia Takaki](https://github.com/juliatakaki) |
+| `1.3` | 12/12/2024 | Adicionando locais de divulgação | [Victor Rodrigues](https://github.com/ViictorHugoo) | |

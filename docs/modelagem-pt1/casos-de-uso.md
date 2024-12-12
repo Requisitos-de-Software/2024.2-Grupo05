@@ -217,8 +217,8 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 
 ### Tabela 10: Dashboard com dados de rentabilidade
 
-<font size="3"><p style="text-align: center">Tabela 10: Dashboard de rentabilidade e inflação </p></font>
 <center>
+<font size="3"><p style="text-align: center">Tabela 10: Dashboard de rentabilidade e inflação </p></font>
 
 | **UC11**  | Informações |
 | ----- | ---------- |
@@ -234,21 +234,22 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 | **Data de Criação**    | 12/12/2024                                                                                 |
 
 
-</center>
-
 Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></b></p></font>
+
+</center>
 
 ## Bibliografia
 
 > Lucidchart. Diagrama de Caso de Uso UML. Disponível em: <<https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml>>. Acesso em: 14 maio 2023.
-
+>
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
-
+>
 > HENRIQUE, Paulo. Caso de Uso. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: [https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/casouso/](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/casouso/). Acesso em: 15 mai. 2023.
-
+>
 > MACEDO, Lucas. Caso de uso. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/casos_de_uso/](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/casos_de_uso/). Acesso em: 15 mai. 2023.
-
+>
 > REPOSITÓRIO DE REQUISITOS. *Modelagem - Casos de Uso*. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/useCase/>. Acesso em: 6 dez. 2024.
 
 
@@ -263,3 +264,4 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 | `1.3`    | 10/12/2024 | Alterações e correções | [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.5`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.6`    | 12/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
