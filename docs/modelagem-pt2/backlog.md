@@ -71,9 +71,34 @@ A construção do *Product Backlog* será realizada antes da elaboração das hi
 ### Épicos
 Para reduzir o nível de abstração presente nos temas e detalhar melhor as funcionalidades, foram registrados os épicos, que representam grandes blocos de trabalho organizados com base nas respostas do Product Owner. Cada épico descreve um objetivo geral que pode ser dividido em tarefas menores, conhecidas como histórias de usuário (user stories) ou simplesmente "histórias".
 
-Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, permitindo uma visão de alto nível do trabalho a ser realizado e facilitando a leitura e o entendimento da tabela de backlog. A seguir, estão os épicos que foram elaborados com base nas necessidades e requisitos identificados.
+Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, permitindo uma visão de alto nível do trabalho a ser realizado e facilitando a leitura e o entendimento da tabela de backlog. Após a tabela 1, estão os épicos que foram elaborados com base nas necessidades e requisitos identificados.
 
+### Tabela dos épicos
+A tabela 1 resume os épicos, organizando-os em features e os requisitos relacionados. Além disso, o restante deste documento detalha o processo de definição dos temas, épicos e features, bem como o significado de cada um desses termos.
 
+<center>
+
+| Épico | Feature | Requisito relacionado | Priorização |
+| ----- | ------- |  --------------------- | ------- |
+| EC01 | A preencher |  A preencher | A preencher |
+| EC02 | A preencher |  A preencher |  A preencher |
+| EC03 | A preencher |  A preencher |  A preencher |
+| EC04 | A preencher |  A preencher | A preencher  |
+| EC05 | A preencher |  A preencher |  A preencher |
+| EC06 | A preencher |  A preencher |  A preencher |
+| EC07 | A preencher |  A preencher | A preencher  | 
+| EC08 | A preencher |  A preencher |  A preencher |
+| EC09 | A preencher |  A preencher |  A preencher |
+| EC10 | A preencher |  A preencher |  A preencher |
+| EC11 | A preencher |  A preencher |  A preencher |
+| EC12 | A preencher |  A preencher |  A preencher |
+| EC13 | A preencher |  A preencher |  A preencher |
+| EC14 | A preencher |  A preencher |  A preencher |
+| EC15 | A preencher |  A preencher |  A preencher |
+
+_Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino), 2024_
+
+</center>
 #### **EC01. Visualização de Títulos Públicos**
 - **Descrição**: Implementar funcionalidades para listar e exibir detalhes dos títulos do Tesouro Nacional, categorizados por prazo de vencimento.
 - **Histórias Relacionadas**:
@@ -189,11 +214,6 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
       - Notificar o usuário sobre alterações nas taxas de juros ou inflação.
       - Enviar lembretes sobre vencimentos, agendamentos ou novas ofertas.
       - Informar feriados bancários e datas de indisponibilidade do sistema.
-
-
-### Lista de Funcionalidades Identificadas
-Essa lista já deve conter o épicos que serão especificados a seguir
-
 
 ### Priorização das Listas de Funcionalidade
 
