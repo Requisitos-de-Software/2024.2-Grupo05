@@ -88,12 +88,16 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">
+    <td rowspan="3">
          <a href="#ec01-visualizacao-de-titulos-publicos">EC01 - Visualização de Títulos Públicos</a>
     </td>
-    <td rowspan="1">Feature 1 - Listar Títulos</td>
+    <td rowspan="2">Feature 1 - Listar Títulos</td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF01"> RF01 </a> - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento</td>
     <td>-</td>
+    <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF36"> RF36 </a> - O sistema deverá armazenar (preço unitário, rentabilidade, valor mínimo para investir, data de vencimento do título, pagamento de juros, taxa da BR, imposto de renda previsto sobre o rendimento, taxa de IOF) bem como informações a respeito do horário de funcionamento do mercado e tempo de liquidação dos juros.</td>
+    <td>-</td>
+    </tr>
   </tr>
   <tr>
       <td rowspan="1">Feature 2 - Filtros de Prazo</td>
@@ -102,63 +106,115 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
   </tr>
 
   <tr>
-      <td rowspan="2">
+      <td rowspan="3">
          <a href="#ec02-gerenciamento-de-investimentos">EC02 - Gerenciamento de Investimentos</a>
       </td>
       <td rowspan="1">Feature 3 - Agendamento de Compras</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
-      <td>-</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF35"> RF35 </a> - Escolher meus investimentos, definir um valor para cada investimento e escolher entre investir agora ou investir depois</td>
+    <td>-</td>
   </tr>
   <tr>
-      <td rowspan="1">Feature 4 - Transferência Automática entre Investimentos</td>
+      <td rowspan="2">Feature 4 - Transferência Automática entre Investimentos</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF14"> RF14 </a> - Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.</td>
       <td>-</td>
   </tr>
-
+  <tr>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF17"> RF17 </a> - Oferecer integração com carteiras digitais de outros bancos digitais para pagamento direto de investimentos. Atualmente as instituições financeiras integradas são “INTER DTVM LTDA”, “NU INVEST CORRETORA DE VALORES S.A” e “XP INVESTIMENTOS CCTVM S/A”</td>
+      <td>-</td>
+  </tr>
    <tr>
-      <td rowspan="2">
+      <td rowspan="7">
          <a href="#ec03-simulacoes-de-investimentos">EC03 - Simulações de Investimentos</a>
       </td>
-      <td rowspan="1">Feature 5 - Simulação de Metas</td>
+      <td rowspan="4">Feature 5 - Simulação de Metas</td>
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF23"> RF23</a> - O aplicativo deve exibir a liquidez dos títulos do Tesouro Nacional na simulação.</td>
+    <td>-</td>
+    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF38"> RF38</a> - O simulador deverá possuir um questionário para obter do usuário as informações necessárias para gerar o simulador.	</td>
+    <td>-</td>
+    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF39"> RF39</a> - O simulador deverá possuir as informações de: título do tesouro nacional que será usado, tempo de investimento e valor que será resgatado no futuro ou valor que será investido agora.	</td>
+    <td>-</td>
+    </tr>
+   </tr>
+   </tr>
    <tr>
-      <td rowspan="1">Feature 6 - Comparação de Investimentos</td>
+      <td rowspan="3">Feature 6 - Comparação de Investimentos</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF02"> RF02 </a> - O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação</td>
       <td>-</td>
    </tr>
-
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF24"> RF24 </a> - O sistema deverá disponibilizar uma ferramenta para simular a evolução do investimento em um título do tesouro nacional em comparação com outras opções de investimento como a poupança, LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio), Fundo de Renda Fixa Referenciado DI e CDB (Certificado de Depósito Bancário).	</td>
+    <td>-</td>
+    </tr>
    <tr>
-      <td rowspan="3">
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF37"> RF37 </a> - O sistema deverá possuir um simulador da evolução de um título do tesouro direto com base em um determinado período de tempo	</td>
+    <td>-</td>
+    </tr>
+   </tr>
+   <tr>
+      <td rowspan="6">
          <a href="#ec04-painel-de-controle-e-relatorios">EC04 - Painel de Controle e Relatórios</a>
       </td>
-      <td rowspan="2">Feature 7 - Relatórios de Rentabilidade</td>
+      <td rowspan="5">Feature 7 - Relatórios de Rentabilidade</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF15"> RF15 </a> - O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores.</td>
       <td>-</td>
    </tr>
    <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF32"> RF32</a> - O sistema deve exibir a rentabilidade acumulada de cada título na carteira do usuário.</td>
+    <td>-</td>
+    </tr>
+   </tr>
+   <tr>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF06"> RF06 </a> - Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.</td>
       <td>-</td>
+   </tr>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01"> RNF01</a> - O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas.</td>
+    <td>-</td>
+    </tr>
+   </tr>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF11"> RNF11</a> - Os títulos do tesouro nacional deverão estar sempre atualizados com relação a inflação e a taxa de juros.	</td>
+    <td>-</td>
+    </tr>
    </tr>
    <tr>
       <td rowspan="1">Feature 8 - Dashboard</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF26"> RF26 </a> - O aplicativo deve apresentar um dashboard com dados de rentabilidade dos títulos adquiridos e taxa de inflação.</td>
       <td>-</td>
    </tr>
-
-   <tr>
-      <td rowspan="3">
+      <td rowspan="6">
          <a href="#ec05-cadastro-e-personalizacao-de-usuario">EC05 - Cadastro e Personalização de Usuário</a>
       </td>
-      <td rowspan="1">Feature 9 - Cadastro de Usuário</td>
+      <td rowspan="4">Feature 9 - Cadastro de Usuário</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF20"> RF20 </a> - O aplicativo deve permitir que o usuário faça uma autodeclaração de expertise (novo, médio, experiente) durante o seu cadastro no sistema.</td>
       <td>-</td>
    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF33"> RF33 </a>O aplicativo deverá permitir que o usuário faça cadastro na aplicação criando uma conta própria no sistema.	</td>
+    <td>-</td>
+    </tr>
+        <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF34"> RF34</a> O aplicativo deverá possuir a opção de realizar o login e cadastro a partir do sistema gov.br	</td>
+    <td>-</td>
+    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF41"> RF41</a> As contas cadastradas na aplicação deverão possuir os dados de nome, cpf, email e celular do dono da conta.	</td>
+    <td>-</td>
+    </tr>
+   </tr>
    <tr>
       <td rowspan="1">Feature 10 - Personalização de Tema</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
-      <td>-</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09"> RNF09</a> - O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.	</td>
+    <td>-</td>
+   </tr>
    </tr>
    <tr>
       <td rowspan="1">Feature 11 - Sugestões Personalizadas com Base na Expertise</td>
@@ -167,12 +223,28 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
 
    <tr>
-      <td rowspan="2">
+      <td rowspan="5">
          <a href="#ec06-seguranca-e-acessibilidade">EC06 - Segurança e Acessibilidade</a>
       </td>
-      <td rowspan="1">Feature 12 - Autenticação Segura</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
-      <td>-</td>
+      <td rowspan="4">Feature 12 - Autenticação Segura</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF02"> RNF02</a> - Garantir a segurança dos dados sensíveis do usuário conforme a LGPD.	</td>
+    <td>-</td>
+   </tr>
+   </tr>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF03"> RNF03</a> - O aplicativo deve ser responsivo para dispositivos móveis e tablets.	</td>
+    <td>-</td>
+    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF05"> RNF05</a> - O sistema deve permitir integrações seguras com APIs de instituições financeiras respeitando as normas da LGPD.	</td>
+    <td>-</td>
+    </tr>
+   </tr>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF10"> RNF10</a> - O sistema deverá garantir a segurança nas transações de títulos públicos.	</td>
+    <td>-</td>
+    </tr>
+   </tr>
    </tr>
    <tr>
       <td rowspan="1">Feature 13 - Acessibilidade Visual</td>
@@ -181,10 +253,10 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
 
    <tr>
-      <td rowspan="3">
+      <td rowspan="4">
          <a href="#ec07-processo-de-compra-de-titulos">EC07 - Processo de Compra de Títulos</a>
       </td>
-      <td rowspan="2">Feature 14 - Fluxo de Compra</td>
+      <td rowspan="3">Feature 14 - Fluxo de Compra</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF03"> RF03 </a> - O sistema deve permitir o resgate antecipado de títulos, com cálculo automático do valor líquido baseado na data de resgate e na rentabilidade acumulada.</td>
       <td>-</td>
    </tr>
@@ -192,6 +264,10 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF08"> RF08 </a> - Permitir a consulta de operações de compra de títulos do tesouro nacional realizadas e agendadas na aplicação.</td>
       <td>-</td>
    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF31"> RF31 </a>O sistema deve possibilitar a compra de títulos públicos por meio de diferentes métodos de pagamento.	</td>
+    <td>-</td>
+    </tr>
    <tr>
       <td rowspan="1">Feature 15 - Notificações de Status</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF13"> RF13 </a> - Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.</td>
@@ -199,21 +275,25 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
 
    <tr>
-      <td rowspan="2">
+      <td rowspan="3">
          <a href="#ec08-recursos-educativos">EC08 - Recursos Educativos</a>
       </td>
-      <td rowspan="1">Feature 16 - Artigos e Notícias</td>
+      <td rowspan="2">Feature 16 - Artigos e Notícias</td>
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF16"> RF16</a> Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto.	</td>
+    <td>-</td>
+    </tr>
    </tr>
    <tr>
-      <td rowspan="1">Feature 17 - Víeos e Tutoriais</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="1">Feature 17 - Vídeos e Tutoriais</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF21"> RF21 </a> - O aplicativo deve oferecer um tutorial para guiar o usuário no uso das funcionalidades.</td>
       <td>-</td>
    </tr>
 
    <tr>
-      <td rowspan="3">
+      <td rowspan="4">
          <a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09 - Personalização de Metas e Planejamento Financeiro</a>
       </td>
       <td rowspan="1">Feature 18 - Definição de Metas</td>
@@ -221,17 +301,21 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="2">Feature 19 - Acompanhamento de Metas</td>
+      <td rowspan="3">Feature 19 - Acompanhamento de Metas</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF25"> RF25 </a> - A tela de metas e sonhos deverá ser capaz de simular a evolução das metas</td>
       <td>-</td>
    </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF27"> RF27 </a>O sistema deve incluir uma barra de progresso na aba "Meus Sonhos".	</td>
+    <td>-</td>
+    </tr>
    <tr>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF40"> RF40 </a> - Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta.</td>
       <td>-</td>
    </tr>
 
    <tr>
-      <td rowspan="2">
+      <td rowspan="3">
          <a href="#ec10-simuladores-avancados">EC10 - Simuladores Avançados</a>
       </td>
       <td rowspan="1">Feature 20 - Simulação de Aposentadoria</td>
@@ -239,9 +323,11 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="1">Feature 21 - Comparação com INSS</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
-      <td>-</td>
+      <td rowspan="2">Feature 21 - Comparação com INSS</td>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF28"> RF28</a> O aplicativo deve permitir a comparação da simulação com os padrões do INSS na aposentadoria.	</td>
+    <td>-</td>
+    </tr>
    </tr>
 
    <tr>
