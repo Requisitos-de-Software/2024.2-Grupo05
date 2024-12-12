@@ -78,11 +78,12 @@ Exemplo de épicos: [Lichess](https://requisitos-de-software.github.io/2022.2-Li
 
 ### Priorização das Listas de Funcionalidade
 
+## Referências Bibliográficas
+> <a id="#REF1"></a>SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d.. Acesso em: 11 de dezembro 2024.
+> <a id="#REF2"></a> DUARTE, Luiz. Product Backlog - Introdução. LuizTools - Canal no Youtube, 2020. Disponível em: [Product Backlog - Introdução](https://www.youtube.com/watch?v=z4ubaBwjCsU). Acesso em: 11 de dezembro 2024.
+
 ## Bibliografia
-> <a id="#REF1"></a>SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d..
-
-> <a id="#REF2"></a> DUARTE, Luiz. Product Backlog - Introdução. LuizTools - Canal no Youtube, 2020. Disponível em: [Product Backlog - Introdução](https://www.youtube.com/watch?v=z4ubaBwjCsU). Acesso em: 11/12/2024.
-
+> Lichess - Backlog do Produto. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>. Acesso em 12 de dezembro de 2024
 
 ## Histórico de Versões
 
