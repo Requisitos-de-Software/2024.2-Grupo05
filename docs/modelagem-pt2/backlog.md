@@ -77,28 +77,235 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
 A tabela 1 resume os épicos, organizando-os em features e os requisitos relacionados. Além disso, o restante deste documento detalha o processo de definição dos temas, épicos e features, bem como o significado de cada um desses termos.
 
 <center>
+<table>
+<thead>
+  <tr>
+    <th>Épico</th>
+    <th>Feature</th>
+    <th>Rastreabilidade</th>
+    <th>Priorização</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="2">
+         <a href="#ec01-visualizacao-de-titulos-publicos">EC01 - Visualização de Títulos Públicos</a>
+    </td>
+    <td rowspan="1">Feature 1 - Listar Títulos</td>
+    <td><a href=""> RFXX </a> - Descrição</td>
+    <td>-</td>
+  </tr>
+  <tr>
+      <td rowspan="1">Feature 2 - Filtros de Prazo</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+  </tr>
 
-| Épico | Feature | Requisito relacionado | Priorização |
-| ----- | ------- |  --------------------- | ------- |
-| EC01 | A preencher |  A preencher | A preencher |
-| EC02 | A preencher |  A preencher |  A preencher |
-| EC03 | A preencher |  A preencher |  A preencher |
-| EC04 | A preencher |  A preencher | A preencher  |
-| EC05 | A preencher |  A preencher |  A preencher |
-| EC06 | A preencher |  A preencher |  A preencher |
-| EC07 | A preencher |  A preencher | A preencher  | 
-| EC08 | A preencher |  A preencher |  A preencher |
-| EC09 | A preencher |  A preencher |  A preencher |
-| EC10 | A preencher |  A preencher |  A preencher |
-| EC11 | A preencher |  A preencher |  A preencher |
-| EC12 | A preencher |  A preencher |  A preencher |
-| EC13 | A preencher |  A preencher |  A preencher |
-| EC14 | A preencher |  A preencher |  A preencher |
-| EC15 | A preencher |  A preencher |  A preencher |
+  <tr>
+      <td rowspan="2">
+         <a href="#ec02-gerenciamento-de-investimentos">EC02 - Gerenciamento de Investimentos</a>
+      </td>
+      <td rowspan="1">Feature 3 - Agendamento de Compras</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+  </tr>
+  <tr>
+      <td rowspan="1">Feature 4 - Transferência Automática entre Investimentos</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+  </tr>
 
-_Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino), 2024_
+   <tr>
+      <td rowspan="2">
+         <a href="#ec03-simulacoes-de-investimentos">EC03 - Simulações de Investimentos</a>
+      </td>
+      <td rowspan="1">Feature 5 - Simulação de Metas</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 6 - Dashboard de Metas</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec04-painel-de-controle-e-relatorios">EC04 - Painel de Controle e Relatórios</a>
+      </td>
+      <td rowspan="1">Feature 7 - Relatórios de Rentabilidade</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 8 - Dashboard de Metas</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec05-cadastro-e-personalizacao-de-usuario">EC05 - Cadastro e Personalização de Usuário</a>
+      </td>
+      <td rowspan="1">Feature 9 - Cadastro de Usuário</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 10 - Personalização de Tema</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec06-seguranca-e-acessibilidade">EC06 - Segurança e Acessibilidade</a>
+      </td>
+      <td rowspan="1">Feature 11 - Autenticação Segura</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 12 - Acessibilidade Visual</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec07-processo-de-compra-de-titulos">EC07 - Processo de Compra de Títulos</a>
+      </td>
+      <td rowspan="1">Feature 13 - Fluxo de Compra</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 14 - Notificações de Status</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec08-recursos-educativos">EC08 - Recursos Educativos</a>
+      </td>
+      <td rowspan="1">Feature 15 - Artigos e Notícias</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 16 - Víeos e Tutoriais</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09 - Personalização de Metas e Planejamento Financeiro</a>
+      </td>
+      <td rowspan="1">Feature 17 - Definição de Metas</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 18 - Acompanhamento de Metas</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec10-simuladores-avancados">EC10 - Simuladores Avançados</a>
+      </td>
+      <td rowspan="1">Feature 19 - Simulação de Aposentadoria</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 20 - Comparação com INSS</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec11-gerenciamento-de-dados-do-usuario">EC11 - Gerenciamento de Dados do Usuário</a>
+      </td>
+      <td rowspan="1">Feature 21 - Validação de Dados</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 22 - Alteração de Informações Pessoais</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec12-integracao-com-canais-de-atendimento">EC12 - Integração com Canais de Atendimento</a>
+      </td>
+      <td rowspan="1">Feature 23 - Canal de Suporte</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 24 - Notificações de Suporte</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec13-funcionalidades-de-acessibilidade">EC13 - Funcionalidades de Acessibilidade</a>
+      </td>
+      <td rowspan="1">Feature 25 - Temas de Alto Contraste</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 26 - Ajuste de Velocidade de Áudio</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec14-multilingue-e-inclusao">EC14 - Multilíngue e Inclusão</a>
+      </td>
+      <td rowspan="1">Feature 27 - Tradução Multilíngue</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 28 - Troca Dinâmica de Idioma</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec15-atualizacoes-e-notificacoes-automaticas">EC15 - Atualizações e Notificações Automáticas</a>
+      </td>
+      <td rowspan="1">Feature 29 - Notificações de Taxas e Inflação</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 30 - Alertas de Feriados e Indisponibilidade</td>
+      <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+
+</tbody>
+</table>
+
+
+
+_Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino) e [Víctor Schmidt](https://www.github.com/moonshinerd), 2024_
 
 </center>
+
 #### **EC01. Visualização de Títulos Públicos**
 - **Descrição**: Implementar funcionalidades para listar e exibir detalhes dos títulos do Tesouro Nacional, categorizados por prazo de vencimento.
 - **Histórias Relacionadas**:
@@ -227,6 +434,6 @@ _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino), 2024_
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                                    | Autor(es)                                        | Revisor(es)                                      |
-| ------ | ---------- | -------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| `1.0`  | 11/12/2024 | Criação do Documento Inicial                       | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Versão | Data       | Descrição                    | Autor(es)                                        | Revisor(es)                                              |
+| ------ | ---------- | ---------------------------- | ------------------------------------------------ | -------------------------------------------------------- |
+| `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
