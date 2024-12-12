@@ -77,118 +77,118 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
 #### **EC01. Visualização de Títulos Públicos**
 - **Descrição**: Implementar funcionalidades para listar e exibir detalhes dos títulos do Tesouro Nacional, categorizados por prazo de vencimento.
 - **Histórias Relacionadas**:
-  - Exibir lista de títulos (Tesouro Prefixado, Tesouro IPCA+, Tesouro Selic).
-  - Implementar filtros para curto, médio e longo prazo.
-  - Detalhar informações como preço unitário, rentabilidade, vencimento, taxas aplicáveis e liquidez.
+      - Exibir lista de títulos (Tesouro Prefixado, Tesouro IPCA+, Tesouro Selic).
+      - Implementar filtros para curto, médio e longo prazo.
+      - Detalhar informações como preço unitário, rentabilidade, vencimento, taxas aplicáveis e liquidez.
 
 
 #### **EC02. Gerenciamento de Investimentos**
 - **Descrição**: Desenvolver funcionalidades para agendamento e execução de investimentos, integrando APIs bancárias com segurança avançada.
 - **Histórias Relacionadas**:
-  - Implementar agendamento de compras com notificações automáticas.
-  - Gerenciar transferências automáticas entre investimentos com base em metas e cenários.
-  - Cancelar agendamentos automaticamente caso não haja saldo suficiente, com notificação ao usuário.
+      - Implementar agendamento de compras com notificações automáticas.
+      - Gerenciar transferências automáticas entre investimentos com base em metas e cenários.
+      - Cancelar agendamentos automaticamente caso não haja saldo suficiente, com notificação ao usuário.
 
 
 #### **EC03. Simulações de Investimentos**
 - **Descrição**: Criar simuladores interativos para planejamento financeiro e comparações de rentabilidade.
 - **Histórias Relacionadas**:
-  - Simular metas financeiras personalizadas (ex.: aposentadoria).
-  - Comparar títulos com outras opções de investimento (LCI, LCA, poupança, etc.).
-  - Exibir impacto das variáveis como prazo e valor nos objetivos financeiros.
+      - Simular metas financeiras personalizadas (ex.: aposentadoria).
+      - Comparar títulos com outras opções de investimento (LCI, LCA, poupança, etc.).
+      - Exibir impacto das variáveis como prazo e valor nos objetivos financeiros.
 
 
 #### **EC04. Painel de Controle e Relatórios**
 - **Descrição**: Fornecer relatórios e dashboards interativos para acompanhamento de investimentos.
 - **Histórias Relacionadas**:
-  - Exibir evolução dos rendimentos com base em taxas atualizadas do BACEN.
-  - Apresentar dashboards com rentabilidade e comparativos com a inflação.
-  - Mostrar progresso de metas e sonhos financeiros com barras de progresso interativas.
+      - Exibir evolução dos rendimentos com base em taxas atualizadas do BACEN.
+      - Apresentar dashboards com rentabilidade e comparativos com a inflação.
+      - Mostrar progresso de metas e sonhos financeiros com barras de progresso interativas.
 
 
 #### **EC05. Cadastro e Personalização de Usuário**
 - **Descrição**: Permitir cadastro de contas com autenticação segura e personalização de perfis.
 - **Histórias Relacionadas**:
-  - Implementar cadastro de usuários com dados pessoais obrigatórios (CPF, nome, data de nascimento, etc.).
-  - Oferecer temas personalizáveis (claro, escuro ou conforme configuração do dispositivo).
-  - Ajustar sugestões e conteúdos com base na expertise declarada pelo usuário.
+      - Implementar cadastro de usuários com dados pessoais obrigatórios (CPF, nome, data de nascimento, etc.).
+      - Oferecer temas personalizáveis (claro, escuro ou conforme configuração do dispositivo).
+      - Ajustar sugestões e conteúdos com base na expertise declarada pelo usuário.
 
 
 #### **EC06. Segurança e Acessibilidade**
 - **Descrição**: Garantir a proteção de dados e acessibilidade universal no aplicativo.
 - **Histórias Relacionadas**:
-  - Implementar autenticação por biometria e dois fatores.
-  - Garantir conformidade com a LGPD.
-  - Oferecer suporte a leitores de tela, temas de alto contraste, ajuste de fontes e descrições de áudio.
+      - Implementar autenticação por biometria e dois fatores.
+      - Garantir conformidade com a LGPD.
+      - Oferecer suporte a leitores de tela, temas de alto contraste, ajuste de fontes e descrições de áudio.
 
 
 #### **EC07. Processo de Compra de Títulos**
 - **Descrição**: Estruturar as etapas do processo de compra, com foco em clareza e eficiência.
 - **Histórias Relacionadas**:
-  - Criar fluxo de compra com carrinho para múltiplos títulos.
-  - Notificar o usuário sobre agendamentos e status das transações.
-  - Oferecer tutorial reutilizável sobre o processo de compra.
+      - Criar fluxo de compra com carrinho para múltiplos títulos.
+      - Notificar o usuário sobre agendamentos e status das transações.
+      - Oferecer tutorial reutilizável sobre o processo de compra.
 
 
 #### **EC08. Recursos Educativos**
 - **Descrição**: Fornecer conteúdos e ferramentas educativas para os usuários.
 - **Histórias Relacionadas**:
-  - Incluir artigos e notícias sobre investimentos.
-  - Oferecer vídeos e tutoriais interativos.
-  - Criar uma FAQ abrangente para dúvidas comuns.
+      - Incluir artigos e notícias sobre investimentos.
+      - Oferecer vídeos e tutoriais interativos.
+      - Criar uma FAQ abrangente para dúvidas comuns.
 
 #### **EC09. Personalização de Metas e Planejamento Financeiro**
 - **Descrição**: Oferecer ferramentas para o usuário definir, acompanhar e personalizar metas financeiras e sonhos.
 - **Histórias Relacionadas**:
-  - Permitir que os usuários criem metas e sonhos personalizados com valores, prazos e preferências.
-  - Exibir barras de progresso interativas para cada meta.
-  - Oferecer notificações sobre o status das metas e sugestões de ajustes.
+      - Permitir que os usuários criem metas e sonhos personalizados com valores, prazos e preferências.
+      - Exibir barras de progresso interativas para cada meta.
+      - Oferecer notificações sobre o status das metas e sugestões de ajustes.
 
 
 #### **EC10. Simuladores Avançados**
 - **Descrição**: Desenvolver simuladores para planejamento de aposentadoria e outras metas financeiras específicas.
 - **Histórias Relacionadas**:
-  - Incluir questionários para coleta de informações do usuário para simulação (idade, renda, objetivos, etc.).
-  - Permitir comparações interativas entre padrões de investimento e INSS.
-  - Exibir projeções detalhadas com títulos do Tesouro e outras opções de investimento.
+      - Incluir questionários para coleta de informações do usuário para simulação (idade, renda, objetivos, etc.).
+      - Permitir comparações interativas entre padrões de investimento e INSS.
+      - Exibir projeções detalhadas com títulos do Tesouro e outras opções de investimento.
 
 
 #### **EC11. Gerenciamento de Dados do Usuário**
 - **Descrição**: Criar fluxos robustos para validação e gerenciamento de informações pessoais e de perfil.
 - **Histórias Relacionadas**:
-  - Validar automaticamente dados cadastrais (CPF, e-mail, etc.).
-  - Oferecer suporte para alteração de informações pessoais pelo usuário.
-  - Ajustar sugestões baseadas no perfil de expertise do usuário.
+      - Validar automaticamente dados cadastrais (CPF, e-mail, etc.).
+      - Oferecer suporte para alteração de informações pessoais pelo usuário.
+      - Ajustar sugestões baseadas no perfil de expertise do usuário.
 
 
 #### **EC12. Integração com Canais de Atendimento**
 - **Descrição**: Oferecer múltiplos canais de suporte ao usuário.
 - **Histórias Relacionadas**:
-  - Desenvolver uma aba "Fale Conosco" com opções de chat, FAQ e suporte por e-mail.
-  - Implementar notificações para informar status de suporte ou consultas.
+      - Desenvolver uma aba "Fale Conosco" com opções de chat, FAQ e suporte por e-mail.
+      - Implementar notificações para informar status de suporte ou consultas.
 
 
 #### **EC13. Funcionalidades de Acessibilidade**
 - **Descrição**: Tornar o aplicativo inclusivo e acessível para todos os usuários.
 - **Histórias Relacionadas**:
-  - Implementar temas de alto contraste e ajuste de fontes.
-  - Oferecer suporte para leitores de tela e descrições de áudio.
-  - Permitir ajustes na velocidade de reprodução de áudio.
+      - Implementar temas de alto contraste e ajuste de fontes.
+      - Oferecer suporte para leitores de tela e descrições de áudio.
+      - Permitir ajustes na velocidade de reprodução de áudio.
 
 
 #### **EC14. Multilíngue e Inclusão**
 - **Descrição**: Suportar múltiplos idiomas para aumentar a acessibilidade do aplicativo.
 - **Histórias Relacionadas**:
-  - Implementar tradução completa para os idiomas mais usados por usuários estrangeiros no Brasil.
-  - Permitir a troca dinâmica de idioma no aplicativo.
+      - Implementar tradução completa para os idiomas mais usados por usuários estrangeiros no Brasil.
+      - Permitir a troca dinâmica de idioma no aplicativo.
 
 
 #### **EC15. Atualizações e Notificações Automáticas**
 - **Descrição**: Enviar informações relevantes em tempo real para os usuários.
 - **Histórias Relacionadas**:
-  - Notificar o usuário sobre alterações nas taxas de juros ou inflação.
-  - Enviar lembretes sobre vencimentos, agendamentos ou novas ofertas.
-  - Informar feriados bancários e datas de indisponibilidade do sistema.
+      - Notificar o usuário sobre alterações nas taxas de juros ou inflação.
+      - Enviar lembretes sobre vencimentos, agendamentos ou novas ofertas.
+      - Informar feriados bancários e datas de indisponibilidade do sistema.
 
 
 ### Lista de Funcionalidades Identificadas
