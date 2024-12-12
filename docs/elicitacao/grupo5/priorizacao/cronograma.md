@@ -6,7 +6,7 @@ Esta página documenta o cronograma para registrar e acompanhar a priorização 
 
 ## Cronograma 
 
-Para a priorização dos requisitos do projeto foram usadas 3 técnicas: 100$, In or Out e Three Level Scale. As tabelas de 1 a 3 representam, respectivamente, o cronograma da execução das atividades de priorização.
+Para a priorização dos requisitos do projeto, foram utilizadas três técnicas: 100$, In or Out e Three-Level Scale. As tabelas de 1 a 3 representam, respectivamente, o cronograma de execução das atividades de priorização.
 
 ### 100$ 
 
