@@ -6,7 +6,7 @@ Os questionários são ferramentas eficazes para a coleta de informações, form
 
 ## Metodologia
 
-Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na plataforma Google Forms, com o objetivo de levantar o perfil dos usuários do Economia DF. O questionário, composto por 15 perguntas (Figuras 1 a 14), incluindo um [termo de consentimento](../../../assets/Termo_de_Consentimento_Questionario.png), buscava coletar informações sobre as características sociodemográficas dos usuários e suas interações com o sistema. A pesquisa contou com a participação de 20 pessoas e todas o termo de consentimento.
+Entre os dias 18 e 21 de novembro de 2024, a equipe aplicou um questionário na plataforma Google Forms, com o objetivo de levantar o perfil dos usuários do Economia DF. O questionário, composto por 15 perguntas (Figuras 1 a 14), incluindo um [termo de consentimento](../../../assets/Termo_de_Consentimento_Questionario.png), buscava coletar informações sobre as características sociodemográficas dos usuários e suas interações com o sistema. O questionário foi divulgado nos canais de comunicação da [Universidade de Brasília](www.unb.br) e em grupos familiares dos membros da [equipe desenvolvedora](../../../index.md). Ele contou com a participação de 20 pessoas, todas quais aceitaram o termo de consentimento.
 
 ### Questão 1 - Qual sua faixa etária?
 
