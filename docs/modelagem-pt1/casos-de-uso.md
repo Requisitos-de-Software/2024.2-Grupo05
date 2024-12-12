@@ -45,7 +45,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Especialização dos casos de uso
 
-As tabelas de 2 a 6 mostram a especialização dos casos de uso.
+As tabelas de 2 a 9 mostram a especialização dos casos de uso.
 
 ### Tabela 2: Fazer Login
 <font size="3"><p style="text-align: center">Tabela 2: Fazer Login </p></font>
@@ -190,9 +190,30 @@ As tabelas de 2 a 6 mostram a especialização dos casos de uso.
 | **Data de Criação**     | 11/12/2024                                                                                                         |
 
 Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+
+### Tabela 9: Relatórios Mensais de Evolução de Rendimentos
+
+<font size="3"><p style="text-align: center">Tabela 9: Incluir Relatórios Personalizados </p></font>
+<center>
+
+| **IT15**               | **Informações**                                                                                                         |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| **Descrição**           | Permitir que o sistema forneça relatórios mensais com a evolução dos rendimentos dos títulos adquiridos pelo investidor.  |
+| **Ator**                | Sistema                                                                                                                |
+| **Pré-condições**       | O investidor deve estar autenticado no sistema.                                                                            |
+| **Ação**                | O sistema gera automaticamente relatórios mensais com base nos rendimentos acumulados dos títulos do investidor.          |
+| **Fluxo principal**     | <ul><li>1. O sistema coleta os dados dos rendimentos mensais dos títulos adquiridos pelo investidor.</li><li>2. O sistema processa as informações e consolida os rendimentos do mês atual e dos meses anteriores.</li><li>3. O relatório é formatado com os seguintes elementos:</li><ul><li>a. Total de rendimentos mensais por título;</li><li>b. Comparativo com meses anteriores;</li><li>c. Gráficos e/ou tabelas de evolução acumulada.</li></ul><li>4. O sistema disponibiliza o relatório na seção "Meus Relatórios".</li><li>5. O investidor pode visualizar ou fazer download do relatório.</li></ul> |
+| **Fluxo alternativo**   | <ul><li>1. O investidor decide pela não geração automática dos relatórios <ul></ul><li>2. O sistema enfrenta problemas temporários ao acessar os dados de rendimentos (e.g., falhas de conectividade ou indisponibilidade do servidor).</li><li>3. O sistema exibe uma mensagem ao usuário informando a indisponibilidade momentânea e sugere tentar novamente mais tarde.</li><li>4. O usuário retorna à seção "Meus Relatórios" para acessar o relatório assim que o problema for resolvido.</li></ul> |
+| **Fluxo de exceção**    | <ul><li>1. O sistema não encontra dados de rendimentos para o período solicitado.</li><li>2. O sistema exibe uma mensagem informando que não há dados suficientes para gerar o relatório.</li></ul> |
+| **Pós-condições**       | O relatório mensal é gerado e armazenado para consulta futura na seção "Meus Relatórios".                              |
+| **Rastreabilidade**     | [RF15](../../elicitacao/grupo5/requisitos/#anchor_RF15)                                                             |
+| **Data de Criação**     | 11/12/2024                                                                                                          |
+
 </center>
 
-<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
+Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></b></p></font>
 
 ## Bibliografia
 
@@ -217,3 +238,4 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 | `1.2`    | 07/12/2024 | Corrigindo Fonte para Autor | [Thales Euflauzino](https://github.com/thaleseuflauzino)   | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.3`    | 10/12/2024 | Alterações e correções | [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.5`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
