@@ -1,7 +1,7 @@
 # Product Backlog
 ## Introdução  
 
-O *Product Backlog* do aplicativo do Tesouro Direto será uma lista dinâmica contendo todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo *Product Owner* — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo [Mauricio e Milene](#REF1). Este documento apresenta a metodologia utilizada para a construção e priorização do *Backlog*.  
+O *Product Backlog* do aplicativo do Tesouro Direto será uma lista dinâmica contendo todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo *Product Owner* — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo <a id="anchor_1" href="#REF1">[Mauricio e Milene]</a>. Este documento apresenta a metodologia utilizada para a construção e priorização do *Backlog*.  
 
 ## Metodologia  
 
@@ -23,7 +23,7 @@ A construção do *Product Backlog* seguirá os passos descritos abaixo:
 
 4 - **Priorização do *Backlog*:**  
 
-   - A priorização será feita com base no critério DEEP ([Duarte, 2020](#REF2)), que considera os seguintes aspectos:  
+   - A priorização será feita com base no critério DEEP (<a id="anchor_2" href="#REF2">Duarte, 2020</a>), que considera os seguintes aspectos:  
      - **Detalhado:** As funcionalidades mais próximas de implementação terão descrições mais detalhadas.  
      - **Estimável:** Cada funcionalidade será avaliada quanto ao esforço necessário para sua implementação.  
      - **Emergente:** O *backlog* será atualizado continuamente para refletir novas demandas ou mudanças.  
@@ -79,8 +79,9 @@ Exemplo de épicos: [Lichess](https://requisitos-de-software.github.io/2022.2-Li
 ### Priorização das Listas de Funcionalidade
 
 ## Referências Bibliográficas
-> <a id="#REF1"></a>SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d.. Acesso em: 11 de dezembro 2024.
-> <a id="#REF2"></a> DUARTE, Luiz. Product Backlog - Introdução. LuizTools - Canal no Youtube, 2020. Disponível em: [Product Backlog - Introdução](https://www.youtube.com/watch?v=z4ubaBwjCsU). Acesso em: 11 de dezembro 2024.
+> <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d.. Acesso em: 11 de dezembro 2024.
+> 
+> <a id="REF2" href="#anchor_2">2.</a> DUARTE, Luiz. Product Backlog - Introdução. LuizTools - Canal no Youtube, 2020. Disponível em: [Product Backlog - Introdução](https://www.youtube.com/watch?v=z4ubaBwjCsU). Acesso em: 11 de dezembro 2024.
 
 ## Bibliografia
 > Lichess - Backlog do Produto. Disponível em: <https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/>. Acesso em 12 de dezembro de 2024
