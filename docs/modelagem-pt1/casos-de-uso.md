@@ -45,7 +45,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 ## Especialização dos casos de uso
 
-As tabelas de 2 a 9 mostram a especialização dos casos de uso.
+As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 
 ### Tabela 2: Fazer Login
 <font size="3"><p style="text-align: center">Tabela 2: Fazer Login </p></font>
@@ -264,4 +264,4 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 | `1.3`    | 10/12/2024 | Alterações e correções | [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.4`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.5`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.6`    | 12/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
+| `1.6`    | 12/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
