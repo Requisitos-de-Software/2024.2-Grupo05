@@ -134,26 +134,31 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec04-painel-de-controle-e-relatorios">EC04 - Painel de Controle e Relatórios</a>
       </td>
       <td rowspan="1">Feature 7 - Relatórios de Rentabilidade</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF15"> RF15 </a> - O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores.</td>
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="1">Feature 8 - Dashboard de Metas</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="1">Feature 8 - Dashboard</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF26"> RF26 </a> - O aplicativo deve apresentar um dashboard com dados de rentabilidade dos títulos adquiridos e taxa de inflação.</td>
       <td>-</td>
    </tr>
 
    <tr>
-      <td rowspan="2">
+      <td rowspan="3">
          <a href="#ec05-cadastro-e-personalizacao-de-usuario">EC05 - Cadastro e Personalização de Usuário</a>
       </td>
       <td rowspan="1">Feature 9 - Cadastro de Usuário</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF20"> RF20 </a> - O aplicativo deve permitir que o usuário faça uma autodeclaração de expertise (novo, médio, experiente) durante o seu cadastro no sistema.</td>
       <td>-</td>
    </tr>
    <tr>
       <td rowspan="1">Feature 10 - Personalização de Tema</td>
       <td><a href=""> RFXX </a> - Descrição</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td rowspan="1">Feature 11 - Sugestões Personalizadas com Base na Expertise</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF29"> RF29 </a> - O sistema deve exibir sugestões personalizadas com base na expertise declarada pelo usuário na página inicial do "Meu Investimento".</td>
       <td>-</td>
    </tr>
 
@@ -200,7 +205,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
 
    <tr>
-      <td rowspan="2">
+      <td rowspan="3">
          <a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09 - Personalização de Metas e Planejamento Financeiro</a>
       </td>
       <td rowspan="1">Feature 17 - Definição de Metas</td>
@@ -208,8 +213,12 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="1">Feature 18 - Acompanhamento de Metas</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="2">Feature 18 - Acompanhamento de Metas</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF25"> RF25 </a> - A tela de metas e sonhos deverá ser capaz de simular a evolução das metas</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF40"> RF40 </a> - Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta.</td>
       <td>-</td>
    </tr>
 
@@ -228,7 +237,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
 
    <tr>
-      <td rowspan="2">
+      <td rowspan="4">
          <a href="#ec11-gerenciamento-de-dados-do-usuario">EC11 - Gerenciamento de Dados do Usuário</a>
       </td>
       <td rowspan="1">Feature 21 - Validação de Dados</td>
@@ -240,17 +249,26 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
    </tr>
+   <tr>
+      <td rowspan="2">Feature 23 - Acessibilidade ao Perfil de Recomendação de Investimentos </td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08"> RNF08 </a> - O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo.</td>
+      <td>-</td>
+   </tr>
+   <tr>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a> - A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022.</td>
+      <td>-</td>
+   </tr>
 
    <tr>
       <td rowspan="2">
          <a href="#ec12-integracao-com-canais-de-atendimento">EC12 - Integração com Canais de Atendimento</a>
       </td>
-      <td rowspan="1">Feature 23 - Canal de Suporte</td>
+      <td rowspan="1">Feature 24 - Canal de Suporte</td>
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="1">Feature 24 - Notificações de Suporte</td>
+      <td rowspan="1">Feature 25 - Notificações de Suporte</td>
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
    </tr>
@@ -259,12 +277,12 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td rowspan="2">
          <a href="#ec13-funcionalidades-de-acessibilidade">EC13 - Funcionalidades de Acessibilidade</a>
       </td>
-      <td rowspan="1">Feature 25 - Temas de Alto Contraste</td>
+      <td rowspan="1">Feature 26 - Temas de Alto Contraste</td>
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="1">Feature 26 - Ajuste de Velocidade de Áudio</td>
+      <td rowspan="1">Feature 27 - Ajuste de Velocidade de Áudio</td>
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
    </tr>
@@ -273,13 +291,13 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td rowspan="2">
          <a href="#ec14-multilingue-e-inclusao">EC14 - Multilíngue e Inclusão</a>
       </td>
-      <td rowspan="1">Feature 27 - Tradução Multilíngue</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="1">Feature 28 - Tradução Multilíngue</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06"> RNF06 </a> - O aplicativo deverá disponibilizar suporte para múltiplos idiomas (português como padrão).	</td>
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="1">Feature 28 - Troca Dinâmica de Idioma</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="1">Feature 29 - Troca Dinâmica de Idioma</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01"> RNF01 </a>- O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas.</td>
       <td>-</td>
    </tr>
 
@@ -287,12 +305,12 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td rowspan="2">
          <a href="#ec15-atualizacoes-e-notificacoes-automaticas">EC15 - Atualizações e Notificações Automáticas</a>
       </td>
-      <td rowspan="1">Feature 29 - Notificações de Taxas e Inflação</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="1">Feature 30 - Notificações de Taxas e Inflação</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF18"> RF18 </a> - Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação.</td>
       <td>-</td>
    </tr>
    <tr>
-      <td rowspan="1">Feature 30 - Alertas de Feriados e Indisponibilidade</td>
+      <td rowspan="1">Feature 31 - Alertas de Feriados e Indisponibilidade</td>
       <td><a href=""> RFXX </a> - Descrição</td>
       <td>-</td>
    </tr>
