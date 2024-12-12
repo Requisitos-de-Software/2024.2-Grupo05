@@ -197,7 +197,7 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 <font size="3"><p style="text-align: center">Tabela 9: Incluir Relatórios Personalizados </p></font>
 <center>
 
-| **IT15**               | **Informações**                                                                                                         |
+| **UC10**               | **Informações**                                                                                                         |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------|
 | **Descrição**           | Permitir que o sistema forneça relatórios mensais com a evolução dos rendimentos dos títulos adquiridos pelo investidor.  |
 | **Ator**                | Sistema                                                                                                                |
@@ -214,6 +214,30 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 
 Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></b></p></font>
+
+### Tabela 10: Dashboard com dados de rentabilidade
+
+<font size="3"><p style="text-align: center">Tabela 10: Dashboard de rentabilidade e inflação </p></font>
+<center>
+
+| **UC11**  | Informações |
+| ----- | ---------- |
+| **Descrição**          | Apresentar um dashboard com dados de rentabilidade dos títulos adquiridos e taxa de inflação. |
+| **Ator**               | Investidor                                                                                  |
+| **Pré-condições**      | O usuário deve estar autenticado no aplicativo e possuir títulos adquiridos em sua carteira. |
+| **Ação**               | O investidor acessa o aplicativo e visualiza o dashboard inicial.                           |
+| **Fluxo principal**    | <ul><li>O Investidor acessa o aplicativo Tesouro Direto.</li><li>O sistema exibe automaticamente o dashboard inicial com os dados de rentabilidade dos títulos adquiridos.</li><li>O sistema apresenta também a taxa de inflação atual e sua variação, exibida graficamente.</li><li>O investidor pode interagir com os gráficos ou selecionar intervalos de tempo para análise detalhada.</li></ul> |
+| **Fluxo alternativo**  | <ul><li>O Investidor acessa o aplicativo.</li><li>O sistema detecta que o investidor não possui títulos adquiridos.</li><li>O sistema exibe uma mensagem informando que não há dados disponíveis no momento e sugere adquirir títulos.</li></ul> |
+| **Fluxo de exceção**   | <ul><li>O sistema não consegue obter dados atualizados de rentabilidade ou inflação.</li><li>O sistema exibe uma mensagem informando indisponibilidade temporária e sugere tentar novamente mais tarde.</li></ul> |
+| **Pós-condições**      | O investidor visualiza os dados consolidados sobre seus investimentos e pode realizar análises comparativas com a taxa de inflação. |
+| **Rastreabilidade**    | [RF26](../../elicitacao/grupo5/requisitos/#anchor_RF26)                                                                                        |
+| **Data de Criação**    | 12/12/2024                                                                                 |
+
+
+</center>
+
+Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+<font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></b></p></font>
 
 ## Bibliografia
 
