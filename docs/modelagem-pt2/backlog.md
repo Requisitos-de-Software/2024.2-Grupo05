@@ -1,48 +1,48 @@
 # Product Backlog
-## Introdução  
+## Introdução
 
 O *Product Backlog* do aplicativo do Tesouro Direto será uma lista dinâmica que reunirá todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo *Product Owner* — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo <a id="anchor_1" href="#REF1">[Mauricio e Milene]</a>. Este documento apresenta a metodologia utilizada para a construção e priorização do *Backlog*. Durante sua elaboração, dois *Product Owners* serão designados: um responsável por construir o *Backlog* e outro por priorizá-lo, devido a conflitos de horários entre os integrantes do grupo.
 
-## Metodologia  
+## Metodologia
 
-A construção do *Product Backlog* seguirá os passos descritos abaixo:  
+A construção do *Product Backlog* seguirá os passos descritos abaixo:
 
-1 - **Definição de perguntas:**  
+1 - **Definição de perguntas:**
 
-   - [Thales Euflauzino](https://github.com/thaleseuflauzino) será responsável por criar um roteiro de perguntas baseado nas histórias de usuário já existentes. 
-   - Esse roteiro servirá para explorar as necessidades e expectativas dos usuários em maior profundidade.  
+   - [Thales Euflauzino](https://github.com/thaleseuflauzino) será responsável por criar um roteiro de perguntas baseado nas histórias de usuário já existentes.
+   - Esse roteiro servirá para explorar as necessidades e expectativas dos usuários em maior profundidade.
 
-2 - **Entrevistas com o *Product Owner*:**  
+2 - **Entrevistas com o *Product Owner*:**
 
-   - [Víctor Schmidt](https://github.com/moonshinerd) realizará entrevistas com o *Product Owner*, utilizando o roteiro elaborado, para coletar informações detalhadas sobre as funcionalidades desejadas.  
+   - [Víctor Schmidt](https://github.com/moonshinerd) realizará entrevistas com o *Product Owner*, utilizando o roteiro elaborado, para coletar informações detalhadas sobre as funcionalidades desejadas.
 
-3 - **Construção do *Backlog*:**  
+3 - **Construção do *Backlog*:**
 
-   - Com base nas respostas obtidas nas entrevistas, será criado um *backlog* inicial contendo todas as funcionalidades identificadas.  
-   - Cada funcionalidade será descrita de forma clara e objetiva, empregando a técnica de histórias de usuário.  
+   - Com base nas respostas obtidas nas entrevistas, será criado um *backlog* inicial contendo todas as funcionalidades identificadas.
+   - Cada funcionalidade será descrita de forma clara e objetiva, empregando a técnica de histórias de usuário.
 
-4 - **Priorização do *Backlog*:**  
+4 - **Priorização do *Backlog*:**
 
-A priorização será realizada com base no critério DEEP (<a id="anchor_2" href="#REF2">Duarte, 2020</a>), que considera quatro aspectos principais para organização do backlog. As funcionalidades serão classificadas de acordo com níveis de prioridade (**alta**, **média** ou **baixa**) para garantir clareza e eficiência no desenvolvimento.  
+A priorização será realizada com base no critério DEEP (<a id="anchor_2" href="#REF2">Duarte, 2020</a>), que considera quatro aspectos principais para organização do backlog. As funcionalidades serão classificadas de acordo com níveis de prioridade (**alta**, **média** ou **baixa**) para garantir clareza e eficiência no desenvolvimento.
 
-  - **Detalhado:** As funcionalidades que estão mais próximas da implementação serão descritas com maior nível de detalhamento, minimizando ambiguidades durante o desenvolvimento. Essa abordagem garante que itens de **alta prioridade** estejam completamente claros e preparados para execução.  
+  - **Detalhado:** As funcionalidades que estão mais próximas da implementação serão descritas com maior nível de detalhamento, minimizando ambiguidades durante o desenvolvimento. Essa abordagem garante que itens de **alta prioridade** estejam completamente claros e preparados para execução.
 
-  - **Estimável:** Cada funcionalidade será avaliada quanto ao esforço necessário para sua implementação, considerando recursos como tempo, equipe e complexidade técnica. Funcionalidades que não podem ser estimadas com precisão poderão ser classificadas inicialmente como **baixa prioridade**, sendo revisadas posteriormente quando houver mais informações.  
+  - **Estimável:** Cada funcionalidade será avaliada quanto ao esforço necessário para sua implementação, considerando recursos como tempo, equipe e complexidade técnica. Funcionalidades que não podem ser estimadas com precisão poderão ser classificadas inicialmente como **baixa prioridade**, sendo revisadas posteriormente quando houver mais informações.
 
-  - **Emergente:** O backlog será tratado como um artefato dinâmico, sendo continuamente atualizado para refletir novas demandas ou mudanças no escopo do projeto. Funcionalidades previamente categorizadas como **baixa prioridade** podem ser reclassificadas como **alta prioridade** à medida que surgem novas necessidades ou estratégias.  
+  - **Emergente:** O backlog será tratado como um artefato dinâmico, sendo continuamente atualizado para refletir novas demandas ou mudanças no escopo do projeto. Funcionalidades previamente categorizadas como **baixa prioridade** podem ser reclassificadas como **alta prioridade** à medida que surgem novas necessidades ou estratégias.
 
-  - **Priorizado:** O valor que cada funcionalidade gera para o cliente ou para os objetivos do negócio será o principal critério para definição da prioridade.  
-     - **Alta prioridade:** Funcionalidades críticas ou que proporcionam maior valor em curto prazo.  
-     - **Média prioridade:** Funcionalidades importantes, mas que não têm impacto imediato.  
-     - **Baixa prioridade:** Funcionalidades de menor valor agregado ou que possuem menor relevância no contexto atual do projeto.  
+  - **Priorizado:** O valor que cada funcionalidade gera para o cliente ou para os objetivos do negócio será o principal critério para definição da prioridade.
+     - **Alta prioridade:** Funcionalidades críticas ou que proporcionam maior valor em curto prazo.
+     - **Média prioridade:** Funcionalidades importantes, mas que não têm impacto imediato.
+     - **Baixa prioridade:** Funcionalidades de menor valor agregado ou que possuem menor relevância no contexto atual do projeto.
 
-Dessa forma, o uso do critério DEEP possibilita um planejamento mais eficiente e adaptável, garantindo que o desenvolvimento seja direcionado às necessidades que oferecem maior impacto ao cliente e ao projeto.   
+Dessa forma, o uso do critério DEEP possibilita um planejamento mais eficiente e adaptável, garantindo que o desenvolvimento seja direcionado às necessidades que oferecem maior impacto ao cliente e ao projeto.
 
-### Definição das Perguntas  
+### Definição das Perguntas
 
-A construção do *Product Backlog* será realizada antes da elaboração das histórias de usuário, permitindo uma visão ampla das funcionalidades e necessidades do produto. O roteiro de perguntas será organizado em tópicos principais, com um link para o documento completo contendo todas as perguntas detalhadas.  
+A construção do *Product Backlog* será realizada antes da elaboração das histórias de usuário, permitindo uma visão ampla das funcionalidades e necessidades do produto. O roteiro de perguntas será organizado em tópicos principais, com um link para o documento completo contendo todas as perguntas detalhadas.
 
-- [Acesse aqui o PDF com as perguntas completas](../assets/modelagem/backlog/Perguntas%20BACKLOG.pdf)  
+- [Acesse aqui o PDF com as perguntas completas](../assets/modelagem/backlog/Perguntas%20BACKLOG.pdf)
 
 #### Tópicos Principais
 
@@ -96,7 +96,7 @@ Inclusão de usuários com necessidades especiais:
 
 ## Backlog
 ### Respostas do _Product Owner_
-- [Acesse aqui o PDF com as respostas completas](../assets/modelagem/backlog/Respostas%20BACKLOG.pdf)  
+- [Acesse aqui o PDF com as respostas completas](../assets/modelagem/backlog/Respostas%20BACKLOG.pdf)
 
 
 ### Product Backlog
@@ -562,7 +562,7 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d.. Acesso em: 11 de dezembro 2024.
-> 
+>
 > <a id="REF2" href="#anchor_2">2.</a> DUARTE, Luiz. Product Backlog - Introdução. LuizTools - Canal no Youtube, 2020. Disponível em: [Product Backlog - Introdução](https://www.youtube.com/watch?v=z4ubaBwjCsU). Acesso em: 11 de dezembro 2024.
 
 ## Bibliografia
@@ -572,4 +572,4 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
 
 | Versão | Data       | Descrição                    | Autor(es)                                        | Revisor(es)                                              |
 | ------ | ---------- | ---------------------------- | ------------------------------------------------ | -------------------------------------------------------- |
-| `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena) |
