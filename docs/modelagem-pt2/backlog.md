@@ -572,4 +572,4 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
 
 | Versão | Data       | Descrição                    | Autor(es)                                        | Revisor(es)                                              |
 | ------ | ---------- | ---------------------------- | ------------------------------------------------ | -------------------------------------------------------- |
-| `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
