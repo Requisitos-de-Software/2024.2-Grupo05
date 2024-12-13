@@ -50,7 +50,7 @@ nav:
     - Validação dos Casos de Uso: modelagem-pt1/validacaoCasodeUso.md
     - Especificação Suplementar: modelagem-pt1/especificacao-suplementar.md
   - Modelagem - Parte 2:
-    - Backlog: modelagem-pt2/backlog.md
+    - Product Backlog: modelagem-pt2/backlog.md
     - NFR Framework: modelagem-pt2/nfr_framework.md
     - Histórias de Usuário: modelagem-pt2/userstories.md
   - Verificação:
