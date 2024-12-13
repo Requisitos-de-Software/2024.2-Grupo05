@@ -794,6 +794,74 @@ Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/thaleseuflauzino" target="blank">Thales Euflauzino</a></p>
 
 
+### Cenário 10 - Dashboard com Dados de Rentabilidade e Inflação - [RF26](../../elicitacao/grupo5/requisitos/#anchor_RF26)
+
+<p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 11:</strong> Cenário 10</p>
+<table border="1">
+    <thead>
+        <tr>
+            <th colspan="2" style="text-align: center;">Cenário 10</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold;">Título</td>
+            <td>Visualização do Dashboard com Dados de Rentabilidade e Inflação [RF26]</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Objetivo</td>
+            <td>Permitir que o investidor visualize, na página inicial, informações consolidadas sobre a rentabilidade dos títulos adquiridos e a taxa de inflação atual.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Contexto</td>
+            <td>
+                <ul>
+                    <li><strong>Local:</strong> Página inicial do aplicativo Tesouro Direto.</li>
+                    <li><strong>Tempo Estimado:</strong> Menos de 5 segundos para carregar as informações.</li>
+                    <li><strong>Pré-condições:</strong> O usuário deve estar autenticado no aplicativo e o sistema deve possuir dados atualizados.</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Atores</td>
+            <td>Investidor e Sistema do Tesouro Direto.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Recursos</td>
+            <td>Aplicativo Tesouro Direto e conexão com a base de dados do Tesouro Direto.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Episódios</td>
+            <td>
+                <ol>
+                    <li>O investidor acessa o aplicativo e é direcionado à página inicial.</li>
+                    <li>O sistema carrega automaticamente os dados de rentabilidade dos títulos adquiridos.</li>
+                    <li>A taxa de inflação atual e sua variação são exibidas no dashboard.</li>
+                    <li>O investidor visualiza um resumo claro e direto das informações financeiras relevantes.</li>
+                    <li>Se necessário, o investidor interage com gráficos para detalhar informações específicas.</li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Restrições</td>
+            <td>O sistema pode apresentar limitações caso não haja conexão com a internet ou se os dados estiverem indisponíveis.</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;">Exceção</td>
+            <td>
+                <ul>
+                    <li>O sistema não consegue acessar os dados do servidor e exibe uma mensagem informando que os dados estão temporariamente indisponíveis.</li>
+                    <li>O investidor não possui títulos adquiridos, e o sistema exibe uma mensagem sugerindo a aquisição de títulos para visualizar dados no dashboard.</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
+
 ## Bibliografia
 
 > Bilheteria Digital - Cenários. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/cenarios/>. Acesso em 01 de dezembro de 2024
@@ -817,3 +885,4 @@ Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao
 | `1.4`  | 10/12/2024 |  Ajustando referencias/bibliografia        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.5`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.6`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.7`    | 12/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)   | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |

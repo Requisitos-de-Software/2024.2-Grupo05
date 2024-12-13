@@ -37,6 +37,7 @@ nav:
       - Grupo de foco: elicitacao/grupo5/grupo-de-foco.md
       - Glossário: elicitacao/grupo5/glossario.md
     - Priorização:
+      - Cronograma: elicitacao/grupo5/priorizacao/cronograma.md 
       - 100$: elicitacao/grupo5/priorizacao/100$.md
       - In or Out: elicitacao/grupo5/priorizacao/inorout.md
       - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
@@ -49,7 +50,7 @@ nav:
     - Validação dos Casos de Uso: modelagem-pt1/validacaoCasodeUso.md
     - Especificação Suplementar: modelagem-pt1/especificacao-suplementar.md
   - Modelagem - Parte 2:
-    - Backlog: modelagem-pt2/backlog.md
+    - Product Backlog: modelagem-pt2/backlog.md
     - NFR Framework: modelagem-pt2/nfr_framework.md
     - Histórias de Usuário: modelagem-pt2/userstories.md
   - Verificação:

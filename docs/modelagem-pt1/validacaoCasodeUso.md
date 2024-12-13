@@ -20,7 +20,7 @@ Para o desenvolvimento deste artefato, foram utilizadas as técnicas de encenaç
 </center>
 
 
-# Gravação
+## Gravação
 
 No vídeo 1 apresenta-se a gravação da validação dos casos de uso.
 
