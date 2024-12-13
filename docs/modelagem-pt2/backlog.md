@@ -1,7 +1,7 @@
 # Product Backlog
 ## Introdução  
 
-O *Product Backlog* do aplicativo do Tesouro Direto será uma lista dinâmica contendo todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo *Product Owner* — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo <a id="anchor_1" href="#REF1">[Mauricio e Milene]</a>. Este documento apresenta a metodologia utilizada para a construção e priorização do *Backlog*.  
+O *Product Backlog* do aplicativo do Tesouro Direto será uma lista dinâmica que reunirá todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo *Product Owner* — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo <a id="anchor_1" href="#REF1">[Mauricio e Milene]</a>. Este documento apresenta a metodologia utilizada para a construção e priorização do *Backlog*. Durante sua elaboração, dois *Product Owners* serão designados: um responsável por construir o *Backlog* e outro por priorizá-lo, devido a conflitos de horários entre os integrantes do grupo.
 
 ## Metodologia  
 
@@ -23,11 +23,20 @@ A construção do *Product Backlog* seguirá os passos descritos abaixo:
 
 4 - **Priorização do *Backlog*:**  
 
-   - A priorização será feita com base no critério DEEP (<a id="anchor_2" href="#REF2">Duarte, 2020</a>), que considera os seguintes aspectos:  
-     - **Detalhado:** As funcionalidades mais próximas de implementação terão descrições mais detalhadas.  
-     - **Estimável:** Cada funcionalidade será avaliada quanto ao esforço necessário para sua implementação.  
-     - **Emergente:** O *backlog* será atualizado continuamente para refletir novas demandas ou mudanças.  
-     - **Priorizado:** As funcionalidades que geram maior valor para o cliente terão prioridade.  
+A priorização será realizada com base no critério DEEP (<a id="anchor_2" href="#REF2">Duarte, 2020</a>), que considera quatro aspectos principais para organização do backlog. As funcionalidades serão classificadas de acordo com níveis de prioridade (**alta**, **média** ou **baixa**) para garantir clareza e eficiência no desenvolvimento.  
+
+  - **Detalhado:** As funcionalidades que estão mais próximas da implementação serão descritas com maior nível de detalhamento, minimizando ambiguidades durante o desenvolvimento. Essa abordagem garante que itens de **alta prioridade** estejam completamente claros e preparados para execução.  
+
+  - **Estimável:** Cada funcionalidade será avaliada quanto ao esforço necessário para sua implementação, considerando recursos como tempo, equipe e complexidade técnica. Funcionalidades que não podem ser estimadas com precisão poderão ser classificadas inicialmente como **baixa prioridade**, sendo revisadas posteriormente quando houver mais informações.  
+
+  - **Emergente:** O backlog será tratado como um artefato dinâmico, sendo continuamente atualizado para refletir novas demandas ou mudanças no escopo do projeto. Funcionalidades previamente categorizadas como **baixa prioridade** podem ser reclassificadas como **alta prioridade** à medida que surgem novas necessidades ou estratégias.  
+
+  - **Priorizado:** O valor que cada funcionalidade gera para o cliente ou para os objetivos do negócio será o principal critério para definição da prioridade.  
+     - **Alta prioridade:** Funcionalidades críticas ou que proporcionam maior valor em curto prazo.  
+     - **Média prioridade:** Funcionalidades importantes, mas que não têm impacto imediato.  
+     - **Baixa prioridade:** Funcionalidades de menor valor agregado ou que possuem menor relevância no contexto atual do projeto.  
+
+Dessa forma, o uso do critério DEEP possibilita um planejamento mais eficiente e adaptável, garantindo que o desenvolvimento seja direcionado às necessidades que oferecem maior impacto ao cliente e ao projeto.   
 
 ### Definição das Perguntas  
 
@@ -35,55 +44,75 @@ A construção do *Product Backlog* será realizada antes da elaboração das hi
 
 - [Acesse aqui o PDF com as perguntas completas](../assets/modelagem/backlog/Perguntas%20BACKLOG.pdf)  
 
-#### Tópicos Principais  
+#### Tópicos Principais
 
-**Específicas** 
+##### **Específicas**
+Essas perguntas focam nos dados exibidos no aplicativo e como eles serão organizados. Principais pontos incluem:
 
-   - Quais tipos de títulos e informações serão exibidos?  
-   - Como o aplicativo lidará com diferentes prazos de vencimento?  
+- **Tipos de títulos exibidos** (Tesouro Prefixado, Tesouro Selic, etc.) e detalhes como prazos de vencimento, taxas de juros e histórico de preços.
 
-**Processo de Compra**  
+- **Gerenciamento de prazos e informações financeiras**, como categorização de curto, médio e longo prazo e apresentação de rendimentos.
 
-   - Quais serão as etapas e limites do processo de compra?  
-   - Como o aplicativo lidará com agendamentos e pagamentos?  
+##### **Processo de Compra**
+Exploram as etapas e regras de aquisição de títulos:
 
-**Usabilidade**  
+- Definição de limites para compra, suporte a resgates antecipados e integração com métodos de pagamento.
 
-   - Haverá recursos de personalização ou suporte educativo?  
-   - Como o app ajudará na escolha e acompanhamento de investimentos?  
+- Gerenciamento de agendamentos, comportamento em feriados bancários e clareza sobre taxas administrativas.
 
-**Segurança**  
+- Ferramentas para comparação de opções de investimento e simulação financeira.
 
-   - Quais medidas serão tomadas para proteger dados e garantir a privacidade?  
-   - Como será a autenticação e segurança nas transações?  
+##### **Usabilidade**
+Destaque em melhorar a experiência do usuário:
 
-**Acessibilidade**  
+- Personalização de metas, artigos educativos e simuladores para tomada de decisão.
 
-* O aplicativo terá suporte a leitores de tela e temas acessíveis?  
-* Quais outras funcionalidades de acessibilidade serão implementadas?  
+- Recursos como notificações, tutoriais e barra de progresso para metas.
 
-## Gravação do Vídeo
+- Validação do perfil do usuário (expertise) e opções de temas como modo escuro.
+
+##### **Segurança**
+Garantia de privacidade e proteção de dados:
+
+- Uso de criptografia e autenticação (biometria, token, 2FA).
+
+- Suporte a login por redes sociais e protocolos seguros para informações bancárias.
+
+- Segurança em transações e atualização de dados de títulos conforme inflação e juros.
+
+##### **Acessibilidade**
+Inclusão de usuários com necessidades especiais:
+
+- Compatibilidade com leitores de tela e descrições de áudio.
+
+- Opções de alto contraste, ajuste de fontes e velocidade do áudio.
+
+- Design de interface claro para usuários com deficiência cognitiva.
+
+
+## Video de Elaboração do Product Backlog com o PO
+
+## Vídeo de Priorização do Product Backlog
 
 ## Backlog
-### Respostas do _Product Owner_ às Perguntas
+### Respostas do _Product Owner_
 - [Acesse aqui o PDF com as respostas completas](../assets/modelagem/backlog/Respostas%20BACKLOG.pdf)  
 
-### Épicos
-Para reduzir o nível de abstração presente nos temas e detalhar melhor as funcionalidades, foram registrados os épicos, que representam grandes blocos de trabalho organizados com base nas respostas do Product Owner. Cada épico descreve um objetivo geral que pode ser dividido em tarefas menores, conhecidas como histórias de usuário (user stories) ou simplesmente "histórias".
 
-Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, permitindo uma visão de alto nível do trabalho a ser realizado e facilitando a leitura e o entendimento da tabela de backlog. Após a tabela 1, estão os épicos que foram elaborados com base nas necessidades e requisitos identificados.
-
-### Tabela dos épicos
+### Product Backlog
 A tabela 1 resume os épicos, organizando-os em features e os requisitos relacionados. Além disso, o restante deste documento detalha o processo de definição dos temas, épicos e features, bem como o significado de cada um desses termos.
 
 <center>
+
+#### Tabela 1 - Product Backlog Elaborado com o Product Owner.
+
 <table>
 <thead>
   <tr>
     <th>Épico</th>
     <th>Feature</th>
     <th>Rastreabilidade</th>
-    <th>Priorização</th>
+    <th>Priorização<br>(Alta, Média ou Baixa)</th>
   </tr>
 </thead>
 <tbody>
@@ -101,7 +130,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
   </tr>
   <tr>
       <td rowspan="1">Feature 2 - Filtros de Prazo</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF36"> RF01 </a> - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento</td>
       <td>-</td>
   </tr>
 
@@ -123,23 +152,19 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td>-</td>
   </tr>
    <tr>
-      <td rowspan="7">
+      <td rowspan="6">
          <a href="#ec03-simulacoes-de-investimentos">EC03 - Simulações de Investimentos</a>
       </td>
-      <td rowspan="4">Feature 5 - Simulação de Metas</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="3">Feature 5 - Simulação de Metas</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF39"> RF39</a> - O simulador deverá possuir as informações de: título do tesouro nacional que será usado, tempo de investimento e valor que será resgatado no futuro ou valor que será investido agora.</td>
       <td>-</td>
    </tr>
-       <tr>
+   <tr>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF23"> RF23</a> - O aplicativo deve exibir a liquidez dos títulos do Tesouro Nacional na simulação.</td>
     <td>-</td>
     </tr>
        <tr>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF38"> RF38</a> - O simulador deverá possuir um questionário para obter do usuário as informações necessárias para gerar o simulador.	</td>
-    <td>-</td>
-    </tr>
-       <tr>
-    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF39"> RF39</a> - O simulador deverá possuir as informações de: título do tesouro nacional que será usado, tempo de investimento e valor que será resgatado no futuro ou valor que será investido agora.	</td>
     <td>-</td>
     </tr>
    </tr>
@@ -248,7 +273,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
    <tr>
       <td rowspan="1">Feature 13 - Acessibilidade Visual</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a> - Acessibilidade Visual está relacionada ao RNF04 - A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022.</td>
       <td>-</td>
    </tr>
 
@@ -275,16 +300,12 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
 
    <tr>
-      <td rowspan="3">
+      <td rowspan="2">
          <a href="#ec08-recursos-educativos">EC08 - Recursos Educativos</a>
       </td>
-      <td rowspan="2">Feature 16 - Artigos e Notícias</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td rowspan="1">Feature 16 - Artigos e Notícias</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF16"> RF16</a> Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto.</td>
       <td>-</td>
-      <tr>
-    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF16"> RF16</a> Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto.	</td>
-    <td>-</td>
-    </tr>
    </tr>
    <tr>
       <td rowspan="1">Feature 17 - Vídeos e Tutoriais</td>
@@ -335,7 +356,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec11-gerenciamento-de-dados-do-usuario">EC11 - Gerenciamento de Dados do Usuário</a>
       </td>
       <td rowspan="1">Feature 22 - Validação de Dados</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF41"> RF41 </a> - As contas cadastradas na aplicação deverão possuir os dados de nome, CPF, e-mail e celular do dono da conta.</td>
       <td>-</td>
    </tr>
    <tr>
@@ -363,7 +384,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
    <tr>
       <td rowspan="1">Feature 26 - Notificações de Suporte</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF13"> RF13 </a> - Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.</td>
       <td>-</td>
    </tr>
 
@@ -372,12 +393,12 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec13-funcionalidades-de-acessibilidade">EC13 - Funcionalidades de Acessibilidade</a>
       </td>
       <td rowspan="1">Feature 27 - Temas de Alto Contraste</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09"> RNF09 </a> - O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.</td>
       <td>-</td>
    </tr>
    <tr>
       <td rowspan="1">Feature 28 - Ajuste de Velocidade de Áudio</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a> - A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022.</td>
       <td>-</td>
    </tr>
 
@@ -405,18 +426,23 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
    <tr>
       <td rowspan="1">Feature 32 - Alertas de Feriados e Indisponibilidade</td>
-      <td><a href=""> RFXX </a> - Descrição</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF36"> RF36 </a> - O sistema deverá armazenar (preço unitário, rentabilidade, valor mínimo para investir, data de vencimento do título, pagamento de juros, taxa da BR, imposto de renda previsto sobre o rendimento, taxa de IOF) bem como informações a respeito do horário de funcionamento do mercado e tempo de liquidação dos juros.</td>
       <td>-</td>
    </tr>
 
 </tbody>
 </table>
 
-
-
 _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino) e [Víctor Schmidt](https://www.github.com/moonshinerd), 2024_
 
 </center>
+
+
+### Épicos
+Para reduzir o nível de abstração presente nos temas e detalhar melhor as funcionalidades, foram registrados os épicos, que representam grandes blocos de trabalho organizados com base nas respostas do Product Owner. Cada épico descreve um objetivo geral que pode ser dividido em tarefas menores, conhecidas como histórias de usuário (user stories) ou simplesmente "histórias".
+
+Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, permitindo uma visão de alto nível do trabalho a ser realizado e facilitando a leitura e o entendimento da tabela de backlog. Após a tabela 1, estão os épicos que foram elaborados com base nas necessidades e requisitos identificados.
+
 
 #### **EC01. Visualização de Títulos Públicos**
 - **Descrição**: Implementar funcionalidades para listar e exibir detalhes dos títulos do Tesouro Nacional, categorizados por prazo de vencimento.
@@ -533,8 +559,6 @@ _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino) e [Víctor 
       - Notificar o usuário sobre alterações nas taxas de juros ou inflação.
       - Enviar lembretes sobre vencimentos, agendamentos ou novas ofertas.
       - Informar feriados bancários e datas de indisponibilidade do sistema.
-
-### Priorização das Listas de Funcionalidade
 
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d.. Acesso em: 11 de dezembro 2024.
