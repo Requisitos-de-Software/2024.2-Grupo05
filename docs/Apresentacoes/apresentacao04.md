@@ -19,4 +19,4 @@ _Autor: []()_
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-`1.0` | 12/12/2024 | Criação do documento  |  |  |
+`1.0` | 12/12/2024 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
