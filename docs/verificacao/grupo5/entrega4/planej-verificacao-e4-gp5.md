@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 2 do Grupo
+# Planejamento da Verificação da Etapa 4 do Grupo
 
 ## Introdução
 
