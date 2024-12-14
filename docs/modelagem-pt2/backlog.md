@@ -599,6 +599,7 @@ Na Tabela 2, apresentada a seguir, foi realizada uma priorização por _features
 Ao calcular a média das prioridades dos requisitos relacionados a cada _feature_, foi possível obter uma visão geral mais equilibrada e estratégica, permitindo uma hierarquização mais eficiente do backlog. Isso garante que _features_ com maior impacto, baseadas na importância de seus requisitos, sejam priorizadas de maneira consistente e alinhada aos objetivos do projeto.  
 
 Os valores atribuídos às prioridades são:  
+
 - **Alta**: 5  
 - **Média**: 3  
 - **Baixa**: 1  
