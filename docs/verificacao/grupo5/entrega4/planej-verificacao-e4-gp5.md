@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 3 do projeto (Modelagem de Requisitos) do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
+O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 4 do projeto (Modelagem de Requisitos) do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
 
 ## Objetivos
 
