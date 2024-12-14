@@ -1,4 +1,4 @@
-# Apresentação 1 - 23/11/2024
+# Apresentação 3 - 07/12/2024
 
 ## Introdução 
 Essa página tem como objetivo guardar/documentar a gravação da apresentação da entrega 3.

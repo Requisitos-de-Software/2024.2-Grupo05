@@ -1,6 +1,6 @@
 site_name: ""
 repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo05
-
+      
 extra_css:
   - stylesheets/style.css
 nav:
@@ -49,10 +49,10 @@ nav:
     - Casos de Uso: modelagem-pt1/casos-de-uso.md
     - Validação dos Casos de Uso: modelagem-pt1/validacaoCasodeUso.md
     - Especificação Suplementar: modelagem-pt1/especificacao-suplementar.md
-  - Modelagem - Parte 2:
-    - Product Backlog: modelagem-pt2/backlog.md
-    - NFR Framework: modelagem-pt2/nfr_framework.md
-    - Histórias de Usuário: modelagem-pt2/userstories.md
+    - Ágil:
+      - Product Backlog: modelagem-pt2/backlog.md
+      - NFR Framework: modelagem-pt2/nfr_framework.md
+      - Histórias de Usuário: modelagem-pt2/userstories.md
   - Verificação:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
@@ -105,3 +105,9 @@ theme:
         name: Trocar para modo claro
   icon:
     repo: fontawesome/brands/github
+
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
