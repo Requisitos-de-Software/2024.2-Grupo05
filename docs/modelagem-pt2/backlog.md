@@ -657,5 +657,5 @@ Se precisar de mais alterações, estou à disposição!
 | Versão | Data       | Descrição                    | Autor(es)                                        | Revisor(es)                                              |
 | ------ | ---------- | ---------------------------- | ------------------------------------------------ | -------------------------------------------------------- |
 | `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena)  |
-| `1.1`  | 14/12/2024 | Adicionando videos, respostas do PO, elaboração e priorização do backlog, criação dos épicos, etc. | [Grupo](../../) |   |
+| `1.1`  | 14/12/2024 | Adicionando videos, respostas do PO, elaboração e priorização do backlog, criação dos épicos, etc. | [Grupo](../../) | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.2`  | 14/12/2024 | Elaboração da Tabela 2 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |   |
