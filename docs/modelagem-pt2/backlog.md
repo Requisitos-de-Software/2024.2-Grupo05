@@ -51,7 +51,7 @@ Essas perguntas focam nos dados exibidos no aplicativo e como eles serão organi
 
 - **Tipos de títulos exibidos** (Tesouro Prefixado, Tesouro Selic, etc.) e detalhes como prazos de vencimento, taxas de juros e histórico de preços.
 
-- **Gerenciamento de prazos e informações financeiras**, como categorização de curto, Média e longo prazo e apresentação de rendimentos.
+- **Gerenciamento de prazos e informações financeiras**, como categorização de curto, médio e longo prazo e apresentação de rendimentos.
 
 ##### **Processo de Compra**
 Exploram as etapas e regras de aquisição de títulos:
