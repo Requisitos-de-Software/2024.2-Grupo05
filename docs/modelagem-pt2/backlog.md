@@ -641,9 +641,10 @@ Os valores atribuídos às prioridades são:
 |31|Notificações de Taxas e Inflação||
 |32|Alertas de Feriados e Indisponibilidade||
 
+_Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino) e [Víctor Schmidt](https://www.github.com/moonshinerd), 2024_
+
 </center>
 
-Se precisar de mais alterações, estou à disposição!
 ## Referências Bibliográficas
 > <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d.. Acesso em: 11 de dezembro 2024.
 > 
