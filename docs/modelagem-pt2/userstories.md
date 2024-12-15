@@ -358,154 +358,153 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US08 - O aplicativo deverá possuir uma tela intitulada “Fale Conosco” com informações de contato e perguntas frequentes dos usuários.
+### US08 - Fale Conosco
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 9 - US03</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Fale Conosco</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">USXX</th>
+          <th colspan="2" style="text-align: center;">US08 - Fale Conosco</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Exemplo de história 1</td>
+          <td>Eu, como usuário, desejo ter acesso a informações de contato com a equipe do tesouro direto e perguntas frequentes realizadas pelos usuários, para obter ajuda com as minhas dúvidas referentes às funcionalidades do aplicativo.</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec12-integracao-com-canais-de-atendimento">EC12</a> - Integração com Canais de Atendimento</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Critério 1</li>
-                <li>Critério 2</li>
+                <li>As informações de contato e perguntas frequentes deverão estar disponíveis em uma tela chamada "Fale Conosco"</li>
+                <li>A tela "Fale Conosco" deverá possuir pelo menos 5 perguntas frequentes</li>
+                <li>A tela "Fale Conosco" deverá possuir pelo menos um número de contato e um email</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Alta</td>
+          <td>Baixa</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US08</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US09 - Permitir a visualização dos dados cadastrais do usuário (nome, cpf, email, celular).
+### US09 - Visualização dos dados cadastrais do usuário
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 10 - US09 - Visualização dos dados cadastrais do usuário</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 10</b> - História de Usuário Visualização dos dados cadastrais do usuário</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">USXX</th>
+          <th colspan="2" style="text-align: center;">US09 - Visualização dos dados cadastrais do usuário</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Exemplo de história 1</td>
+          <td>Eu, como usuário, desejo visualizar minhas informações cadastradas na aplicação para obter informação a respeito dos meus dados na aplicação</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec11-gerenciamento-de-dados-do-usuario">EC11</a> - Gerencimaneot de Dados do Usuário</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Critério 1</li>
-                <li>Critério 2</li>
+                <li>Deve ser possível visualizar os dados de nome, email, cpf e telefone do usuário</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Alta</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US09</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US10 - Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.
+### US10 - Notificações de lembrete de metas ou vencimento de títulos
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 11 - US10 - Notificações de lembrete de metas ou vencimento de títulos</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 11</b> - História de Usuário Notificações de lembrete de metas ou vencimento de títulos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">USXX</th>
+          <th colspan="2" style="text-align: center;">US10 - Notificações de lembrete de metas ou vencimento de títulos</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Exemplo de história 1</td>
+          <td>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos e <a href="../backlog/#ec12-integracao-com-canais-de-atendimento">EC12</a> - Integração com Canais de Atendimento</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Critério 1</li>
-                <li>Critério 2</li>
+                <li>O usuário deve receber notificações sempre que faltar 1 dia, 1 semana e 1 mês para o vencimento dos títulos e metas</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Alta</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US10</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US11 - Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.
+### US11 - Transferência automática entre investimentos
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 12 - US11 - Transferência automática entre investimentos</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 12</b> - Histórias de Usuário Transferência automática entre investimentos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">USXX</th>
+          <th colspan="2" style="text-align: center;">US11 - Transferência automática entre investimentos</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Exemplo de história 1</td>
+          <td>Eu, como usuário, desejo que seja feita uma transferência automática entre investimentos com base em minhas metas, para que o meu dinheiro continue investido quando o prazo do investimento for finalizado</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
@@ -515,52 +514,51 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Critério 1</li>
-                <li>Critério 2</li>
+                <li>Todas as metas deverão fazer a transferência automática assim que o investimento aplicado tenha vencido</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Alta</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US11</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US12 - O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores.
+### US12 - Relatórios mensais de investimento
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 13 - US12 - Relatórios mensais de investimento</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 13</b> - Histórias de Usuário Relatórios mensais de investimento</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">USXX</th>
+          <th colspan="2" style="text-align: center;">US12 - Relatórios mensais de investimento</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Exemplo de história 1</td>
+          <td>Eu, como usuário, desejo receber relatórios mensais dos meus investimentos, para poder visualizar dados de evolução dos investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec04-painel-de-controle-e-relatorios">EC04</a> - Painel de Controle e Relatórios</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Critério 1</li>
-                <li>Critério 2</li>
+                <li>Os usuários devem receber relatórios todos os meses</li>
+                <li>Todos os investimentos ativos realizados pelo usuário devem estar presentes no relatório</li>
               </ol>
           </td>
       </tr>
@@ -570,85 +568,90 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US12</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US13 - Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto.
+### US13 - Recursos educativos sobre como investir no Tesouro Direto
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 14 - US13 - Recursos educativos sobre como investir no Tesouro Direto</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 14</b> - História de Usuário Recursos educativos sobre como investir no Tesouro Direto</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">USXX</th>
+          <th colspan="2" style="text-align: center;">US13 - Recursos educativos sobre como investir no Tesouro Direto</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Exemplo de história 1</td>
+          <td>Eu, como usuário, desejo visualizar recursos educativos para aprender mais sobre como investir no Tesouro Direto</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec08-recursos-educativos">EC08</a> - Recursos Educativos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Critério 1</li>
-                <li>Critério 2</li>
+                <li>Os recursos educativos devem conter textos, fotos e vídeos</li>
+                <li>Os recursos educativos devem conter um glossário para mais termos utilizados no app do tesouro direto</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Alta</td>
+          <td>Baixa</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US13</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US14 - Oferecer integração com carteiras digitais de outros bancos digitais para pagamento direto de investimentos. Atualmente as instituições financeiras integradas são “INTER DTVM LTDA”, “NU INVEST CORRETORA DE VALORES S.A” e “XP INVESTIMENTOS CCTVM S/A”
+### US14 - Integração com carteiras digitais
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 15 - US14 - Integração com carteiras digitais</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 15</b> - Histórias de Usuário Integração com carteiras digitais</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">USXX</th>
+          <th colspan="2" style="text-align: center;">US14 - Integração com carteiras digitais</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Exemplo de história 1</td>
+          <td>Eu, como usuário, desejo que o aplicativo possua integração com carteiras digitais para que eu possa realizar a compra dos títulos do tesouro direto</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec02-gerenciamento-de-investimentos">EC02</a> - Gerenciamento de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Critério 1</li>
-                <li>Critério 2</li>
+                <li>O aplicativo deve possuir integração com as seguintes instituições financeiras:
+                    <ul>
+                        <li>INTER DTVM LTDA</li>
+                        <li>NU INVEST CORRETORA DE VALORES S.A</li>
+                        <li>XP INVESTIMENTOS CCTVM S/A</li>
+                    </ul>
+                </li>
               </ol>
           </td>
       </tr>
@@ -658,12 +661,12 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US14</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
 ### US15 - Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação.
