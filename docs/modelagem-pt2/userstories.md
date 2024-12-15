@@ -17,16 +17,16 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td>Exemplo de história 1</td>
-          <td>Tema 1</td>
+          <td>Épico 1</td>
           <td>
             <ol>
               <li>Critério 1</li>
@@ -42,235 +42,232 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 
 ## Histórias de Usuário
 
-### US01 - O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento.
+### US01 - Visualizar a lista de títulos públicos disponíveis
 
 <details>
-<summary>Tabela 2 - US01</summary>
-<font size="2"><p style="text-align: center"><bol>Tabela 2</bol> - US01</p></font>
+<summary>Tabela 2 - US01 - Visualizar a lista de títulos públicos disponíveis</summary>
+<font size="2"><p style="text-align: center"><bol>Tabela 2</bol> - História de Usuário Visualizar a lista de títulos públicos disponíveis</p></font>
 <table border="1">
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td> Eu, como usuário, desejo visualizar a lista de títulos públicos disponíveis e suas características principais como nome, título, rentabilidade, valor mínimo e vencimento para conhecer mais sobre os títulos e realizar investimentos. </td>
+          <td> <a href="../backlog/#ec01-visualizacao-de-titulos-publicos">EC01</a> - Visualização de Títulos Públicos </td>
           <td>
             <ol>
-              <li> - </li>
-              <li> - </li>
+              <li> Os Títulos deverão ser exibidos de ordem do mais recente para o mais antigo </li>
+              <li> Os títulos devem ser agrupados de acordo com o seu tipo, ou seja, agrupados por títulos vinculados a Selic, vinculados à inflação e pré-fixados. </li>
             </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+          <td> Alta </td>
+          <td> US01 </td>
       </tr>
   </tbody>
 </table>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US02 - 	O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação.
+### US02 - 	Simulação de investimento nos títulos
 
 <details>
-<summary>Tabela 3 - US02</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - US02</p></font>
+<summary>Tabela 3 - US02 - 	Simulação de investimento nos títulos SELIC, Prefixado e Inflação.</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Simulação de investimento nos títulos SELIC, Prefixado e Inflação.</p></font>
 <table border="1">
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td> Eu, como usuário, desejo realizar a simulação da evolução do meu título para planejar os meus investimentos. </td>
+          <td> <a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de investimentos </td>
           <td>
             <ol>
-              <li> - </li>
-              <li> - </li>
+              <li> A simulação deverá estar disponível para todos os títulos listados no aplicativo </li>
             </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+          <td> Alta </td>
+          <td> US02 </td>
       </tr>
   </tbody>
 </table>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US03 - 	O sistema deve permitir o resgate antecipado de títulos, com cálculo automático do valor líquido baseado na data de resgate e na rentabilidade acumulada.
+### US03 - Resgate antecipado de títulos
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 4 - US03 - Resgate antecipado de títulos</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Resgate antecipado de títulos</p></font>
 <table border="1">
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td> Eu, como usuário, desejo realizar o resgate antecipado dos títulos, para obter imediatamente o valor investido nesse título. </td>
+          <td> <a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos </td>
           <td>
             <ol>
-              <li> - </li>
-              <li> - </li>
+              <li> O cálculo do valor líquido que será obtido no resgate deverá ser realizado automaticamente com base na data de resgate e rentabilidade acumulada </li>
+              <li> O resgate antecipado deve estar disponível em todos os títulos do aplicativo </li>
             </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+          <td> Alta </td>
+          <td> US03 </td>
       </tr>
   </tbody>
 </table>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US04 - Oferecer funcionalidade para salvar metas de investimentos (Sonhos).
+### US04 - Salvar metas de investimentos (Sonhos).
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 5 - US04 - Salvar metas de investimentos (Sonhos)</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 5</b> - História de Usuário Salvar metas de investimentos (Sonhos)</p></font>
 <table border="1">
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td> Eu, como usuário, desejo salvar as minhas metas de investimento no aplicativo. </td>
+          <td> <a href="../backlog/#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09</a> - Personalização de Metas e Planejamento Financeiro </td>
           <td>
             <ol>
-              <li> - </li>
-              <li> - </li>
+              <li> O usuário deve poder criar quantas metas quiser </li>
+              <li> O usuário deve ser capaz de customizar as metas definindo um nome para a meta e quantidade de dinheiro que deseja investir </li>
             </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+          <td> Baixa </td>
+          <td> US04 </td>
       </tr>
   </tbody>
 </table>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US05 - Permitir simulação e planejamento de aposentadoria indicando o ano esperado de aposentadoria.
+### US05 - Simulação e planejamento de aposentadoria
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 6 - US05 - Simulação e planejamento de aposentadoria</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 6</b> - História de Usuário Simulação e planejamento de aposentadoria</p></font>
 <table border="1">
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td> Eu, como usuário, desejo realizar a simulação e o planejamento financeiro da minha aposentadoria para obter esses dados com base nos títulos do tesouro nacional </td>
+          <td> <a href="../backlog/#ec10-simuladores-avancados">EC10</a> - Simuladores Avançados </td>
           <td>
             <ol>
-              <li> - </li>
-              <li> - </li>
+              <li> Para realizar a simulação o usuário deve indicar o ano esperado de aposentadoria </li>
+              <li> A simulação de aposentadoria deve estar disponível para todos os títulos públicos </li>
             </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+          <td> Alta </td>
+          <td> US05 </td>
       </tr>
   </tbody>
 </table>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US06 - Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
+### US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 7 - US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 7</b> História de Usuário Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira</p></font>
 <table border="1">
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td> Eu, como usuário, desejo realizar a consulta à taxa de custódia da B3 e a taxa de administração da instituição financeira na qual o título será adquirido, para entender os custos relacionados ao meu investimento de interesse </td>
+          <td> <a href="../backlog/#ec04-painel-de-controle-e-relatorios">EC04</a> - Painel de Controle e Relatórios </td>
           <td>
             <ol>
-              <li> - </li>
-              <li> - </li>
+              <li> Deve estar disponível as taxas administrativas de todas as instituições vinculadas ao aplicativo do tesouro direto. </li>
             </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+          <td> Alta </td>
+          <td> US06 </td>
       </tr>
   </tbody>
 </table>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US07 - Permitir a consulta de operações de compra de títulos do tesouro nacional realizadas e agendadas na aplicação.
+### US07 - Consulta de operações de compra realizadas e agendadas
 
 <details>
-<summary>Tabela 4 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<summary>Tabela 8 - US07 - Consulta de operações de compra realizadas e agendadas</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 8</b> - História de Usuário Consulta de operações de compra realizadas e agendadas</p></font>
 <table border="1">
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td> Eu, como usuário, desejo realizar a consulta de compras realizadas e agendadas na aplicação para me atualizar da situação dos meus investimentos. </td>
+          <td> <a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos - Processo de Compra de Títulos </td>
           <td>
             <ol>
-              <li> - </li>
-              <li> - </li>
+              <li> Todos os títulos que foram adiquiridos através do aplicativo deverão exibir o seu status de compra </li>
             </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+          <td> Alta </td>
+          <td> US07 </td>
       </tr>
   </tbody>
 </table>
-<font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
 ### US08 - O aplicativo deverá possuir uma tela intitulada “Fale Conosco” com informações de contato e perguntas frequentes dos usuários.
@@ -282,10 +279,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -315,10 +312,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -348,10 +345,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -381,10 +378,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -414,10 +411,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -447,10 +444,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -480,10 +477,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -513,10 +510,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -546,10 +543,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -579,10 +576,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -612,10 +609,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -636,7 +633,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
-### US19 - O sistema deverá disponibilizar uma ferramenta para simular a evolução do investimento em um título do tesouro nacional em comparação com outras opções de investimento como a poupança, LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio), Fundo de Renda Fixa Referenciado DI e CDB (Certificado de Depósito Bancário).
+### US19 - O sistema deverá disponibilizar uma ferramenta para simular a evolução do investimento em um título do tesouro nacional em comparação com outras opções de investimento como a poupança, LCI (Letra de Crédito Imobiliário) e LCA (Letra de Crédito do Agronegócio), Fundo de Renda Fixa Referenciado ID e CDB (Certificado de Depósito Bancário).
 
 <details>
 <summary>Tabela 4 - US03</summary>
@@ -645,10 +642,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -678,10 +675,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -711,10 +708,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -744,10 +741,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -777,10 +774,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -810,10 +807,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -843,10 +840,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -876,10 +873,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -909,10 +906,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -942,10 +939,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -975,10 +972,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -1008,10 +1005,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -1041,10 +1038,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -1074,10 +1071,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -1107,10 +1104,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -1140,10 +1137,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
@@ -1173,10 +1170,10 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
   <thead>
       <tr>
           <th>História de Usuário</th>
-          <th>Tema</th>
+          <th>Épico</th>
           <th>Critérios de Aceitação</th>
           <th>Prioridade</th>
-          <th>DI</th>
+          <th>ID</th>
       </tr>
   </thead>
   <tbody>
