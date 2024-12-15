@@ -13,31 +13,42 @@ Para realizar a criação das histórias de usuário, foi utilizado o seguinte m
 Não somente isso, mas tendo como base o modelo de documentação de histórias de usuário definido pelo ministério da agricultura e pecuária <a href="REF2">[2]</a>, as histórias de usuário serão definidas com base no modelo descrito na tabela 1:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
+          <td style="font-weight: bold;">História de Usuário</td>
           <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
           <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li>Critério 1</li>
-              <li>Critério 2</li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
           <td>Alta</td>
-          <td>001</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: [Maria Helena](https://github.com/MariaCHelena), 2024</p></font>
 
 ## Histórias de Usuário
@@ -47,31 +58,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 2 - US01 - Visualizar a lista de títulos públicos disponíveis</summary>
 <font size="2"><p style="text-align: center"><bol>Tabela 2</bol> - História de Usuário Visualizar a lista de títulos públicos disponíveis</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">US01 - Visualizar a lista de títulos públicos disponíveis</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> Eu, como usuário, desejo visualizar a lista de títulos públicos disponíveis e suas características principais como nome, título, rentabilidade, valor mínimo e vencimento para conhecer mais sobre os títulos e realizar investimentos. </td>
-          <td> <a href="../backlog/#ec01-visualizacao-de-titulos-publicos">EC01</a> - Visualização de Títulos Públicos </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, como usuário, desejo visualizar a lista de títulos públicos disponíveis e suas características principais como nome, título, rentabilidade, valor mínimo e vencimento para conhecer mais sobre os títulos e realizar investimentos.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec01-visualizacao-de-titulos-publicos">EC01</a> - Visualização de Títulos Públicos</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
             <ol>
               <li> Os Títulos deverão ser exibidos de ordem do mais recente para o mais antigo </li>
               <li> Os títulos devem ser agrupados de acordo com o seu tipo, ou seja, agrupados por títulos vinculados a Selic, vinculados à inflação e pré-fixados. </li>
             </ol>
           </td>
-          <td> Alta </td>
-          <td> US01 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US01</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
@@ -80,30 +102,41 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 3 - US02 - 	Simulação de investimento nos títulos SELIC, Prefixado e Inflação.</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Simulação de investimento nos títulos SELIC, Prefixado e Inflação.</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">US02 - 	Simulação de investimento nos títulos SELIC, Prefixado e Inflação</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> Eu, como usuário, desejo realizar a simulação da evolução do meu título para planejar os meus investimentos. </td>
-          <td> <a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de investimentos </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, como usuário, desejo realizar a simulação da evolução do meu título para planejar os meus investimentos.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de investimentos</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
             <ol>
               <li> A simulação deverá estar disponível para todos os títulos listados no aplicativo </li>
             </ol>
           </td>
-          <td> Alta </td>
-          <td> US02 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US02</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
@@ -112,31 +145,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03 - Resgate antecipado de títulos</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Resgate antecipado de títulos</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">US03 - Resgate antecipado de títulos</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> Eu, como usuário, desejo realizar o resgate antecipado dos títulos, para obter imediatamente o valor investido nesse título. </td>
-          <td> <a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, como usuário, desejo realizar o resgate antecipado dos títulos, para obter imediatamente o valor investido nesse título.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
             <ol>
               <li> O cálculo do valor líquido que será obtido no resgate deverá ser realizado automaticamente com base na data de resgate e rentabilidade acumulada </li>
               <li> O resgate antecipado deve estar disponível em todos os títulos do aplicativo </li>
             </ol>
           </td>
-          <td> Alta </td>
-          <td> US03 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US03</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
@@ -145,31 +189,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 5 - US04 - Salvar metas de investimentos (Sonhos)</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 5</b> - História de Usuário Salvar metas de investimentos (Sonhos)</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">US04 - Salvar metas de investimentos (Sonhos)</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> Eu, como usuário, desejo salvar as minhas metas de investimento no aplicativo. </td>
-          <td> <a href="../backlog/#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09</a> - Personalização de Metas e Planejamento Financeiro </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, como usuário, desejo salvar as minhas metas de investimento no aplicativo.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09</a> - Personalização de Metas e Planejamento Financeiro</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
             <ol>
               <li> O usuário deve poder criar quantas metas quiser </li>
               <li> O usuário deve ser capaz de customizar as metas definindo um nome para a meta e quantidade de dinheiro que deseja investir </li>
             </ol>
           </td>
-          <td> Baixa </td>
-          <td> US04 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Baixa</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US04</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
@@ -178,31 +233,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 6 - US05 - Simulação e planejamento de aposentadoria</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 6</b> - História de Usuário Simulação e planejamento de aposentadoria</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">US05 - Simulação e planejamento de aposentadoria</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> Eu, como usuário, desejo realizar a simulação e o planejamento financeiro da minha aposentadoria para obter esses dados com base nos títulos do tesouro nacional </td>
-          <td> <a href="../backlog/#ec10-simuladores-avancados">EC10</a> - Simuladores Avançados </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, como usuário, desejo realizar a simulação e o planejamento financeiro da minha aposentadoria para obter esses dados com base nos títulos do tesouro nacional</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec10-simuladores-avancados">EC10</a> - Simuladores Avançados </td></td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
             <ol>
               <li> Para realizar a simulação o usuário deve indicar o ano esperado de aposentadoria </li>
               <li> A simulação de aposentadoria deve estar disponível para todos os títulos públicos </li>
             </ol>
           </td>
-          <td> Alta </td>
-          <td> US05 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US05</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
@@ -211,30 +277,41 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 7 - US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 7</b> História de Usuário Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> Eu, como usuário, desejo realizar a consulta à taxa de custódia da B3 e a taxa de administração da instituição financeira na qual o título será adquirido, para entender os custos relacionados ao meu investimento de interesse </td>
-          <td> <a href="../backlog/#ec04-painel-de-controle-e-relatorios">EC04</a> - Painel de Controle e Relatórios </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, como usuário, desejo realizar a consulta à taxa de custódia da B3 e a taxa de administração da instituição financeira na qual o título será adquirido, para entender os custos relacionados ao meu investimento de interesse</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec04-painel-de-controle-e-relatorios">EC04</a> - Painel de Controle e Relatórios</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
             <ol>
               <li> Deve estar disponível as taxas administrativas de todas as instituições vinculadas ao aplicativo do tesouro direto. </li>
             </ol>
           </td>
-          <td> Alta </td>
-          <td> US06 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US06</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
@@ -243,30 +320,41 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 8 - US07 - Consulta de operações de compra realizadas e agendadas</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 8</b> - História de Usuário Consulta de operações de compra realizadas e agendadas</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">US07 - Consulta de operações de compra realizadas e agendadas</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> Eu, como usuário, desejo realizar a consulta de compras realizadas e agendadas na aplicação para me atualizar da situação dos meus investimentos. </td>
-          <td> <a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos - Processo de Compra de Títulos </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, como usuário, desejo realizar a consulta de compras realizadas e agendadas na aplicação para me atualizar da situação dos meus investimentos.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos - Processo de Compra de Títulos</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
             <ol>
               <li> Todos os títulos que foram adiquiridos através do aplicativo deverão exibir o seu status de compra </li>
             </ol>
           </td>
-          <td> Alta </td>
-          <td> US07 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US07</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
@@ -275,31 +363,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -308,31 +407,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -341,31 +451,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -374,31 +495,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -407,31 +539,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -440,31 +583,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -473,31 +627,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -506,31 +671,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -539,31 +715,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -572,31 +759,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -605,31 +803,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -638,31 +847,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -671,31 +891,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -704,31 +935,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -737,31 +979,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -770,31 +1023,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -803,31 +1067,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -836,31 +1111,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -869,31 +1155,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -902,31 +1199,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -935,31 +1243,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -968,31 +1287,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -1001,31 +1331,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -1034,31 +1375,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -1067,31 +1419,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -1100,31 +1463,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -1133,31 +1507,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
@@ -1166,31 +1551,42 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <details>
 <summary>Tabela 4 - US03</summary>
 <font size="2"><p style="text-align: center"><b>Tabela 3</b> - Template Histórias de Usuário</p></font>
+<div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th>História de Usuário</th>
-          <th>Épico</th>
-          <th>Critérios de Aceitação</th>
-          <th>Prioridade</th>
-          <th>ID</th>
+          <th colspan="2" style="text-align: center;">USXX</th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td> - </td>
-          <td> - </td>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Exemplo de história 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td>Épico 1</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
-            <ol>
-              <li> - </li>
-              <li> - </li>
-            </ol>
+              <ol>
+                <li>Critério 1</li>
+                <li>Critério 2</li>
+              </ol>
           </td>
-          <td> - </td>
-          <td> - </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>USXX</td>
       </tr>
   </tbody>
 </table>
+</div>
 <font size="2"><p style="text-align: center">Autor: <a href=""> - </a>, 2024</p></font>
 </details>
 
