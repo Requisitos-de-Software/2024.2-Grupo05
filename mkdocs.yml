@@ -43,7 +43,7 @@ nav:
       - Three Level Scale: elicitacao/grupo5/priorizacao/threelevelscale.md
     - Requisitos Elicitados: elicitacao/grupo5/requisitos.md
 
-  - Modelagem - Parte 1:
+  - Modelagem:
     - Léxicos: modelagem-pt1/lexicos.md
     - Cenários: modelagem-pt1/cenarios.md
     - Casos de Uso: modelagem-pt1/casos-de-uso.md
