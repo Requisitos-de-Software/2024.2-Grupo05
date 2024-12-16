@@ -220,6 +220,15 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 | NFR | Impacto |
 |-----|---------|
+|Navegação|
+|Clareza das Informações|
+|Assistência ao Usuário|
+|Personalização|
+|Legibilidade|
+|Feedback ao Usuário|
+|Filtros de Investimentos|
+|Simulações de Investimento|
+|Notificações|
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
 </center>
@@ -252,6 +261,15 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 | NFR | Impacto |
 |-----|---------|
+|Compatibilidade com Leitores de Tela|  
+|Tamanho Ajustável de Fontes|  
+|Descrições Alternativas para Imagens|  
+|Navegação por Teclado|  
+|Apoio a Comandos por Voz|    
+|Indicação de Erros Visíveis e Audíveis|  
+|Personalização de Interface para Necessidades Específicas|  
+|Modo de Alto Contraste|   
+|Compatibilidade com Tecnologias Assistivas|  
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
 </center>
@@ -283,6 +301,13 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 | NFR | Impacto |
 |-----|---------|
+|Velocidade de Carregamento|  
+|Consumo de Recursos do Dispositivo|  
+|Tempo de Resposta para Consultas|   
+|Agilidade na Navegação Entre Seções|
+|Rapidez na Simulação de Investimentos|  
+|Eficiência na Aplicação de Filtros|  
+|Respostas Instantâneas a Ações do Usuário|  
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
 </center>
@@ -314,6 +339,16 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 | NFR | Impacto |
 |-----|---------|
+|Estabilidade do Aplicativo|  
+|Tolerância a Falhas|  
+|Uso Eficiente de Memória|  
+|Compatibilidade com Diferentes Dispositivos|  
+|Desempenho em Redes de Baixa Velocidade|  
+|Escalabilidade para Altos Volumes de Usuários|  
+|Tempo de Inicialização|  
+|Capacidade de Processamento Simultâneo|  
+|Resiliência a Interrupções de Conexão|  
+|Atualizações Sem Impacto na Experiência|
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
 </center>
