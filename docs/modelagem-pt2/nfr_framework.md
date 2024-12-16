@@ -1,5 +1,22 @@
 # NFR Framework
 
+<!-- a definição do RNF e as fontes de evidência na literatura? 
+Adicionar referência bibliográfica da fonte e foto do texto da referência explicando NFR
+Framework.
+
+o cartão de especificação do RNF?
+Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o
+que é o cartão de especificação do RNF.
+
+Os softgoals condizem com o contexto?
+Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o
+que é softgoals.
+Autor:
+
+Softgoals representam metas bem definidas?
+
+Os impactos foram corretamente propagados? -->
+
 ## Introdução
 
 O NFR Framework (Non-Functional Requirements Framework) é uma abordagem desenvolvida por Lawrence Chung e colaboradores para tratar requisitos não funcionais de forma sistemática e qualitativa. Diferentemente dos requisitos funcionais, que têm critérios claros de satisfação, os requisitos não funcionais (NFRs) são subjetivos e frequentemente envolvem decisões de compromisso (trade-offs). O framework auxilia no processo de identificação, modelagem e análise desses requisitos, permitindo que desenvolvedores considerem aspectos como segurança, desempenho, usabilidade e manutenibilidade durante o design de sistemas.
@@ -96,12 +113,12 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 | Justificativa: Garantir que o aplicativo seja acessível a todas as pessoas, incluindo aquelas com deficiências.
 | Origem do Requisisto: Regulamentações técnicas e normativas.
 | Critério de Aceitação: Certificação de conformidade com a norma NBR 17060:2022 após auditoria.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Necessidade de ajustes adicionais na interface.
 | História: Adicionado após revisão normativa.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Víctor Schmidt](https://github.com/moonshinerd)
 
 </center>
 
@@ -115,12 +132,12 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 | Justificativa: Permitir que o aplicativo seja utilizado por pessoas diferentes regiões.
 | Origem do Requisisto: Pesquisa de mercado global.
 | Critério de Aceitação: Interface completamente traduzida para os idiomas suportados, com português como padrão.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Aumento de custo e tempo de desenvolvimento.
 | História: Adicionado após feedback de clientes internacionais.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Júlia Takaki](https://github.com/juliatakaki)
 
 </center>
 
@@ -128,18 +145,18 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 
 <b>Tabela 4</b> - Cartão de Especificação 4
 
-| <a href="#anchor_RNF08">RNF08</a> | Classificação: Usabilidade |
+| <a href="#anchor_RNF08">RNF08</a> | Classificação: Eficiência |
 |---------------| ------------|
 | Descrição: O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo.
 | Justificativa: Melhorar a navegação e o acesso rápido a funcionalidades importantes.
 | Origem do Requisisto: Pesquisa de usabilidade.
 | Critério de Aceitação: Testes de usabilidade comprovarem que o objetivo é alcançado em no máximo 3 cliques.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Nenhum identificado.
 | História: Introduzido após feedback de usuários sobre dificuldade de navegação.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)
 
 </center>
 
@@ -153,51 +170,46 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 | Justificativa: Reduzir o cansaço visual e atender preferências dos usuários.
 | Origem do Requisisto: Pesquisa de satisfação do usuário.
 | Critério de Aceitação: Tema escuro implementado e acessível a partir das configurações do aplicativo.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Nenhum identificado.
 | História: Adicionado com base em tendências de mercado.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Maia Helena](https://github.com/MariaCHelena)
 
 </center>
 
 ### NFR 00 - Geral
 
+![nfrgeraladptado](image.png)
 
-### NFR 01 - 
-
-#### Requisitos Não-Funcionais - 
-
-#### Propagação dos Impactos - 
-
-
-### NFR 02 - 
+### NFR 01 - Usabilidade
 
 #### Requisitos Não-Funcionais - 
 
 #### Propagação dos Impactos - 
 
 
-### NFR 03 - 
+### NFR 02 - Acessiblidade
 
 #### Requisitos Não-Funcionais - 
 
 #### Propagação dos Impactos - 
 
 
-### NFR 04 - 
+### NFR 03 - Eficiência
 
 #### Requisitos Não-Funcionais - 
 
 #### Propagação dos Impactos - 
 
 
-### NFR 05 - 
+### NFR 04 - Desempenho
 
 #### Requisitos Não-Funcionais - 
 
 #### Propagação dos Impactos - 
+
 
 
 ## Requisitos Não-Funcionais
