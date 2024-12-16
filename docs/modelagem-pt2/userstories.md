@@ -394,9 +394,11 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Baixa</td>
+          <td>Baixa</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
+          <td>US08</td>
           <td>US08</td>
       </tr>
   </tbody>
@@ -439,10 +441,11 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Média</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>USXX</td>
+          <td>US09</td>
       </tr>
   </tbody>
 </table>
@@ -484,6 +487,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Média</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
@@ -495,6 +499,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
 </details>
 
+### US11 - Transferência automática entre investimentos
 ### US11 - Transferência automática entre investimentos
 
 <details>
@@ -529,9 +534,11 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Média</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
+          <td>US11</td>
           <td>US11</td>
       </tr>
   </tbody>
@@ -578,6 +585,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       <tr>
           <td style="font-weight: bold;">ID</td>
           <td>US12</td>
+          <td>US12</td>
       </tr>
   </tbody>
 </table>
@@ -619,9 +627,11 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Baixa</td>
+          <td>Baixa</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
+          <td>US13</td>
           <td>US13</td>
       </tr>
   </tbody>
@@ -630,6 +640,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
 </details>
 
+### US14 - Integração com carteiras digitais
 ### US14 - Integração com carteiras digitais
 
 <details>
@@ -667,6 +678,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
+          <td>US14</td>
           <td>US14</td>
       </tr>
   </tbody>
