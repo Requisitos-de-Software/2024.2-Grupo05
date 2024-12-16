@@ -198,9 +198,9 @@ Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais a
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
 
-- RNF0X: 
-- RNF0X: 
-- RNF0X: 
+- RNF04: Infere que a interface do sistema deve ser desenhada com base em diretrizes técnicas que garantam uma experiência intuitiva e eficiente para o usuário, conforme a norma NBR 17060:2022.
+- RNF08: Infere que o sistema deve permitir que o perfil de recomendação de investimentos seja acessado em até 3 cliques, facilitando a navegação e economizando tempo do usuário.
+- RNF09: Infere que o sistema deve oferecer um tema escuro para proporcionar uma experiência personalizada e confortável, especialmente em ambientes com baixa iluminação.
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
@@ -231,9 +231,8 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
 
-- RNF0X: 
-- RNF0X: 
-- RNF0X: 
+- RNF04: Infere que a interface do sistema deve atender a normas que assegurem acessibilidade para pessoas com deficiência, como visibilidade, contraste adequado e compatibilidade com leitores de tela.
+- RNF09: Infere que a inclusão de um tema escuro auxilia usuários com sensibilidades visuais ou condições como fotofobia, melhorando a acessibilidade e o conforto.
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
@@ -264,9 +263,8 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
 
-- RNF0X: 
-- RNF0X: 
-- RNF0X: 
+- RNF01: Infere que o sistema deve responder a consultas básicas em menos de 2 segundos, garantindo rapidez no processamento e na interação do usuário.
+- RNF08: Infere que a navegação no aplicativo deve ser simplificada, permitindo acesso rápido ao perfil de recomendação de investimentos com um número reduzido de cliques.
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
@@ -296,9 +294,8 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
 
-- RNF0X: 
-- RNF0X: 
-- RNF0X: 
+- RNF01: Infere que o sistema deve ser tecnicamente otimizado para processar consultas básicas rapidamente, mesmo sob carga normal de uso.
+- RNF06: Infere que o sistema deve estar preparado para suportar múltiplos idiomas, com o português como padrão, possibilitando maior flexibilidade no atendimento a públicos internacionais. 
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
