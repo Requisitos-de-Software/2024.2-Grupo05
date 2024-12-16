@@ -146,7 +146,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 4 - US03 - Resgate antecipado de títulos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30/b> - História de Usuário Resgate antecipado de títulos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 4/b> - História de Usuário Resgate antecipado de títulos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -190,7 +190,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 5 - US04 - Salvar metas de investimentos (Sonhos)</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30/b> - História de Usuário Salvar metas de investimentos (Sonhos)</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 5/b> - História de Usuário Salvar metas de investimentos (Sonhos)</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -234,7 +234,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 6 - US05 - Simulação e planejamento de aposentadoria</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30/b> - História de Usuário Simulação e planejamento de aposentadoria</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 6/b> - História de Usuário Simulação e planejamento de aposentadoria</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -278,7 +278,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 7 - US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30/b> História de Usuário Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 7/b> História de Usuário Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -321,7 +321,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 8 - US07 - Consulta de operações de compra realizadas e agendadas</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30/b> - História de Usuário Consulta de operações de compra realizadas e agendadas</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 8/b> - História de Usuário Consulta de operações de compra realizadas e agendadas</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -364,7 +364,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 9 - US08 - Canal de Suporte</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30/b> - História de Usuário Canal de suporte</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 9/b> - História de Usuário Canal de suporte</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -411,7 +411,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 10 - US09 - Informações Pessoais</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Informações Pessoais</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 10</b> - História de Usuário Informações Pessoais</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -457,7 +457,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 11 - US10 - Notificações personalizadas</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Notificações personalizadas</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 11</b> - História de Usuário Notificações personalizadas</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -504,7 +504,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 12 - US11 - Transferência automática entre investimentos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Transferência automática entre investimentos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 12</b> - História de Usuário Transferência automática entre investimentos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -551,7 +551,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 13 - US12 - Relatórios mensais de rendimentos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Relatórios mensais de rendimentos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 13</b> - História de Usuário Relatórios mensais de rendimentos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -597,7 +597,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 14 - US13 - Recursos educativos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Recursos educativos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 14</b> - História de Usuário Recursos educativos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -645,7 +645,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 15 - US14 - Integração com carteiras digitais</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Integração com carteiras digitais</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 15</b> - História de Usuário Integração com carteiras digitais</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -691,7 +691,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 16 - US15 - Alertas de mercado</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Alertas de mercado</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 16</b> - História de Usuário Alertas de mercado</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -736,7 +736,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 17 - US16 - Autodeclaração de expertise</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Autodeclaração de expertise</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 17</b> - História de Usuário Autodeclaração de expertise</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -781,7 +781,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 18 - US17 - Tutorial no uso das funcionalidades</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Tutorial no uso das funcionalidades</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 18</b> - História de Usuário Tutorial no uso das funcionalidades</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -826,7 +826,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 19 - US18 - Liquidez dos títulos na simulação.</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Liquidez dos títulos na simulação.</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 19</b> - História de Usuário Liquidez dos títulos na simulação.</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -871,7 +871,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 20 - US19 - Comparação de Investimentos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Comparação de Investimentos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 20</b> - História de Usuário Comparação de Investimentos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -916,7 +916,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 21 - US20 - Simular a evolução das metas</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Simular a evolução das metas</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 21</b> - História de Usuário Simular a evolução das metas</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -961,7 +961,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 22 - US21 - Dashboard com dados de rentabilidade e inflação.</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Dashboard com dados de rentabilidade e inflação.</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 22</b> - História de Usuário Dashboard com dados de rentabilidade e inflação.</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1006,7 +1006,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 23 - US22 - Barra de progresso em "Meus Sonhos".</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Barra de progresso em "Meus Sonhos"</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 23</b> - História de Usuário Barra de progresso em "Meus Sonhos"</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1051,7 +1051,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 24 - US23 - Comparação da simulação com os padrões do INSS</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Comparação da simulação com os padrões do INSS.</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 24</b> - História de Usuário Comparação da simulação com os padrões do INSS.</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1096,7 +1096,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 25 - US24 - Sugestões com base na expertise</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Sugestões com base na expertise</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 25</b> - História de Usuário Sugestões com base na expertise</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1141,7 +1141,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 26 - US25 - Métodos de pagamento para compra de títulos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Métodos de pagamento para compra de títulos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 26</b> - História de Usuário Métodos de pagamento para compra de títulos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1186,7 +1186,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 27 - US26 - Rentabilidade acumulada de títulos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Rentabilidade acumulada de títulos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 27</b> - História de Usuário Rentabilidade acumulada de títulos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1231,7 +1231,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 28 - US27 - Cadastro no próprio sistema</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Cadastro no próprio sistema</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 28</b> - História de Usuário Cadastro no próprio sistema</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1276,7 +1276,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 29 - US28 - Login e cadastro a partir do sistema gov.br</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 30</b> - História de Usuário Login e cadastro a partir do sistema gov.br</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 29</b> - História de Usuário Login e cadastro a partir do sistema gov.br</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
