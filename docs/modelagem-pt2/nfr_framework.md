@@ -175,41 +175,151 @@ Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)
 | Conflitos: Nenhum identificado.
 | História: Adicionado com base em tendências de mercado.
 
-Autor: [Maia Helena](https://github.com/MariaCHelena)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 </center>
 
 ### NFR 00 - Geral
 
+Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais ainda não implementados, o SIG apresentado foi ajustado para incorporar apenas os Requisistos a serem trabalhados, conforme ilustrado na Figura X.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+
 ![nfrgeraladptado](image.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+</center>
+
 
 ### NFR 01 - Usabilidade
 
-#### Requisitos Não-Funcionais - 
+#### Requisitos Não-Funcionais - Usabilidade
 
-#### Propagação dos Impactos - 
+Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
+
+- RNF0X: 
+- RNF0X: 
+- RNF0X: 
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+
+![nfrgeraladptado](image.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+</center>
+
+
+#### Propagação dos Impactos - Usabilidade
+
+A avaliação da propagação de impactos está apresentada na Tabela X.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
+
+| NFR | Impacto |
+|-----|---------|
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+</center>
 
 
 ### NFR 02 - Acessiblidade
 
-#### Requisitos Não-Funcionais - 
+#### Requisitos Não-Funcionais - Acessiblidade
 
-#### Propagação dos Impactos - 
+Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
+
+- RNF0X: 
+- RNF0X: 
+- RNF0X: 
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+
+![nfrgeraladptado](image.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+</center>
+
+
+#### Propagação dos Impactos - Acessiblidade
+
+A avaliação da propagação de impactos está apresentada na Tabela X.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
+
+| NFR | Impacto |
+|-----|---------|
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+</center>
 
 
 ### NFR 03 - Eficiência
 
-#### Requisitos Não-Funcionais - 
+#### Requisitos Não-Funcionais - Eficiência 
 
-#### Propagação dos Impactos - 
+Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
+
+- RNF0X: 
+- RNF0X: 
+- RNF0X: 
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+
+![nfrgeraladptado](image.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+</center>
+
+#### Propagação dos Impactos - Eficiência
+
+A avaliação da propagação de impactos está apresentada na Tabela X.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
+
+| NFR | Impacto |
+|-----|---------|
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+</center>
 
 
 ### NFR 04 - Desempenho
 
-#### Requisitos Não-Funcionais - 
+#### Requisitos Não-Funcionais - Desempenho 
 
-#### Propagação dos Impactos - 
+Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
 
+- RNF0X: 
+- RNF0X: 
+- RNF0X: 
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+
+![nfrgeraladptado](image.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+</center>
+
+#### Propagação dos Impactos - Desempenho
+
+A avaliação da propagação de impactos está apresentada na Tabela X.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
+
+| NFR | Impacto |
+|-----|---------|
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+</center>
 
 
 ## Requisitos Não-Funcionais
@@ -246,3 +356,4 @@ A Tabela X a seguir lista os Requisitos utilizados para a criação do NFR Frame
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 11/12/2024  | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1` | 11/12/2024  | SGI e Cartões de especificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+| `1.1` | 16/12/2024  | Estrutura nfr especifico | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
