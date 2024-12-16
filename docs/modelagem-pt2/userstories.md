@@ -53,8 +53,6 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 
 ## Histórias de Usuário
 
-As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
-
 ### US01 - Visualizar a lista de títulos públicos disponíveis
 
 <details>
@@ -96,7 +94,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
 ### US02 - 	Simulação de investimento nos títulos
@@ -139,14 +137,14 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
 ### US03 - Resgate antecipado de títulos
 
 <details>
 <summary>Tabela 4 - US03 - Resgate antecipado de títulos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 4/b> - História de Usuário Resgate antecipado de títulos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Resgate antecipado de títulos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -190,7 +188,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 5 - US04 - Salvar metas de investimentos (Sonhos)</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 5/b> - História de Usuário Salvar metas de investimentos (Sonhos)</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 5</b> - História de Usuário Salvar metas de investimentos (Sonhos)</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -234,7 +232,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 6 - US05 - Simulação e planejamento de aposentadoria</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 6/b> - História de Usuário Simulação e planejamento de aposentadoria</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 6</b> - História de Usuário Simulação e planejamento de aposentadoria</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -278,7 +276,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 
 <details>
 <summary>Tabela 7 - US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 7/b> História de Usuário Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 7</b> História de Usuário Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -314,14 +312,14 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
 ### US07 - Consulta de operações de compra realizadas e agendadas
 
 <details>
 <summary>Tabela 8 - US07 - Consulta de operações de compra realizadas e agendadas</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 8/b> - História de Usuário Consulta de operações de compra realizadas e agendadas</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 8</b> - História de Usuário Consulta de operações de compra realizadas e agendadas</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -357,90 +355,85 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US08 - Canal de Suporte
+### US08 - Fale Conosco
 
 <details>
-<summary>Tabela 9 - US08 - Canal de Suporte</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 9/b> - História de Usuário Canal de suporte</p></font>
+<summary>Tabela 9 - US03</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Fale Conosco</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">US08</th>
+          <th colspan="2" style="text-align: center;">US08 - Fale Conosco</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Como usuário, eu quero acessar uma tela de "Fale Conosco" com informações de contato e perguntas frequentes, para que eu consiga suporte sempre que necessário.</td>
+          <td>Eu, como usuário, desejo ter acesso a informações de contato com a equipe do tesouro direto e perguntas frequentes realizadas pelos usuários, para obter ajuda com as minhas dúvidas referentes às funcionalidades do aplicativo.</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC07 - Processo de Compra de Títulos</td>
+          <td><a href="../backlog/#ec12-integracao-com-canais-de-atendimento">EC12</a> - Integração com Canais de Atendimento</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>A tela "Fale Conosco" apresenta e-mail, telefone e um formulário para contato.</li>
-                <li>O sistema exibe perguntas frequentes com respostas claras e organizadas por temas.</li>
-                <li>O formulário de contato permite envio de mensagens diretamente pelo aplicativo.</li>
+                <li>As informações de contato e perguntas frequentes deverão estar disponíveis em uma tela chamada "Fale Conosco"</li>
+                <li>A tela "Fale Conosco" deverá possuir pelo menos 5 perguntas frequentes</li>
+                <li>A tela "Fale Conosco" deverá possuir pelo menos um número de contato e um email</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Baixa</td>
           <td>Baixa</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
           <td>US08</td>
-          <td>US08</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US09 - Informações Pessoais
+### US09 - Visualização dos dados cadastrais do usuário
 
 <details>
-<summary>Tabela 10 - US09 - Informações Pessoais</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 10</b> - História de Usuário Informações Pessoais</p></font>
+<summary>Tabela 10 - US09 - Visualização dos dados cadastrais do usuário</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 10</b> - História de Usuário Visualização dos dados cadastrais do usuário</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">US09</th>
+          <th colspan="2" style="text-align: center;">US09 - Visualização dos dados cadastrais do usuário</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td> Como um usuário, eu quero visualizar e editar meus dados cadastrais, para que minhas informações estejam sempre atualizadas.</td>
+          <td>Eu, como usuário, desejo visualizar minhas informações cadastradas na aplicação para obter informação a respeito dos meus dados na aplicação</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC11 - Gerenciamento de Dados do Usuário</td>
+          <td><a href="../backlog/#ec11-gerenciamento-de-dados-do-usuario">EC11</a> - Gerencimaneot de Dados do Usuário</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>O sistema permite editar nome, CPF, e-mail e celular.</li>
-                <li>As alterações são salvas após a validação dos novos dados.</li>
-                <li>O sistema exibe um histórico das alterações realizadas.</li>
+                <li>Deve ser possível visualizar os dados de nome, email, cpf e telefone do usuário</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Média</td>
           <td>Média</td>
       </tr>
       <tr>
@@ -450,131 +443,122 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US10 - Notificações personalizadas 
+### US10 - Notificações de lembrete de metas ou vencimento de títulos
 
 <details>
-<summary>Tabela 11 - US10 - Notificações personalizadas</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 11</b> - História de Usuário Notificações personalizadas</p></font>
+<summary>Tabela 11 - US10 - Notificações de lembrete de metas ou vencimento de títulos</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 11</b> - História de Usuário Notificações de lembrete de metas ou vencimento de títulos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">US11</th>
+          <th colspan="2" style="text-align: center;">US10 - Notificações de lembrete de metas ou vencimento de títulos</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Como usuário, eu quero receber notificações personalizadas relacionadas a metas ou vencimento de títulos, para que eu esteja sempre informado e não perca prazos importantes</td>
+          <td>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC12 - Integração com Canais de Atendimento</td>
+          <td><a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos e <a href="../backlog/#ec12-integracao-com-canais-de-atendimento">EC12</a> - Integração com Canais de Atendimento</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>O sistema envia notificações sobre metas próximas de conclusão e vencimento de títulos.</li>
-                <li>O usuário pode configurar a frequência e os horários das notificações.</li>
-                <li>As notificações podem ser visualizadas em uma aba de histórico no aplicativo.</li>
+                <li>O usuário deve receber notificações sempre que faltar 1 dia, 1 semana e 1 mês para o vencimento dos títulos e metas</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Média</td>
-          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>US11</td>
+          <td>US10</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US11 - Transferência automática entre investimentos
 ### US11 - Transferência automática entre investimentos
 
 <details>
 <summary>Tabela 12 - US11 - Transferência automática entre investimentos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 12</b> - História de Usuário Transferência automática entre investimentos</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 12</b> - Histórias de Usuário Transferência automática entre investimentos</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">US11</th>
+          <th colspan="2" style="text-align: center;">US11 - Transferência automática entre investimentos</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Como investidor, eu quero configurar transferências automáticas entre investimentos com base em metas ou cenários predefinidos, para que minhas finanças sejam otimizadas automaticamente.</td>
+          <td>Eu, como usuário, desejo que seja feita uma transferência automática entre investimentos com base em minhas metas, para que o meu dinheiro continue investido quando o prazo do investimento for finalizado</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC02 - Gerenciamento de Investimentos</td>
+          <td>Épico 1</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>O sistema permite configurar metas e cenários predefinidos.</li>
-                <li>Transferências automáticas podem ser ativadas ou desativadas pelo usuário.</li>
-                <li>As transferências seguem os critérios estabelecidos pelo usuário.</li>
+                <li>Todas as metas deverão fazer a transferência automática assim que o investimento aplicado tenha vencido</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Média</td>
-          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>US11</td>
           <td>US11</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US12 - Relatórios mensais de rendimentos
+### US12 - Relatórios mensais de investimento
 
 <details>
-<summary>Tabela 13 - US12 - Relatórios mensais de rendimentos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 13</b> - História de Usuário Relatórios mensais de rendimentos</p></font>
+<summary>Tabela 13 - US12 - Relatórios mensais de investimento</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 13</b> - Histórias de Usuário Relatórios mensais de investimento</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">US12</th>
+          <th colspan="2" style="text-align: center;">US12 - Relatórios mensais de investimento</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Como investidor, eu quero acessar relatórios mensais com a evolução dos meus rendimentos, para que eu possa acompanhar o desempenho dos meus investimentos.</td>
+          <td>Eu, como usuário, desejo receber relatórios mensais dos meus investimentos, para poder visualizar dados de evolução dos investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC04 - Painel de Controle e Relatórios</td>
+          <td><a href="../backlog/#ec04-painel-de-controle-e-relatorios">EC04</a> - Painel de Controle e Relatórios</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>O relatório mensal exibe a rentabilidade acumulada de cada título.</li>
-                <li>Os dados apresentados incluem gráficos e tabelas comparando os meses anteriores.</li>
-                <li>O usuário pode baixar ou compartilhar o relatório em formato PDF.</li>
+                <li>Os usuários devem receber relatórios todos os meses</li>
+                <li>Todos os investimentos ativos realizados pelo usuário devem estar presentes no relatório</li>
               </ol>
           </td>
       </tr>
@@ -585,90 +569,89 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       <tr>
           <td style="font-weight: bold;">ID</td>
           <td>US12</td>
-          <td>US12</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US13 - Recursos educativos
+### US13 - Recursos educativos sobre como investir no Tesouro Direto
 
 <details>
-<summary>Tabela 14 - US13 - Recursos educativos</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 14</b> - História de Usuário Recursos educativos</p></font>
+<summary>Tabela 14 - US13 - Recursos educativos sobre como investir no Tesouro Direto</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 14</b> - História de Usuário Recursos educativos sobre como investir no Tesouro Direto</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">US13</th>
+          <th colspan="2" style="text-align: center;">US13 - Recursos educativos sobre como investir no Tesouro Direto</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Como usuário, eu quero acessar artigos e vídeos educativos sobre investimentos, para que eu possa entender melhor como investir no Tesouro Direto.</td>
+          <td>Eu, como usuário, desejo visualizar recursos educativos para aprender mais sobre como investir no Tesouro Direto</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC08 - Recursos Educativos</td>
+          <td><a href="../backlog/#ec08-recursos-educativos">EC08</a> - Recursos Educativos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>Os artigos e vídeos estão organizados por temas e níveis de expertise.</li>
-                <li>O sistema permite filtrar conteúdos por categorias como "Introdução", "Estratégias Avançadas", etc.</li>
-                <li>Os vídeos podem ser assistidos diretamente no aplicativo sem redirecionamento para outros sites.</li>
+                <li>Os recursos educativos devem conter textos, fotos e vídeos</li>
+                <li>Os recursos educativos devem conter um glossário para mais termos utilizados no app do tesouro direto</li>
               </ol>
           </td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
           <td>Baixa</td>
-          <td>Baixa</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>US13</td>
           <td>US13</td>
       </tr>
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US14 - Integração com carteiras digitais
 ### US14 - Integração com carteiras digitais
 
 <details>
 <summary>Tabela 15 - US14 - Integração com carteiras digitais</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 15</b> - História de Usuário Integração com carteiras digitais</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 15</b> - Histórias de Usuário Integração com carteiras digitais</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
       <tr>
-          <th colspan="2" style="text-align: center;">US14</th>
+          <th colspan="2" style="text-align: center;">US14 - Integração com carteiras digitais</th>
       </tr>
   </thead>
   <tbody>
       <tr>
           <td style="font-weight: bold;">História de Usuário</td>
-          <td>Como investidor, eu quero integrar carteiras digitais de bancos compatíveis, para que eu possa realizar pagamentos diretamente pelos meus investimentos.</td>
+          <td>Eu, como usuário, desejo que o aplicativo possua integração com carteiras digitais para que eu possa realizar a compra dos títulos do tesouro direto</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC02 - Gerenciamento de Investimentos</td>
+          <td><a href="../backlog/#ec02-gerenciamento-de-investimentos">EC02</a> - Gerenciamento de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>As carteiras digitais listadas são compatíveis com os bancos integrados (INTER, NU INVEST, XP INVESTIMENTOS).</li>
-                <li>As transações realizadas pelo sistema são seguras e respeitam as normas da LGPD.</li>
-                <li>A integração é feita com autenticação segura.</li>
+                <li>O aplicativo deve possuir integração com as seguintes instituições financeiras:
+                    <ul>
+                        <li>INTER DTVM LTDA</li>
+                        <li>NU INVEST CORRETORA DE VALORES S.A</li>
+                        <li>XP INVESTIMENTOS CCTVM S/A</li>
+                    </ul>
+                </li>
               </ol>
           </td>
       </tr>
@@ -678,7 +661,6 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>US14</td>
           <td>US14</td>
       </tr>
   </tbody>
@@ -1092,7 +1074,7 @@ As tabelas de 2 a 36 a seguir apresentam as histórias de usuário.
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US24 - Sugestões com base na expertise 
+### US24 - Sugestões com base na expertise
 
 <details>
 <summary>Tabela 25 - US24 - Sugestões com base na expertise</summary>
