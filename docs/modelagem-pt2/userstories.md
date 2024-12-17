@@ -508,7 +508,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec02-gerenciamento-de-investimentos">EC02</a>- Gerenciamento de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -688,7 +688,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>Épico 1</td>
+          <td><a href="../backlog/#ec15-atualizacoes-e-notificacoes-automaticas">EC15</a> - Atualizações e Notificações Automáticas</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -733,7 +733,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC05 - Cadastro e Personalização de Usuário</td>
+          <td><a href="../backlog/#ec05-cadastro-e-personalizacao-de-usuario">EC05</a> - Cadastro e Personalização de Usuário</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -778,7 +778,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC08 - Recursos Educativos</td>
+          <td><a href="../backlog/#ec08-recursos-educativos">EC08</a> - Recursos Educativos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -823,7 +823,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC03 - Simulações de Investimentos</td>
+          <td><a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -868,7 +868,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC03 - Simulações de Investimentos</td>
+          <td><a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -913,7 +913,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC09 - Personalização de Metas e Planejamento Financeiro</td>
+          <td><a href="../backlog/#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09</a> - Personalização de Metas e Planejamento Financeiro</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -958,7 +958,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC04 - Painel de Controle e Relatórios</td>
+          <td><a href="../backlog/#ec04-painel-de-controle-e-relatorios">EC04</a> - Painel de Controle e Relatórios</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1003,7 +1003,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC09 - Personalização de Metas e Planejamento Financeiro</td>
+          <td><a href="../backlog/#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09</a> - Personalização de Metas e Planejamento Financeiro</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1048,7 +1048,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC10 - Simuladores Avançados</td>
+          <td><a href="../backlog/#ec10-simuladores-avancados">EC10</a> - Simuladores Avançados</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1093,7 +1093,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC05 - Cadastro e Personalização de Usuário</td>
+          <td><a href="../backlog/#ec05-cadastro-e-personalizacao-de-usuario">EC05</a> - Cadastro e Personalização de Usuário</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1138,7 +1138,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC07 - Processo de Compra de Títulos</td>
+          <td><a href="../backlog/#ec07-processo-de-compra-de-titulos">EC07</a> - Processo de Compra de Títulos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1183,7 +1183,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC04 - Painel de Controle e Relatórios</td>
+          <td><a href="../backlog/#ec04-painel-de-controle-e-relatorios">EC04</a> - Painel de Controle e Relatórios</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1228,7 +1228,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC05 - Cadastro e Personalização de Usuário</td>
+          <td><a href="../backlog/#ec05-cadastro-e-personalizacao-de-usuario">EC05</a> - Cadastro e Personalização de Usuário</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1273,7 +1273,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC05 - Cadastro e Personalização de Usuário</td>
+          <td><a href="../backlog/#ec05-cadastro-e-personalizacao-de-usuario">EC05</a> - Cadastro e Personalização de Usuário</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1318,7 +1318,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC02 - Gerenciamento de Investimentos</td>
+          <td><a href="../backlog/#ec02-gerenciamento-de-investimentos">EC02</a> - Gerenciamento de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1363,7 +1363,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC01 - Visualização de Títulos Públicos</td>
+          <td><a href="../backlog/#ec01-visualizacao-de-titulos-publicos">EC01</a> - Visualização de Títulos Públicos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1381,7 +1381,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
-          <td>Épico: EC01 - Visualização de Títulos Públicos</td>
+          <td>US30</td>
       </tr>
   </tbody>
 </table>
@@ -1408,7 +1408,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC03 - Simulações de Investimentos</td>
+          <td><a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1453,7 +1453,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC03 - Simulações de Investimentos</td>
+          <td><a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1498,7 +1498,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC03 - Simulações de Investimentos</td>
+          <td><a href="../backlog/#ec03-simulacoes-de-investimentos">EC03</a> - Simulações de Investimentos</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1543,7 +1543,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC09 - Personalização de Metas e Planejamento Financeiro</td>
+          <td><a href="../backlog/#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09</a> - Personalização de Metas e Planejamento Financeiro</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
@@ -1588,7 +1588,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
       </tr>
       <tr>
           <td style="font-weight: bold;">Épico</td>
-          <td>EC11 - Gerenciamento de Dados do Usuário</td>
+          <td><a href="../backlog/#ec11-gerenciamento-de-dados-do-usuario">EC11</a> - Gerenciamento de Dados do Usuário</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">Critérios de Aceitação</td>
