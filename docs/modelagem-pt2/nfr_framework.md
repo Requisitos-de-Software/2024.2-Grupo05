@@ -164,7 +164,7 @@ Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)
 
 <b>Tabela 5</b> - Cartão de Especificação 5
 
-| <a href="#anchor_RNF09">RNF09</a> | Classificação: Usabilidade |
+| <a href="#anchor_RNF09">RNF09</a> | Classificação: Acessibilidade |
 |---------------| ------------|
 | Descrição: O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.
 | Justificativa: Reduzir o cansaço visual e atender preferências dos usuários.
@@ -181,174 +181,128 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### NFR 00 - Geral
 
-Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais ainda não implementados, o SIG apresentado foi ajustado para incorporar apenas os Requisistos a serem trabalhados, conforme ilustrado na Figura X.
+Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais ainda não implementados, o SIG apresentado foi ajustado para incorporar apenas os Requisistos a serem trabalhados, conforme ilustrado na Figura 1.
 
 <center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 1 - SIG adaptado</p>
 
-![nfrgeraladptado](image.png)
+![nfrgeraladptado](../assets/modelagem/nfr/nfrGeral.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: Silva, 2019</p>
 </center>
 
 
-### NFR 01 - Usabilidade
+### NFR 01 - Acessibilidade
 
-#### Requisitos Não-Funcionais - Usabilidade
+#### Requisitos Não-Funcionais - Acessibilidade
 
-Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
+Os requisitos utilizados para a construção do SIG apresentado na Figura 2 estão listados na Tabela 6.
 
 - RNF04: Infere que a interface do sistema deve ser desenhada com base em diretrizes técnicas que garantam uma experiência intuitiva e eficiente para o usuário, conforme a norma NBR 17060:2022.
-- RNF08: Infere que o sistema deve permitir que o perfil de recomendação de investimentos seja acessado em até 3 cliques, facilitando a navegação e economizando tempo do usuário.
 - RNF09: Infere que o sistema deve oferecer um tema escuro para proporcionar uma experiência personalizada e confortável, especialmente em ambientes com baixa iluminação.
 
 <center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 2 - SIG acessibilidade</p>
 
-![nfrgeraladptado](image.png)
+![nfrAcessibilidade](../assets/modelagem/nfr/nfrAcessibilidade.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
 </center>
 
 
-#### Propagação dos Impactos - Usabilidade
+#### Propagação dos Impactos - Acessibilidade
 
-A avaliação da propagação de impactos está apresentada na Tabela X.
+A avaliação da propagação de impactos está apresentada na Tabela 3.
 
 <center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela 3 - SIG acessibilidade</p>
 
 | NFR | Impacto |
 |-----|---------|
-|Navegação|
-|Clareza das Informações|
-|Assistência ao Usuário|
-|Personalização|
-|Legibilidade|
-|Feedback ao Usuário|
-|Filtros de Investimentos|
-|Simulações de Investimento|
-|Notificações|
+| acessibilidade | 𝒲- |
+| personalização da interface | 𝒲+ |
+| alteração de idioma | X |
+| mudança de contraste |𝒲+ |
+| contraste adequado | 𝒲+ |
+| intuitividade | ✓ |
+| legibilidade simplificada | 𝒲+ |
+| texto redimensionável | 𝒲- |
+| feedback claro | 𝒲+ |
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p>
 </center>
 
-
-### NFR 02 - Acessiblidade
-
-#### Requisitos Não-Funcionais - Acessiblidade
-
-Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
-
-- RNF04: Infere que a interface do sistema deve atender a normas que assegurem acessibilidade para pessoas com deficiência, como visibilidade, contraste adequado e compatibilidade com leitores de tela.
-- RNF09: Infere que a inclusão de um tema escuro auxilia usuários com sensibilidades visuais ou condições como fotofobia, melhorando a acessibilidade e o conforto.
-
-<center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
-
-![nfrgeraladptado](image.png)
-
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
-</center>
-
-
-#### Propagação dos Impactos - Acessiblidade
-
-A avaliação da propagação de impactos está apresentada na Tabela X.
-
-<center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
-
-| NFR | Impacto |
-|-----|---------|
-|Compatibilidade com Leitores de Tela|  
-|Tamanho Ajustável de Fontes|  
-|Descrições Alternativas para Imagens|  
-|Navegação por Teclado|  
-|Apoio a Comandos por Voz|    
-|Indicação de Erros Visíveis e Audíveis|  
-|Personalização de Interface para Necessidades Específicas|  
-|Modo de Alto Contraste|   
-|Compatibilidade com Tecnologias Assistivas|  
-
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
-</center>
-
-
-### NFR 03 - Eficiência
+### NFR 02 - Eficiência
 
 #### Requisitos Não-Funcionais - Eficiência 
 
-Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
+Os requisitos utilizados para a construção do SIG apresentado na Figura 3 estão listados na Tabela 6.
 
 - RNF01: Infere que o sistema deve responder a consultas básicas em menos de 2 segundos, garantindo rapidez no processamento e na interação do usuário.
 - RNF08: Infere que a navegação no aplicativo deve ser simplificada, permitindo acesso rápido ao perfil de recomendação de investimentos com um número reduzido de cliques.
 
 <center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 3 - SIG Eficiência</p>
 
-![nfrgeraladptado](image.png)
+![nfrEficiencia](../assets/modelagem/nfr/nfrEficiencia.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
 </center>
 
 #### Propagação dos Impactos - Eficiência
 
-A avaliação da propagação de impactos está apresentada na Tabela X.
+A avaliação da propagação de impactos está apresentada na Tabela 4.
 
 <center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela 4 - SIG adaptado</p>
 
 | NFR | Impacto |
 |-----|---------|
-|Velocidade de Carregamento|  
-|Consumo de Recursos do Dispositivo|  
-|Tempo de Resposta para Consultas|   
-|Agilidade na Navegação Entre Seções|
-|Rapidez na Simulação de Investimentos|  
-|Eficiência na Aplicação de Filtros|  
-|Respostas Instantâneas a Ações do Usuário|  
+| Eficiência | 𝒲- |
+| facilidade na navegação | 𝒲+ |
+| Agilidade na navegação entre seções | ✓ |
+| Respostas Instantâneas a Ações do Usuários | 𝒲+ |
+| Agilidade nas respostas | 𝒲+ |
+| Velocidade de carregamento | 𝒲+ |
+| Consumo de recursos do Dispositivo | X |
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
 </center>
 
 
-### NFR 04 - Desempenho
+### NFR 03 - Desempenho
 
 #### Requisitos Não-Funcionais - Desempenho 
 
-Os requisitos utilizados para a construção do SIG apresentado na Figura X estão listados na Tabela X.
+Os requisitos utilizados para a construção do SIG apresentado na Figura 4 estão listados na Tabela 6.
 
 - RNF01: Infere que o sistema deve ser tecnicamente otimizado para processar consultas básicas rapidamente, mesmo sob carga normal de uso.
-- RNF06: Infere que o sistema deve estar preparado para suportar múltiplos idiomas, com o português como padrão, possibilitando maior flexibilidade no atendimento a públicos internacionais. 
 
 <center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura X - SIG adaptado</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 4 - SIG Desempenho</p>
 
-![nfrgeraladptado](image.png)
+![nfrDesempenho](../assets/modelagem/nfr/nfrDesempenho.png)
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
 </center>
 
 #### Propagação dos Impactos - Desempenho
 
-A avaliação da propagação de impactos está apresentada na Tabela X.
+A avaliação da propagação de impactos está apresentada na Tabela 5.
 
 <center>
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela X - SIG adaptado</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela 5 - SIG adaptado</p>
 
 | NFR | Impacto |
 |-----|---------|
-|Estabilidade do Aplicativo|  
-|Tolerância a Falhas|  
-|Uso Eficiente de Memória|  
-|Compatibilidade com Diferentes Dispositivos|  
-|Desempenho em Redes de Baixa Velocidade|  
-|Escalabilidade para Altos Volumes de Usuários|  
-|Tempo de Inicialização|  
-|Capacidade de Processamento Simultâneo|  
-|Resiliência a Interrupções de Conexão|  
-|Atualizações Sem Impacto na Experiência|
+| Desempenho | 𝒲+ |
+| Consumo de recursos do Dispositivo | 𝒲- | 
+| uso eficiente da memória | 𝒲+ |
+| capacidade de processamento simultâneo | ✓ |
+| velocidade no carregamento | ✓ |
+| Desempenho em redes de baixa velocidade | 𝒲+ |
+| resiliência a interrupções de conexão | 𝒲+ |
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
 </center>
@@ -356,11 +310,11 @@ A avaliação da propagação de impactos está apresentada na Tabela X.
 
 ## Requisitos Não-Funcionais
 
-A Tabela X a seguir lista os Requisitos utilizados para a criação do NFR Framework.
+A Tabela 6 a seguir lista os Requisitos utilizados para a criação do NFR Framework.
 
 
 <div>
-<font size="3"><p style="text-align: center"> Tabela X - Requisitos Não Funcionais </a></font></p>
+<font size="3"><p style="text-align: center"> Tabela 6 - Requisitos Não Funcionais </a></font></p>
 </div>
 
 | Identificador | Descrição	| ID | Implementado |
@@ -388,4 +342,4 @@ A Tabela X a seguir lista os Requisitos utilizados para a criação do NFR Frame
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 11/12/2024  | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1` | 11/12/2024  | SGI e Cartões de especificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
-| `1.1` | 16/12/2024  | Estrutura nfr especifico | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
+| `1.2` | 16/12/2024  | Estrutura nfr finalizado | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
