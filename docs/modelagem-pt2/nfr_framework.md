@@ -87,8 +87,8 @@ Os cartões de especificação apresentados nas Tabelas 1 a 5 foram empregados p
 <center>
 
 <b>Tabela 1</b> - Cartão de Especificação 1
-
-| <a href="#anchor_RNF01">RNF01</a> | Classificação: Desempenho |
+#
+| <a href="anchor_RNF01">RNF01</a> | Classificação: Desempenho |
 |---------------| ------------|
 | Descrição: O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas.
 | Justificativa: Garantir agilidade e uma boa experiência do usuário ao utilizar funcionalidades básicas.
@@ -196,7 +196,7 @@ Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais a
 
 #### Requisitos Não-Funcionais - Acessibilidade
 
-Os requisitos utilizados para a construção do SIG apresentado na Figura 2 estão listados na Tabela 6.
+Os requisitos utilizados para a construção do SIG apresentado na Figura 2 podem ser encontrados em <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">Requisitos Elicitados</a>.
 
 - RNF04: Infere que a interface do sistema deve ser desenhada com base em diretrizes técnicas que garantam uma experiência intuitiva e eficiente para o usuário, conforme a norma NBR 17060:2022.
 - RNF09: Infere que o sistema deve oferecer um tema escuro para proporcionar uma experiência personalizada e confortável, especialmente em ambientes com baixa iluminação.
@@ -237,7 +237,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 3.
 
 #### Requisitos Não-Funcionais - Eficiência 
 
-Os requisitos utilizados para a construção do SIG apresentado na Figura 3 estão listados na Tabela 6.
+Os requisitos utilizados para a construção do SIG apresentado na Figura 3 podem ser encontrados em <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">Requisitos Elicitados</a>.
 
 - RNF01: Infere que o sistema deve responder a consultas básicas em menos de 2 segundos, garantindo rapidez no processamento e na interação do usuário.
 - RNF08: Infere que a navegação no aplicativo deve ser simplificada, permitindo acesso rápido ao perfil de recomendação de investimentos com um número reduzido de cliques.
@@ -275,7 +275,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 4.
 
 #### Requisitos Não-Funcionais - Desempenho 
 
-Os requisitos utilizados para a construção do SIG apresentado na Figura 4 estão listados na Tabela 6.
+Os requisitos utilizados para a construção do SIG apresentado na Figura 4 podem ser encontrados em <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">Requisitos Elicitados</a>.
 
 - RNF01: Infere que o sistema deve ser tecnicamente otimizado para processar consultas básicas rapidamente, mesmo sob carga normal de uso.
 
@@ -308,27 +308,6 @@ A avaliação da propagação de impactos está apresentada na Tabela 5.
 </center>
 
 
-## Requisitos Não-Funcionais
-
-A Tabela 6 a seguir lista os Requisitos utilizados para a criação do NFR Framework.
-
-
-<div>
-<font size="3"><p style="text-align: center"> Tabela 6 - Requisitos Não Funcionais </a></font></p>
-</div>
-
-| Identificador | Descrição	| ID | Implementado |
-|---------------|-----------|-----|-------------|
-| <a id="anchor_RNF01" style="visibility: hidden">.</a> RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | IT20 | Não |
-| <a id="anchor_RNF04" style="visibility: hidden">.</a> RNF04 | A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022. | IT23, BFN11, GF08, GLO04 | Não |
-| <a id="anchor_RNF06" style="visibility: hidden">.</a> RNF06 | O aplicativo deverá disponibilizar suporte para múltiplos idiomas (português como padrão). | IT25 | Não |
-| <a id="anchor_RNF08" style="visibility: hidden">.</a> RNF08 | O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo. | BFN9 | Não |
-| <a id="anchor_RNF09" style="visibility: hidden">.</a> RNF09 | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário. | BFN13 | Não |
-
-<div>
-<font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/ViictorHugoo">Victor Rodrigues</a></font></p>
-</div>
-
 ## Bibliografia
 
 >PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf. Acesso em: 13/12/2024.
@@ -338,6 +317,8 @@ A Tabela 6 a seguir lista os Requisitos utilizados para a criação do NFR Frame
 > CHUNG, L., NIXON, B. A., YU, E., MYLOPOULOS, J. Non-functional requirementsin software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
 >
 
+## Histórico de Versões
+
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 11/12/2024  | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
@@ -345,3 +326,4 @@ A Tabela 6 a seguir lista os Requisitos utilizados para a criação do NFR Frame
 | `1.2` | 16/12/2024  | Estrutura nfr | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.3` | 16/12/2024  | SGI adicionados | [Grupo](../../)  | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 17/12/2024  | Ajustando fonte e autor |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.5` | 17/12/2024  | Alteração requisitada pelo professor | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
