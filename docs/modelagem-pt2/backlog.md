@@ -314,24 +314,23 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec06-seguranca-e-acessibilidade">EC06 - Segurança e Acessibilidade</a>
       </td>
       <td rowspan="4"><a id="anchor_FEAT12" href="#FEAT12">Feature 12 - Autenticação Segura</a></td>
-    <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+    <td id='US'><a href="../userstories/#anchor_US39">US39: </a>Eu, Como um usuário, desejo ter segurança na navegação no aplicativo, para garantir a segurança dos meus dados.</td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF02"> RNF02</a></td>
     <td>Alta</td>
    </tr>
    </tr>
       <tr>
-    <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+    <td id='US'><a href="../userstories/#anchor_US40">US40: </a>Eu, Como um usuário, desejo poder acessar o dispositivo em qualquer tablet ou celular compatível .</td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF03"> RNF03</a></td>
     <td>Média</td>
     </tr>
        <tr>
-    <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+    <td id='US' rowspan="2"><a href="../userstories/#anchor_US39">US39: </a>Eu, Como um usuário, desejo ter segurança na navegação no aplicativo, para garantir a segurança dos meus dados.</td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF05"> RNF05</a></td>
     <td>Alta</td>
     </tr>
    </tr>
       <tr>
-    <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF10"> RNF10</a></td>
     <td>Alta</td>
     </tr>
@@ -339,7 +338,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT13" href="#FEAT13">Feature 13 - Acessibilidade Visual</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US41">US41: </a>Eu, Como um usuário, desejo navegar em um aplicativo acessível para que eu consiga utilizar todas as funcionalidades do aplicativo com facilidade.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a></td>
       <td>Baixa</td>
    </tr>
@@ -477,13 +476,13 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec13-funcionalidades-de-acessibilidade">EC13 - Funcionalidades de Acessibilidade</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT27" href="#FEAT27">Feature 27 - Temas de Alto Contraste</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US36">US36: </a>Eu, Como um usuário, quero que poder escolher entre tema claro e escuro, para melhorar a minha experiência no aplicativo.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09"> RNF09 </a></td>
       <td>Baixa</td>
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT28" href="#FEAT28">Feature 28 - Ajuste de Velocidade de Áudio</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US37">US37: </a>Eu, Como um usuário, desejo ajustar a velocidade dos áudios disponíveis no aplicativo para melhorar minha compreensão dos conteúdos de áudio.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a></td>
       <td>Baixa</td>
    </tr>
@@ -493,13 +492,12 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec14-multilingue-e-inclusao">EC14 - Multilíngue e Inclusão</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT29" href="#FEAT29">Feature 29 - Tradução Multilíngue</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US38">US38: </a>Eu, Como um usuário, desejo poder alterar o idioma do aplicativo para acessar o aplicativo no idioma mais adequado para mim.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06"> RNF06 </a></td>
       <td>Média</td>
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT30" href="#FEAT30">Feature 30 - Troca Dinâmica de Idioma</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01"> RNF01 </a></td>
       <td>Alta</td>
    </tr>
@@ -580,9 +578,9 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
 #### **EC06. Segurança e Acessibilidade**
 - **Descrição**: Garantir a proteção de dados e acessibilidade universal no aplicativo.
 - **Histórias Relacionadas**:
-      - Implementar autenticação por biometria e dois fatores.
-      - Garantir conformidade com a LGPD.
-      - Oferecer suporte a leitores de tela, temas de alto contraste, ajuste de fontes e descrições de áudio.
+      - [US39](../userstories/#anchor_US39): Eu, Como um usuário, desejo ter segurança na navegação no aplicativo, para garantir a segurança dos meus dados.
+      - [US40](../userstories/#anchor_US40): Eu, Como um usuário, desejo poder acessar o dispositivo em qualquer tablet ou celular compatível .
+      - [US41](../userstories/#anchor_US41): Eu, Como um usuário, desejo navegar em um aplicativo acessível para que eu consiga utilizar todas as funcionalidades do aplicativo com facilidade.
 
 
 #### **EC07. Processo de Compra de Títulos**
@@ -635,16 +633,14 @@ Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, 
 #### **EC13. Funcionalidades de Acessibilidade**
 - **Descrição**: Tornar o aplicativo inclusivo e acessível para todos os usuários.
 - **Histórias Relacionadas**:
-      - Implementar temas de alto contraste e ajuste de fontes.
-      - Oferecer suporte para leitores de tela e descrições de áudio.
-      - Permitir ajustes na velocidade de reprodução de áudio.
+      - [US36](../userstories/#anchor_US36): Eu, Como um usuário, quero que poder escolher entre tema claro e escuro, para melhorar a minha experiência no aplicativo.
+      - [US37](../userstories/#anchor_US37): Eu, Como um usuário, desejo ajustar a velocidade dos áudios disponíveis no aplicativo para melhorar minha compreensão dos conteúdos de áudio.
 
 
 #### **EC14. Multilíngue e Inclusão**
 - **Descrição**: Suportar múltiplos idiomas para aumentar a acessibilidade do aplicativo.
 - **Histórias Relacionadas**:
-      - Implementar tradução completa para os idiomas mais usados por usuários estrangeiros no Brasil.
-      - Permitir a troca dinâmica de idioma no aplicativo.
+      - [US38](../userstories/#anchor_US38): Eu, Como um usuário, desejo poder alterar o idioma do aplicativo para acessar o aplicativo no idioma mais adequado para mim.
 
 
 #### **EC15. Atualizações e Notificações Automáticas**

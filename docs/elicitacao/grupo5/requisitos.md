@@ -75,7 +75,7 @@ _Legenda das Tabelas:_
 
 | Identificador | Descrição	| ID | Implementado |
 |---------------|-----------|-----|-------------|
-| <a id="anchor_RNF01" style="visibility: hidden"></a>RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | [IT20](./introspeccao.md) | Não |
+| <a id="anchor_RNF01" style="visibility: hidden"></a>RNF01 | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | [IT20](./introspeccao.md) | Não
 | <a id="anchor_RNF02" style="visibility: hidden"></a>RNF02 | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD. | [IT21](./introspeccao.md), [GF06](./grupo-de-foco.md) | Sim |
 | <a id="anchor_RNF03" style="visibility: hidden"></a>RNF03 | O aplicativo deve ser responsivo para dispositivos móveis e tablets. | [IT22](./introspeccao.md), [GF07](./grupo-de-foco.md), [GLO08](./glossario.md) | Sim |
 | <a id="anchor_RNF04" style="visibility: hidden"></a>RNF04 | A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022. | [IT23](./introspeccao.md), [BFN11](./brainstorm.md), [GF08](./grupo-de-foco.md), [GLO04](./glossario.md) | Não |
