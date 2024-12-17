@@ -1628,7 +1628,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US36 - Tema Escuro
+### <a id="anchor_US36" style="visibility: hidden"></a>US36 - Tema Escuro
 
 <details>
 <summary>Tabela 37 - US36 - Tema Escuro</summary>
@@ -1672,7 +1672,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US37 - Ajuste da Velicidade do Áudio
+### <a id="anchor_US37" style="visibility: hidden"></a>US37 - Ajuste da Velicidade do Áudio
 
 <details>
 <summary>Tabela 38 - US37 - Ajuste da Velicidade do Áudio</summary>
@@ -1727,7 +1727,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US38 - Mudança de idioma do aplicativo
+### <a id="anchor_US38" style="visibility: hidden"></a>US38 - Mudança de idioma do aplicativo
 
 <details>
 <summary>Tabela 39 - US38 - Mudança de idioma do aplicativo</summary>
@@ -1776,7 +1776,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US39 - Segurança dos Dados
+### <a id="anchor_US39" style="visibility: hidden"></a>US39 - Segurança dos Dados
 
 <details>
 <summary>Tabela 40 - US39 - Segurança dos Dados</summary>
@@ -1819,7 +1819,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US40 - Responsividade do aplicativo
+### <a id="anchor_US40" style="visibility: hidden"></a>US40 - Responsividade do aplicativo
 
 <details>
 <summary>Tabela 41 - US40 - Responsividade do aplicativo</summary>
@@ -1864,7 +1864,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US41 - Acessibilidade Visual
+### <a id="anchor_US41" style="visibility: hidden"></a>US41 - Acessibilidade Visual
 
 <details>
 <summary>Tabela 42 - US41 - Mudança de idioma do aplicativo</summary>
