@@ -65,7 +65,7 @@ _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino), 2024_
 
 As listas de verificação foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com os slides da _Aula 04 da professora Milene e Maurício Serrano_<a id="anchor_4" href="#REF4"><sup>2</sup></a>.
 
-- O PDF utilizado para a lista de verificação está disponível no link a seguir:  [Lista de verificação grupo 05 - entrega 4](https://docs.google.com/document/d/1wCY_jDHIog_tYypMNh0XEI9GUvCy5hvk6WdaIDSJ6ww), elaborado por [Thales Euflauzino](https://www.github.com/thaleseuflauzino)
+- O PDF utilizado para a lista de verificação está disponível no link a seguir:  [Lista de verificação grupo 05 - entrega 4](./Lista%20de%20Verificação%20-%20Etapa%204.pdf), elaborado por [Thales Euflauzino](https://www.github.com/thaleseuflauzino)
 
 
 
