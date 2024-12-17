@@ -42,4 +42,4 @@ _Autor: [](https://github.com/), 2024_
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 16/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0` | 16/12/2024 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  |
