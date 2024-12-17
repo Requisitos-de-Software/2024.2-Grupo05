@@ -1631,4 +1631,4 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0`  | 13/12/2024 | Criação do documento | [Maria Helena](https://github.com/MariaCHelena) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| `1.1`  | 15/12/2024 | Adição de US | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
+| `1.1`  | 15/12/2024 | Adição de US | [Victor Rodrigues](https://github.com/ViictorHugoo), [Maria Helena](https://github.com/MariaCHelena), [Júlia Takaki](https://github.com/juliatakaki), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) | [Víctor Schmidt](https://github.com/moonshinerd) |
