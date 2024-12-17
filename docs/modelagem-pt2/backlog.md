@@ -268,13 +268,16 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td>Média</td>
    </tr>
 
-   <td rowspan="6">
+   <td rowspan="7">
          <a href="#ec05-cadastro-e-personalizacao-de-usuario">EC05 - Cadastro e Personalização de Usuário</a>
       </td>
-      <td rowspan="4"><a id="anchor_FEAT09" href="#FEAT09">Feature 9 - Cadastro de Usuário</a></td>
+      <td rowspan="5"><a id="anchor_FEAT09" href="#FEAT09">Feature 9 - Cadastro de Usuário</a></td>
       <td id='US'><a href="../userstories/#anchor_US16">US16: </a>Como um novo usuário, eu quero declarar minha expertise no momento do cadastro, para que o sistema personalize minhas sugestões e recursos.</td>
-      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF20"> RF20 </a></td>
+      <td rowspan="2"><a href="../../elicitacao/grupo5/requisitos/#anchor_RF20"> RF20 </a></td>
       <td>Média</td>
+   </tr>
+   <tr>
+      <td id='US'><a href="../userstories/#anchor_US24">US24: </a>Como usuário, eu quero visualizar sugestões personalizadas com base na minha expertise, para que eu possa acessar conteúdos relevantes e de acordo com meu perfil.</td>
    </tr>
        <tr>
     <td id='US'><a href="../userstories/#anchor_US27">US27: </a>Como usuário, eu quero criar uma conta no sistema, para que eu possa acessar todas as funcionalidades do aplicativo.</td>
@@ -346,23 +349,23 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec07-processo-de-compra-de-titulos">EC07 - Processo de Compra de Títulos</a>
       </td>
       <td rowspan="3"><a id="anchor_FEAT14" href="#FEAT14">Feature 14 - Fluxo de Compra</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US03">US03: </a>Eu, como usuário, desejo realizar o resgate antecipado dos títulos, para obter imediatamente o valor investido nesse título.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF03"> RF03 </a></td>
       <td>Alta</td>
    </tr>
    <tr>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US07">US07: </a>Eu, como usuário, desejo realizar a consulta de compras realizadas e agendadas na aplicação para me atualizar da situação dos meus investimentos.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF08"> RF08 </a></td>
       <td>Alta</td>
    </tr>
        <tr>
-    <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+    <td id='US'><a href="../userstories/#anchor_US25">US25: </a>Como investidor, eu quero comprar títulos públicos com diferentes métodos de pagamento, para que eu tenha flexibilidade nas transações.</td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF31"> RF31 </a></td>
     <td>Alta</td>
     </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT15" href="#FEAT15">Feature 15 - Notificações de Status</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US10">US10: </a>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF13"> RF13 </a></td>
       <td>Média</td>
    </tr>
@@ -372,13 +375,13 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec08-recursos-educativos">EC08 - Recursos Educativos</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT16" href="#FEAT16">Feature 16 - Artigos e Notícias</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US13">US13: </a>Eu, como usuário, desejo visualizar recursos educativos para aprender mais sobre como investir no Tesouro Direto.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF16"> RF16</a></td>
       <td>Baixa</td>
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT17" href="#FEAT17">Feature 17 - Vídeos e Tutoriais</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US17">US17: </a>Como um novo usuário, eu quero acessar um tutorial sobre as funcionalidades do aplicativo, para que eu possa utilizá-lo de forma eficiente desde o início.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF21"> RF21 </a></td>
       <td>Baixa</td>
    </tr>
@@ -388,23 +391,23 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09 - Personalização de Metas e Planejamento Financeiro</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT18" href="#FEAT18">Feature 18 - Definição de Metas</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US04">US04: </a>Eu, como usuário, desejo salvar as minhas metas de investimento no aplicativo.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF04"> RF04 </a></td>
       <td>Baixa</td>
    </tr>
    <tr>
       <td rowspan="3"><a id="anchor_FEAT19" href="#FEAT19">Feature 19 - Acompanhamento de Metas</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US20">US20: </a>Como usuário, eu quero simular a evolução das minhas metas na tela de "Meus Sonhos", para que eu possa ajustar meu planejamento conforme necessário.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF25"> RF25 </a></td>
       <td>Alta</td>
    </tr>
        <tr>
-    <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+    <td id='US'><a href="../userstories/#anchor_US22">US22: </a>Como usuário, eu quero visualizar uma barra de progresso em cada meta na aba "Meus Sonhos", para que eu saiba quanto falta para atingir meu objetivo.</td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF27"> RF27 </a></td>
     <td>Baixa</td>
     </tr>
    <tr>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US34">US34: </a>Como usuário, eu quero visualizar uma barra de progresso individual para cada meta, para que eu tenha clareza sobre o status de cada objetivo.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF40"> RF40 </a></td>
       <td>Baixa</td>
    </tr>
@@ -414,14 +417,14 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec10-simuladores-avancados">EC10 - Simuladores Avançados</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT20" href="#FEAT20">Feature 20 - Simulação de Aposentadoria</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US05">US05: </a>Eu, como usuário, desejo realizar a simulação e o planejamento financeiro da minha aposentadoria para obter esses dados com base nos títulos do tesouro nacional</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF05"> RF05 </a></td>
       <td>Alta</td>
    </tr>
    <tr>
       <td rowspan="2"><a id="anchor_FEAT21" href="#FEAT21">Feature 21 - Comparação com INSS</a></td>
       <tr>
-    <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+    <td id='US'><a href="../userstories/#anchor_US23">US23: </a>Como usuário, eu quero comparar minha simulação de aposentadoria com os padrões do INSS, para que eu entenda as vantagens de investir no Tesouro Direto.</td>
     <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF28"> RF28</a></td>
     <td>Média</td>
     </tr>
@@ -432,24 +435,23 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec11-gerenciamento-de-dados-do-usuario">EC11 - Gerenciamento de Dados do Usuário</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT22" href="#FEAT22">Feature 22 - Validação de Dados</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US09">US09</a>Eu, como usuário, desejo visualizar minhas informações cadastradas na aplicação para obter informação a respeito dos meus dados na aplicação</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF41"> RF41 </a></td>
       <td>Alta</td>
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT23" href="#FEAT23">Feature 23 - Alteração de Informações Pessoais</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF12"> RF12 </a></td>
       <td>Média</td>
    </tr>
    <tr>
-      <td rowspan="2"><a id="anchor_FEAT24" href="#FEAT24">Feature 24 - Acessibilidade ao Perfil de Recomendação de Investimentos</a> </td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td rowspan="2"><a id="anchor_FEAT24" href="#FEAT24">Feature 24 - Acessibilidade ao Perfil</a> </td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US35">US35: </a>Como um usuário, eu quero que meu cadastro inclua validação de dados pessoais, para que eu evite erros no preenchimento.
+</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08"> RNF08 </a></td>
       <td>Alta</td>
    </tr>
    <tr>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a></td>
       <td>Baixa</td>
    </tr>
@@ -459,13 +461,13 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec12-integracao-com-canais-de-atendimento">EC12 - Integração com Canais de Atendimento</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT25" href="#FEAT25">Feature 25 - Canal de Suporte</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US08">US08: </a>Eu, como usuário, desejo ter acesso a informações de contato com a equipe do tesouro direto e perguntas frequentes realizadas pelos usuários, para obter ajuda com as minhas dúvidas referentes às funcionalidades do aplicativo.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF09"> RF09 </a></td>
       <td>Baixa</td>
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT26" href="#FEAT26">Feature 26 - Notificações de Suporte</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US'><a href="../userstories/#anchor_US10">US10: </a>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF13"> RF13 </a></td>
       <td>Média</td>
    </tr>
@@ -507,13 +509,12 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec15-atualizacoes-e-notificacoes-automaticas">EC15 - Atualizações e Notificações Automáticas</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT31" href="#FEAT31">Feature 31 - Notificações de Taxas e Inflação</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US15">US15: </a>Como usuário, eu quero receber alertas personalizados sobre mudanças na taxa SELIC e inflação, para que eu possa ajustar meus investimentos com base no mercado.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF18"> RF18 </a></td>
       <td>Média</td>
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT32" href="#FEAT32">Feature 32 - Alertas de Feriados e Indisponibilidade</a></td>
-      <td id='US'><a href="../userstories/#anchor_USXX"></a></td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF36"> RF36 </a></td>
       <td>Alta</td>
    </tr>
@@ -691,7 +692,7 @@ Os valores atribuídos às prioridades são:
 |<a id="FEAT21" href="#anchor_FEAT21">21</a>|Comparação com INSS|3|
 |<a id="FEAT22" href="#anchor_FEAT22">22</a>|Validação de Dados|5|
 |<a id="FEAT23" href="#anchor_FEAT23">23</a>|Alteração de Informações Pessoais|3|
-|<a id="FEAT24" href="#anchor_FEAT24">24</a>|Acessibilidade ao Perfil de Recomendação de Investimentos|3|
+|<a id="FEAT24" href="#anchor_FEAT24">24</a>|Acessibilidade ao Perfil|3|
 |<a id="FEAT25" href="#anchor_FEAT25">25</a>|Canal de Suporte|1|
 |<a id="FEAT26" href="#anchor_FEAT26">26</a>|Notificações de Suporte|3|
 |<a id="FEAT27" href="#anchor_FEAT27">27</a>|Temas de Alto Contraste|1|
