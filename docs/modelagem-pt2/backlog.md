@@ -9,12 +9,12 @@ A construção do *Product Backlog* seguirá os passos descritos abaixo:
 
 1 - **Definição de perguntas:**  
 
-   - [Thales Euflauzino](https://github.com/thaleseuflauzino) será responsável por criar um roteiro de perguntas baseado nas histórias de usuário já existentes. 
+   - [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) será responsável por criar um roteiro de perguntas baseado nas histórias de usuário já existentes. 
    - Esse roteiro servirá para explorar as necessidades e expectativas dos usuários em maior profundidade.  
 
 2 - **Entrevistas com o *Product Owner*:**  
 
-   - [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino), [Júlia Takaki](https://github.com/juliatakaki) e [Maria Helena](https://github.com/mariachelena) realizaram a entrevista com o *Product Owner*, utilizando o roteiro elaborado, para coletar informações detalhadas sobre as funcionalidades desejadas.  
+   - [Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino), [Júlia Takaki](https://github.com/juliatakaki) e [Maria Helena](https://github.com/mariachelena) realizaram a entrevista com um *Product Owner*, [Víctor Rodrigues](https://github.com/ViictorHugoo) fez a entrevista de seus requisitos com outro _Product Owner_, utilizando o roteiro elaborado, para coletar informações detalhadas sobre as funcionalidades desejadas.  
 
 3 - **Construção do *Backlog*:**  
 
@@ -51,7 +51,7 @@ Essas perguntas focam nos dados exibidos no aplicativo e como eles serão organi
 
 - **Tipos de títulos exibidos** (Tesouro Prefixado, Tesouro Selic, etc.) e detalhes como prazos de vencimento, taxas de juros e histórico de preços.
 
-- **Gerenciamento de prazos e informações financeiras**, como categorização de curto, Média e longo prazo e apresentação de rendimentos.
+- **Gerenciamento de prazos e informações financeiras**, como categorização de curto, médio e longo prazo e apresentação de rendimentos.
 
 ##### **Processo de Compra**
 Exploram as etapas e regras de aquisição de títulos:
@@ -110,7 +110,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 
 ## Vídeo 2 - Priorização do Product Backlog
 
-Apresentamos o vídeo 2 sobre a priorização de requisitos do Product Backlog. Os _Product Owners_ Adrian e Cauã lideraram as atividades de priorização. Adrian realizou a priorização com a participação da maior parte dos membros da equipe, enquanto Cauã utilizou a priorização realizada por Víctor Rodrigues para organizar os requisitos no backlog. 
+Apresentamos o vídeo 2 sobre a priorização de requisitos do _Product Backlog_. Os _Product Owners_ Adrian e Cauã lideraram as atividades de priorização. Adrian realizou a priorização com a participação da maior parte dos membros da equipe, enquanto Cauã utilizou a priorização realizada por Víctor Rodrigues para organizar os requisitos no backlog. 
 
 O vídeo foi produzido com o consentimento de ambos os _Product Owners_, que confirmam a autorização para uso de suas imagens ao longo da gravação.  
 
@@ -659,4 +659,4 @@ _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino) e [Víctor 
 | ------ | ---------- | ---------------------------- | ------------------------------------------------ | -------------------------------------------------------- |
 | `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena)  |
 | `1.1`  | 14/12/2024 | Adicionando videos, respostas do PO, elaboração e priorização do backlog, criação dos épicos, etc. | [Grupo](../../) | [Víctor Schmidt](https://github.com/moonshinerd)  |
-| `1.2`  | 14/12/2024 | Elaboração da Tabela 2 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |   |
+| `1.2`  | 14/12/2024 | Elaboração da Tabela 2 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  |
