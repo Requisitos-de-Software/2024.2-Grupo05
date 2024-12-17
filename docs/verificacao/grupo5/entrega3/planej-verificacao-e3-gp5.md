@@ -34,11 +34,11 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>5</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Léxicos](../../../modelagem/lexicos.md) na versão 1.1 de data 07/12/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) com revisão de [Maria Helena](https://github.com/MariaCHelena).
-- [Cenários](../../../modelagem/cenarios.md) na versão 1.1 de data 01/12/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Maria Helena](https://github.com/ViictorHugoo), com revisão dos mesmos
-- [Casos de Uso](../../../modelagem/casos-de-uso.md) na versão 1.1 de data 07/12/2024, produzido por [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Victor Rodrigues](https://github.com/ViictorHugoo).
-- [Validação dos Casos de Uso](../../../modelagem/validacaoCasodeUso.md) na versão 1.0 de data XX/12/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Víctor Schmidt](https://github.com/moonshinerd).
-- [Especificação Suplementar](../../../modelagem/especificacao-suplementar.md) na versão 1.2 de data 07/12/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Júlia Takaki](https://github.com/juliatakaki), com revisão das mesmas.
+- [Léxicos](../../../modelagem-pt1/lexicos.md) na versão 1.1 de data 07/12/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) com revisão de [Maria Helena](https://github.com/MariaCHelena).
+- [Cenários](../../../modelagem-pt1/cenarios.md) na versão 1.1 de data 01/12/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Maria Helena](https://github.com/ViictorHugoo), com revisão dos mesmos
+- [Casos de Uso](../../../modelagem-pt1/casos-de-uso.md) na versão 1.1 de data 07/12/2024, produzido por [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Victor Rodrigues](https://github.com/ViictorHugoo).
+- [Validação dos Casos de Uso](../../../modelagem-pt1/validacaoCasodeUso.md) na versão 1.0 de data XX/12/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Víctor Schmidt](https://github.com/moonshinerd).
+- [Especificação Suplementar](../../../modelagem-pt1/especificacao-suplementar.md) na versão 1.2 de data 07/12/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Júlia Takaki](https://github.com/juliatakaki), com revisão das mesmas.
 
 ### Resultados das Verificações
 
