@@ -342,4 +342,5 @@ A Tabela 6 a seguir lista os Requisitos utilizados para a criação do NFR Frame
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 11/12/2024  | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1` | 11/12/2024  | SGI e Cartões de especificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
-| `1.2` | 16/12/2024  | Estrutura nfr finalizado | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.2` | 16/12/2024  | Estrutura nfr | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.3` | 16/12/2024  | SGI adicionados | [Grupo](../../)  | [Victor Schmidt](https://github.com/moonshinerd) |
