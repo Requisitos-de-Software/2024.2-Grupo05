@@ -51,9 +51,23 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 </div>
 <font size="2"><p style="text-align: center">Autor: [Maria Helena](https://github.com/MariaCHelena), 2024</p></font>
 
+## Vídeo 1 - Entrevista com o Product Owner  
+
+Este vídeo apresenta a entrevista conduzida exclusivamente com o _Product Owner_ Adrian. Durante a gravação, Adrian respondeu a diversas perguntas formuladas por nossa equipe, contribuindo para a construção do backlog e para as histórias de usuário.  
+
+O uso de sua imagem foi previamente autorizado, e sua declaração de consentimento pode ser vista no início do vídeo.  
+
+<center>  
+
+**Vídeo 1** - [Elaboração do Product Backlog com o PO](https://youtu.be/-Z8fSsVPz4U)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Z8fSsVPz4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd)_  
+
 ## Histórias de Usuário
 
-### US01 - Visualizar a lista de títulos públicos disponíveis
+### <a id="anchor_US01" style="visibility: hidden"></a>US01 - Visualizar a lista de títulos públicos disponíveis
 
 <details>
 <summary>Tabela 2 - US01 - Visualizar a lista de títulos públicos disponíveis</summary>
@@ -97,7 +111,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US02 - 	Simulação de investimento nos títulos
+### <a id="anchor_US02" style="visibility: hidden"></a>US02 - 	Simulação de investimento nos títulos
 
 <details>
 <summary>Tabela 3 - US02 - 	Simulação de investimento nos títulos SELIC, Prefixado e Inflação.</summary>
@@ -140,7 +154,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US03 - Resgate antecipado de títulos
+### <a id="anchor_US03" style="visibility: hidden"></a>US03 - Resgate antecipado de títulos
 
 <details>
 <summary>Tabela 4 - US03 - Resgate antecipado de títulos</summary>
@@ -184,7 +198,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US04 - Salvar metas de investimentos (Sonhos).
+### <a id="anchor_US04" style="visibility: hidden"></a>US04 - Salvar metas de investimentos (Sonhos).
 
 <details>
 <summary>Tabela 5 - US04 - Salvar metas de investimentos (Sonhos)</summary>
@@ -228,7 +242,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US05 - Simulação e planejamento de aposentadoria
+### <a id="anchor_US05" style="visibility: hidden"></a>US05 - Simulação e planejamento de aposentadoria
 
 <details>
 <summary>Tabela 6 - US05 - Simulação e planejamento de aposentadoria</summary>
@@ -272,7 +286,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
+### <a id="anchor_US06" style="visibility: hidden"></a>US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.
 
 <details>
 <summary>Tabela 7 - US06 - Consulta à taxa de custódia da B3 e taxa de administração da instituição financeira.</summary>
@@ -315,7 +329,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US07 - Consulta de operações de compra realizadas e agendadas
+### <a id="anchor_US07" style="visibility: hidden"></a>US07 - Consulta de operações de compra realizadas e agendadas
 
 <details>
 <summary>Tabela 8 - US07 - Consulta de operações de compra realizadas e agendadas</summary>
@@ -358,7 +372,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US08 - Fale Conosco
+### <a id="anchor_US08" style="visibility: hidden"></a>US08 - Fale Conosco
 
 <details>
 <summary>Tabela 9 - US03</summary>
@@ -403,7 +417,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US09 - Visualização dos dados cadastrais do usuário
+### <a id="anchor_US09" style="visibility: hidden"></a>US09 - Visualização dos dados cadastrais do usuário
 
 <details>
 <summary>Tabela 10 - US09 - Visualização dos dados cadastrais do usuário</summary>
@@ -446,7 +460,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US10 - Notificações de lembrete de metas ou vencimento de títulos
+### <a id="anchor_US10" style="visibility: hidden"></a>US10 - Notificações de lembrete de metas ou vencimento de títulos
 
 <details>
 <summary>Tabela 11 - US10 - Notificações de lembrete de metas ou vencimento de títulos</summary>
@@ -489,7 +503,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US11 - Transferência automática entre investimentos
+### <a id="anchor_US11" style="visibility: hidden"></a>US11 - Transferência automática entre investimentos
 
 <details>
 <summary>Tabela 12 - US11 - Transferência automática entre investimentos</summary>
@@ -532,7 +546,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US12 - Relatórios mensais de investimento
+### <a id="anchor_US12" style="visibility: hidden"></a>US12 - Relatórios mensais de investimento
 
 <details>
 <summary>Tabela 13 - US12 - Relatórios mensais de investimento</summary>
@@ -576,7 +590,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US13 - Recursos educativos sobre como investir no Tesouro Direto
+### <a id="anchor_US13" style="visibility: hidden"></a>US13 - Recursos educativos sobre como investir no Tesouro Direto
 
 <details>
 <summary>Tabela 14 - US13 - Recursos educativos sobre como investir no Tesouro Direto</summary>
@@ -620,7 +634,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US14 - Integração com carteiras digitais
+### <a id="anchor_US14" style="visibility: hidden"></a>US14 - Integração com carteiras digitais
 
 <details>
 <summary>Tabela 15 - US14 - Integração com carteiras digitais</summary>
@@ -669,7 +683,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
 </details>
 
-### US15 - Alertas de mercado
+### <a id="anchor_US15" style="visibility: hidden"></a>US15 - Alertas de mercado
 
 <details>
 <summary>Tabela 16 - US15 - Alertas de mercado</summary>
@@ -714,7 +728,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki"> Júlia Takaki </a>, 2024</p></font>
 </details>
 
-### US16 - Autodeclaração de expertise
+### <a id="anchor_US16" style="visibility: hidden"></a>US16 - Autodeclaração de expertise
 
 <details>
 <summary>Tabela 17 - US16 - Autodeclaração de expertise</summary>
@@ -759,7 +773,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US17 - Tutorial no uso das funcionalidades
+### <a id="anchor_US17" style="visibility: hidden"></a>US17 - Tutorial no uso das funcionalidades
 
 <details>
 <summary>Tabela 18 - US17 - Tutorial no uso das funcionalidades</summary>
@@ -804,7 +818,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
 </details>
 
-### US18 - Liquidez dos títulos na simulação.
+### <a id="anchor_US18" style="visibility: hidden"></a>US18 - Liquidez dos títulos na simulação.
 
 <details>
 <summary>Tabela 19 - US18 - Liquidez dos títulos na simulação.</summary>
@@ -849,7 +863,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
 </details>
 
-### US19 - Comparação de Investimentos
+### <a id="anchor_US19" style="visibility: hidden"></a>US19 - Comparação de Investimentos
 
 <details>
 <summary>Tabela 20 - US19 - Comparação de Investimentos</summary>
@@ -894,7 +908,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
 </details>
 
-### US20 - Simular a evolução das metas
+### <a id="anchor_US20" style="visibility: hidden"></a>US20 - Simular a evolução das metas
 
 <details>
 <summary>Tabela 21 - US20 - Simular a evolução das metas</summary>
@@ -939,7 +953,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US21 - Dashboard com dados de rentabilidade e inflação.
+### <a id="anchor_US21" style="visibility: hidden"></a>US21 - Dashboard com dados de rentabilidade e inflação.
 
 <details>
 <summary>Tabela 22 - US21 - Dashboard com dados de rentabilidade e inflação.</summary>
@@ -984,7 +998,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US22 - Barra de progresso em "Meus Sonhos".
+### <a id="anchor_US22" style="visibility: hidden"></a>US22 - Barra de progresso em "Meus Sonhos".
 
 <details>
 <summary>Tabela 23 - US22 - Barra de progresso em "Meus Sonhos".</summary>
@@ -1029,7 +1043,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino"> Thales Euflauzino </a>, 2024</p></font>
 </details>
 
-### US23 - Comparação da simulação com os padrões do INSS.
+### <a id="anchor_US23" style="visibility: hidden"></a>US23 - Comparação da simulação com os padrões do INSS.
 
 <details>
 <summary>Tabela 24 - US23 - Comparação da simulação com os padrões do INSS</summary>
@@ -1074,7 +1088,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US24 - Sugestões com base na expertise
+### <a id="anchor_US24" style="visibility: hidden"></a>US24 - Sugestões com base na expertise
 
 <details>
 <summary>Tabela 25 - US24 - Sugestões com base na expertise</summary>
@@ -1119,7 +1133,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### US25 - Métodos de pagamento para compra de títulos
+### <a id="anchor_US25" style="visibility: hidden"></a>US25 - Métodos de pagamento para compra de títulos
 
 <details>
 <summary>Tabela 26 - US25 - Métodos de pagamento para compra de títulos</summary>
@@ -1164,7 +1178,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US26 - Rentabilidade acumulada de títulos
+### <a id="anchor_US26" style="visibility: hidden"></a>US26 - Rentabilidade acumulada de títulos
 
 <details>
 <summary>Tabela 27 - US26 - Rentabilidade acumulada de títulos</summary>
@@ -1209,7 +1223,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US27 - Cadastro no próprio sistema
+### <a id="anchor_US27" style="visibility: hidden"></a>US27 - Cadastro no próprio sistema
 
 <details>
 <summary>Tabela 28 - US27 - Cadastro no próprio sistema</summary>
@@ -1254,7 +1268,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US28 - Login e cadastro a partir do sistema gov.br
+### <a id="anchor_US28" style="visibility: hidden"></a>US28 - Login e cadastro a partir do sistema gov.br
 
 <details>
 <summary>Tabela 29 - US28 - Login e cadastro a partir do sistema gov.br</summary>
@@ -1299,7 +1313,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US29 - Agendamento de Compras
+### <a id="anchor_US29" style="visibility: hidden"></a>US29 - Agendamento de Compras
 
 <details>
 <summary>Tabela 30 - US29 - Agendamento de Compras</summary>
@@ -1344,7 +1358,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd"> Victor Schmidt </a>, 2024</p></font>
 </details>
 
-### US30 - Armazenamento de Informações dos Títulos e do Mercado
+### <a id="anchor_US30" style="visibility: hidden"></a>US30 - Armazenamento de Informações dos Títulos e do Mercado
 
 <details>
 <summary>Tabela 31 - US30 - Armazenamento de Informações dos Títulos e do Mercado</summary>
@@ -1389,7 +1403,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US31 - Simular evolução de um título com base em período de tempo
+### <a id="anchor_US31" style="visibility: hidden"></a>US31 - Simular evolução de um título com base em período de tempo
 
 <details>
 <summary>Tabela 32 - US31 - Simular evolução de um título com base em período de tempo</summary>
@@ -1434,7 +1448,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US32 - Questionário de informações necessárias para gerar o simulador.
+### <a id="anchor_US32" style="visibility: hidden"></a> US32 - Questionário de informações necessárias para gerar o simulador.
 
 <details>
 <summary>Tabela 33 - US32 - Questionário de informações necessárias para gerar o simulador</summary>
@@ -1479,7 +1493,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US33 - Simulação de Metas
+### <a id="anchor_US33" style="visibility: hidden"></a>US33 - Simulação de Metas
 
 <details>
 <summary>Tabela 34 - US33 - Simulação de Metas</summary>
@@ -1524,7 +1538,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US34 - Meta com barra de progresso individual
+### <a id="anchor_US34" style="visibility: hidden"></a>US34 - Meta com barra de progresso individual
 
 <details>
 <summary>Tabela 35 - US34 - Meta com barra de progresso individual</summary>
@@ -1569,7 +1583,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
-### US35 - Validação de usuário
+### <a id="anchor_US35" style="visibility: hidden"></a>US35 - Validação de usuário
 
 <details>
 <summary>Tabela 36 - US35 - Validação de usuário</summary>
@@ -1613,6 +1627,8 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 </div>
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
+
+
 
 ## Referência Bibliográfica
 > <span id="REF1">1.</span> Washizaki, Hironori. Guide to the Software Engineering Body of Knowledge, Version 4.0. SWEBOK. IEEE Computer Society, 2024. Disponível em: https://www.computer.org/education/bodies-of-knowledge/software-engineering. p. 54.
