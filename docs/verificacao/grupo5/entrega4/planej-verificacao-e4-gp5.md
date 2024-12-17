@@ -34,9 +34,9 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>1</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Backlog](../../../modelagem-pt2/backlog.md) na versão X.X de data XX/12/2024, produzido por [XXX](XXX) com revisão de [XXX](XXX).
-- [Histórias do Usuário](../../../modelagem-pt2/userstories.md) na versão X.X de data XX/12/2024, produzido por [XXX](XXX) e [XXX](XXX), com revisão de [XXX](XXX).
-- [NFR Framework](../../../modelagem-pt2/nfr_framework.md) na versão X.X de data XX/12/2024, produzido por [XXX](XXX) com revisão de [XXX](XXX).
+- [Backlog](../../../modelagem-pt2/backlog.md) na versão 1.2 de data 14/12/2024, produzido por [Todos integrantes](../../) com revisão de [Todos integrantes](../../).
+- [Histórias do Usuário](../../../modelagem-pt2/userstories.md) na versão 1.1 de data 15/12/2024, produzido por [Todos integrantes](../../), com revisão de [Todos integrantes](../../).
+- [NFR Framework](../../../modelagem-pt2/nfr_framework.md) na versão 1.4 de data 17/12/2024, produzido por [Todos integrantes](../../) com revisão de [Todos integrantes](../../).
 
 ### Resultados das Verificações
 
@@ -55,7 +55,7 @@ A verificação será realizada no período de 17 de dezembro de 2024, com os re
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
 | 16/12/2024 | Planejamento da Verificação  | [Thales Euflauzino](https://www.github.com/thaleseuflauzino) |
-| XX/12/2024 | Adição dos resultados.       |  [xx](xxx)   |
+| 17/12/2024 | Adição dos resultados.       |  [Grupo](../../)   |
 
 _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino), 2024_
 
