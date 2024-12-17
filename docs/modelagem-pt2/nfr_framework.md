@@ -1,5 +1,22 @@
 # NFR Framework
 
+<!-- a definição do RNF e as fontes de evidência na literatura? 
+Adicionar referência bibliográfica da fonte e foto do texto da referência explicando NFR
+Framework.
+
+o cartão de especificação do RNF?
+Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o
+que é o cartão de especificação do RNF.
+
+Os softgoals condizem com o contexto?
+Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o
+que é softgoals.
+Autor:
+
+Softgoals representam metas bem definidas?
+
+Os impactos foram corretamente propagados? -->
+
 ## Introdução
 
 O NFR Framework (Non-Functional Requirements Framework) é uma abordagem desenvolvida por Lawrence Chung e colaboradores para tratar requisitos não funcionais de forma sistemática e qualitativa. Diferentemente dos requisitos funcionais, que têm critérios claros de satisfação, os requisitos não funcionais (NFRs) são subjetivos e frequentemente envolvem decisões de compromisso (trade-offs). O framework auxilia no processo de identificação, modelagem e análise desses requisitos, permitindo que desenvolvedores considerem aspectos como segurança, desempenho, usabilidade e manutenibilidade durante o design de sistemas.
@@ -96,12 +113,12 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 | Justificativa: Garantir que o aplicativo seja acessível a todas as pessoas, incluindo aquelas com deficiências.
 | Origem do Requisisto: Regulamentações técnicas e normativas.
 | Critério de Aceitação: Certificação de conformidade com a norma NBR 17060:2022 após auditoria.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Necessidade de ajustes adicionais na interface.
 | História: Adicionado após revisão normativa.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Víctor Schmidt](https://github.com/moonshinerd)
 
 </center>
 
@@ -115,12 +132,12 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 | Justificativa: Permitir que o aplicativo seja utilizado por pessoas diferentes regiões.
 | Origem do Requisisto: Pesquisa de mercado global.
 | Critério de Aceitação: Interface completamente traduzida para os idiomas suportados, com português como padrão.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Aumento de custo e tempo de desenvolvimento.
 | História: Adicionado após feedback de clientes internacionais.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Júlia Takaki](https://github.com/juliatakaki)
 
 </center>
 
@@ -128,18 +145,18 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 
 <b>Tabela 4</b> - Cartão de Especificação 4
 
-| <a href="#anchor_RNF08">RNF08</a> | Classificação: Usabilidade |
+| <a href="#anchor_RNF08">RNF08</a> | Classificação: Eficiência |
 |---------------| ------------|
 | Descrição: O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo.
 | Justificativa: Melhorar a navegação e o acesso rápido a funcionalidades importantes.
 | Origem do Requisisto: Pesquisa de usabilidade.
 | Critério de Aceitação: Testes de usabilidade comprovarem que o objetivo é alcançado em no máximo 3 cliques.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Nenhum identificado.
 | História: Introduzido após feedback de usuários sobre dificuldade de navegação.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)
 
 </center>
 
@@ -147,66 +164,157 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 
 <b>Tabela 5</b> - Cartão de Especificação 5
 
-| <a href="#anchor_RNF09">RNF09</a> | Classificação: Usabilidade |
+| <a href="#anchor_RNF09">RNF09</a> | Classificação: Acessibilidade |
 |---------------| ------------|
 | Descrição: O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.
 | Justificativa: Reduzir o cansaço visual e atender preferências dos usuários.
 | Origem do Requisisto: Pesquisa de satisfação do usuário.
 | Critério de Aceitação: Tema escuro implementado e acessível a partir das configurações do aplicativo.
-| Dependências: 
+| Dependências: Nenhuma 
 | Prioridade: 
 | Conflitos: Nenhum identificado.
 | História: Adicionado com base em tendências de mercado.
 
-Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
+Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 </center>
 
 ### NFR 00 - Geral
 
+Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais ainda não implementados, o SIG apresentado foi ajustado para incorporar apenas os Requisistos a serem trabalhados, conforme ilustrado na Figura 1.
 
-### NFR 01 - 
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 1 - SIG adaptado</p>
 
-#### Requisitos Não-Funcionais - 
+![nfrgeraladptado](../assets/modelagem/nfr/nfrGeral.png)
 
-#### Propagação dos Impactos - 
-
-
-### NFR 02 - 
-
-#### Requisitos Não-Funcionais - 
-
-#### Propagação dos Impactos - 
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: Silva, 2019</p>
+</center>
 
 
-### NFR 03 - 
+### NFR 01 - Acessibilidade
 
-#### Requisitos Não-Funcionais - 
+#### Requisitos Não-Funcionais - Acessibilidade
 
-#### Propagação dos Impactos - 
+Os requisitos utilizados para a construção do SIG apresentado na Figura 2 estão listados na Tabela 6.
+
+- RNF04: Infere que a interface do sistema deve ser desenhada com base em diretrizes técnicas que garantam uma experiência intuitiva e eficiente para o usuário, conforme a norma NBR 17060:2022.
+- RNF09: Infere que o sistema deve oferecer um tema escuro para proporcionar uma experiência personalizada e confortável, especialmente em ambientes com baixa iluminação.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 2 - SIG acessibilidade</p>
+
+![nfrAcessibilidade](../assets/modelagem/nfr/nfrAcessibilidade.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
+</center>
 
 
-### NFR 04 - 
+#### Propagação dos Impactos - Acessibilidade
 
-#### Requisitos Não-Funcionais - 
+A avaliação da propagação de impactos está apresentada na Tabela 3.
 
-#### Propagação dos Impactos - 
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela 3 - SIG acessibilidade</p>
+
+| NFR | Impacto |
+|-----|---------|
+| acessibilidade | 𝒲- |
+| personalização da interface | 𝒲+ |
+| alteração de idioma | X |
+| mudança de contraste |𝒲+ |
+| contraste adequado | 𝒲+ |
+| intuitividade | ✓ |
+| legibilidade simplificada | 𝒲+ |
+| texto redimensionável | 𝒲- |
+| feedback claro | 𝒲+ |
 
 
-### NFR 05 - 
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p>
+</center>
 
-#### Requisitos Não-Funcionais - 
+### NFR 02 - Eficiência
 
-#### Propagação dos Impactos - 
+#### Requisitos Não-Funcionais - Eficiência 
+
+Os requisitos utilizados para a construção do SIG apresentado na Figura 3 estão listados na Tabela 6.
+
+- RNF01: Infere que o sistema deve responder a consultas básicas em menos de 2 segundos, garantindo rapidez no processamento e na interação do usuário.
+- RNF08: Infere que a navegação no aplicativo deve ser simplificada, permitindo acesso rápido ao perfil de recomendação de investimentos com um número reduzido de cliques.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 3 - SIG Eficiência</p>
+
+![nfrEficiencia](../assets/modelagem/nfr/nfrEficiencia.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
+</center>
+
+#### Propagação dos Impactos - Eficiência
+
+A avaliação da propagação de impactos está apresentada na Tabela 4.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela 4 - SIG adaptado</p>
+
+| NFR | Impacto |
+|-----|---------|
+| Eficiência | 𝒲- |
+| facilidade na navegação | 𝒲+ |
+| Agilidade na navegação entre seções | ✓ |
+| Respostas Instantâneas a Ações do Usuários | 𝒲+ |
+| Agilidade nas respostas | 𝒲+ |
+| Velocidade de carregamento | 𝒲+ |
+| Consumo de recursos do Dispositivo | X |
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+</center>
+
+
+### NFR 03 - Desempenho
+
+#### Requisitos Não-Funcionais - Desempenho 
+
+Os requisitos utilizados para a construção do SIG apresentado na Figura 4 estão listados na Tabela 6.
+
+- RNF01: Infere que o sistema deve ser tecnicamente otimizado para processar consultas básicas rapidamente, mesmo sob carga normal de uso.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 4 - SIG Desempenho</p>
+
+![nfrDesempenho](../assets/modelagem/nfr/nfrDesempenho.png)
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+</center>
+
+#### Propagação dos Impactos - Desempenho
+
+A avaliação da propagação de impactos está apresentada na Tabela 5.
+
+<center>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Tabela 5 - SIG adaptado</p>
+
+| NFR | Impacto |
+|-----|---------|
+| Desempenho | 𝒲+ |
+| Consumo de recursos do Dispositivo | 𝒲- | 
+| uso eficiente da memória | 𝒲+ |
+| capacidade de processamento simultâneo | ✓ |
+| velocidade no carregamento | ✓ |
+| Desempenho em redes de baixa velocidade | 𝒲+ |
+| resiliência a interrupções de conexão | 𝒲+ |
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+</center>
 
 
 ## Requisitos Não-Funcionais
 
-A Tabela X a seguir lista os Requisitos utilizados para a criação do NFR Framework.
+A Tabela 6 a seguir lista os Requisitos utilizados para a criação do NFR Framework.
 
 
 <div>
-<font size="3"><p style="text-align: center"> Tabela X - Requisitos Não Funcionais </a></font></p>
+<font size="3"><p style="text-align: center"> Tabela 6 - Requisitos Não Funcionais </a></font></p>
 </div>
 
 | Identificador | Descrição	| ID | Implementado |
@@ -234,3 +342,5 @@ A Tabela X a seguir lista os Requisitos utilizados para a criação do NFR Frame
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 11/12/2024  | Criação do documento | [Júlia Takaki](https://github.com/juliatakaki) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1` | 11/12/2024  | SGI e Cartões de especificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+| `1.2` | 16/12/2024  | Estrutura nfr | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.3` | 16/12/2024  | SGI adicionados | [Grupo](../../)  | [Victor Schmidt](https://github.com/moonshinerd) |
