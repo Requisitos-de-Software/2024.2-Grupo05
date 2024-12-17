@@ -1628,6 +1628,291 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
 </details>
 
+### US36 - Tema Escuro
+
+<details>
+<summary>Tabela 37 - US36 - Tema Escuro</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 37</b> - História de Usuário Tema Escuro</p></font>
+<div style="display: flex; justify-content: center">
+<table border="1">
+  <thead>
+      <tr>
+          <th colspan="2" style="text-align: center;">US36</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, Como um usuário, quero que poder escolher entre tema claro e escuro, para melhorar a minha experiência no aplicativo.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec13-funcionalidades-de-acessibilidade">EC13</a> - Funcionalidades de Acessibilidade</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
+          <td>
+              <ol>
+                <li>Todo o aplicativo deverá possuir uma versão no tema escuro.</li>
+                <li>A versão padrão do aplicativo deve ser de tema claro.</li>
+              </ol>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Baixa</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US36</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+</details>
+
+### US37 - Ajuste da Velicidade do Áudio
+
+<details>
+<summary>Tabela 38 - US37 - Ajuste da Velicidade do Áudio</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 38</b> - História de Usuário Ajuste da Velicidade do Áudio</p></font>
+<div style="display: flex; justify-content: center">
+<table border="1">
+  <thead>
+      <tr>
+          <th colspan="2" style="text-align: center;">US37</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, Como um usuário, desejo ajustar a velocidade dos áudios disponíveis no aplicativo para melhorar minha compreensão dos conteúdos de áudio.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec13-funcionalidades-de-acessibilidade">EC13</a> - Funcionalidades de Acessibilidade</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
+          <td>
+              <ol>
+                <li>O áudio deverá estar na velocidade normal por padrão.</li>
+                <li>O áudio deverá possuir as seguintes opções de velocidade:
+                    <ul>
+                        <li>0.25x</li>
+                        <li>0.5x</li>
+                        <li>0.75x</li>
+                        <li>1x</li>
+                        <li>1.25x</li>
+                        <li>1.5x</li>
+                        <li>1.75x</li>
+                        <li>2x</li>
+                    </ul>
+                </li>
+              </ol>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Baixa</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US37</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+</details>
+
+### US38 - Mudança de idioma do aplicativo
+
+<details>
+<summary>Tabela 39 - US38 - Mudança de idioma do aplicativo</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 38</b> - História de Usuário Mudança de idioma do aplicativo</p></font>
+<div style="display: flex; justify-content: center">
+<table border="1">
+  <thead>
+      <tr>
+          <th colspan="2" style="text-align: center;">US38</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, Como um usuário, desejo poder alterar o idioma do aplicativo para acessar o aplicativo no idioma mais adequado para mim.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec14-multilingue-e-inclusao">EC14</a> - Multilingue e inclusão</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
+          <td>
+              <ol>
+                <li>O idioma padrão deverá ser o português brasileiro.</li>
+                <li>Além do portugês brasileiro, o aplicativo deverá possuir as seguintes opções de idiomas:
+                    <ol>
+                        <li>Inglês</li>
+                        <li>Espanhol</li>
+                    </ol>
+                </li>
+              </ol>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Média</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US38</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+</details>
+
+### US39 - Segurança dos Dados
+
+<details>
+<summary>Tabela 40 - US39 - Segurança dos Dados</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 39</b> - História de Usuário Segurança dos Dados</p></font>
+<div style="display: flex; justify-content: center">
+<table border="1">
+  <thead>
+      <tr>
+          <th colspan="2" style="text-align: center;">US39</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, Como um usuário, desejo ter segurança na navegação no aplicativo, para garantir a segurança dos meus dados.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec06-seguranca-e-acessibilidade">EC06</a> - Segurança e Acessibilidade</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
+          <td>
+              <ol>
+                <li>O aplicativo deve seguir os critérios de segurança da LGPD.</li>
+              </ol>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Alta</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US39</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+</details>
+
+### US40 - Responsividade do aplicativo
+
+<details>
+<summary>Tabela 41 - US40 - Responsividade do aplicativo</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 41</b> - História de Usuário Responsividade do aplicativo</p></font>
+<div style="display: flex; justify-content: center">
+<table border="1">
+  <thead>
+      <tr>
+          <th colspan="2" style="text-align: center;">US40</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, Como um usuário, desejo poder acessar o dispositivo em qualquer tablet ou celular compatível .</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec06-seguranca-e-acessibilidade">EC06</a> - Segurança e Acessibilidade</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
+          <td>
+              <ol>
+                <li>A interface do aplicativo deve se ajustar automaticamente a diferentes tamanhos de tela, incluindo smartphones e tablets.</li>
+                <li>Todos os elementos da interface (botões, textos, imagens e formulários) devem ser visíveis e funcionais sem necessidade de zoom ou rolagem para baixo para mais de metade da tela</li>
+                </li>
+              </ol>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Média</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US40</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+</details>
+
+### US41 - Acessibilidade Visual
+
+<details>
+<summary>Tabela 42 - US41 - Mudança de idioma do aplicativo</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 42</b> - História de Usuário Acessibilidade Visual</p></font>
+<div style="display: flex; justify-content: center">
+<table border="1">
+  <thead>
+      <tr>
+          <th colspan="2" style="text-align: center;">US41</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="font-weight: bold;">História de Usuário</td>
+          <td>Eu, Como um usuário, desejo navegar em um aplicativo acessível para que eu consiga utilizar todas as funcionalidades do aplicativo com facilidade.</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Épico</td>
+          <td><a href="../backlog/#ec06-seguranca-e-acessibilidade">EC06</a> - Segurança e Acessibilidade</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Critérios de Aceitação</td>
+          <td>
+              <ol>
+                <li>A interface deve seguir as diretrizes da norma NBR 17060:2022 para acessibilidade visual, garantindo:
+                    <ol>
+                        <li>Contraste adequado entre texto e fundo, conforme padrões mínimos de luminância.</li>
+                        <li>Tamanho de fonte ajustável, permitindo ampliação sem distorção do layout.</li>
+                        <li>Uso de texto alternativo (alt text) para imagens e ícones informativos.</li>
+                        <li>Foco visível e navegabilidade através de teclado e leitores de tela.</li>
+                    </ol>
+                </li>
+              </ol>
+          </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">Prioridade</td>
+          <td>Baixa</td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;">ID</td>
+          <td>US41</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+</details>
 
 
 ## Referência Bibliográfica
@@ -1648,3 +1933,4 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0`  | 13/12/2024 | Criação do documento | [Maria Helena](https://github.com/MariaCHelena) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1`  | 15/12/2024 | Adição de US | [Victor Rodrigues](https://github.com/ViictorHugoo), [Maria Helena](https://github.com/MariaCHelena), [Júlia Takaki](https://github.com/juliatakaki), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.2`  | 17/12/2024 | Adição de novas histórias de usuário | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
