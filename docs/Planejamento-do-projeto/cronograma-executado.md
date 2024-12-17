@@ -335,9 +335,9 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
         <td>Modelagem de Requisitos: Cenários</td>
         <td>Victor Rodrigues e Maria Helena</td>
         <td>Thales Euflauzino</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>01/12</td>
+        <td>03/12</td>
+        <td>03/12 - 05/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos: Léxicos</td>
@@ -351,25 +351,25 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
         <td>Modelagem de Requisitos: Use Cases</td>
         <td>Victor Schmidt e Victor Rodrigues</td>
         <td>Júlia Takaki</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>06/12</td>
+        <td>07/12</td>
+        <td>07/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos: Especificação Suplementar</td>
-        <td>Thales Euflauzino e Maria Helena</td>
+        <td>Júlia Takaki e Maria Helena</td>
         <td>Victor Schmidt</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>06/12</td>
+        <td>07/12</td>
+        <td>07/12</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
         <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Victor Rodrigues</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>07/12</td>
+        <td>07/12</td>
+        <td>07/12</td>
       </tr>
       <tr>
       <td>Revisão pós apresentação</td>
@@ -425,9 +425,9 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
         <td>Modelagem de Requisitos - Ágil: Backlogs</td>
         <td>Victor Schmidt e Thales Euflauzino</td>
         <td>Júlia Takaki</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>11/12</td>
+        <td>14/12</td>
+        <td>14/12 - 15/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos - Ágil: NFR Framework</td>
