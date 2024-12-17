@@ -206,7 +206,7 @@ Os requisitos utilizados para a construção do SIG apresentado na Figura 2 est�
 
 ![nfrAcessibilidade](../assets/modelagem/nfr/nfrAcessibilidade.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
 </center>
 
 
@@ -230,7 +230,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 3.
 | feedback claro | 𝒲+ |
 
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
 </center>
 
 ### NFR 02 - Eficiência
@@ -247,7 +247,7 @@ Os requisitos utilizados para a construção do SIG apresentado na Figura 3 est�
 
 ![nfrEficiencia](../assets/modelagem/nfr/nfrEficiencia.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte: <a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
 </center>
 
 #### Propagação dos Impactos - Eficiência
@@ -267,7 +267,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 4.
 | Velocidade de carregamento | 𝒲+ |
 | Consumo de recursos do Dispositivo | X |
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:[Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd)</p>
 </center>
 
 
@@ -284,7 +284,7 @@ Os requisitos utilizados para a construção do SIG apresentado na Figura 4 est�
 
 ![nfrDesempenho](../assets/modelagem/nfr/nfrDesempenho.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Fonte:</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:[Júlia Takaki](https://github.com/juliatakaki) e [Maria Helena](https://github.com/mariachelena)</p>
 </center>
 
 #### Propagação dos Impactos - Desempenho
@@ -304,7 +304,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 5.
 | Desempenho em redes de baixa velocidade | 𝒲+ |
 | resiliência a interrupções de conexão | 𝒲+ |
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor:[Júlia Takaki](https://github.com/juliatakaki) e [Maria Helena](https://github.com/mariachelena)</p>
 </center>
 
 
@@ -344,3 +344,4 @@ A Tabela 6 a seguir lista os Requisitos utilizados para a criação do NFR Frame
 | `1.1` | 11/12/2024  | SGI e Cartões de especificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
 | `1.2` | 16/12/2024  | Estrutura nfr | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.3` | 16/12/2024  | SGI adicionados | [Grupo](../../)  | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.4` | 17/12/2024  | Ajustando fonte e autor |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
