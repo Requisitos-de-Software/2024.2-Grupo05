@@ -324,3 +324,4 @@ A avaliação da propagação de impactos está apresentada na Tabela 5.
 | `1.2` | 16/12/2024  | Estrutura nfr | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.3` | 16/12/2024  | SGI adicionados | [Grupo](../../)  | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 17/12/2024  | Ajustando fonte e autor |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.5` | 17/12/2024  | Alteração requisitada pelo professor | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
