@@ -1,7 +1,7 @@
 # Product Backlog
 ## Introdução  
 
-O *Product Backlog* do aplicativo do Tesouro Direto será uma lista dinâmica que reunirá todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo *Product Owner* — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo <a id="anchor_1" href="#REF1">[Mauricio e Milene]</a>. Este documento apresenta a metodologia utilizada para a construção e priorização do *Backlog*. Durante sua elaboração, dois *Product Owners* serão designados: um responsável por construir o *Backlog* e outro por priorizá-lo, devido a conflitos de horários entre os integrantes do grupo.
+O *Product Backlog* do aplicativo do Tesouro Direto será uma lista dinâmica que reunirá todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo *Product Owner* — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo (<a id="anchor_1" href="#REF1">Mauricio e Milene</a>). Este documento apresenta a metodologia utilizada para a construção e priorização do *Backlog*. Durante sua elaboração, dois *Product Owners* serão designados: um responsável por construir o *Backlog* e outro por priorizá-lo, devido a conflitos de horários entre os integrantes do grupo.
 
 ## Metodologia  
 
@@ -392,7 +392,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td rowspan="1"><a id="anchor_FEAT18" href="#FEAT18">Feature 18 - Definição de Metas</a></td>
       <td id='US'><a href="../userstories/#anchor_US04">US04: </a>Eu, como usuário, desejo salvar as minhas metas de investimento no aplicativo.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF04"> RF04 </a></td>
-      <td>Baixa</td>
+      <td>Média</td>
    </tr>
    <tr>
       <td rowspan="3"><a id="anchor_FEAT19" href="#FEAT19">Feature 19 - Acompanhamento de Metas</a></td>
@@ -434,7 +434,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
          <a href="#ec11-gerenciamento-de-dados-do-usuario">EC11 - Gerenciamento de Dados do Usuário</a>
       </td>
       <td rowspan="1"><a id="anchor_FEAT22" href="#FEAT22">Feature 22 - Validação de Dados</a></td>
-      <td id='US' rowspan="2"><a href="../userstories/#anchor_US09">US09</a>Eu, como usuário, desejo visualizar minhas informações cadastradas na aplicação para obter informação a respeito dos meus dados na aplicação</td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US09">US09: </a>Eu, como usuário, desejo visualizar minhas informações cadastradas na aplicação para obter informação a respeito dos meus dados na aplicação</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF41"> RF41 </a></td>
       <td>Alta</td>
    </tr>
@@ -462,7 +462,7 @@ A tabela 1 resume os épicos, organizando-os em features e os requisitos relacio
       <td rowspan="1"><a id="anchor_FEAT25" href="#FEAT25">Feature 25 - Canal de Suporte</a></td>
       <td id='US'><a href="../userstories/#anchor_US08">US08: </a>Eu, como usuário, desejo ter acesso a informações de contato com a equipe do tesouro direto e perguntas frequentes realizadas pelos usuários, para obter ajuda com as minhas dúvidas referentes às funcionalidades do aplicativo.</td>
       <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF09"> RF09 </a></td>
-      <td>Baixa</td>
+      <td>Média</td>
    </tr>
    <tr>
       <td rowspan="1"><a id="anchor_FEAT26" href="#FEAT26">Feature 26 - Notificações de Suporte</a></td>
@@ -699,6 +699,20 @@ Os valores atribuídos às prioridades são:
 |<a id="FEAT32" href="#anchor_FEAT32">32</a>|Alertas de Feriados e Indisponibilidade|5|
 
 _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino) e [Víctor Schmidt](https://www.github.com/moonshinerd), 2024_
+
+</center>
+
+# Validação
+
+No vídeo 3 apresenta-se a gravação da validação do Product Backlog.
+
+<center>  
+
+**Vídeo 3** - [Validação do Product Backlog](https://youtu.be/Gin6fB6PpNY)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gin6fB6PpNY?si=diR-xcvdjAfy_EWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)_  
 
 </center>
 

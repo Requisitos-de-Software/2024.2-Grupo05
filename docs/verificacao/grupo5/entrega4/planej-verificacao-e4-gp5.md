@@ -35,8 +35,8 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>1</sup></a>
 Os artefatos alvos dessa verificação são:
 
 - [Backlog](../../../modelagem-pt2/backlog.md) na versão 1.2 de data 14/12/2024, produzido por [Todos integrantes](../../) com revisão de [Todos integrantes](../../).
-- [Histórias do Usuário](../../../modelagem-pt2/userstories.md) na versão 1.1 de data 15/12/2024, produzido por [Todos integrantes](../../), com revisão de [Todos integrantes](../../).
-- [NFR Framework](../../../modelagem-pt2/nfr_framework.md) na versão 1.4 de data 17/12/2024, produzido por [Todos integrantes](../../) com revisão de [Todos integrantes](../../).
+- [Histórias do Usuário](../../../modelagem-pt2/userstories.md) na versão 1.2 de data 17/12/2024, produzido por [Todos integrantes](../../), com revisão de [Todos integrantes](../../).
+- [NFR Framework](../../../modelagem-pt2/nfr_framework.md) na versão 1.5 de data 17/12/2024, produzido por [Todos integrantes](../../) com revisão de [Todos integrantes](../../).
 
 ### Resultados das Verificações
 
