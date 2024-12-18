@@ -230,7 +230,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Baixa</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
@@ -375,8 +375,8 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 ### <a id="anchor_US08" style="visibility: hidden"></a>US08 - Fale Conosco
 
 <details>
-<summary>Tabela 9 - US03</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 3</b> - História de Usuário Fale Conosco</p></font>
+<summary>Tabela 9 - US08 - Fale Conosco</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 9</b> - História de Usuário Fale Conosco</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -405,7 +405,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
       </tr>
       <tr>
           <td style="font-weight: bold;">Prioridade</td>
-          <td>Baixa</td>
+          <td>Média</td>
       </tr>
       <tr>
           <td style="font-weight: bold;">ID</td>
@@ -587,7 +587,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p></font>
 </details>
 
 ### <a id="anchor_US13" style="visibility: hidden"></a>US13 - Recursos educativos sobre como investir no Tesouro Direto
@@ -1625,7 +1625,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues </a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino </a> e <a href="https://github.com/moonshinerd">Víctor Schmidt </a>, 2024</p></font>
 </details>
 
 ### <a id="anchor_US36" style="visibility: hidden"></a>US36 - Tema Escuro
@@ -1672,11 +1672,11 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 <font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
 </details>
 
-### <a id="anchor_US37" style="visibility: hidden"></a>US37 - Ajuste da Velicidade do Áudio
+### <a id="anchor_US37" style="visibility: hidden"></a>US37 - Ajuste da Velocidade do Áudio
 
 <details>
-<summary>Tabela 38 - US37 - Ajuste da Velicidade do Áudio</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 38</b> - História de Usuário Ajuste da Velicidade do Áudio</p></font>
+<summary>Tabela 38 - US37 - Ajuste da Velocidade do Áudio</summary>
+<font size="2"><p style="text-align: center"><b>Tabela 38</b> - História de Usuário Ajuste da Velocidade do Áudio</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1724,14 +1724,14 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>, 2024</p></font>
 </details>
 
 ### <a id="anchor_US38" style="visibility: hidden"></a>US38 - Mudança de idioma do aplicativo
 
 <details>
 <summary>Tabela 39 - US38 - Mudança de idioma do aplicativo</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 38</b> - História de Usuário Mudança de idioma do aplicativo</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 39</b> - História de Usuário Mudança de idioma do aplicativo</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1773,14 +1773,14 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2024</p></font>
 </details>
 
 ### <a id="anchor_US39" style="visibility: hidden"></a>US39 - Segurança dos Dados
 
 <details>
 <summary>Tabela 40 - US39 - Segurança dos Dados</summary>
-<font size="2"><p style="text-align: center"><b>Tabela 39</b> - História de Usuário Segurança dos Dados</p></font>
+<font size="2"><p style="text-align: center"><b>Tabela 40</b> - História de Usuário Segurança dos Dados</p></font>
 <div style="display: flex; justify-content: center">
 <table border="1">
   <thead>
@@ -1889,7 +1889,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
           <td style="font-weight: bold;">Critérios de Aceitação</td>
           <td>
               <ol>
-                <li>A interface deve seguir as diretrizes da norma NBR 17060:2022 para acessibilidade visual, garantindo:
+                <li>A interface deve seguir as diretrizes da norma <a href="https://www.abntcolecao.com.br/mpf/norma.aspx?ID=516652#">NBR 17060:2022</a> para acessibilidade visual, garantindo:
                     <ol>
                         <li>Contraste adequado entre texto e fundo, conforme padrões mínimos de luminância.</li>
                         <li>Tamanho de fonte ajustável, permitindo ampliação sem distorção do layout.</li>
@@ -1911,8 +1911,23 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
   </tbody>
 </table>
 </div>
-<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/MariaCHelena">Maria Helena</a>, 2024</p></font>
+<font size="2"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>, 2024</p></font>
 </details>
+
+## Validação 
+
+No vídeo 2 apresenta-se a gravação da validação das User Stories.
+
+<center>  
+
+**Vídeo 2** - [Validação das User Stories](https://youtu.be/fwo7u_YgzEU)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fwo7u_YgzEU?si=CcT29-hv9IfTl_Dl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)_  
+
+</center>
+
 
 
 ## Referência Bibliográfica

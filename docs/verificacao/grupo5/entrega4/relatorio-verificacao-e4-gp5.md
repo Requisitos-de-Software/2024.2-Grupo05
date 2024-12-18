@@ -14,21 +14,21 @@ Os resultados da verificação do artefato foram obtidos a partir da lista de ve
 
 ### Cronograma e Participantes
 
-Os participantes da verificação foram CITAR OS INTEGRANTES. [](https://github.com/), que irá verificar e corrigir possíveis problemas com os outros integrantes do grupo. E o integrante do grupo [](https://github.com/) realizará a revisão da avaliação. Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega4/planej-verificacao-e4-gp5.md).
+Os participantes da verificação foram [Thales Euflauzino](https://github.com/thaleseuflauzino), [Víctor Schmidt](https://github.com/moonshinerd) e [Victor Rodrigues](https://github.com/ViictorHugoo). Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega4/planej-verificacao-e4-gp5.md).
 
 ### Resultado da inspeção
 
-- O resultado da inspeção pode ser acessado no link a seguir: [Resultado da inspeção - grupo 05 - entrega 4](ADICIONAR LINK DO PDF PREENCHIDO)
+- O resultado da inspeção pode ser acessado no link a seguir: [Resultado da inspeção - grupo 05 - entrega 4](./Respondida - Lista de Verificação - Etapa 4.pdf)
 
 ## Vídeo da Verificação
 
 <center>
 
-[**Vídeo 1:** Requisitos - Verificação Entrega 4](https://youtu.be/)
+[**Vídeo 1:** Requisitos - Verificação Entrega 4](https://youtu.be/lA-p3z-0a0k)
 
-[video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lA-p3z-0a0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-_Autor: [](https://github.com/), 2024_
+_Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 </center>
 

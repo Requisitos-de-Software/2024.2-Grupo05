@@ -1,22 +1,5 @@
 # NFR Framework
 
-<!-- a definição do RNF e as fontes de evidência na literatura? 
-Adicionar referência bibliográfica da fonte e foto do texto da referência explicando NFR
-Framework.
-
-o cartão de especificação do RNF?
-Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o
-que é o cartão de especificação do RNF.
-
-Os softgoals condizem com o contexto?
-Adicionar referência bibliográfica da fonte e foto do texto da referência explicando o
-que é softgoals.
-Autor:
-
-Softgoals representam metas bem definidas?
-
-Os impactos foram corretamente propagados? -->
-
 ## Introdução
 
 O NFR Framework (Non-Functional Requirements Framework) é uma abordagem desenvolvida por Lawrence Chung e colaboradores para tratar requisitos não funcionais de forma sistemática e qualitativa. Diferentemente dos requisitos funcionais, que têm critérios claros de satisfação, os requisitos não funcionais (NFRs) são subjetivos e frequentemente envolvem decisões de compromisso (trade-offs). O framework auxilia no processo de identificação, modelagem e análise desses requisitos, permitindo que desenvolvedores considerem aspectos como segurança, desempenho, usabilidade e manutenibilidade durante o design de sistemas.
@@ -87,15 +70,15 @@ Os cartões de especificação apresentados nas Tabelas 1 a 5 foram empregados p
 <center>
 
 <b>Tabela 1</b> - Cartão de Especificação 1
-#
-| <a href="anchor_RNF01">RNF01</a> | Classificação: Desempenho |
+
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01">RNF01</a> | Classificação: Desempenho |
 |---------------| ------------|
 | Descrição: O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas.
 | Justificativa: Garantir agilidade e uma boa experiência do usuário ao utilizar funcionalidades básicas.
-| Origem do Requisisto: Pesquisa de mercado e feedback de usuários.
+| Origem do Requisito: Pesquisa de mercado e feedback de usuários.
 | Critério de Aceitação: Todas as consultas básicas retornam resultados em até 2 segundos em condições normais de operação.
 | Dependências: Nenhuma.
-| Prioridade: 
+| Prioridade: Alta
 | Conflitos: Possível aumento do uso de recursos computacionais.
 | História: Adicionado após testes iniciais indicarem lentidão em consultas básicas.
 
@@ -107,14 +90,14 @@ Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)
 
 <b>Tabela 2</b> - Cartão de Especificação 2
 
-| <a href="#anchor_RNF04">RNF04</a> | Classificação: Acessibilidade |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04">RNF04</a> | Classificação: Acessibilidade |
 |---------------| ------------|
-| Descrição: A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica NBR 17060:2022.
+| Descrição: A interface do aplicativo deve seguir as diretrizes de acessibilidade da norma técnica [NBR 17060:2022](HTTPS://WWW.ABNTCOLECAO.COM.BR/MPF/NORMA.ASPX?ID=516652#).
 | Justificativa: Garantir que o aplicativo seja acessível a todas as pessoas, incluindo aquelas com deficiências.
-| Origem do Requisisto: Regulamentações técnicas e normativas.
-| Critério de Aceitação: Certificação de conformidade com a norma NBR 17060:2022 após auditoria.
+| Origem do Requisito: Regulamentações técnicas e normativas.
+| Critério de Aceitação: Certificação de conformidade com a norma [NBR 17060:2022](HTTPS://WWW.ABNTCOLECAO.COM.BR/MPF/NORMA.ASPX?ID=516652#) após auditoria.
 | Dependências: Nenhuma 
-| Prioridade: 
+| Prioridade: Alta
 | Conflitos: Necessidade de ajustes adicionais na interface.
 | História: Adicionado após revisão normativa.
 
@@ -126,14 +109,14 @@ Autor: [Víctor Schmidt](https://github.com/moonshinerd)
 
 <b>Tabela 3</b> - Cartão de Especificação 3
 
-| <a href="#anchor_RNF06">RNF06</a> | Classificação: Acessibilidade |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06">RNF06</a> | Classificação: Acessibilidade |
 |---------------| ------------|
 | Descrição: O aplicativo deverá disponibilizar suporte para múltiplos idiomas (português como padrão).
 | Justificativa: Permitir que o aplicativo seja utilizado por pessoas diferentes regiões.
-| Origem do Requisisto: Pesquisa de mercado global.
+| Origem do Requisito: Pesquisa de mercado global.
 | Critério de Aceitação: Interface completamente traduzida para os idiomas suportados, com português como padrão.
 | Dependências: Nenhuma 
-| Prioridade: 
+| Prioridade: Média
 | Conflitos: Aumento de custo e tempo de desenvolvimento.
 | História: Adicionado após feedback de clientes internacionais.
 
@@ -145,14 +128,14 @@ Autor: [Júlia Takaki](https://github.com/juliatakaki)
 
 <b>Tabela 4</b> - Cartão de Especificação 4
 
-| <a href="#anchor_RNF08">RNF08</a> | Classificação: Eficiência |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">RNF08</a> | Classificação: Eficiência |
 |---------------| ------------|
 | Descrição: O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo.
 | Justificativa: Melhorar a navegação e o acesso rápido a funcionalidades importantes.
-| Origem do Requisisto: Pesquisa de usabilidade.
+| Origem do Requisito: Pesquisa de usabilidade.
 | Critério de Aceitação: Testes de usabilidade comprovarem que o objetivo é alcançado em no máximo 3 cliques.
 | Dependências: Nenhuma 
-| Prioridade: 
+| Prioridade: Média
 | Conflitos: Nenhum identificado.
 | História: Introduzido após feedback de usuários sobre dificuldade de navegação.
 
@@ -164,14 +147,14 @@ Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)
 
 <b>Tabela 5</b> - Cartão de Especificação 5
 
-| <a href="#anchor_RNF09">RNF09</a> | Classificação: Acessibilidade |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09">RNF09</a> | Classificação: Acessibilidade |
 |---------------| ------------|
 | Descrição: O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.
 | Justificativa: Reduzir o cansaço visual e atender preferências dos usuários.
-| Origem do Requisisto: Pesquisa de satisfação do usuário.
+| Origem do Requisito: Pesquisa de satisfação do usuário.
 | Critério de Aceitação: Tema escuro implementado e acessível a partir das configurações do aplicativo.
 | Dependências: Nenhuma 
-| Prioridade: 
+| Prioridade: Baixa
 | Conflitos: Nenhum identificado.
 | História: Adicionado com base em tendências de mercado.
 
@@ -181,7 +164,7 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 ### NFR 00 - Geral
 
-Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais ainda não implementados, o SIG apresentado foi ajustado para incorporar apenas os Requisistos a serem trabalhados, conforme ilustrado na Figura 1.
+Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais ainda não implementados, o SIG apresentado foi ajustado para incorporar apenas os Requisitos a serem trabalhados, conforme ilustrado na Figura 1.
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 1 - SIG adaptado</p>
@@ -194,24 +177,23 @@ Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais a
 
 ### NFR 01 - Acessibilidade
 
-#### Requisitos Não-Funcionais - Acessibilidade
+**Requisitos Não-Funcionais - Acessibilidade**
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura 2 podem ser encontrados em <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">Requisitos Elicitados</a>.
 
-- RNF04: Infere que a interface do sistema deve ser desenhada com base em diretrizes técnicas que garantam uma experiência intuitiva e eficiente para o usuário, conforme a norma NBR 17060:2022.
-- RNF09: Infere que o sistema deve oferecer um tema escuro para proporcionar uma experiência personalizada e confortável, especialmente em ambientes com baixa iluminação.
+- <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF04">RNF04</a>: Infere que a interface do sistema deve ser desenhada com base em diretrizes técnicas que garantam uma experiência intuitiva e eficiente para o usuário, conforme a norma [NBR 17060:2022](HTTPS://WWW.ABNTCOLECAO.COM.BR/MPF/NORMA.ASPX?ID=516652#).
+- <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF09">RNF09</a>: Infere que o sistema deve oferecer um tema escuro para proporcionar uma experiência personalizada e confortável, especialmente em ambientes com baixa iluminação.
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 2 - SIG acessibilidade</p>
 
 ![nfrAcessibilidade](../assets/modelagem/nfr/nfrAcessibilidade.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores:  <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/moonshinerd">Víctor Schmidt</a>, 2024</p>
 </center>
 
 
-#### Propagação dos Impactos - Acessibilidade
-
+**Propagação dos Impactos - Acessibilidade**
 A avaliação da propagação de impactos está apresentada na Tabela 3.
 
 <center>
@@ -230,27 +212,28 @@ A avaliação da propagação de impactos está apresentada na Tabela 3.
 | feedback claro | 𝒲+ |
 
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/moonshinerd">Víctor Schmidt</a>, 2024</p>
+
 </center>
 
 ### NFR 02 - Eficiência
 
-#### Requisitos Não-Funcionais - Eficiência 
+**Requisitos Não-Funcionais - Eficiência **
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura 3 podem ser encontrados em <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">Requisitos Elicitados</a>.
 
-- RNF01: Infere que o sistema deve responder a consultas básicas em menos de 2 segundos, garantindo rapidez no processamento e na interação do usuário.
-- RNF08: Infere que a navegação no aplicativo deve ser simplificada, permitindo acesso rápido ao perfil de recomendação de investimentos com um número reduzido de cliques.
+- <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">RNF01</a>: Infere que o sistema deve responder a consultas básicas em menos de 2 segundos, garantindo rapidez no processamento e na interação do usuário.
+- <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF08">RNF08</a>: Infere que a navegação no aplicativo deve ser simplificada, permitindo acesso rápido ao perfil de recomendação de investimentos com um número reduzido de cliques.
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 3 - SIG Eficiência</p>
 
 ![nfrEficiencia](../assets/modelagem/nfr/nfrEficiencia.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
 </center>
 
-#### Propagação dos Impactos - Eficiência
+**Propagação dos Impactos - Eficiência**
 
 A avaliação da propagação de impactos está apresentada na Tabela 4.
 
@@ -267,27 +250,27 @@ A avaliação da propagação de impactos está apresentada na Tabela 4.
 | Velocidade de carregamento | 𝒲+ |
 | Consumo de recursos do Dispositivo | X |
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2024</p>
 </center>
 
 
 ### NFR 03 - Desempenho
 
-#### Requisitos Não-Funcionais - Desempenho 
+**Requisitos Não-Funcionais - Desempenho **
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura 4 podem ser encontrados em <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">Requisitos Elicitados</a>.
 
-- RNF01: Infere que o sistema deve ser tecnicamente otimizado para processar consultas básicas rapidamente, mesmo sob carga normal de uso.
+- <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">RNF01</a>: Infere que o sistema deve ser tecnicamente otimizado para processar consultas básicas rapidamente, mesmo sob carga normal de uso.
 
 <center>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Figura 4 - SIG Desempenho</p>
 
 ![nfrDesempenho](../assets/modelagem/nfr/nfrDesempenho.png)
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/mariachelena">Maria Helena</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autores: <a href="https://github.com/mariachelena">Maria Helena</a> e <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
 </center>
 
-#### Propagação dos Impactos - Desempenho
+**Propagação dos Impactos - Desempenho**
 
 A avaliação da propagação de impactos está apresentada na Tabela 5.
 
@@ -304,9 +287,22 @@ A avaliação da propagação de impactos está apresentada na Tabela 5.
 | Desempenho em redes de baixa velocidade | 𝒲+ |
 | resiliência a interrupções de conexão | 𝒲+ |
 
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/mariachelena">Maria Helena</a>, 2024</p>
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px"> Autores: <a href="https://github.com/mariachelena">Maria Helena</a> e <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2024</p>
 </center>
 
+## Priorização e Validação 
+
+No vídeo 1 apresenta-se a gravação da validação do Product Backlog.
+
+<center>  
+
+**Vídeo 1** - [Validação e Priorização](https://www.youtube.com/watch?v=Y7O3bTSaYlc)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y7O3bTSaYlc?si=BxPWsNO06wbzjNEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_  
+
+</center>
 
 ## Bibliografia
 
@@ -326,4 +322,4 @@ A avaliação da propagação de impactos está apresentada na Tabela 5.
 | `1.2` | 16/12/2024  | Estrutura nfr | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.3` | 16/12/2024  | SGI adicionados | [Grupo](../../)  | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 17/12/2024  | Ajustando fonte e autor |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
-| `1.5` | 17/12/2024  | Alteração requisitada pelo professor | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.5` | 17/12/2024  | Alteração requisitada pelo professor | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |

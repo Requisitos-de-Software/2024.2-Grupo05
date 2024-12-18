@@ -373,11 +373,11 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       </tr>
       <tr>
       <td>Revisão pós apresentação</td>
-        <td>Julia Takaki</td>
-        <td>Thales Euflauzino</td>
-        <td> - </td>
-        <td> - </td>
-        <td> - </td>
+        <td>Thales Euflauzino, Victor Rodrigues e Maria Helena</td>
+        <td> Victor Schmidt</td>
+        <td> 11/12 </td>
+        <td> 11/12 </td>
+        <td> 11/12 </td>
       </tr>
     </tbody>
   </table>
@@ -416,15 +416,15 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       <tr>
         <td>Modelagem de Requisitos - Ágil: Histórias de Usuário</td>
         <td>Victor Rodrigues e Maria Helena</td>
-        <td>Thales Euflauzino</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Victor Schmidt</td>
+        <td>13/12</td>
+        <td>17/12</td>
+        <td>17/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos - Ágil: Backlogs</td>
         <td>Victor Schmidt e Thales Euflauzino</td>
-        <td>Júlia Takaki</td>
+        <td>Maria Helena e Victor Rodrigues</td>
         <td>11/12</td>
         <td>14/12</td>
         <td>14/12 - 15/12</td>
@@ -432,18 +432,18 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
       <tr>
         <td>Modelagem de Requisitos - Ágil: NFR Framework</td>
         <td> Júlia Takaki e Victor Rodrigues</td>
-        <td>Victor Schmidt</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Victor Schmidt e Thales Euflauzino</td>
+        <td>11/12</td>
+        <td>17/12</td>
+        <td>17/12</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
         <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Thales Euflauzino</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>17/12</td>
+        <td>17/12</td>
+        <td>17/12</td>
       </tr>
       <tr>
       <td>Revisão pós apresentação</td>
