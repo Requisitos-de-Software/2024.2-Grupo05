@@ -6,7 +6,7 @@ Após o planejamento, realiza-se a inspeção dos artefatos. Este documento apre
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca dos artefatos produzidos pelo [grupo](https://requisitos-de-software.github.io/2024.2-MeuINSS) durante a etapa 4.
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca dos artefatos produzidos pelo [grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS) durante a etapa 4.
 
 ## Metodologia
 
@@ -14,7 +14,7 @@ Os resultados da verificação do artefato foram obtidos a partir da lista de ve
 
 ### Cronograma e Participantes
 
-Os participantes da verificação foram [Maria Helena](https://github.com/MariaCHelena) e [Júlia Takaki](https://github.com/juliatakaki). Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega4/planej-verificacao-e4-gp5.md).
+Os participantes da verificação foram [Maria Helena](https://github.com/MariaCHelena) e [Júlia Takaki](https://github.com/juliatakaki). Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega4/planej-verificacao-e4-gp6.md).
 
 ### Resultado da inspeção
 

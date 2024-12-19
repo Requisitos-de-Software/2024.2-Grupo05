@@ -2,11 +2,11 @@
 
 ## Introdução
 
-O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 4 do projeto (Modelagem de Requisitos) do [grupo](https://requisitos-de-software.github.io/2024.2-MeuINSS).
+O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 4 do projeto (Modelagem de Requisitos) do [grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS).
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos para entrega 4 do [grupo](https://requisitos-de-software.github.io/2024.2-MeuINSS) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
+O objetivo deste documento é verificar se os artefatos produzidos para entrega 4 do [grupo 6](https://requisitos-de-software.github.io/2024.2-MeuINSS) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
 
 ## Metodologia
 
@@ -42,7 +42,7 @@ Os artefatos alvos dessa verificação são:
 
 Os resultados das verificações podem ser acessados através do seguinte link:
 
-- [Relatório da Verificação](./relatorio-verificacao-e4-gp5.md);
+- [Relatório da Verificação](./relatorio-verificacao-e4-gp6.md);
 
 ### Cronograma
 
