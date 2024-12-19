@@ -55,7 +55,7 @@ A verificação será realizada no período de 17 de dezembro de 2024, com os re
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
 | 16/12/2024 | Planejamento da Verificação  | [Thales Euflauzino](https://www.github.com/thaleseuflauzino) |
-| 17/12/2024 | Adição dos resultados.       |  [Grupo](../../)   |
+| 17/12/2024 | Adição dos resultados.       |  [Thales Euflauzino](https://www.github.com/thaleseuflauzino), [Victor Rodrigues](https://www.github.com/ViictorHugoo) e [Víctor Schmidt](https://www.github.com/moonshinerd)   |
 
 _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino), 2024_
 

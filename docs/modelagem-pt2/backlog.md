@@ -524,6 +524,43 @@ _Autor: [Thales Euflauzino](https://www.github.com/thaleseuflauzino) e [Víctor 
 
 </center>
 
+### Temas
+Os temas representam grandes categorias de funcionalidades e objetivos do projeto, que ajudam a organizar os épicos de forma estratégica. Eles agrupam funcionalidades relacionadas, facilitando a priorização e o entendimento das áreas-chave do aplicativo.
+
+Cada tema aborda um aspecto essencial do produto, como experiência do usuário, planejamento financeiro, segurança ou suporte, garantindo que todas as necessidades do público-alvo sejam contempladas e desenvolvidas de maneira alinhada aos objetivos do negócio.
+
+#### **TM01. Experiência do Usuário**  
+   Funcionalidades que melhoram a navegação, apresentação de dados e interação do usuário com o aplicativo.  
+
+   - [EC01](#ec01-visualizacao-de-titulos-publicos). Visualização de Títulos Públicos  
+   - [EC04](#ec04-painel-de-controle-e-relatorios). Painel de Controle e Relatórios  
+   - [EC05](#ec05-cadastro-e-personalizacao-de-usuario). Cadastro e Personalização de Usuário
+   - [EC11](#ec11-gerenciamento-de-dados-do-usuario). Gerenciamento de Dados do Usuário
+   - [EC15](#ec15-atualizacoes-e-notificacoes-automaticas). Atualizações e Notificações Automáticas  
+
+#### **TM02. Planejamento e Investimentos**  
+   Ferramentas para gerenciar, simular e otimizar investimentos financeiros.
+
+   - [EC02](#ec02-gerenciamento-de-investimentos). Gerenciamento de Investimentos  
+   - [EC03](#ec03-simulacoes-de-investimentos). Simulações de Investimentos 
+   - [EC07](#ec07-processo-de-compra-de-titulos). Processo de Compra de Títulos 
+   - [EC09](#ec09-personalizacao-de-metas-e-planejamento-financeiro). Personalização de Metas e Planejamento Financeiro 
+   - [EC10](#ec10-simuladores-avancados). Simuladores Avançados
+
+#### **TM03. Segurança e Acessibilidade**  
+   Garantia de proteção de dados, acessibilidade universal e inclusão para todos os usuários.  
+
+   - [EC06](#ec06-seguranca-e-acessibilidade). Segurança e Acessibilidade
+   - [EC13](#ec13-funcionalidades-de-acessibilidade). Funcionalidades de Acessibilidade
+   - [EC14](#ec14-multilingue-e-inclusao). Multilíngue e Inclusão
+
+#### **TM04. Educação e Suporte**  
+   Educação financeira e suporte técnico para os usuários do aplicativo.  
+
+   - [EC08](#ec08-recursos-educativos). Recursos Educativos 
+   - [EC12](#ec12-integracao-com-canais-de-atendimento). Integração com Canais de Atendimento  
+
+
 
 ### Épicos
 Para reduzir o nível de abstração presente nos temas e detalhar melhor as funcionalidades, foram registrados os épicos, que representam grandes blocos de trabalho organizados com base nas respostas do Product Owner. Cada épico descreve um objetivo geral que pode ser dividido em tarefas menores, conhecidas como histórias de usuário (user stories) ou simplesmente "histórias".
@@ -731,3 +768,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)_
 | `1.0`  | 11/12/2024 | Criação do Documento Inicial | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Maria Helena](https://github.com/MariaCHelena)  |
 | `1.1`  | 14/12/2024 | Adicionando videos, respostas do PO, elaboração e priorização do backlog, criação dos épicos, etc. | [Grupo](../../) | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.2`  | 14/12/2024 | Elaboração da Tabela 2 | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  |
+| `1.3`  | 19/12/2024 | Adicionando correções e temas  | [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |

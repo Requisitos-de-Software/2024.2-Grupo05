@@ -55,7 +55,7 @@ A verificação será realizada no período de 17 de dezembro de 2024, com os re
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
 | 16/12/2024 | Planejamento da Verificação  | [Thales Euflauzino](https://www.github.com/thaleseuflauzino) |
-| 18/12/2024 | Adição dos resultados.       |  [Grupo](../../)   |
+| 18/12/2024 | Adição dos resultados.       |  [Maria Helena](https://github.com/MariaCHelena)   |
 
 _Autor: [Maria Helena](https://github.com/MariaCHelena), 2024_
 
@@ -65,7 +65,7 @@ _Autor: [Maria Helena](https://github.com/MariaCHelena), 2024_
 
 As listas de verificação foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com os slides da _Aula 04 da professora Milene e Maurício Serrano_<a id="anchor_4" href="#REF4"><sup>2</sup></a>.
 
-- O PDF utilizado para a lista de verificação está disponível no link a seguir:  [Lista de verificação grupo 06 - entrega 4](./Respondida%20-%20Lista%20de%20Verificação%20-%20Etapa%204%20(Grupo%206).pdf), elaborado por [Thales Euflauzino](https://www.github.com/thaleseuflauzino)
+- O PDF utilizado para a lista de verificação está disponível no link a seguir:  [Lista de verificação grupo 06 - entrega 4](./Lista%20de%20Verificação%20-%20Etapa%204%20(Grupo%206).pdf), elaborado por [Thales Euflauzino](https://www.github.com/thaleseuflauzino)
 
 
 
