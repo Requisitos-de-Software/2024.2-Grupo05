@@ -1,0 +1,4353 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../modelagem-pt1/especificacao-suplementar/">
+      
+      
+        <link rel="next" href="../nfr_framework/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.49">
+    
+    
+      
+        <title>Backlog - </title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6f8fc17f.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Serif:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"IBM Plex Serif";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/style.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#product-backlog" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="" class="md-header__button md-logo" aria-label="" data-md-component="logo">
+      
+  <img src="../../assets/header-logo-tesourodireto.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Backlog
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="light" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Trocar para modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Trocar para modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2024.2-Grupo05" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Atas/ata01/" class="md-tabs__link">
+          
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Apresentacoes/apresentacao01/" class="md-tabs__link">
+          
+  
+  Apresentações
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Planejamento-do-projeto/heatmap/" class="md-tabs__link">
+          
+  
+  Planejamento do projeto
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario/" class="md-tabs__link">
+          
+  
+  Elicitação de Requisitos
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../../modelagem-pt1/lexicos/" class="md-tabs__link">
+          
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../verificacao/lv-geral/" class="md-tabs__link">
+          
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="" class="md-nav__button md-logo" aria-label="" data-md-component="logo">
+      
+  <img src="../../assets/header-logo-tesourodireto.png" alt="logo">
+
+    </a>
+    
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2024.2-Grupo05" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6m-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3m44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9M244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8M97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1m-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7m32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1m-11.4-14.7c-1.6 1-1.6 3.6 0 5.9s4.3 3.3 5.6 2.3c1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas/ata01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas/ata02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Atas/ata03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacoes/apresentacao01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacoes/apresentacao02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacoes/apresentacao03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Apresentacoes/apresentacao04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento do projeto
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento do projeto
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento-do-projeto/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento-do-projeto/lista-apps-avaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lista de apps avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    App Escolhido
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            App Escolhido
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento-do-projeto/app-escolhido/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    App Escolhido
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento-do-projeto/rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_4" id="__nav_4_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Cronogramas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            Cronogramas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento-do-projeto/cronograma-planejado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Planejado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento-do-projeto/cronograma-executado/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma Executado
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento-do-projeto/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação de Requisitos
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação de Requisitos
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_1" id="__nav_5_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Definição do Perfil de Usuário
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Definição do Perfil de Usuário
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/definicao-perfil_de_usuario/questionario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/brainstorm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorm
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/grupo-de-foco/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo de foco
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/glossario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Glossário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_4" id="__nav_5_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/priorizacao/cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/priorizacao/100%24/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    100$
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/priorizacao/inorout/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/priorizacao/threelevelscale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/grupo5/requisitos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-pt1/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-pt1/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-pt1/casos-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-pt1/validacaoCasodeUso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Validação dos Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem-pt1/especificacao-suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_6" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_6_6" id="__nav_6_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_6_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_6_6">
+            <span class="md-nav__icon md-icon"></span>
+            Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definicao-das-perguntas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição das Perguntas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definição das Perguntas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#topicos-principais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tópicos Principais
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tópicos Principais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#especificas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Específicas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#processo-de-compra" class="md-nav__link">
+    <span class="md-ellipsis">
+      Processo de Compra
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usabilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#seguranca" class="md-nav__link">
+    <span class="md-ellipsis">
+      Segurança
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-1-elaboracao-do-product-backlog-com-o-product-owner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vídeo 1 - Elaboração do Product Backlog com o Product Owner
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-2-priorizacao-do-product-backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vídeo 2 - Priorização do Product Backlog
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backlog
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#respostas-do-product-owner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Respostas do Product Owner
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#product-backlog_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product Backlog
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Product Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-1-product-backlog-elaborado-com-o-product-owner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 1 - Product Backlog Elaborado com o Product Owner.
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Temas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Temas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tm01-experiencia-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM01. Experiência do Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tm02-planejamento-e-investimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM02. Planejamento e Investimentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tm03-seguranca-e-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM03. Segurança e Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tm04-educacao-e-suporte" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM04. Educação e Suporte
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épicos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Épicos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ec01-visualizacao-de-titulos-publicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC01. Visualização de Títulos Públicos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec02-gerenciamento-de-investimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC02. Gerenciamento de Investimentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec03-simulacoes-de-investimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC03. Simulações de Investimentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec04-painel-de-controle-e-relatorios" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC04. Painel de Controle e Relatórios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec05-cadastro-e-personalizacao-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC05. Cadastro e Personalização de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec06-seguranca-e-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC06. Segurança e Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec07-processo-de-compra-de-titulos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC07. Processo de Compra de Títulos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec08-recursos-educativos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC08. Recursos Educativos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC09. Personalização de Metas e Planejamento Financeiro
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec10-simuladores-avancados" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC10. Simuladores Avançados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec11-gerenciamento-de-dados-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC11. Gerenciamento de Dados do Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec12-integracao-com-canais-de-atendimento" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC12. Integração com Canais de Atendimento
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec13-funcionalidades-de-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC13. Funcionalidades de Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec14-multilingue-e-inclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC14. Multilíngue e Inclusão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec15-atualizacoes-e-notificacoes-automaticas" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC15. Atualizações e Notificações Automáticas
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-2-priorizacao-de-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 2 - Priorização de Features
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nfr_framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../userstories/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/lv-geral/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Panorama geral
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2" id="__nav_7_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo 5
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2_1" id="__nav_7_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/planej-verificacao-e1-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/relatorio-verificacao-e1-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega1/verificacao-monitor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Verificação do Monitor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2_2" id="__nav_7_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega2/planej-verificacao-e2-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega2/relatorio-verificacao-e2-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2_3" id="__nav_7_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega3/planej-verificacao-e3-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega3/relatorio-verificacao-e3-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_2_4" id="__nav_7_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega4/planej-verificacao-e4-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo5/entrega4/relatorio-verificacao-e4-gp5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo +1 (6)
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo +1 (6)
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3_1" id="__nav_7_3_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega1/planej-verificacao-e1-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega1/relatorio-verificacao-e1-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3_2" id="__nav_7_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega2/planej-verificacao-e2-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega2/relatorio-verificacao-e2-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3_3" id="__nav_7_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega3/planej-verificacao-e3-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega3/relatorio-verificacao-e3-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3_4" id="__nav_7_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_7_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega4/planej-verificacao-e4-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo6/entrega4/relatorio-verificacao-e4-gp6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relatório de verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#definicao-das-perguntas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição das Perguntas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Definição das Perguntas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#topicos-principais" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tópicos Principais
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Tópicos Principais">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#especificas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Específicas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#processo-de-compra" class="md-nav__link">
+    <span class="md-ellipsis">
+      Processo de Compra
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Usabilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#seguranca" class="md-nav__link">
+    <span class="md-ellipsis">
+      Segurança
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-1-elaboracao-do-product-backlog-com-o-product-owner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vídeo 1 - Elaboração do Product Backlog com o Product Owner
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#video-2-priorizacao-do-product-backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Vídeo 2 - Priorização do Product Backlog
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#backlog" class="md-nav__link">
+    <span class="md-ellipsis">
+      Backlog
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#respostas-do-product-owner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Respostas do Product Owner
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#product-backlog_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product Backlog
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Product Backlog">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tabela-1-product-backlog-elaborado-com-o-product-owner" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 1 - Product Backlog Elaborado com o Product Owner.
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#temas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Temas
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Temas">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tm01-experiencia-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM01. Experiência do Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tm02-planejamento-e-investimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM02. Planejamento e Investimentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tm03-seguranca-e-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM03. Segurança e Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tm04-educacao-e-suporte" class="md-nav__link">
+    <span class="md-ellipsis">
+      TM04. Educação e Suporte
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#epicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      Épicos
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Épicos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ec01-visualizacao-de-titulos-publicos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC01. Visualização de Títulos Públicos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec02-gerenciamento-de-investimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC02. Gerenciamento de Investimentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec03-simulacoes-de-investimentos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC03. Simulações de Investimentos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec04-painel-de-controle-e-relatorios" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC04. Painel de Controle e Relatórios
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec05-cadastro-e-personalizacao-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC05. Cadastro e Personalização de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec06-seguranca-e-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC06. Segurança e Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec07-processo-de-compra-de-titulos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC07. Processo de Compra de Títulos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec08-recursos-educativos" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC08. Recursos Educativos
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC09. Personalização de Metas e Planejamento Financeiro
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec10-simuladores-avancados" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC10. Simuladores Avançados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec11-gerenciamento-de-dados-do-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC11. Gerenciamento de Dados do Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec12-integracao-com-canais-de-atendimento" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC12. Integração com Canais de Atendimento
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec13-funcionalidades-de-acessibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC13. Funcionalidades de Acessibilidade
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec14-multilingue-e-inclusao" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC14. Multilíngue e Inclusão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ec15-atualizacoes-e-notificacoes-automaticas" class="md-nav__link">
+    <span class="md-ellipsis">
+      EC15. Atualizações e Notificações Automáticas
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tabela-2-priorizacao-de-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tabela 2 - Priorização de Features
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="product-backlog">Product Backlog</h1>
+<h2 id="introducao">Introdução</h2>
+<p>O <em>Product Backlog</em> do aplicativo do Tesouro Direto será uma lista dinâmica que reunirá todas as funcionalidades desejadas para o produto. Ele será gerenciado pelo <em>Product Owner</em> — um usuário do próprio aplicativo —, garantindo a entrega incremental de valor ao longo do tempo (<a id="anchor_1" href="#REF1">Mauricio e Milene</a>). Este documento apresenta a metodologia utilizada para a construção e priorização do <em>Backlog</em>. Durante sua elaboração, dois <em>Product Owners</em> serão designados: um responsável por construir o <em>Backlog</em> e outro por priorizá-lo, devido a conflitos de horários entre os integrantes do grupo.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>A construção do <em>Product Backlog</em> seguirá os passos descritos abaixo:  </p>
+<p>1 - <strong>Definição de perguntas:</strong>  </p>
+<ul>
+<li><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://github.com/moonshinerd">Víctor Schmidt</a> será responsável por criar um roteiro de perguntas baseado nas histórias de usuário já existentes. </li>
+<li>Esse roteiro servirá para explorar as necessidades e expectativas dos usuários em maior profundidade.  </li>
+</ul>
+<p>2 - <strong>Entrevistas com o <em>Product Owner</em>:</strong>  </p>
+<ul>
+<li><a href="https://github.com/moonshinerd">Víctor Schmidt</a>, <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, <a href="https://github.com/juliatakaki">Júlia Takaki</a> e <a href="https://github.com/mariachelena">Maria Helena</a> realizaram a entrevista com um <em>Product Owner</em>, <a href="https://github.com/ViictorHugoo">Víctor Rodrigues</a> fez a entrevista de seus requisitos com outro <em>Product Owner</em>, utilizando o roteiro elaborado, para coletar informações detalhadas sobre as funcionalidades desejadas.  </li>
+</ul>
+<p>3 - <strong>Construção do <em>Backlog</em>:</strong>  </p>
+<ul>
+<li>Com base nas respostas obtidas nas entrevistas, será criado um <em>backlog</em> inicial contendo todas as funcionalidades identificadas.  </li>
+<li>Cada funcionalidade será descrita de forma clara e objetiva, empregando a técnica de histórias de usuário.  </li>
+</ul>
+<p>4 - <strong>Priorização do <em>Backlog</em>:</strong>  </p>
+<p>A priorização será realizada por todos os integrantes do <a href="../../">Grupo</a> com base no critério DEEP (<a id="anchor_2" href="#REF2">Duarte, 2020</a>), que considera quatro aspectos principais para organização do backlog. As funcionalidades serão classificadas de acordo com níveis de prioridade (<strong>alta</strong>, <strong>média</strong> ou <strong>baixa</strong>) para garantir clareza e eficiência no desenvolvimento.  </p>
+<ul>
+<li>
+<p><strong>Detalhado:</strong> As funcionalidades que estão mais próximas da implementação serão descritas com maior nível de detalhamento, minimizando ambiguidades durante o desenvolvimento. Essa abordagem garante que itens de <strong>alta prioridade</strong> estejam completamente claros e preparados para execução.  </p>
+</li>
+<li>
+<p><strong>Estimável:</strong> Cada funcionalidade será avaliada quanto ao esforço necessário para sua implementação, considerando recursos como tempo, equipe e complexidade técnica. Funcionalidades que não podem ser estimadas com precisão poderão ser classificadas inicialmente como <strong>baixa prioridade</strong>, sendo revisadas posteriormente quando houver mais informações.  </p>
+</li>
+<li>
+<p><strong>Emergente:</strong> O backlog será tratado como um artefato dinâmico, sendo continuamente atualizado para refletir novas demandas ou mudanças no escopo do projeto. Funcionalidades previamente categorizadas como <strong>baixa prioridade</strong> podem ser reclassificadas como <strong>alta prioridade</strong> à medida que surgem novas necessidades ou estratégias.  </p>
+</li>
+<li>
+<p><strong>Priorizado:</strong> O valor que cada funcionalidade gera para o cliente ou para os objetivos do negócio será o principal critério para definição da prioridade.  </p>
+<ul>
+<li><strong>Alta prioridade:</strong> Funcionalidades críticas ou que proporcionam maior valor em curto prazo.  </li>
+<li><strong>Média prioridade:</strong> Funcionalidades importantes, mas que não têm impacto imediato.  </li>
+<li><strong>Baixa prioridade:</strong> Funcionalidades de menor valor agregado ou que possuem menor relevância no contexto atual do projeto.  </li>
+</ul>
+</li>
+</ul>
+<p>Dessa forma, o uso do critério DEEP possibilita um planejamento mais eficiente e adaptável, garantindo que o desenvolvimento seja direcionado às necessidades que oferecem maior impacto ao cliente e ao projeto.   </p>
+<h3 id="definicao-das-perguntas">Definição das Perguntas</h3>
+<p>A construção do <em>Product Backlog</em> será realizada antes da elaboração das histórias de usuário, permitindo uma visão ampla das funcionalidades e necessidades do produto. O roteiro de perguntas será organizado em tópicos principais, com um link para o documento completo contendo todas as perguntas detalhadas.  </p>
+<ul>
+<li><a href="../../assets/modelagem/backlog/Perguntas%20BACKLOG.pdf">Acesse aqui o PDF com as perguntas completas</a>  </li>
+</ul>
+<h4 id="topicos-principais">Tópicos Principais</h4>
+<h5 id="especificas"><strong>Específicas</strong></h5>
+<p>Essas perguntas focam nos dados exibidos no aplicativo e como eles serão organizados. Principais pontos incluem:</p>
+<ul>
+<li>
+<p><strong>Tipos de títulos exibidos</strong> (Tesouro Prefixado, Tesouro Selic, etc.) e detalhes como prazos de vencimento, taxas de juros e histórico de preços.</p>
+</li>
+<li>
+<p><strong>Gerenciamento de prazos e informações financeiras</strong>, como categorização de curto, médio e longo prazo e apresentação de rendimentos.</p>
+</li>
+</ul>
+<h5 id="processo-de-compra"><strong>Processo de Compra</strong></h5>
+<p>Exploram as etapas e regras de aquisição de títulos:</p>
+<ul>
+<li>
+<p>Definição de limites para compra, suporte a resgates antecipados e integração com métodos de pagamento.</p>
+</li>
+<li>
+<p>Gerenciamento de agendamentos, comportamento em feriados bancários e clareza sobre taxas administrativas.</p>
+</li>
+<li>
+<p>Ferramentas para comparação de opções de investimento e simulação financeira.</p>
+</li>
+</ul>
+<h5 id="usabilidade"><strong>Usabilidade</strong></h5>
+<p>Destaque em melhorar a experiência do usuário:</p>
+<ul>
+<li>
+<p>Personalização de metas, artigos educativos e simuladores para tomada de decisão.</p>
+</li>
+<li>
+<p>Recursos como notificações, tutoriais e barra de progresso para metas.</p>
+</li>
+<li>
+<p>Validação do perfil do usuário (expertise) e opções de temas como modo escuro.</p>
+</li>
+</ul>
+<h5 id="seguranca"><strong>Segurança</strong></h5>
+<p>Garantia de privacidade e proteção de dados:</p>
+<ul>
+<li>
+<p>Uso de criptografia e autenticação (biometria, token, 2FA).</p>
+</li>
+<li>
+<p>Suporte a login por redes sociais e protocolos seguros para informações bancárias.</p>
+</li>
+<li>
+<p>Segurança em transações e atualização de dados de títulos conforme inflação e juros.</p>
+</li>
+</ul>
+<h5 id="acessibilidade"><strong>Acessibilidade</strong></h5>
+<p>Inclusão de usuários com necessidades especiais:</p>
+<ul>
+<li>
+<p>Compatibilidade com leitores de tela e descrições de áudio.</p>
+</li>
+<li>
+<p>Opções de alto contraste, ajuste de fontes e velocidade do áudio.</p>
+</li>
+<li>
+<p>Design de interface claro para usuários com deficiência cognitiva.</p>
+</li>
+</ul>
+<h2 id="video-1-elaboracao-do-product-backlog-com-o-product-owner">Vídeo 1 - Elaboração do Product Backlog com o Product Owner</h2>
+<p>Este vídeo apresenta a elaboração do Product Backlog conduzida exclusivamente com o <em>Product Owner</em> Adrian. Durante a gravação, Adrian respondeu a diversas perguntas formuladas por nossa equipe, contribuindo para a construção do backlog.  </p>
+<p>O uso de sua imagem foi previamente autorizado, e sua declaração de consentimento pode ser vista no início do vídeo.  </p>
+<p><center>  </p>
+<p><strong>Vídeo 1</strong> - <a href="https://youtu.be/-Z8fSsVPz4U">Elaboração do Product Backlog com o PO</a>  </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Z8fSsVPz4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><em>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></em>  </p>
+<p></center>  </p>
+<h2 id="video-2-priorizacao-do-product-backlog">Vídeo 2 - Priorização do Product Backlog</h2>
+<p>Apresentamos o vídeo 2 sobre a priorização de requisitos do <em>Product Backlog</em>. Os <em>Product Owners</em> Adrian e Cauã lideraram as atividades de priorização. Adrian realizou a priorização com a participação da maior parte dos membros da equipe, enquanto Cauã utilizou a priorização realizada por Víctor Rodrigues para organizar os requisitos no backlog. </p>
+<p>O vídeo foi produzido com o consentimento de ambos os <em>Product Owners</em>, que confirmam a autorização para uso de suas imagens ao longo da gravação.  </p>
+<p><center></p>
+<p><strong>Vídeo 2</strong> - <a href="https://youtu.be/h0BPc64hmfw">Priorização do Product Backlog</a>  </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h0BPc64hmfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><em>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></em></p>
+<p></center>  </p>
+<h2 id="backlog">Backlog</h2>
+<h3 id="respostas-do-product-owner">Respostas do <em>Product Owner</em></h3>
+<ul>
+<li><a href="../../assets/modelagem/backlog/Respostas%20BACKLOG.pdf">Acesse aqui o PDF com as respostas completas</a>  </li>
+</ul>
+<h3 id="product-backlog_1">Product Backlog</h3>
+<p>A tabela 1 resume os épicos, organizando-os em features e os requisitos relacionados. Além disso, o restante deste documento detalha o processo de definição dos temas, épicos e features, bem como o significado de cada um desses termos.</p>
+<p><center></p>
+<h4 id="tabela-1-product-backlog-elaborado-com-o-product-owner">Tabela 1 - Product Backlog Elaborado com o Product Owner.</h4>
+<table>
+<thead>
+  <tr>
+    <th>Épico</th>
+    <th>Feature</th>
+    <th>História de Usuário</th>
+    <th>Requisitos</th>
+    <th>Priorização<br>(Alta, Média ou Baixa)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td rowspan="3">
+         <a href="#ec01-visualizacao-de-titulos-publicos">EC01 - Visualização de Títulos Públicos</a>
+    </td>
+    <td rowspan="2"><a id="anchor_FEAT01" href="#FEAT01">Feature 1 - Listar Títulos</a></td>
+    <td id='US' > <a href="../userstories/#anchor_US01">US01</a>: Eu, como usuário, desejo visualizar a lista de títulos públicos disponíveis e suas características principais como nome, título, rentabilidade, valor mínimo e vencimento para conhecer mais sobre os títulos e realizar</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF01"> RF01 </a></td>
+    <td>Alta</td>
+    <tr>
+    <td id='US'><a href="../userstories/#anchor_US30">US30</a>: Como um usuário, eu quero que o sistema armazene e exiba as principais informações sobre os títulos públicos e o mercado, para que eu possa consultar esses dados facilmente e tomar decisões informadas.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF36"> RF36 </a></td>
+    <td>Alta</td>
+    </tr>
+  </tr>
+  <tr>
+      <td rowspan="1"><a id="anchor_FEAT02" href="#FEAT02">Feature 2 - Filtros de Prazo</a></td>
+      <td id='US'><a href="../userstories/#anchor_US01">US01</a>: Eu, como usuário, desejo visualizar a lista de títulos públicos disponíveis e suas características principais como nome, título, rentabilidade, valor mínimo e vencimento para conhecer mais sobre os títulos e realizar investimentos.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF01"> RF01 </a></td>
+      <td>Alta</td>
+  </tr>
+
+  <tr>
+      <td rowspan="3">
+         <a href="#ec02-gerenciamento-de-investimentos">EC02 - Gerenciamento de Investimentos</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT03" href="#FEAT03">Feature 3 - Agendamento de Compras</a></td>
+    <td id='US'><a href="../userstories/#anchor_US29">US29: </a>Como investidor, eu quero escolher meus investimentos, definir um valor e optar por investir agora ou depois, para que eu possa gerenciar melhor meus recursos financeiros.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF35"> RF35 </a></td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+      <td rowspan="2"><a id="anchor_FEAT04" href="#FEAT04">Feature 4 - Transferência Automática entre Investimentos</a></td>
+      <td id='US'><a href="../userstories/#anchor_US11">US11: </a>Eu, como usuário, desejo que seja feita uma transferência automática entre investimentos com base em minhas metas, para que o meu dinheiro continue investido quando o prazo do investimento for finalizado</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF14"> RF14 </a></td>
+      <td>Média</td>
+  </tr>
+  <tr>
+      <td id='US'><a href="../userstories/#anchor_US14">US14: </a>Eu, como usuário, desejo que o aplicativo possua integração com carteiras digitais para que eu possa realizar a compra dos títulos do tesouro direto</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF17"> RF17 </a></td>
+      <td>Alta</td>
+  </tr>
+   <tr>
+      <td rowspan="7">
+         <a href="#ec03-simulacoes-de-investimentos">EC03 - Simulações de Investimentos</a>
+      </td>
+      <td rowspan="3"><a id="anchor_FEAT05" href="#FEAT05">Feature 5 - Simulação de Metas</a></td>
+      <td id='US'><a href="../userstories/#anchor_US31">US31: </a>Como investidor, eu quero simular a evolução de um título com base em um período de tempo, para que eu possa prever a rentabilidade do investimento.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF39"> RF39</a></td>
+      <td>Alta</td>
+   </tr>
+   <tr>
+    <td id='US'><a href="../userstories/#anchor_US18">US18: </a>Como um investidor, eu quero visualizar a liquidez dos títulos simulados, para que eu possa avaliar a melhor opção para meu perfil de investimento.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF23"> RF23</a></td>
+    <td>Alta</td>
+    </tr>
+       <tr>
+    <td id='US'><a href="../userstories/#anchor_US32">US32: </a>Como um investidor, eu quero responder a um questionário no simulador, para que as simulações geradas estejam alinhadas ao meu perfil e objetivos.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF38"> RF38</a></td>
+    <td>Média</td>
+    </tr>
+   </tr>
+   </tr>
+   <tr>
+      <td rowspan="4"><a id="anchor_FEAT06" href="#FEAT06">Feature 6 - Comparação de Investimentos</a></td>
+      <td rowspan="2" id='US'><a href="../userstories/#anchor_US19">US19: </a>Como investidor, eu quero simular a evolução dos títulos do Tesouro Direto em comparação com outras opções, para que eu possa tomar decisões informadas sobre meus investimentos.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF02"> RF02 </a></td>
+      <td>Alta</td>
+   </tr>
+       <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF24"> RF24 </a></td>
+    <td>Alta</td>
+    </tr>
+   <tr>
+    <td id='US'><a href="../userstories/#anchor_US02">US02: </a>Eu, como usuário, desejo realizar a simulação da evolução do meu título para planejar os meus investimentos.</td>
+    <td rowspan="2"><a href="../../elicitacao/grupo5/requisitos/#anchor_RF37"> RF37 </a></td>
+    <td rowspan="2" >Alta</td>
+    </tr>
+   <tr>
+      <td id='US'><a href="../userstories/#anchor_US33">US33: </a>Como investidor, eu quero usar um simulador que inclua tempo de investimento, valor investido, e valor de resgate, para que eu possa planejar minhas metas financeiras.</td>
+   </tr>
+   </tr>
+
+   <tr>
+      <td rowspan="6">
+         <a href="#ec04-painel-de-controle-e-relatorios">EC04 - Painel de Controle e Relatórios</a>
+      </td>
+      <td rowspan="5"><a id="anchor_FEAT07" href="#FEAT07">Feature 7 - Relatórios de Rentabilidade</a></td>
+      <td id='US'><a href="../userstories/#anchor_US12">US12: </a>Eu, como usuário, desejo receber relatórios mensais dos meus investimentos, para poder visualizar dados de evolução dos investimentos.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF15"> RF15 </a></td>
+      <td>Alta</td>
+   </tr>
+   <tr>
+    <td id='US'><a href="../userstories/#anchor_US26">US26: </a>Como investidor, eu quero visualizar a rentabilidade acumulada de cada título na minha carteira, para que eu possa monitorar meu portfólio de investimentos.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF32"> RF32</a></td>
+    <td>Alta</td>
+    </tr>
+   </tr>
+   <tr>
+      <td id='US' rowspan="3"><a href="../userstories/#anchor_US06">US06: </a> Eu, como usuário, desejo realizar a consulta à taxa de custódia da B3 e a taxa de administração da instituição financeira na qual o título será adquirido, para entender os custos relacionados ao meu investimento de interesse</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF06"> RF06 </a></td>
+      <td>Alta</td>
+   </tr>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01"> RNF01</a></td>
+    <td>Alta</td>
+    </tr>
+   </tr>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF11"> RNF11</a></td>
+    <td>Alta</td>
+    </tr>
+   </tr>
+
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT08" href="#FEAT08">Feature 8 - Dashboard</a></td>
+      <td id='US'><a href="../userstories/#anchor_US21">US21: </a>Como investidor, eu quero acessar um dashboard que exiba a rentabilidade dos meus títulos e a taxa de inflação, para que eu possa ter uma visão geral dos meus investimentos.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF26"> RF26 </a></td>
+      <td>Média</td>
+   </tr>
+
+   <td rowspan="7">
+         <a href="#ec05-cadastro-e-personalizacao-de-usuario">EC05 - Cadastro e Personalização de Usuário</a>
+      </td>
+      <td rowspan="5"><a id="anchor_FEAT09" href="#FEAT09">Feature 9 - Cadastro de Usuário</a></td>
+      <td id='US'><a href="../userstories/#anchor_US16">US16: </a>Como um novo usuário, eu quero declarar minha expertise no momento do cadastro, para que o sistema personalize minhas sugestões e recursos.</td>
+      <td rowspan="2"><a href="../../elicitacao/grupo5/requisitos/#anchor_RF20"> RF20 </a></td>
+      <td>Média</td>
+   </tr>
+   <tr>
+      <td id='US'><a href="../userstories/#anchor_US24">US24: </a>Como usuário, eu quero visualizar sugestões personalizadas com base na minha expertise, para que eu possa acessar conteúdos relevantes e de acordo com meu perfil.</td>
+   </tr>
+       <tr>
+    <td id='US'><a href="../userstories/#anchor_US27">US27: </a>Como usuário, eu quero criar uma conta no sistema, para que eu possa acessar todas as funcionalidades do aplicativo.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF33"> RF33 </a></td>
+    <td>Alta</td>
+    </tr>
+        <tr>
+    <td id='US'><a href="../userstories/#anchor_US28">US28: </a>Como usuário, eu quero realizar meu cadastro e login pelo sistema gov.br, para que eu possa acessar o aplicativo de forma prática e segura.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF34"> RF34</a></td>
+    <td>Média</td>
+    </tr>
+       <tr>
+    <td id='US'><a href="../userstories/#anchor_US27">US27: </a>Como usuário, eu quero criar uma conta no sistema, para que eu possa acessar todas as funcionalidades do aplicativo.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF41"> RF41</a></td>
+    <td>Alta</td>
+    </tr>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT10" href="#FEAT10">Feature 10 - Personalização de Tema</a></td>
+    <td id='US'><a href="../userstories/#anchor_US10">US10: </a>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09"> RNF09</a></td>
+    <td>Baixa</td>
+   </tr>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT11" href="#FEAT11">Feature 11 - Sugestões Personalizadas com Base na Expertise</a></td>
+      <td id='US'><a href="../userstories/#anchor_US10">US10: </a>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF29"> RF29 </a></td>
+      <td>Baixa</td>
+   </tr>
+
+   <tr>
+      <td rowspan="5">
+         <a href="#ec06-seguranca-e-acessibilidade">EC06 - Segurança e Acessibilidade</a>
+      </td>
+      <td rowspan="4"><a id="anchor_FEAT12" href="#FEAT12">Feature 12 - Autenticação Segura</a></td>
+    <td id='US'><a href="../userstories/#anchor_US39">US39: </a>Eu, Como um usuário, desejo ter segurança na navegação no aplicativo, para garantir a segurança dos meus dados.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF02"> RNF02</a></td>
+    <td>Alta</td>
+   </tr>
+   </tr>
+      <tr>
+    <td id='US'><a href="../userstories/#anchor_US40">US40: </a>Eu, Como um usuário, desejo poder acessar o dispositivo em qualquer tablet ou celular compatível .</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF03"> RNF03</a></td>
+    <td>Média</td>
+    </tr>
+       <tr>
+    <td id='US' rowspan="2"><a href="../userstories/#anchor_US39">US39: </a>Eu, Como um usuário, desejo ter segurança na navegação no aplicativo, para garantir a segurança dos meus dados.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF05"> RNF05</a></td>
+    <td>Alta</td>
+    </tr>
+   </tr>
+      <tr>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF10"> RNF10</a></td>
+    <td>Alta</td>
+    </tr>
+   </tr>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT13" href="#FEAT13">Feature 13 - Acessibilidade Visual</a></td>
+      <td id='US'><a href="../userstories/#anchor_US41">US41: </a>Eu, Como um usuário, desejo navegar em um aplicativo acessível para que eu consiga utilizar todas as funcionalidades do aplicativo com facilidade.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a></td>
+      <td>Baixa</td>
+   </tr>
+
+   <tr>
+      <td rowspan="4">
+         <a href="#ec07-processo-de-compra-de-titulos">EC07 - Processo de Compra de Títulos</a>
+      </td>
+      <td rowspan="3"><a id="anchor_FEAT14" href="#FEAT14">Feature 14 - Fluxo de Compra</a></td>
+      <td id='US'><a href="../userstories/#anchor_US03">US03: </a>Eu, como usuário, desejo realizar o resgate antecipado dos títulos, para obter imediatamente o valor investido nesse título.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF03"> RF03 </a></td>
+      <td>Alta</td>
+   </tr>
+   <tr>
+      <td id='US'><a href="../userstories/#anchor_US07">US07: </a>Eu, como usuário, desejo realizar a consulta de compras realizadas e agendadas na aplicação para me atualizar da situação dos meus investimentos.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF08"> RF08 </a></td>
+      <td>Alta</td>
+   </tr>
+       <tr>
+    <td id='US'><a href="../userstories/#anchor_US25">US25: </a>Como investidor, eu quero comprar títulos públicos com diferentes métodos de pagamento, para que eu tenha flexibilidade nas transações.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF31"> RF31 </a></td>
+    <td>Alta</td>
+    </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT15" href="#FEAT15">Feature 15 - Notificações de Status</a></td>
+      <td id='US'><a href="../userstories/#anchor_US10">US10: </a>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF13"> RF13 </a></td>
+      <td>Média</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec08-recursos-educativos">EC08 - Recursos Educativos</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT16" href="#FEAT16">Feature 16 - Artigos e Notícias</a></td>
+      <td id='US'><a href="../userstories/#anchor_US13">US13: </a>Eu, como usuário, desejo visualizar recursos educativos para aprender mais sobre como investir no Tesouro Direto.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF16"> RF16</a></td>
+      <td>Baixa</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT17" href="#FEAT17">Feature 17 - Vídeos e Tutoriais</a></td>
+      <td id='US'><a href="../userstories/#anchor_US17">US17: </a>Como um novo usuário, eu quero acessar um tutorial sobre as funcionalidades do aplicativo, para que eu possa utilizá-lo de forma eficiente desde o início.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF21"> RF21 </a></td>
+      <td>Baixa</td>
+   </tr>
+
+   <tr>
+      <td rowspan="4">
+         <a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09 - Personalização de Metas e Planejamento Financeiro</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT18" href="#FEAT18">Feature 18 - Definição de Metas</a></td>
+      <td id='US'><a href="../userstories/#anchor_US04">US04: </a>Eu, como usuário, desejo salvar as minhas metas de investimento no aplicativo.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF04"> RF04 </a></td>
+      <td>Média</td>
+   </tr>
+   <tr>
+      <td rowspan="3"><a id="anchor_FEAT19" href="#FEAT19">Feature 19 - Acompanhamento de Metas</a></td>
+      <td id='US'><a href="../userstories/#anchor_US20">US20: </a>Como usuário, eu quero simular a evolução das minhas metas na tela de "Meus Sonhos", para que eu possa ajustar meu planejamento conforme necessário.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF25"> RF25 </a></td>
+      <td>Alta</td>
+   </tr>
+       <tr>
+    <td id='US'><a href="../userstories/#anchor_US22">US22: </a>Como usuário, eu quero visualizar uma barra de progresso em cada meta na aba "Meus Sonhos", para que eu saiba quanto falta para atingir meu objetivo.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF27"> RF27 </a></td>
+    <td>Baixa</td>
+    </tr>
+   <tr>
+      <td id='US'><a href="../userstories/#anchor_US34">US34: </a>Como usuário, eu quero visualizar uma barra de progresso individual para cada meta, para que eu tenha clareza sobre o status de cada objetivo.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF40"> RF40 </a></td>
+      <td>Baixa</td>
+   </tr>
+
+   <tr>
+      <td rowspan="3">
+         <a href="#ec10-simuladores-avancados">EC10 - Simuladores Avançados</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT20" href="#FEAT20">Feature 20 - Simulação de Aposentadoria</a></td>
+      <td id='US'><a href="../userstories/#anchor_US05">US05: </a>Eu, como usuário, desejo realizar a simulação e o planejamento financeiro da minha aposentadoria para obter esses dados com base nos títulos do tesouro nacional</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF05"> RF05 </a></td>
+      <td>Alta</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><a id="anchor_FEAT21" href="#FEAT21">Feature 21 - Comparação com INSS</a></td>
+      <tr>
+    <td id='US'><a href="../userstories/#anchor_US23">US23: </a>Como usuário, eu quero comparar minha simulação de aposentadoria com os padrões do INSS, para que eu entenda as vantagens de investir no Tesouro Direto.</td>
+    <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF28"> RF28</a></td>
+    <td>Média</td>
+    </tr>
+   </tr>
+
+   <tr>
+      <td rowspan="4">
+         <a href="#ec11-gerenciamento-de-dados-do-usuario">EC11 - Gerenciamento de Dados do Usuário</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT22" href="#FEAT22">Feature 22 - Validação de Dados</a></td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US09">US09: </a>Eu, como usuário, desejo visualizar minhas informações cadastradas na aplicação para obter informação a respeito dos meus dados na aplicação</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF41"> RF41 </a></td>
+      <td>Alta</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT23" href="#FEAT23">Feature 23 - Alteração de Informações Pessoais</a></td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF12"> RF12 </a></td>
+      <td>Média</td>
+   </tr>
+   <tr>
+      <td rowspan="2"><a id="anchor_FEAT24" href="#FEAT24">Feature 24 - Acessibilidade ao Perfil</a> </td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US35">US35: </a>Como um usuário, eu quero que meu cadastro inclua validação de dados pessoais, para que eu evite erros no preenchimento.
+</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08"> RNF08 </a></td>
+      <td>Alta</td>
+   </tr>
+   <tr>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a></td>
+      <td>Baixa</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec12-integracao-com-canais-de-atendimento">EC12 - Integração com Canais de Atendimento</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT25" href="#FEAT25">Feature 25 - Canal de Suporte</a></td>
+      <td id='US'><a href="../userstories/#anchor_US08">US08: </a>Eu, como usuário, desejo ter acesso a informações de contato com a equipe do tesouro direto e perguntas frequentes realizadas pelos usuários, para obter ajuda com as minhas dúvidas referentes às funcionalidades do aplicativo.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF09"> RF09 </a></td>
+      <td>Média</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT26" href="#FEAT26">Feature 26 - Notificações de Suporte</a></td>
+      <td id='US'><a href="../userstories/#anchor_US10">US10: </a>Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF13"> RF13 </a></td>
+      <td>Média</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec13-funcionalidades-de-acessibilidade">EC13 - Funcionalidades de Acessibilidade</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT27" href="#FEAT27">Feature 27 - Temas de Alto Contraste</a></td>
+      <td id='US'><a href="../userstories/#anchor_US36">US36: </a>Eu, Como um usuário, quero que poder escolher entre tema claro e escuro, para melhorar a minha experiência no aplicativo.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09"> RNF09 </a></td>
+      <td>Baixa</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT28" href="#FEAT28">Feature 28 - Ajuste de Velocidade de Áudio</a></td>
+      <td id='US'><a href="../userstories/#anchor_US37">US37: </a>Eu, Como um usuário, desejo ajustar a velocidade dos áudios disponíveis no aplicativo para melhorar minha compreensão dos conteúdos de áudio.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04"> RNF04 </a></td>
+      <td>Baixa</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec14-multilingue-e-inclusao">EC14 - Multilíngue e Inclusão</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT29" href="#FEAT29">Feature 29 - Tradução Multilíngue</a></td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US38">US38: </a>Eu, Como um usuário, desejo poder alterar o idioma do aplicativo para acessar o aplicativo no idioma mais adequado para mim.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06"> RNF06 </a></td>
+      <td>Média</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT30" href="#FEAT30">Feature 30 - Troca Dinâmica de Idioma</a></td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01"> RNF01 </a></td>
+      <td>Alta</td>
+   </tr>
+
+   <tr>
+      <td rowspan="2">
+         <a href="#ec15-atualizacoes-e-notificacoes-automaticas">EC15 - Atualizações e Notificações Automáticas</a>
+      </td>
+      <td rowspan="1"><a id="anchor_FEAT31" href="#FEAT31">Feature 31 - Notificações de Taxas e Inflação</a></td>
+      <td id='US' rowspan="2"><a href="../userstories/#anchor_US15">US15: </a>Como usuário, eu quero receber alertas personalizados sobre mudanças na taxa SELIC e inflação, para que eu possa ajustar meus investimentos com base no mercado.</td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF18"> RF18 </a></td>
+      <td>Média</td>
+   </tr>
+   <tr>
+      <td rowspan="1"><a id="anchor_FEAT32" href="#FEAT32">Feature 32 - Alertas de Feriados e Indisponibilidade</a></td>
+      <td><a href="../../elicitacao/grupo5/requisitos/#anchor_RF36"> RF36 </a></td>
+      <td>Alta</td>
+   </tr>
+
+</tbody>
+</table>
+
+<p><em>Autor: <a href="https://www.github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://www.github.com/moonshinerd">Víctor Schmidt</a>, 2024</em></p>
+<p></center></p>
+<h3 id="temas">Temas</h3>
+<p>Os temas representam grandes categorias de funcionalidades e objetivos do projeto, que ajudam a organizar os épicos de forma estratégica. Eles agrupam funcionalidades relacionadas, facilitando a priorização e o entendimento das áreas-chave do aplicativo.</p>
+<p>Cada tema aborda um aspecto essencial do produto, como experiência do usuário, planejamento financeiro, segurança ou suporte, garantindo que todas as necessidades do público-alvo sejam contempladas e desenvolvidas de maneira alinhada aos objetivos do negócio.</p>
+<h4 id="tm01-experiencia-do-usuario"><strong>TM01. Experiência do Usuário</strong></h4>
+<p>Funcionalidades que melhoram a navegação, apresentação de dados e interação do usuário com o aplicativo.  </p>
+<ul>
+<li><a href="#ec01-visualizacao-de-titulos-publicos">EC01</a>. Visualização de Títulos Públicos  </li>
+<li><a href="#ec04-painel-de-controle-e-relatorios">EC04</a>. Painel de Controle e Relatórios  </li>
+<li><a href="#ec05-cadastro-e-personalizacao-de-usuario">EC05</a>. Cadastro e Personalização de Usuário</li>
+<li><a href="#ec11-gerenciamento-de-dados-do-usuario">EC11</a>. Gerenciamento de Dados do Usuário</li>
+<li><a href="#ec15-atualizacoes-e-notificacoes-automaticas">EC15</a>. Atualizações e Notificações Automáticas  </li>
+</ul>
+<h4 id="tm02-planejamento-e-investimentos"><strong>TM02. Planejamento e Investimentos</strong></h4>
+<p>Ferramentas para gerenciar, simular e otimizar investimentos financeiros.</p>
+<ul>
+<li><a href="#ec02-gerenciamento-de-investimentos">EC02</a>. Gerenciamento de Investimentos  </li>
+<li><a href="#ec03-simulacoes-de-investimentos">EC03</a>. Simulações de Investimentos </li>
+<li><a href="#ec07-processo-de-compra-de-titulos">EC07</a>. Processo de Compra de Títulos </li>
+<li><a href="#ec09-personalizacao-de-metas-e-planejamento-financeiro">EC09</a>. Personalização de Metas e Planejamento Financeiro </li>
+<li><a href="#ec10-simuladores-avancados">EC10</a>. Simuladores Avançados</li>
+</ul>
+<h4 id="tm03-seguranca-e-acessibilidade"><strong>TM03. Segurança e Acessibilidade</strong></h4>
+<p>Garantia de proteção de dados, acessibilidade universal e inclusão para todos os usuários.  </p>
+<ul>
+<li><a href="#ec06-seguranca-e-acessibilidade">EC06</a>. Segurança e Acessibilidade</li>
+<li><a href="#ec13-funcionalidades-de-acessibilidade">EC13</a>. Funcionalidades de Acessibilidade</li>
+<li><a href="#ec14-multilingue-e-inclusao">EC14</a>. Multilíngue e Inclusão</li>
+</ul>
+<h4 id="tm04-educacao-e-suporte"><strong>TM04. Educação e Suporte</strong></h4>
+<p>Educação financeira e suporte técnico para os usuários do aplicativo.  </p>
+<ul>
+<li><a href="#ec08-recursos-educativos">EC08</a>. Recursos Educativos </li>
+<li><a href="#ec12-integracao-com-canais-de-atendimento">EC12</a>. Integração com Canais de Atendimento  </li>
+</ul>
+<h3 id="epicos">Épicos</h3>
+<p>Para reduzir o nível de abstração presente nos temas e detalhar melhor as funcionalidades, foram registrados os épicos, que representam grandes blocos de trabalho organizados com base nas respostas do Product Owner. Cada épico descreve um objetivo geral que pode ser dividido em tarefas menores, conhecidas como histórias de usuário (user stories) ou simplesmente "histórias".</p>
+<p>Os épicos servem como um contêiner para agrupar funcionalidades relacionadas, permitindo uma visão de alto nível do trabalho a ser realizado e facilitando a leitura e o entendimento da tabela de backlog. Após a tabela 1, estão os épicos que foram elaborados com base nas necessidades e requisitos identificados.</p>
+<h4 id="ec01-visualizacao-de-titulos-publicos"><strong>EC01. Visualização de Títulos Públicos</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Implementar funcionalidades para listar e exibir detalhes dos títulos do Tesouro Nacional, categorizados por prazo de vencimento.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US01">US01</a>: Eu, como usuário, desejo visualizar a lista de títulos públicos disponíveis e suas características principais como nome, título, rentabilidade, valor mínimo e vencimento para conhecer mais sobre os títulos e realizar investimentos.</li>
+<li><a href="../userstories/#anchor_US30">US30</a>: Como um usuário, eu quero que o sistema armazene e exiba as principais informações sobre os títulos públicos e o mercado, para que eu possa consultar esses dados facilmente e tomar decisões informadas.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec02-gerenciamento-de-investimentos"><strong>EC02. Gerenciamento de Investimentos</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Desenvolver funcionalidades para agendamento e execução de investimentos, integrando APIs bancárias com segurança avançada.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US11">US11</a>: Eu, como usuário, desejo que seja feita uma transferência automática entre investimentos com base em minhas metas, para que o meu dinheiro continue investido quando o prazo do investimento for finalizado</li>
+<li><a href="../userstories/#anchor_US14">US14</a>: Eu, como usuário, desejo que o aplicativo possua integração com carteiras digitais para que eu possa realizar a compra dos títulos do tesouro direto</li>
+<li><a href="../userstories/#anchor_US29">US29</a>: Como investidor, eu quero escolher meus investimentos, definir um valor e optar por investir agora ou depois, para que eu possa gerenciar melhor meus recursos financeiros.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec03-simulacoes-de-investimentos"><strong>EC03. Simulações de Investimentos</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Criar simuladores interativos para planejamento financeiro e comparações de rentabilidade.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US02">US02</a>: Eu, como usuário, desejo realizar a simulação da evolução do meu título para planejar os meus investimentos.</li>
+<li><a href="../userstories/#anchor_US18">US18</a>: Como um investidor, eu quero visualizar a liquidez dos títulos simulados, para que eu possa avaliar a melhor opção para meu perfil de investimento.</li>
+<li><a href="../userstories/#anchor_US19">US19</a>: Como investidor, eu quero simular a evolução dos títulos do Tesouro Direto em comparação com outras opções, para que eu possa tomar decisões informadas sobre meus investimentos.</li>
+<li><a href="../userstories/#anchor_US31">US31</a>: Como investidor, eu quero simular a evolução de um título com base em um período de tempo, para que eu possa prever a rentabilidade do investimento.</li>
+<li><a href="../userstories/#anchor_US32">US32</a>: Como um investidor, eu quero responder a um questionário no simulador, para que as simulações geradas estejam alinhadas ao meu perfil e objetivos.</li>
+<li><a href="../userstories/#anchor_US33">US33</a>: Como investidor, eu quero usar um simulador que inclua tempo de investimento, valor investido, e valor de resgate, para que eu possa planejar minhas metas financeiras.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec04-painel-de-controle-e-relatorios"><strong>EC04. Painel de Controle e Relatórios</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Fornecer relatórios e dashboards interativos para acompanhamento de investimentos.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US06">US06</a>: Eu, como usuário, desejo realizar a consulta à taxa de custódia da B3 e a taxa de administração da instituição financeira na qual o título será adquirido, para entender os custos relacionados ao meu investimento de interesse</li>
+<li><a href="../userstories/#anchor_US12">US12</a>: Eu, como usuário, desejo receber relatórios mensais dos meus investimentos, para poder visualizar dados de evolução dos investimentos.</li>
+<li><a href="../userstories/#anchor_US21">US21</a>: Como investidor, eu quero acessar um dashboard que exiba a rentabilidade dos meus títulos e a taxa de inflação, para que eu possa ter uma visão geral dos meus investimentos.</li>
+<li><a href="../userstories/#anchor_US26">US26</a>: Como investidor, eu quero visualizar a rentabilidade acumulada de cada título na minha carteira, para que eu possa monitorar meu portfólio de investimentos.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec05-cadastro-e-personalizacao-de-usuario"><strong>EC05. Cadastro e Personalização de Usuário</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Permitir cadastro de contas com autenticação segura e personalização de perfis.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US16">US16</a>: Como um novo usuário, eu quero declarar minha expertise no momento do cadastro, para que o sistema personalize minhas sugestões e recursos.</li>
+<li><a href="../userstories/#anchor_US24">US24</a>: Como usuário, eu quero visualizar sugestões personalizadas com base na minha expertise, para que eu possa acessar conteúdos relevantes e de acordo com meu perfil.</li>
+<li><a href="../userstories/#anchor_US27">US27</a>: Como usuário, eu quero criar uma conta no sistema, para que eu possa acessar todas as funcionalidades do aplicativo.</li>
+<li><a href="../userstories/#anchor_US28">US28</a>: Como usuário, eu quero realizar meu cadastro e login pelo sistema gov.br, para que eu possa acessar o aplicativo de forma prática e segura.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec06-seguranca-e-acessibilidade"><strong>EC06. Segurança e Acessibilidade</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Garantir a proteção de dados e acessibilidade universal no aplicativo.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US39">US39</a>: Eu, Como um usuário, desejo ter segurança na navegação no aplicativo, para garantir a segurança dos meus dados.</li>
+<li><a href="../userstories/#anchor_US40">US40</a>: Eu, Como um usuário, desejo poder acessar o dispositivo em qualquer tablet ou celular compatível .</li>
+<li><a href="../userstories/#anchor_US41">US41</a>: Eu, Como um usuário, desejo navegar em um aplicativo acessível para que eu consiga utilizar todas as funcionalidades do aplicativo com facilidade.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec07-processo-de-compra-de-titulos"><strong>EC07. Processo de Compra de Títulos</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Estruturar as etapas do processo de compra, com foco em clareza e eficiência.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US03">US03</a>: Eu, como usuário, desejo realizar o resgate antecipado dos títulos, para obter imediatamente o valor investido nesse título.</li>
+<li><a href="../userstories/#anchor_US07">US07</a>: Eu, como usuário, desejo realizar a consulta de compras realizadas e agendadas na aplicação para me atualizar da situação dos meus investimentos.</li>
+<li><a href="../userstories/#anchor_US10">US10</a>: Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</li>
+<li><a href="../userstories/#anchor_US25">US25</a>: Como investidor, eu quero comprar títulos públicos com diferentes métodos de pagamento, para que eu tenha flexibilidade nas transações.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec08-recursos-educativos"><strong>EC08. Recursos Educativos</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Fornecer conteúdos e ferramentas educativas para os usuários.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US17">US17</a>: Como um novo usuário, eu quero acessar um tutorial sobre as funcionalidades do aplicativo, para que eu possa utilizá-lo de forma eficiente desde o início.</li>
+<li><a href="../userstories/#anchor_US13">US13</a>: Eu, como usuário, desejo visualizar recursos educativos para aprender mais sobre como investir no Tesouro Direto.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec09-personalizacao-de-metas-e-planejamento-financeiro"><strong>EC09. Personalização de Metas e Planejamento Financeiro</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Oferecer ferramentas para o usuário definir, acompanhar e personalizar metas financeiras e sonhos.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US04">US04</a>: Eu, como usuário, desejo salvar as minhas metas de investimento no aplicativo.</li>
+<li><a href="../userstories/#anchor_US20">US20</a>: Como usuário, eu quero simular a evolução das minhas metas na tela de "Meus Sonhos", para que eu possa ajustar meu planejamento conforme necessário.</li>
+<li><a href="../userstories/#anchor_US22">US22</a>: Como usuário, eu quero visualizar uma barra de progresso em cada meta na aba "Meus Sonhos", para que eu saiba quanto falta para atingir meu objetivo.</li>
+<li><a href="../userstories/#anchor_US34">US34</a>: Como usuário, eu quero visualizar uma barra de progresso individual para cada meta, para que eu tenha clareza sobre o status de cada objetivo.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec10-simuladores-avancados"><strong>EC10. Simuladores Avançados</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Desenvolver simuladores para planejamento de aposentadoria e outras metas financeiras específicas.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US05">US05</a>: Eu, como usuário, desejo realizar a simulação e o planejamento financeiro da minha aposentadoria para obter esses dados com base nos títulos do tesouro nacional</li>
+<li><a href="../userstories/#anchor_US23">US23</a>: Como usuário, eu quero comparar minha simulação de aposentadoria com os padrões do INSS, para que eu entenda as vantagens de investir no Tesouro Direto.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec11-gerenciamento-de-dados-do-usuario"><strong>EC11. Gerenciamento de Dados do Usuário</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Criar fluxos robustos para validação e gerenciamento de informações pessoais e de perfil.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US09">US09</a>: Eu, como usuário, desejo visualizar minhas informações cadastradas na aplicação para obter informação a respeito dos meus dados na aplicação</li>
+<li><a href="../userstories/#anchor_US35">US35</a>: Como um usuário, eu quero que meu cadastro inclua validação de dados pessoais, para que eu evite erros no preenchimento.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec12-integracao-com-canais-de-atendimento"><strong>EC12. Integração com Canais de Atendimento</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Oferecer múltiplos canais de suporte ao usuário.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US08">US08</a>: Eu, como usuário, desejo ter acesso a informações de contato com a equipe do tesouro direto e perguntas frequentes realizadas pelos usuários, para obter ajuda com as minhas dúvidas referentes às funcionalidades do aplicativo.</li>
+<li><a href="../userstories/#anchor_US10">US10</a>: Eu, como usuário, desejo visualizar notificações personalizadas de vencimento de títulos e metas para obter os status atualizados dos meus investimentos</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec13-funcionalidades-de-acessibilidade"><strong>EC13. Funcionalidades de Acessibilidade</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Tornar o aplicativo inclusivo e acessível para todos os usuários.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US36">US36</a>: Eu, Como um usuário, quero que poder escolher entre tema claro e escuro, para melhorar a minha experiência no aplicativo.</li>
+<li><a href="../userstories/#anchor_US37">US37</a>: Eu, Como um usuário, desejo ajustar a velocidade dos áudios disponíveis no aplicativo para melhorar minha compreensão dos conteúdos de áudio.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec14-multilingue-e-inclusao"><strong>EC14. Multilíngue e Inclusão</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Suportar múltiplos idiomas para aumentar a acessibilidade do aplicativo.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US38">US38</a>: Eu, Como um usuário, desejo poder alterar o idioma do aplicativo para acessar o aplicativo no idioma mais adequado para mim.</li>
+</ul>
+</li>
+</ul>
+<h4 id="ec15-atualizacoes-e-notificacoes-automaticas"><strong>EC15. Atualizações e Notificações Automáticas</strong></h4>
+<ul>
+<li><strong>Descrição</strong>: Enviar informações relevantes em tempo real para os usuários.</li>
+<li><strong>Histórias Relacionadas</strong>:<ul>
+<li><a href="../userstories/#anchor_US15">US15</a>: Como usuário, eu quero receber alertas personalizados sobre mudanças na taxa SELIC e inflação, para que eu possa ajustar meus investimentos com base no mercado.</li>
+</ul>
+</li>
+</ul>
+<h3 id="tabela-2-priorizacao-de-features">Tabela 2 - Priorização de Features</h3>
+<p>Na Tabela 2, apresentada a seguir, foi realizada uma priorização por <em>features</em>, derivada da priorização dos requisitos apresentada na <a href="#tabela-1-product-backlog-elaborado-com-o-product-owner">Tabela 1 - Product Backlog elaborado com o Product Owner</a>. Essa abordagem foi escolhida para consolidar as prioridades individuais dos requisitos em um nível mais abrangente, representado pelas <em>features</em>.  </p>
+<p>Ao calcular a média das prioridades dos requisitos relacionados a cada <em>feature</em>, foi possível obter uma visão geral mais equilibrada e estratégica, permitindo uma hierarquização mais eficiente do backlog. Isso garante que <em>features</em> com maior impacto, baseadas na importância de seus requisitos, sejam priorizadas de maneira consistente e alinhada aos objetivos do projeto.  </p>
+<p>Os valores atribuídos às prioridades são:  </p>
+<ul>
+<li><strong>Alta</strong>: 5  </li>
+<li><strong>Média</strong>: 3  </li>
+<li><strong>Baixa</strong>: 1  </li>
+</ul>
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th>Nº da Feature</th>
+<th>Descrição da Feature</th>
+<th>Média de Prioridade (baseada nos valores acima)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a id="FEAT01" href="#anchor_FEAT01">1</a></td>
+<td>Listar Títulos</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT02" href="#anchor_FEAT02">2</a></td>
+<td>Filtros de Prazo</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT03" href="#anchor_FEAT03">3</a></td>
+<td>Agendamento de Compras</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT04" href="#anchor_FEAT04">4</a></td>
+<td>Transferência Automática entre Investimentos</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a id="FEAT05" href="#anchor_FEAT05">5</a></td>
+<td>Simulação de Metas</td>
+<td>4.33</td>
+</tr>
+<tr>
+<td><a id="FEAT06" href="#anchor_FEAT06">6</a></td>
+<td>Comparação de Investimentos</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT07" href="#anchor_FEAT07">7</a></td>
+<td>Relatórios de Rentabilidade</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT08" href="#anchor_FEAT08">8</a></td>
+<td>Dashboard</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT09" href="#anchor_FEAT09">9</a></td>
+<td>Cadastro de Usuário</td>
+<td>4</td>
+</tr>
+<tr>
+<td><a id="FEAT10" href="#anchor_FEAT10">10</a></td>
+<td>Personalização de Tema</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT11" href="#anchor_FEAT11">11</a></td>
+<td>Sugestões Personalizadas com Base na Expertise</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT12" href="#anchor_FEAT12">12</a></td>
+<td>Autenticação Segura</td>
+<td>4.5</td>
+</tr>
+<tr>
+<td><a id="FEAT13" href="#anchor_FEAT13">13</a></td>
+<td>Acessibilidade Visual</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT14" href="#anchor_FEAT14">14</a></td>
+<td>Fluxo de Compra</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT15" href="#anchor_FEAT15">15</a></td>
+<td>Notificações de Status</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT16" href="#anchor_FEAT16">16</a></td>
+<td>Artigos e Notícias</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT17" href="#anchor_FEAT17">17</a></td>
+<td>Vídeos e Tutoriais</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT18" href="#anchor_FEAT18">18</a></td>
+<td>Definição de Metas</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT19" href="#anchor_FEAT19">19</a></td>
+<td>Acompanhamento de Metas</td>
+<td>2.33</td>
+</tr>
+<tr>
+<td><a id="FEAT20" href="#anchor_FEAT20">20</a></td>
+<td>Simulação de Aposentadoria</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT21" href="#anchor_FEAT21">21</a></td>
+<td>Comparação com INSS</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT22" href="#anchor_FEAT22">22</a></td>
+<td>Validação de Dados</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT23" href="#anchor_FEAT23">23</a></td>
+<td>Alteração de Informações Pessoais</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT24" href="#anchor_FEAT24">24</a></td>
+<td>Acessibilidade ao Perfil</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT25" href="#anchor_FEAT25">25</a></td>
+<td>Canal de Suporte</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT26" href="#anchor_FEAT26">26</a></td>
+<td>Notificações de Suporte</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT27" href="#anchor_FEAT27">27</a></td>
+<td>Temas de Alto Contraste</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT28" href="#anchor_FEAT28">28</a></td>
+<td>Ajuste de Velocidade de Áudio</td>
+<td>1</td>
+</tr>
+<tr>
+<td><a id="FEAT29" href="#anchor_FEAT29">29</a></td>
+<td>Tradução Multilíngue</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT30" href="#anchor_FEAT30">30</a></td>
+<td>Troca Dinâmica de Idioma</td>
+<td>5</td>
+</tr>
+<tr>
+<td><a id="FEAT31" href="#anchor_FEAT31">31</a></td>
+<td>Notificações de Taxas e Inflação</td>
+<td>3</td>
+</tr>
+<tr>
+<td><a id="FEAT32" href="#anchor_FEAT32">32</a></td>
+<td>Alertas de Feriados e Indisponibilidade</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<p><em>Autor: <a href="https://www.github.com/thaleseuflauzino">Thales Euflauzino</a> e <a href="https://www.github.com/moonshinerd">Víctor Schmidt</a>, 2024</em></p>
+<p></center></p>
+<h1 id="validacao">Validação</h1>
+<p>No vídeo 3 apresenta-se a gravação da validação do Product Backlog.</p>
+<p><center>  </p>
+<p><strong>Vídeo 3</strong> - <a href="https://youtu.be/Gin6fB6PpNY">Validação do Product Backlog</a>  </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gin6fB6PpNY?si=diR-xcvdjAfy_EWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<p><em>Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></em>  </p>
+<p></center></p>
+<h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
+<blockquote>
+<p><a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Mauricio. Requisitos - Aula 15. Apresentação de slides. FCTE (Faculdade de Ciências e Tecnologias em Engenharia): UnB, s.d.. Acesso em: 11 de dezembro 2024.</p>
+<p><a id="REF2" href="#anchor_2">2.</a> DUARTE, Luiz. Product Backlog - Introdução. LuizTools - Canal no Youtube, 2020. Disponível em: <a href="https://www.youtube.com/watch?v=z4ubaBwjCsU">Product Backlog - Introdução</a>. Acesso em: 11 de dezembro 2024.</p>
+</blockquote>
+<h2 id="bibliografia">Bibliografia</h2>
+<blockquote>
+<p>Lichess - Backlog do Produto. Disponível em: <a href="https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/">https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/agil/backlog/</a>. Acesso em 12 de dezembro de 2024</p>
+</blockquote>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>11/12/2024</td>
+<td>Criação do Documento Inicial</td>
+<td><a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td><a href="https://github.com/MariaCHelena">Maria Helena</a></td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>14/12/2024</td>
+<td>Adicionando videos, respostas do PO, elaboração e priorização do backlog, criação dos épicos, etc.</td>
+<td><a href="../../">Grupo</a></td>
+<td><a href="https://github.com/moonshinerd">Víctor Schmidt</a></td>
+</tr>
+<tr>
+<td><code>1.2</code></td>
+<td>14/12/2024</td>
+<td>Elaboração da Tabela 2</td>
+<td><a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td><a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+</tr>
+<tr>
+<td><code>1.3</code></td>
+<td>19/12/2024</td>
+<td>Adicionando correções e temas</td>
+<td><a href="https://github.com/moonshinerd">Víctor Schmidt</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "content.code.copy"], "search": "../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.88dd0f4e.min.js"></script>
+      
+    
+  </body>
+</html>
