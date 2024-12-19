@@ -256,7 +256,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 4.
 
 ### NFR 03 - Desempenho
 
-**Requisitos Não-Funcionais - Desempenho **
+**Requisitos Não-Funcionais - Desempenho**
 
 Os requisitos utilizados para a construção do SIG apresentado na Figura 4 podem ser encontrados em <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/#anchor_RNF01">Requisitos Elicitados</a>.
 
