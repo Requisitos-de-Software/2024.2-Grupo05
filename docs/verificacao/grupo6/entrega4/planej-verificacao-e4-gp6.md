@@ -35,8 +35,8 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>1</sup></a>
 Os artefatos alvos dessa verificação são:
 
 - [Backlog](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/backlog/) na versão 1.0 de data 16/12/2024, produzido por [Ana Catarina](https://github.com/an4catarina), [Julia Fortunato](https://github.com/julia-fortunato) e [Mauricio Ferreira](http://github.com/mauricio-araujoo) com revisão de [Nicolas Bomfim](https://github.com/nickgehjk).
-- [Histórias do Usuário](../../../modelagem-pt2/userstories.md) na versão 1.5 de data 17/12/2024, produzido por [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/), com revisão de [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/).
-- [NFR Framework](../../../modelagem-pt2/nfr_framework.md) na versão 1.0 de data 11/12/2024, produzido por [Ana Catarina](https://github.com/an4catarina) com revisão de [Nicolas Bomfim](https://github.com/nickgehjk).
+- [Histórias do Usuário](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/) na versão 1.5 de data 17/12/2024, produzido por [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/), com revisão de [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/).
+- [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/) na versão 1.0 de data 11/12/2024, produzido por [Ana Catarina](https://github.com/an4catarina) com revisão de [Nicolas Bomfim](https://github.com/nickgehjk).
 
 ### Resultados das Verificações
 
