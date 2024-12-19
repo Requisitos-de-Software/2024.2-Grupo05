@@ -82,4 +82,4 @@ As listas de verificação foram construídas levando em conta os padrões esper
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 18/12/2024 | Criação do documento  | [Maria Helena](https://github.com/MariaCHelena) |  |
+| `1.0` | 18/12/2024 | Criação do documento  | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://www.github.com/thaleseuflauzino) |

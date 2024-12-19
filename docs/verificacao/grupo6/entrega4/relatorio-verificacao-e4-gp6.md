@@ -24,9 +24,9 @@ Os participantes da verificação foram [Maria Helena](https://github.com/MariaC
 
 <center>
 
-[**Vídeo 1:** Requisitos - Verificação Grupo + 1 Entrega 4](https://youtu.be/lA-p3z-0a0k)
+[**Vídeo 1:** Requisitos - Verificação Grupo + 1 Entrega 4](https://youtu.be/tDzsAszVw7o)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lA-p3z-0a0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tDzsAszVw7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 _Autor: [Maria Helena](https://github.com/MariaCHelena), 2024_
 
@@ -42,4 +42,4 @@ _Autor: [Maria Helena](https://github.com/MariaCHelena), 2024_
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 18/12/2024 | Criação do documento  | [Maria Helena](https://github.com/MariaCHelena) |  |
+| `1.0` | 18/12/2024 | Criação do documento  | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://www.github.com/thaleseuflauzino) |
