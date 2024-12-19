@@ -34,7 +34,7 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>5</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Léxicos](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/) na versão 1.3 de data 08/12/2024, produzido por [Nicolas Bomfim](https://github.com/nickgehjk )e [Ana Catarina](https://github.com/an4catarina) com revisão de [Julia Fortunato](https://github.com/julia-fortunato).
+- [Léxicos](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos/) na versão 1.3 de data 08/12/2024, produzido por [Nicolas Bomfim](https://github.com/nickgehjk) e [Ana Catarina](https://github.com/an4catarina) com revisão de [Julia Fortunato](https://github.com/julia-fortunato).
 - [Cenários](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/) na versão 1.4 de data 08/12/2024, produzido por [Cristiano Morais](https://github.com/CristianoMoraiss), com revisão de [Nicolas Bomfim](https://github.com/nickgehjk).
 - [Casos de Uso](../../../modelagem/casos-de-uso.md) na versão 1.4 de data 08/12/2024, produzido por [Mauricio Ferreira](http://github.com/mauricio-araujoo) com revisão de [Julia Fortunato](https://github.com/julia-fortunato).
 - [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/validacaoCasodeUso/) na versão 1.0 de data 08/12/2024, produzido por [Julia Fortunato](https://github.com/julia-fortunato) com revisão de [Ana Catarina](https://github.com/an4catarina).
